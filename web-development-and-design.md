@@ -1,4 +1,4 @@
-# Web Development & Design
+# Web Development
 
 ## Accessibility & Usability
 
@@ -52,12 +52,6 @@
 
 [Understanding CSS Layout And The Block Formatting Context](https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/) \#article - By Rachel Andrew. “There are a few concepts in CSS layout that can really enhance your CSS game once you understand them. This article is about the Block Formatting Context \(BFC\). You may never have heard of this term, but if you have ever made a layout with CSS, you probably know what it is. Understanding what a BFC is, why it works, and how to create one is useful and can help you to understand how layout works in CSS.”
 
-## Design Patterns
-
-[Mobbin](https://mobbin.design/) - “Latest Mobile Design Patterns”
-
-[UI Patterns](http://ui-patterns.com/) - “User Interface Design patterns are recurring solutions that solve common design problems. Design patterns are standard reference points for the experienced user interface designer.”
-
 ## Development Environments
 
 [Codepen](https://codepen.io/#) \#webapp - “👋 CodePen is a social development environment. At it's heart, it allows you to write code in the browser, and see the results of it as you build. A useful and liberating tool for developers of any skill, and particularly empowering for people learning to code. We focus primarily on front-end languages like HTML, CSS, JavaScript, and preprocessing syntaxes that turn into those things.”
@@ -73,12 +67,4 @@
 ## Performance
 
 [Avoiding The Pitfalls Of Automatically Inlined Code](https://www.smashingmagazine.com/2018/11/pitfalls-automatically-inlined-code/) \#article - “Overusing inline CSS or JS code, as opposed to serving code through static resources, can harm the site’s performance. In this article, we will learn how to load dynamic code through static files instead, avoiding the drawbacks of too much inline code.” \#performance \#caching \#wordpress
-
-## Visual Design
-
-[5 Basic Tips for Illustrating](https://medium.muz.li/5-basic-tips-for-illustrating-debf50cccccc) \#article - “Tips and tricks that most people wouldn’t highlight when illustrating. They’re probably no use to anyone but me…”
-
-[7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886?ref=uxdesignweekly) \#article - “Improving your designs with tactics instead of talent.”
-
-[Using Visual Loudness for Better Wayfinding](https://www.viget.com/articles/visual-loudness/) \#article - ““It needs more ‘pop’.” Can I tell you how many times I’ve heard that phrase? It’s the sad reaction to a design that could lack proper emphasis. My reaction is usually something like, “if everything pops, nothing pops.” Does this sound familiar?”
 

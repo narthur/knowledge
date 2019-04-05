@@ -1,5 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Web Development & Design](web-development-and-design.md)
+* [Akrasia](akrasia.md)
+* [Web Design](web-design.md)
+* [Web Development](web-development-and-design.md)
 
