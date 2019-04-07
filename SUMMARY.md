@@ -6,6 +6,7 @@
 * [Futurism](futurism.md)
 * [Programming](programming/README.md)
   * [git](programming/git.md)
+* [Personal Finance](personal-finance.md)
 * [Psychology](psychology.md)
 * [Web Design](web-design.md)
 * [Web Development](web-development-and-design/README.md)
