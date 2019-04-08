@@ -6,6 +6,7 @@
 * [Freelancing](freelancing.md)
 * [Futurism](futurism.md)
 * [Programming](programming/README.md)
+  * [Collaboration](programming/collaboration.md)
   * [git](programming/git.md)
 * [Personal Finance](personal-finance.md)
 * [Psychology](psychology.md)
