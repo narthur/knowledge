@@ -10,6 +10,7 @@
   * [git](programming/git.md)
 * [Personal Finance](personal-finance.md)
 * [Psychology](psychology.md)
+* [Remote Work](remote-work.md)
 * [Web Design](web-design.md)
 * [Web Development](web-development-and-design/README.md)
   * [Accessibility & Usability](web-development-and-design/accessibility-and-usability.md)
