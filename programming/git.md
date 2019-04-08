@@ -24,6 +24,17 @@ Move an existing submodule within the same git repository \([source](https://sta
 git mv old/submod new/submod
 ```
 
+Resolve a detached head \([source](https://stackoverflow.com/questions/5772192/how-can-i-reconcile-detached-head-with-master-origin)\):
+
+```text
+git branch temp # base new branch on detached head
+git checkout master
+git merge temp
+git branch -d temp
+```
+
+
+
 ## Links
 
 * [Git-cherry-pick](https://git-scm.com/docs/git-cherry-pick) \#article - “Apply the changes introduced by some existing commits”
@@ -35,12 +46,6 @@ git mv old/submod new/submod
 * [GitKraken](https://www.gitkraken.com/) \#software - “The legendary Git GUI client for Windows, Mac and Linux”
 * [GitUp](http://gitup.co/) \#software - “Work quickly, safely, and without headaches. The Git interface you've been missing all your life has finally arrived.”
 * [Global Git ignore](https://stackoverflow.com/a/7335487/937377) \#article - git config --global core.excludesfile '~/.gitignore'
-* [How can I reconcile detached HEAD with master/origin?](https://stackoverflow.com/questions/5772192/how-can-i-reconcile-detached-head-with-master-origin) \#article
-  * git branch temp \# create a new branch based on your detached head
-  * git checkout temp
-  * git checkout master
-  * git merge temp
-  * git branch -d temp
 * [How to copy commits from one branch to another?](https://stackoverflow.com/a/2474371) \#article
   * git cherry-pick &lt;SHA of commit to cherry-pick&gt;
 * Make an empty commit, good for debugging CI
