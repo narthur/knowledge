@@ -15,4 +15,5 @@
 * [Web Development](web-development-and-design/README.md)
   * [Accessibility & Usability](web-development-and-design/accessibility-and-usability.md)
   * [CSS](web-development-and-design/css.md)
+  * [JavaScript](web-development-and-design/javascript.md)
 
