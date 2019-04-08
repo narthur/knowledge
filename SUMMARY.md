@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Akrasia](akrasia.md)
 * [Design Process](design-process.md)
+* [Freelancing](freelancing.md)
 * [Futurism](futurism.md)
 * [Programming](programming/README.md)
   * [git](programming/git.md)
