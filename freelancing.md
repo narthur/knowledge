@@ -2,6 +2,8 @@
 
 [Everything I know about freelancing](https://andyadams.org/everything-i-know-about-freelancing/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) \#article - "You’ve probably read a lot about freelancing: Feast and famine. Where to find clients. How much to charge. These topics are fundamental, but it seems like most freelancers burn out before they get over these hurdles. Can freelancing be a stable, long-term career?"
 
+[Freelance Calculator](https://coda.io/d/Freelance-Calculator_d3pNCKfmeS8/Intro_su3tG?viewMode=play#_luOWJ) \#webapp
+
 ## Estimating
 
 * [Evidence Based Scheduling](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) \#article - by Joel Spolsky. “Over the last year or so at Fog Creek we’ve been developing a system that’s so easy even our grouchiest developers are willing to go along with it. And as far as we can tell, it produces extremely reliable schedules. It’s called Evidence-Based Scheduling, or EBS. You gather evidence, mostly from historical timesheet data, that you feed back into your schedules. What you get is not just one ship date: you get a confidence distribution curve, showing the probability that you will ship on any given date.”

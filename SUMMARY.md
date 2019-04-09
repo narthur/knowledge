@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Akrasia](akrasia.md)
+* [Civil Discourse](civil-discourse.md)
 * [Design Process](design-process.md)
 * [Freelancing](freelancing.md)
 * [Futurism](futurism.md)
@@ -16,4 +17,5 @@
   * [Accessibility & Usability](web-development-and-design/accessibility-and-usability.md)
   * [CSS](web-development-and-design/css.md)
   * [JavaScript](web-development-and-design/javascript.md)
+* [Work Satisfaction](work-satisfaction.md)
 
