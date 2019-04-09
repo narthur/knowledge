@@ -4,3 +4,5 @@ Have something I should include? [Open a ticket on GitHub](https://github.com/na
 
 This project by [Nikita Voloboev's "Everything I Know" site](https://wiki.nikitavoloboev.xyz/).
 
+[GitBook help](https://docs.gitbook.com/)
+
