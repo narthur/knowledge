@@ -1,5 +1,7 @@
 # Personal Finance
 
+I follow a peculiar mix of the philosophies of Jesse Mecham, Dave Ramsey, and Mr. Money Mustache.
+
 ## Books
 
 * \_\_[_You Need a Budget_](https://www.youneedabudget.com/book-order-now/) by Jesse Mecham
