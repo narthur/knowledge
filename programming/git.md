@@ -4,13 +4,13 @@
 
 Set your commit email address in Git \([source](https://help.github.com/en/articles/setting-your-commit-email-address-in-git)\):
 
-```text
+```bash
 $ git config --global user.email "email@example.com"
 ```
 
 Undo your most recent commit \([source](https://stackoverflow.com/a/927386/937377)\):
 
-```text
+```bash
 $ git commit -m "Something terribly misguided"
 $ git reset HEAD~
 << edit files as necessary >>
@@ -20,13 +20,13 @@ $ git commit -c ORIG_HEAD
 
 Move an existing submodule within the same git repository \([source](https://stackoverflow.com/a/24767348/937377)\):
 
-```text
+```bash
 git mv old/submod new/submod
 ```
 
 Resolve a detached head \([source](https://stackoverflow.com/questions/5772192/how-can-i-reconcile-detached-head-with-master-origin)\):
 
-```text
+```bash
 git branch temp # base new branch on detached head
 git checkout master
 git merge temp
