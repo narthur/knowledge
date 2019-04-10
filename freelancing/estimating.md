@@ -16,9 +16,6 @@ def generate_ebs_estimates(task_estimates, velocities, n_estimates=3000):
 
     return estimates
 
-task_estimates = [...]
-velocities = [...]
-
 estimates = generate_ebs_estimates(task_estimates, velocities)
 
 plt.hist(estimates, 30)
