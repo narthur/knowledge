@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Akrasia](akrasia.md)
+* [Art](art.md)
 * [Civil Discourse](civil-discourse.md)
 * [Design Process](design-process.md)
 * [Freelancing](freelancing/README.md)
