@@ -9,6 +9,9 @@
 * [Programming](programming/README.md)
   * [Collaboration](programming/collaboration.md)
   * [git](programming/git.md)
+* [Programming Languages](programming-languages/README.md)
+  * [JavaScript](programming-languages/javascript.md)
+  * [Python](programming-languages/python.md)
 * [Personal Finance](personal-finance.md)
 * [Psychology](psychology.md)
 * [Remote Work](remote-work.md)
@@ -16,6 +19,5 @@
 * [Web Development](web-development-and-design/README.md)
   * [Accessibility & Usability](web-development-and-design/accessibility-and-usability.md)
   * [CSS](web-development-and-design/css.md)
-  * [JavaScript](web-development-and-design/javascript.md)
 * [Work Satisfaction](work-satisfaction.md)
 

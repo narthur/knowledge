@@ -1,6 +1,6 @@
 # Personal Finance
 
-I follow a peculiar mix of the philosophies of Jesse Mecham, Dave Ramsey, and Mr. Money Mustache.
+I espouse a peculiar mix of the philosophies of Jesse Mecham, Dave Ramsey, and Mr. Money Mustache.
 
 ## Books
 
