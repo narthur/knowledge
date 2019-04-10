@@ -10,6 +10,7 @@
 * [Programming](programming/README.md)
   * [Collaboration](programming/collaboration.md)
   * [git](programming/git.md)
+  * [Testing](programming/testing.md)
 * [Programming Languages](programming-languages/README.md)
   * [JavaScript](programming-languages/javascript.md)
   * [Python](programming-languages/python.md)
