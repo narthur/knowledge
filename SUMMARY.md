@@ -7,6 +7,7 @@
 * [Freelancing](freelancing/README.md)
   * [Estimating](freelancing/estimating.md)
 * [Futurism](futurism.md)
+* [Productivity](productivity.md)
 * [Programming](programming/README.md)
   * [Collaboration](programming/collaboration.md)
   * [git](programming/git.md)
