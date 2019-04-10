@@ -11,3 +11,9 @@ Tools and services which currently make up my systems:
 * TagTime
 * Custom python scripts
 
+Tools I've used in the past:
+
+* Habitica
+* Todoist
+* Things
+
