@@ -16,3 +16,9 @@ next(numbers)  # 3
 #...
 ```
 
+[Find first item in iterable that satisfies a criterion](https://stackoverflow.com/a/9868665/937377):
+
+```python
+first = next(obj for obj in objs if obj.val==5)
+```
+
