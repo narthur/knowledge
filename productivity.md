@@ -10,6 +10,7 @@ Tools and services which currently make up my systems:
 * AirTable
 * TagTime
 * Custom python scripts
+* GitBook
 
 Tools I've used in the past:
 
