@@ -8,6 +8,19 @@ Referencing `this` inside a callback can be tricky, since `this` refers to the c
 myFunction(callback.bind(this))
 ```
 
+To find the first element of an array satisfying some criteria, [use Array.prototype.find\(\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find) \([via StackOverflow](https://stackoverflow.com/a/18520276/937377)\):
+
+```javascript
+var array1 = [5, 12, 8, 130, 44];
+
+var found = array1.find(function(element) {
+  return element > 10;
+});
+
+console.log(found);
+// expected output: 12
+```
+
 ## Links
 
 [Creating a regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) \#article - "Regular expressions are patterns used to match character combinations in strings. In JavaScript, regular expressions are also objects. These patterns are used with the exec and test methods of RegExp, and with the match, replace, search, and split methods of String. This chapter describes JavaScript regular expressions."
