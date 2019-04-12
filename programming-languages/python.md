@@ -22,3 +22,21 @@ next(numbers)  # 3
 first = next(obj for obj in objs if obj.val==5)
 ```
 
+[Convert between Unix timestamps and datetime objects](https://www.programiz.com/python-programming/datetime/timestamp-datetime):
+
+```python
+from datetime import datetime
+
+# timestamp to datetime
+timestamp = 1545730073
+dt_object = datetime.fromtimestamp(timestamp)
+
+# datetime to timestamp
+now = datetime.now()
+timestamp = datetime.timestamp(now)
+```
+
+## matplotlib
+
+[Matplotlib trendline](http://widu.tumblr.com/post/43624347354/matplotlib-trendline) \#article - "Drawing a trendline of a scatter plot in matplotlib is very easy thanks to numpy’s polyfit function."
+
