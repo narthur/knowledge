@@ -8,6 +8,8 @@
 
 ## Design Patterns
 
+[Inclusive Components](https://inclusive-components.design/)  - "A blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece."
+
 [Mobbin](https://mobbin.design/) - “Latest Mobile Design Patterns”
 
 [UI Patterns](http://ui-patterns.com/) - “User Interface Design patterns are recurring solutions that solve common design problems. Design patterns are standard reference points for the experienced user interface designer.”

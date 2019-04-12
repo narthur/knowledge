@@ -18,6 +18,8 @@
   * [Python](programming-languages/python.md)
 * [Personal Finance](personal-finance.md)
 * [Psychology](psychology.md)
+* [Purity](purity/README.md)
+  * [Techniques](purity/techniques.md)
 * [Remote Work](remote-work.md)
 * [Web Design](web-design.md)
 * [Web Development](web-development-and-design/README.md)
