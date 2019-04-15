@@ -5,11 +5,9 @@
 * ["Battle for Purity" - Chantée & Sean Nebblett](https://www.youtube.com/watch?v=FMKiiMbi2-4) - Chantée and Sean share the foundation of purity, our thought life.
 * [The Broken Image, Part 1](https://www.audioverse.org/english/sermons/recordings/3873/the-broken-image-part-1.html) & [Part 2](https://www.audioverse.org/english/sermons/recordings/3874/the-broken-image-part-2.html) - Nicole Parker addresses the root issues behind pornography addiction.
 * [Finding Success After Failure](https://www.audioverse.org/english/sermons/recordings/15169/finding-success-after-failure.html) - In this powerful message Taylor Hinkle asks how we can find victory when all we've known is defeat.
-* [I Want Out!](https://www.audioverse.org/english/sermons/recordings/7076/4-i-want-out.html) - A raw and open personal testimony of escape from sexual addiction followed by Michael Carducci sharing practical advice for overcoming.
 * [Our Greatest Battle](https://youtu.be/S7o6Ctd3-Ho) - Tom Waters shares practical insights into overcoming in the battle with self. Very applicable to finding victory over any temptation or habit.
 * [Preparing the Brain for the Final Controversy](https://www.audioverse.org/english/sermons/recordings/5595/06preparing-the-brain-for-the-final-controversy.html) - Chad and Fadia Kreuzer begin sharing practical advice for overcoming addictions at ~ 31:15.
 * [The Sign of Jonah and God's Five Step Formula for Victory](https://www.audioverse.org/english/sermons/recordings/8062/the-sign-of-jonah-and-gods-five-step-formula-for-victory-.html) - Gabriel Arruda shares practical advice on dying to self and resisting temptation on a day-to-day basis.
-* [When Facts & Feelings Collide](https://www.audioverse.org/english/sermons/recordings/7075/3-when-facts--feelings-collide.html) - Taylor Hinkle shares his experience finding victory from pornography and several other addictions. Then, Wayne Blakely talks about how to escape sexual addiction.
 
 ## Seminar Sets
 
@@ -53,7 +51,7 @@
 
 ## Software
 
-* [Accountable2You](https://accountable2you.com/)
+* [Accountable2You](https://accountable2you.com/) - "Achieving Success Through Accountability. A peer-based accountability platform that encourages rich communication to help individuals achieve and sustain excellence!"
 * [CovenantEyes](https://www.covenanteyes.com/?msclkid=28ff0aeabd5b181a85cf565adee2ac04&utm_source=bing&utm_medium=cpc&utm_campaign=Covenant%20Eyes%20-%20%28Bing%20Search%20-%20Alex%29&utm_term=covenant%20eyes&utm_content=Covenant%20Eyes%20-%20Brand) - "Covenant Eyes sends a report of your screen activity to a trusted friend, keeping you accountable for what you do on your device. This helps you live porn free."
 * [R\|Tribe](http://www.rtribe.org/app-features/) - A freemium iOS and Android app that provides a social accountability system for free with added features available on a subscription basis.
 
