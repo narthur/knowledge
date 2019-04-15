@@ -36,7 +36,7 @@ now = datetime.now()
 timestamp = datetime.timestamp(now)
 ```
 
-[Convert date string to timestamp](https://stackoverflow.com/a/9637908/937377):
+[Convert date string to timestamp](https://stackoverflow.com/a/9637908/937377) \([formatting directives](https://docs.python.org/3/library/datetime.html#strftime-strptime-behavior)\):
 
 ```python
 >>> import time
