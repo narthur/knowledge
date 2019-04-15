@@ -36,6 +36,16 @@ now = datetime.now()
 timestamp = datetime.timestamp(now)
 ```
 
+[Convert date string to timestamp](https://stackoverflow.com/a/9637908/937377):
+
+```python
+>>> import time
+>>> import datetime
+>>> s = "01/12/2011"
+>>> time.mktime(datetime.datetime.strptime(s, "%d/%m/%Y").timetuple())
+1322697600.0
+```
+
 ## matplotlib
 
 [Matplotlib trendline](http://widu.tumblr.com/post/43624347354/matplotlib-trendline) \#article - "Drawing a trendline of a scatter plot in matplotlib is very easy thanks to numpy’s polyfit function."
