@@ -4,6 +4,7 @@
 * [Akrasia](akrasia.md)
 * [Art](art.md)
 * [Civil Discourse](civil-discourse.md)
+* [Computer Science](computer-science.md)
 * [Design Process](design-process.md)
 * [Freelancing](freelancing/README.md)
   * [Estimating](freelancing/estimating.md)
