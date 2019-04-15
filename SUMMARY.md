@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Adventism](adventism.md)
 * [Akrasia](akrasia.md)
 * [Art](art.md)
 * [Civil Discourse](civil-discourse.md)
