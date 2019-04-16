@@ -22,7 +22,7 @@ next(numbers)  # 3
 first = next(obj for obj in objs if obj.val==5)
 ```
 
-[Convert between Unix timestamps and datetime objects](https://www.programiz.com/python-programming/datetime/timestamp-datetime):
+Convert between time formats \([source](https://stackoverflow.com/questions/9637838/convert-string-date-to-timestamp-in-python/9637908#9637908), [source](https://www.programiz.com/python-programming/datetime/timestamp-datetime)\):
 
 ```python
 from datetime import datetime
@@ -34,16 +34,10 @@ dt_object = datetime.fromtimestamp(timestamp)
 # datetime to timestamp
 now = datetime.now()
 timestamp = datetime.timestamp(now)
-```
 
-[Convert date string to timestamp](https://stackoverflow.com/a/9637908/937377) \([formatting directives](https://docs.python.org/3/library/datetime.html#strftime-strptime-behavior)\):
-
-```python
->>> import time
->>> import datetime
->>> s = "01/12/2011"
->>> time.mktime(datetime.datetime.strptime(s, "%d/%m/%Y").timetuple())
-1322697600.0
+# date string to timestamp
+s = "01/12/2011"
+timestamp = time.mktime(datetime.datetime.strptime(s, "%d/%m/%Y").timetuple())
 ```
 
 ## matplotlib
