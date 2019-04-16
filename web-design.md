@@ -14,3 +14,9 @@
 
 [UI Patterns](http://ui-patterns.com/) - “User Interface Design patterns are recurring solutions that solve common design problems. Design patterns are standard reference points for the experienced user interface designer.”
 
+## Sketch App
+
+[Saving time in Sketch](https://medium.com/sketch-app-sources/saving-time-in-sketch-7042142c8a8e) \#article - "A collection of 6 time saving design techniques."
+
+[Sketch Shortcuts](https://sketchshortcuts.com/) - "A list of Keyboard Shortcuts for Sketch App."
+
