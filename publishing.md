@@ -4,3 +4,5 @@
 
 [Megaphone](https://megaphone.fm/megaphone-publisher) - "A simple, powerful way to podcast. The smartest tools to publish, monetize, and measure your podcast business."
 
+[Patreon](https://www.patreon.com/) - "CREATE ON YOUR OWN TERMS. Start a membership business to develop a direct relationship with your biggest fans and generate predictable, recurring revenue from your creative work."
+
