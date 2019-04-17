@@ -22,6 +22,8 @@ Tools I've used in the past:
 
 [Timeular](https://timeular.com/?ref=producthunt) - "Track, understand and improve how you work. Timeular helps you visualize your time and become more productive." Physical device for time tracking.
 
+[TypeRacer](https://play.typeracer.com/)
+
 ### Audio for Focus
 
 [Brain.fm](https://www.brain.fm/) - "Functional Music On Demand. We use our patented AI music engine and scientific research to create music to help you improve the activities you already do in 15 minutes or less."
