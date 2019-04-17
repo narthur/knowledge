@@ -1,5 +1,7 @@
 # Python
 
+## Snippets
+
 [Generators](https://wiki.python.org/moin/Generators) allow you to [define lazy-loaded infinite sequences](https://medium.com/@dawranliou/lazy-codes-infinite-sequences-in-python-and-clojure-80bba720b3a3):
 
 ```python
@@ -41,7 +43,11 @@ s = "01/12/2011"
 timestamp = time.mktime(datetime.datetime.strptime(s, "%d/%m/%Y").timetuple())
 ```
 
-## matplotlib
+## Links
+
+[Python File I/O](https://www.programiz.com/python-programming/file-operation) \#article - "In this article, you'll learn about Python file operations. More specifically, opening a file, reading from it, writing into it, closing it and various file methods you should be aware of."
+
+### matplotlib
 
 [Matplotlib trendline](http://widu.tumblr.com/post/43624347354/matplotlib-trendline) \#article - "Drawing a trendline of a scatter plot in matplotlib is very easy thanks to numpy’s polyfit function."
 
