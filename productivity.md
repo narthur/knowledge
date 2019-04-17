@@ -28,5 +28,7 @@ Tools I've used in the past:
 
 [Focus@Will](https://www.focusatwill.com/) \#webapp - "Scientifically optimized music to help you focus"
 
+[Rain & Thunderstorm Sounds \| Crackling Fireplace \| 3 Hours](https://www.youtube.com/watch?v=3sL0omwElxw) \#video
+
 [Rain sounds at Night \| Forest ambience \| 3 Hours](https://www.youtube.com/watch?v=dd4D8tZPfKE) \#video
 
