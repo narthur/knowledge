@@ -24,6 +24,7 @@
 | Design Patterns | 10 | 10 | 10 | 10 | 40 |
 | Accessibility | 10 | 10 | 10 | 10 | 40 |
 | Game Development | 7 | 0 | 10 | 7 | 24 |
+| UI design | 10 | 8 | 10 | 10 | 38 |
 
 ## Ranking Criteria
 
@@ -48,6 +49,10 @@ Rank potential topics based on criteria
   * Create Beeminder goals specific to the current course of self-study
   * Post updates to a thread on the Beeminder forum
 * Deliverables
+  * Course outline
+  * Reading notes
+  * Chapter summaries
+  * Book summaries
   * Final project
 
 ## Inbox
