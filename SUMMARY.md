@@ -35,6 +35,7 @@
   * [Design Patterns](self-study/design-patterns.md)
   * [Game Development](self-study/game-development.md)
   * [Microservices](self-study/microservices.md)
+  * [PWAs](self-study/pwas.md)
   * [SaaS](self-study/saas.md)
   * [Software Craft](self-study/software-craft.md)
   * [Software Management](self-study/software-management.md)

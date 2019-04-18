@@ -25,6 +25,7 @@
 | Accessibility | 10 | 10 | 10 | 10 | 40 |
 | Game Development | 7 | 0 | 10 | 7 | 24 |
 | UI design | 10 | 8 | 10 | 10 | 38 |
+| PWAs | 10 | 10 | 10 | 10 | 40 |
 
 ## Ranking Criteria
 
