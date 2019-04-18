@@ -67,5 +67,7 @@ Rank potential topics based on criteria
 
 [Mastering Regular Expressions](https://www.goodreads.com/book/show/703099.Mastering_Regular_Expressions) \#book
 
+[A Book Apart](https://abookapart.com/)
+
 
 
