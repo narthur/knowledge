@@ -6,5 +6,7 @@
 
 [A job without a boss](https://seths.blog/2019/04/a-job-without-a-boss-2/) \#article - "**Freelancers** get paid when they work. We’re not focused on scale… and we’re not tiny versions of real entrepreneurs. Freelancers do the work for clients who need them. Hiring employees to scale when you’re a freelancer can be a bit of a trap, because you are likely to give up the very thing you set out to do in the first place."
 
+[“You can hire just about anyone…”](https://seths.blog/2019/04/avoiding-the-fiver-trap/) \#article - "Websites that offer lowest common denominator jobs for freelancers \(like Fiverr, Uber, ZocDoc, Mechanical Turk etc.\) are focused on the generic. They intentionally blur the identities of the people doing the work–a simple star rating, a measure of reliability, that’s all."
+
 
 
