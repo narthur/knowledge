@@ -5,6 +5,7 @@
 * [Akrasia](akrasia.md)
 * [American Sign Language](american-sign-language.md)
 * [Art](art.md)
+* [Artificial Intelligence](artificial-intelligence.md)
 * [Civil Discourse](civil-discourse.md)
 * [Computer Science](computer-science.md)
 * [Design Process](design-process.md)
