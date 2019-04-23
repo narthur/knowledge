@@ -10,6 +10,8 @@
 
 [Julie Grundy – The UX of Form Design: Designing an Effective Form](https://www.youtube.com/watch?v=hPS7LUW7SlA) \#video - "Forms are critical user’s experience. We have clear guidelines to follow, yet these guidelines are often are overlooked. Come to this talk to hear clear, practical tips on what to do, and what is new in the world of form design with research-backed best practices from Julie, Senior UX Designer at Oracle+Bronto. Attendees will leave with an understanding of what makes a well designed form and why."
 
+[Lighthouse Chrome extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - "Lighthouse is an open-source, automated tool for improving the performance, quality, and correctness of your web apps. When auditing a page, Lighthouse runs a barrage of tests against the page, and then generates a report on how well the page did. From here you can use the failing tests as indicators on what you can do to improve your app."
+
 [ModalzModalzModalz.com](https://modalzmodalzmodalz.com/#content) - “Modals are the crutch of the inarticulate designer and developer.”
 
 [Pixels vs. Ems: Users DO Change Font Size](https://medium.com/@vamptvo/pixels-vs-ems-users-do-change-font-size-5cfb20831773) \#article - “The question was “How many users browse the main Internet Archive site with a default font size other than the common value of 16 pixels?” By knowing this, we would determine how many users would be affected by sizing with relative units like rems/ems. Using the methodology I describe below, we found that the answer is 3.08% of our users. That’s a pretty big number, higher than most counts of the market share of browsers like Internet Explorer, Edge, or Opera Mini.”
