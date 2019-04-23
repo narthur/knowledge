@@ -28,6 +28,7 @@
 * [Publishing](publishing.md)
 * [Purity](purity/README.md)
   * [Techniques](purity/techniques.md)
+* [Quantified Self](quantified-self.md)
 * [Remote Work](remote-work.md)
 * [Self-Study](self-study/README.md)
   * [Accessibility & Usability](self-study/accessibility-and-usability.md)
