@@ -28,7 +28,3 @@ Tools I've used in the past:
 
 [TypeRacer](https://play.typeracer.com/)
 
-### Audio for Focus
-
-
-
