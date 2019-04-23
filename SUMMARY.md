@@ -14,6 +14,7 @@
   * [Estimating](freelancing/estimating.md)
 * [Futurism](futurism.md)
 * [Governance](governance.md)
+* [Health](health.md)
 * [Productivity](productivity/README.md)
   * [Audio for Focus](productivity/audio-for-focus.md)
 * [Programming](programming/README.md)
