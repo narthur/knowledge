@@ -38,3 +38,11 @@
 
 [Avoiding The Pitfalls Of Automatically Inlined Code](https://www.smashingmagazine.com/2018/11/pitfalls-automatically-inlined-code/) \#article - “Overusing inline CSS or JS code, as opposed to serving code through static resources, can harm the site’s performance. In this article, we will learn how to load dynamic code through static files instead, avoiding the drawbacks of too much inline code.” \#performance \#caching \#wordpress
 
+## Security
+
+[Links to cross-origin destinations are unsafe](https://developers.google.com/web/tools/lighthouse/audits/noopener?utm_source=lighthouse&utm_medium=extension) \#article - "When you open another page using `target="_blank"`, the other page may run on the same process as your page, unless [Site Isolation](https://developers.google.com/web/updates/2018/07/site-isolation) is enabled. If the other page is running a lot of JavaScript, your page's performance may also suffer. See [The Performance Benefits of `rel=noopener`](https://jakearchibald.com/2016/performance-benefits-of-rel-noopener/)."
+
+## Testing
+
+[Lighthouse Chrome extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - "Lighthouse is an open-source, automated tool for improving the performance, quality, and correctness of your web apps. When auditing a page, Lighthouse runs a barrage of tests against the page, and then generates a report on how well the page did. From here you can use the failing tests as indicators on what you can do to improve your app."
+
