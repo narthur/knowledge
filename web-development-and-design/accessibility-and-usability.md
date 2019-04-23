@@ -14,3 +14,9 @@
 
 [Pixels vs. Ems: Users DO Change Font Size](https://medium.com/@vamptvo/pixels-vs-ems-users-do-change-font-size-5cfb20831773) \#article - “The question was “How many users browse the main Internet Archive site with a default font size other than the common value of 16 pixels?” By knowing this, we would determine how many users would be affected by sizing with relative units like rems/ems. Using the methodology I describe below, we found that the answer is 3.08% of our users. That’s a pretty big number, higher than most counts of the market share of browsers like Internet Explorer, Edge, or Opera Mini.”
 
+## Touch Targets
+
+[Tap targets are not sized appropriately](https://developers.google.com/web/tools/lighthouse/audits/tap-targets) \#article - "Tap targets are interactive elements, like buttons or links, that users frequently tap. Appropriately-sized tap targets make pages more mobile-friendly and accessible. Google Search started boosting the ranking of mobile-friendly pages on mobile search results back in 2015. See [Rolling out the mobile-friendly update](https://webmasters.googleblog.com/2015/04/rolling-out-mobile-friendly-update.html)."
+
+[Touch target size](https://support.google.com/accessibility/android/answer/7101858?hl=en) \#article - "Any on-screen element that someone can click, touch, or otherwise interact with should be large enough for reliable interaction. Consider making sure these elements have a width and height of at least 48dp, as described in the [Material Design Accessibility guidelines](https://material.google.com/usability/accessibility.html#accessibility-layout)."
+
