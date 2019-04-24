@@ -58,6 +58,8 @@
 
 [How to Load Web Fonts in 2019 🎆](https://www.youtube.com/watch?v=s-G1m23Emlk)\#video - "After a lot of experimentation I've come across my preferred way of loading web fonts. I have balanced ease of use, i.e. how to implement, with performance."
 
+[Pixels vs. Ems: Users DO Change Font Size](https://medium.com/@vamptvo/pixels-vs-ems-users-do-change-font-size-5cfb20831773) \#article - “The question was “How many users browse the main Internet Archive site with a default font size other than the common value of 16 pixels?” By knowing this, we would determine how many users would be affected by sizing with relative units like rems/ems. Using the methodology I describe below, we found that the answer is 3.08% of our users. That’s a pretty big number, higher than most counts of the market share of browsers like Internet Explorer, Edge, or Opera Mini.”
+
 ## Testing
 
 [BrowserStack](https://www.browserstack.com/) - "App & Browser Testing Made Easy. Give your users a seamless experience by testing on 2000+ real devices and browsers. Don't compromise with emulators and simulators."
