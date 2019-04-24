@@ -4,6 +4,8 @@
 
 [Funkify](https://www.funkify.org/) \#chrome \#extension - “Funkify is a brand new extension for Chrome that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities.”
 
+[Google Web Fundamentals: Accessibility](https://developers.google.com/web/fundamentals/accessibility/) - "This document set is a text-based version of part of the content covered in the [Udacity course on Accessibility](https://www.udacity.com/course/web-accessibility--ud891). Rather than a direct transcription of the video course, it is meant to be a more concise treatment of accessibility principles and practices, using the course's original content as a base."
+
 [Hostile Design](https://hostiledesign.org/) - “Hostile designs are designs against humanity. They are made specifically to exclude, harm or otherwise hinder the freedom of a human being. Quite often they aim to remove a certain section of a community from a public space.”
 
 [Inclusive Components](https://inclusive-components.design/)  - "A blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece."
