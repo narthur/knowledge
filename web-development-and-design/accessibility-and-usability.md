@@ -18,6 +18,8 @@
 
 [Pixels vs. Ems: Users DO Change Font Size](https://medium.com/@vamptvo/pixels-vs-ems-users-do-change-font-size-5cfb20831773) \#article - “The question was “How many users browse the main Internet Archive site with a default font size other than the common value of 16 pixels?” By knowing this, we would determine how many users would be affected by sizing with relative units like rems/ems. Using the methodology I describe below, we found that the answer is 3.08% of our users. That’s a pretty big number, higher than most counts of the market share of browsers like Internet Explorer, Edge, or Opera Mini.”
 
+[Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) \#course - Free. "In this course you’ll get hands-on experience making web applications accessible. You’ll understand when and why users need accessibility. Then you’ll dive into the "how": making a page work properly with screen readers, and managing input focus \(e.g. the highlight you see when tabbing through a form.\) You’ll understand what "semantics" and "semantic markup" mean for web pages and add ARIA markup to enable navigating the interface with a range of assistive devices. Finally, you’ll learn styling techniques that help users with partial vision navigate your pages easily and reliably."
+
 ## Testing
 
 [Accessibility Testing - Totally Tooling Tips](https://www.youtube.com/watch?v=56zCnwj58e4) \#video - "In this episode, Addy chats with Rob Dodson, a developer advocate on the Chrome team, about his workflow for accessibility testing. They also discuss some of the important considerations when making edits to the design of your website for improved accessibility."

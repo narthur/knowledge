@@ -16,3 +16,5 @@
 
 [The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity](https://www.goodreads.com/book/show/44098.The_Inmates_Are_Running_the_Asylum) \#book
 
+[Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) \#course - Free. "In this course you’ll get hands-on experience making web applications accessible. You’ll understand when and why users need accessibility. Then you’ll dive into the "how": making a page work properly with screen readers, and managing input focus \(e.g. the highlight you see when tabbing through a form.\) You’ll understand what "semantics" and "semantic markup" mean for web pages and add ARIA markup to enable navigating the interface with a range of assistive devices. Finally, you’ll learn styling techniques that help users with partial vision navigate your pages easily and reliably."
+
