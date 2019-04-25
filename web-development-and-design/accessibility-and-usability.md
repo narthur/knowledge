@@ -26,6 +26,8 @@
 
 [Lighthouse Chrome extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - "Lighthouse is an open-source, automated tool for improving the performance, quality, and correctness of your web apps. When auditing a page, Lighthouse runs a barrage of tests against the page, and then generates a report on how well the page did. From here you can use the failing tests as indicators on what you can do to improve your app."
 
+[That Time I Tried Browsing the Web Without CSS](https://css-tricks.com/that-time-i-tried-browsing-the-web-without-css/) \#article - "Why, you might ask? Are there any non-masochistic reasons for turning off CSS? Heydon Pickering once tweeted that disabling CSS is a good way to check some accessibility standards"
+
 ## Touch Targets
 
 [Tap targets are not sized appropriately](https://developers.google.com/web/tools/lighthouse/audits/tap-targets) \#article - "Tap targets are interactive elements, like buttons or links, that users frequently tap. Appropriately-sized tap targets make pages more mobile-friendly and accessible. Google Search started boosting the ranking of mobile-friendly pages on mobile search results back in 2015. See [Rolling out the mobile-friendly update](https://webmasters.googleblog.com/2015/04/rolling-out-mobile-friendly-update.html)."
