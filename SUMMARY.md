@@ -56,5 +56,6 @@
 * [Web Development](web-development-and-design/README.md)
   * [Accessibility & Usability](web-development-and-design/accessibility-and-usability.md)
   * [CSS](web-development-and-design/css.md)
+  * [Static Sites](web-development-and-design/static-sites.md)
 * [Work Satisfaction](work-satisfaction.md)
 
