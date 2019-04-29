@@ -54,6 +54,7 @@
   * [SVG](self-study/svg.md)
   * [UI Design](self-study/ui-design.md)
   * [Web Animation](self-study/web-animation.md)
+* [Technology History](technology-history.md)
 * [Web Design](web-design.md)
 * [Web Development](web-development-and-design/README.md)
   * [Accessibility & Usability](web-development-and-design/accessibility-and-usability.md)
