@@ -11,6 +11,7 @@
 * [Computer Science](computer-science.md)
 * [Design Process](design-process.md)
 * [Economics](economics.md)
+* [Entrepreneurship](entrepreneurship.md)
 * [Freelancing](freelancing/README.md)
   * [Estimating](freelancing/estimating.md)
 * [Futurism](futurism.md)

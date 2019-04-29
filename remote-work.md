@@ -1,6 +1,10 @@
 # Remote Work
 
+[Coworker](https://www.coworker.com/) - "Find Your Perfect Coworking Space. Desks, offices & meeting rooms in 10,000+ coworking spaces with friendly communities in 164 countries"
+
 [Getting Remote Critique Right](https://medium.com/building-creative-market/getting-remote-critique-right-fc458577a8f4) \#article - “Remote work brings with it some challenges that need careful pruning to create a successful and happy team. One of the first things that comes to mind is critique, a daunting task when in the same room as people, let alone hundreds or thousands of miles away from one another.”
+
+[Nomad List](https://nomadlist.com/) - "[Nomad List](https://nomadlist.com/help) is a database of 2,327+ cities in the world analyzing 1,889,930+ data points every second to help you choose where to go next — and when you arrive, it connects you to 100,000+ 🌍 nomads there."
 
 ## Virtual Co-Working
 
