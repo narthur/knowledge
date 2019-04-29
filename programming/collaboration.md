@@ -12,6 +12,7 @@
 * [Gitscout](https://gitscout.com/) - “Gitscout is a beautiful GitHub Issues experience for macOS”
 * [Glo Boards](https://www.gitkraken.com/glo) \#webapp - “See how our issue board helps developers with task tracking!”
 * [Makandracards](https://makandracards.com/) \#webapp - “Your agile knowledge collaboration tool”
+* [Nuclino](https://www.nuclino.com/) "Meet your team's collective brain. Nuclino brings all your team's knowledge, docs, and projects together in one place."
 * [Ship](https://www.realartists.com/) - “Fast, native, comprehensive issue tracking and code review for GitHub.” Free for public repositories.
 * [Slab](https://slab.com/) - “Beautiful knowledge base for teams. Keep answers out of silos. A modern editor that makes your company documentation look good by default.”
 * [Teletype for Atom](https://teletype.atom.io/) - “Collaborate in real time in Atom. Teletype\(beta\) for Atom lets developers share their workspace with team members and collaborate on code in real time.”

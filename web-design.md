@@ -4,6 +4,8 @@
 
 [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886?ref=uxdesignweekly) \#article - “Improving your designs with tactics instead of talent.”
 
+[ProductDesign.tips](https://productdesign.tips/?ref=producthunt)
+
 [Twemoji](https://github.com/twitter/twemoji) - "A simple library that provides standard Unicode emoji support across all platforms." CC-BY 4.0. More information on how to provide attribution [here](https://twemoji.twitter.com/).
 
 [Using Visual Loudness for Better Wayfinding](https://www.viget.com/articles/visual-loudness/) \#article - ““It needs more ‘pop’.” Can I tell you how many times I’ve heard that phrase? It’s the sad reaction to a design that could lack proper emphasis. My reaction is usually something like, “if everything pops, nothing pops.” Does this sound familiar?”
