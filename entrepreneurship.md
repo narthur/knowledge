@@ -18,4 +18,5 @@
   * Hooked
 * Ask questions. 
 * Get mentorship.
+* Wait until you have a solid strategy for customer acquisition that is working before you quit your job to go full-time with your side project.
 
