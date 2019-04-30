@@ -22,3 +22,9 @@
 * Get mentorship.
 * Wait until you have a solid strategy for customer acquisition that is working before you quit your job to go full-time with your side project.
 
+## Customer Development
+
+[Customer Development for Product Managers](https://www.lynda.com/Business-Skills-tutorials/Customer-Development-Product-Managers/704121-2.html) \#course - "Great products are built from a strong understanding of customer needs. As a product manager, you're tasked with identifying those customer needs so that you're able to direct the creation of products that make your customers' lives a bit easier."
+
+[The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you](https://www.goodreads.com/book/show/18529000-the-mom-test?from_search=true) \#book - "The Mom Test is a quick, practical guide that will save you time, money, and heartbreak."
+

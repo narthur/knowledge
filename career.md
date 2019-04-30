@@ -2,6 +2,8 @@
 
 [Can't get engineering interviews? Try the side door.](https://www.keyvalues.com/blog/if-you-cant-get-engineering-interviews-try-the-side-door) \#article - "If you're applying for new engineering jobs and are struggling to get your foot in the door, consider looking for other ways in."
 
+[Career Development Training and Tutorials](https://www.lynda.com/Career-Development-training-tutorials/1295-0.html?previousCategory=29) - Lynda.com / LinkedIn Learning. "Whether you're trying to find a new job, get a promotion, or excel in a new career, our training can help you achieve your career development goals. Our experts offer tips on leadership, management techniques, productivity, resume writing, and more."
+
 [ResumeSkills.us](https://resumeskills.us/) - "Most candidates approach resume writing at the wrong level. Yes, picking the skills to put on a resume is important. But the overall impression of the capabilities you bring to the team is far more critical to getting hired. We're going to walk through how to tweak these resume skills to your advantage to help you land the right job."
 
 [EpicJobs](https://epicjobs.co/?ref=producthunt) - "Know who's hiring you."

@@ -6,6 +6,8 @@
 
 [Data Science](https://www.goodreads.com/book/show/36722689-data-science) \#book - by [John D. Kelleher](https://www.goodreads.com/author/show/1794190.John_D_Kelleher), [Brendan Tierney](https://www.goodreads.com/author/show/7328589.Brendan_Tierney)
 
+[Data Science Mini-Degree](https://academy.zenva.com/product/data-science-mini-degree/) \#course - "📊📈 Comprehensive on-demand curriculum to take you from beginner to Python coder and industry-ready data scientist!"
+
 [Envisioning Information](https://www.goodreads.com/book/show/17745.Envisioning_Information) \#book
 
 [Fluent Python: Clear, Concise, and Effective Programming](https://www.goodreads.com/book/show/22800567-fluent-python) \#book

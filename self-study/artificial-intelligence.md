@@ -26,6 +26,16 @@
 
 [Machine Learning](https://www.goodreads.com/book/show/32505087-machine-learning) \#book - by [Ethem Alpaydin](https://www.goodreads.com/author/show/124909.Ethem_Alpaydin)
 
+[Machine Learning Mini-Degree](https://academy.zenva.com/product/deep-learning-mini-degree/) \#course - "Master Machine Learning with Python and Tensorflow. Craft Advanced Artificial Neural Networks and Build Your Cutting-Edge AI Portfolio." Includes 7 courses: 
+
+1. Numpy Matrices and Vectors
+2. The Complete Artificial Neural Networks Developer Course
+3. Convolutional Neural Networks
+4. Generative Adversarial Networks
+5. Applied Deep Learning with Python
+6. Recurrent Neural Networks: Text Generation
+7. Deep Reinforcement Learning.
+
 [Machine Translation](https://www.goodreads.com/book/show/34540134-machine-translation) \#book - by [Thierry Poibeau](https://www.goodreads.com/author/show/6108570.Thierry_Poibeau)
 
 [The Mind-Body Problem](https://www.goodreads.com/book/show/29889543-the-mind-body-problem) \#book - by [Jonathan Westphal](https://www.goodreads.com/author/show/299508.Jonathan_Westphal)

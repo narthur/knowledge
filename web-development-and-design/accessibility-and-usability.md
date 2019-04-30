@@ -2,6 +2,8 @@
 
 [Calculating Color Contrast](https://24ways.org/2010/calculating-color-contrast/) \#article - “Some websites and services allow you to customize your profile by uploading pictures, changing the background color or other aspects of the design. As a customer, this personalization turns a web app into your little nest where you store your data. As a designer, letting your customers have free rein over the layout and design is a scary prospect. So what happens to all the stock text and images that are designed to work on nice white backgrounds? Even the Mac only lets you choose between two colors for the OS, blue or graphite! Opening up the ability to customize your site’s color scheme can be a recipe for disaster unless you are flexible and understand how to find maximum color contrasts.” \#javascript \#php \#color \#accessibility
 
+[Decorative Images](https://www.w3.org/WAI/tutorials/images/decorative/) \#article - "Decorative images don’t add information to the content of a page. For example, the information provided by the image might already be given using adjacent text, or the image might be included to make the website more visually attractive."
+
 [Funkify](https://www.funkify.org/) \#chrome \#extension - “Funkify is a brand new extension for Chrome that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities.”
 
 [Google Web Fundamentals: Accessibility](https://developers.google.com/web/fundamentals/accessibility/) - "This document set is a text-based version of part of the content covered in the [Udacity course on Accessibility](https://www.udacity.com/course/web-accessibility--ud891). Rather than a direct transcription of the video course, it is meant to be a more concise treatment of accessibility principles and practices, using the course's original content as a base."
@@ -19,6 +21,8 @@
 [Pixels vs. Ems: Users DO Change Font Size](https://medium.com/@vamptvo/pixels-vs-ems-users-do-change-font-size-5cfb20831773) \#article - “The question was “How many users browse the main Internet Archive site with a default font size other than the common value of 16 pixels?” By knowing this, we would determine how many users would be affected by sizing with relative units like rems/ems. Using the methodology I describe below, we found that the answer is 3.08% of our users. That’s a pretty big number, higher than most counts of the market share of browsers like Internet Explorer, Edge, or Opera Mini.”
 
 [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) \#course - Free. "In this course you’ll get hands-on experience making web applications accessible. You’ll understand when and why users need accessibility. Then you’ll dive into the "how": making a page work properly with screen readers, and managing input focus \(e.g. the highlight you see when tabbing through a form.\) You’ll understand what "semantics" and "semantic markup" mean for web pages and add ARIA markup to enable navigating the interface with a range of assistive devices. Finally, you’ll learn styling techniques that help users with partial vision navigate your pages easily and reliably."
+
+[Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) - "This collection of tutorials shows you how to develop web content that is accessible to people with disabilities, and that provides a better user experience for everyone."
 
 ## Testing
 
