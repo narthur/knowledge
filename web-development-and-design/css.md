@@ -30,3 +30,9 @@
 
 [Understanding Variable Scope And Variable Injection In Less CSS](https://www.bennadel.com/blog/2642-understanding-variable-scope-and-variable-injection-in-less-css.htm) \#article - "The Less CSS preprocessor allows you to define variables that can be used throughout your CSS structure; however, as I have been digging into Less CSS more, I have found the rules around variable assignment and variable visibility to be a bit confusing. Sometimes variables can be overridden; sometimes they can't. Sometimes they can bubble-up; sometimes they can't. As such, I thought this would make a valuable exploration."
 
+## Sources
+
+[CSS-Tricks](https://css-tricks.com/) - "CSS-Tricks is created, written by, and maintained by [Chris Coyier](https://chriscoyier.net/) and [a team](https://css-tricks.com/about/) of swell people. It is built on WordPress and powered up by [Jetpack](https://css-tricks.com/jetpack/). It is made possible through [sponsorships](https://css-tricks.com/advertising/) from products and services we like."
+
+[Kevin Powell](https://www.youtube.com/user/KepowOb/featured) \#channel - "Helping you learn how to make the web, and make it look good while you're at it. ❡ With a new video every Wednesday, I'll be bringing you How Tos and Tutorials, and well as simple tips and tricks. I'm mostly looking to help people who are new to the world of web development."
+

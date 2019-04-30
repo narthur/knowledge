@@ -70,3 +70,9 @@
 
 [Microsoft Edge virtual machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) - "Test Microsoft Edge \(EdgeHTML\) and versions of IE8 through IE11 using free virtual machines you download and manage locally."
 
+## Sources
+
+[CSS-Tricks](https://css-tricks.com/) - "CSS-Tricks is created, written by, and maintained by [Chris Coyier](https://chriscoyier.net/) and [a team](https://css-tricks.com/about/) of swell people. It is built on WordPress and powered up by [Jetpack](https://css-tricks.com/jetpack/). It is made possible through [sponsorships](https://css-tricks.com/advertising/) from products and services we like."
+
+[Kevin Powell](https://www.youtube.com/user/KepowOb/featured) \#channel - "Helping you learn how to make the web, and make it look good while you're at it. ❡ With a new video every Wednesday, I'll be bringing you How Tos and Tutorials, and well as simple tips and tricks. I'm mostly looking to help people who are new to the world of web development."
+
