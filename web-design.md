@@ -24,3 +24,7 @@
 
 [Sketch Shortcuts](https://sketchshortcuts.com/) - "A list of Keyboard Shortcuts for Sketch App."
 
+## Sources
+
+[Sidebar](https://sidebar.io/) - "The five best design links, every day."
+
