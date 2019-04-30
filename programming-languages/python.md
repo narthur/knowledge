@@ -47,6 +47,34 @@ timestamp = time.mktime(datetime.datetime.strptime(s, "%d/%m/%Y").timetuple())
 
 [Python File I/O](https://www.programiz.com/python-programming/file-operation) \#article - "In this article, you'll learn about Python file operations. More specifically, opening a file, reading from it, writing into it, closing it and various file methods you should be aware of."
 
+### Books
+
+\_\_[_Elegant SciPy_](https://github.com/elegant-scipy/elegant-scipy) by Juan Nunez-Iglesias, Stefan van der Walt & Harriet Dashnow
+
+\_\_[_Flask Web Development_](https://doc.lagout.org/programmation/python/Flask%20Web%20Development_%20Developing%20Web%20Applications%20with%20Python%20%5BGrinberg%202014-05-18%5D.pdf) __by Miguel Grinberg
+
+_Fluent Python_ by Luciano Ramalho
+
+\_\_[_The Hitchhiker's Guide to Python_](https://docs.python-guide.org/) by Kenneth Reitz & Tanya Schlusser
+
+_Introducing Python_ by Bill Lubanovic
+
+_Natural Language Processing with Python_
+
+\_\_[_Python Data Science Handbook_](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
+
+\_\_[_Test-Driven Development with Python_](https://doc.lagout.org/programmation/python/Test-Driven%20Development%20with%20Python_%20Obey%20the%20Testing%20Goat_%20Using%20Django%2c%20Selenium%2c%20and%20JavaScript%20%5bPercival%202014-06-29%5d.pdf) by Harry J.W. Percival
+
+\_\_[_Think Bayes_](https://greenteapress.com/wp/think-bayes/) by Allen B. Downey
+
+\_\_[_Think Python, 2nd Edition_](https://greenteapress.com/wp/think-python-2e/) by Allen B. Downey
+
+\_\_[_Thoughtful Machine Learning with Python_](https://www.oreilly.com/library/view/thoughtful-machine-learning/9781491924129/) __by Matthew Kirk
+
+_Twisted Network Programming Essentials_ by Jessica McKellar & Abe Fettig
+
+_Web Scraping with Python_ by Ryan Mitchell
+
 ### matplotlib
 
 [Matplotlib trendline](http://widu.tumblr.com/post/43624347354/matplotlib-trendline) \#article - "Drawing a trendline of a scatter plot in matplotlib is very easy thanks to numpy’s polyfit function."
