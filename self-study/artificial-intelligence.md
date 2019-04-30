@@ -30,6 +30,8 @@
 
 [The Mind-Body Problem](https://www.goodreads.com/book/show/29889543-the-mind-body-problem) \#book - by [Jonathan Westphal](https://www.goodreads.com/author/show/299508.Jonathan_Westphal)
 
+[_Natural Language Processing with Python_](https://www.amazon.com/Natural-Language-Processing-Python-Analyzing/dp/0596516495) __by Steven Bird, Ewan Klein, Edward Loper - "This book offers a highly accessible introduction to natural language processing, the field that supports a variety of language technologies, from predictive text and email filtering to automatic summarization and translation. With it, you'll learn how to write Python programs that work with large collections of unstructured text. You'll access richly annotated datasets using a comprehensive range of linguistic data structures, and you'll understand the main algorithms for analyzing the content and structure of written communication."
+
 [Neuroplasticity](https://www.goodreads.com/book/show/29889529-neuroplasticity) \#book - by [Moheb Costandi](https://www.goodreads.com/author/show/7235130.Moheb_Costandi)
 
 [Pattern Classification](https://www.goodreads.com/book/show/85020.Pattern_Classification) \#book - by David G. Stork,  Richard O. Duda, Peter E. Hart
@@ -39,6 +41,8 @@
 [Rise of the Robots: Technology and the Threat of a Jobless Future](https://www.goodreads.com/book/show/22928874-rise-of-the-robots) \#book - by Martin Ford
 
 [Robots](https://www.goodreads.com/book/show/32764602-robots) \#book - by [John M. Jordan](https://www.goodreads.com/author/show/1754611.John_M_Jordan)
+
+[_Thoughtful Machine Learning with Python_](https://www.oreilly.com/library/view/thoughtful-machine-learning/9781491924129/) __by Matthew Kirk
 
 [Understanding Machine Learning: From Theory to Algorithms](https://www.goodreads.com/book/show/19148900-understanding-machine-learning) \#book - by Shai Shalev-Shwartz,  Shai Ben-David
 

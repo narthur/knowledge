@@ -59,7 +59,7 @@ _Fluent Python_ by Luciano Ramalho
 
 _Introducing Python_ by Bill Lubanovic
 
-_Natural Language Processing with Python_
+\_\_[_Natural Language Processing with Python_](https://www.amazon.com/Natural-Language-Processing-Python-Analyzing/dp/0596516495) __by Steven Bird, Ewan Klein, Edward Loper - "This book offers a highly accessible introduction to natural language processing, the field that supports a variety of language technologies, from predictive text and email filtering to automatic summarization and translation. With it, you'll learn how to write Python programs that work with large collections of unstructured text. You'll access richly annotated datasets using a comprehensive range of linguistic data structures, and you'll understand the main algorithms for analyzing the content and structure of written communication."
 
 \_\_[_Python Data Science Handbook_](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 

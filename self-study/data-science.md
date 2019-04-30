@@ -14,6 +14,8 @@
 
 [Metadata](https://www.goodreads.com/book/show/25683269-metadata) \#book - by Jeffrey Pomerantz
 
+[_Python Data Science Handbook_](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
+
 [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.goodreads.com/book/show/26535513-storytelling-with-data) \#book
 
 [The Visual Display of Quantitative Information](https://www.goodreads.com/book/show/17744.The_Visual_Display_of_Quantitative_Information) \#book

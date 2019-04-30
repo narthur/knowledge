@@ -51,6 +51,7 @@
   * [SaaS](self-study/saas.md)
   * [Software Craft](self-study/software-craft.md)
   * [Software Management](self-study/software-management.md)
+  * [Statistics](self-study/statistics.md)
   * [SVG](self-study/svg.md)
   * [UI Design](self-study/ui-design.md)
   * [Web Animation](self-study/web-animation.md)
