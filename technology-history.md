@@ -2,7 +2,7 @@
 
 [1997 WWDC Fireside Chat with Steve Jobs](https://www.youtube.com/watch?v=6iACK-LNnzM) \#video
 
-[Apple Worldwide Developers Conference](https://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference) \#article - Wikipedia
+[Apple Worldwide Developers Conference](https://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference) \#article - Wikipedia. "WWDC began in 1987 in [Santa Clara](https://en.wikipedia.org/wiki/Santa_Clara,_California). After 15 years in nearby San Jose, the conference moved to [San Francisco](https://en.wikipedia.org/wiki/San_Francisco), where it eventually became Apple's primary media event of the year and regularly sold out. WWDC returned to San Jose 13 years later."
 
 [Macintosh clone](https://en.wikipedia.org/wiki/Macintosh_clone) \#article - Wikipedia
 
