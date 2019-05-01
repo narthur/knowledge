@@ -4,6 +4,10 @@
 
 [Bootstrappers.io](https://bootstrappers.io/) - Newsletter, curated links, blog.
 
+[FiveMinuteFounder](https://www.fiveminutefounder.com/index.html) - "Become a Better Founder. Actionable, concise advice to improve your startup/company by 1% each week. Only what you need to know, in five minutes, with examples."
+
+[The Four Steps to Epiphany](https://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf) \#book - by Steven G. Blank
+
 [Indie Hackers](https://www.indiehackers.com/) - "Learn from the founders behind hundreds of profitable online businesses, and connect with others who are starting and growing their own companies." Forum, blog, podcast.
 
 [Stripe Atlas](https://stripe.com/atlas) - "The best way to start an internet business. Starting a company can be needlessly complicated—lengthy paperwork, bank visits, legal complexity, numerous fees, and non-obvious decisions about what services to use. We built Stripe Atlas to make this easy: a tool to handle everything involved in establishing an internet business. It’s available to entrepreneurs everywhere."
