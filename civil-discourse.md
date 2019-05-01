@@ -72,3 +72,5 @@
 
 [Why You Can't Win an Internet Argument](https://youtu.be/YWKUhZJp7uw) \#video - “One of the internet's favorite pastimes is arguing, but very few of those arguments ever actually go anywhere. It can be frustrating to watch, but scientists have some ideas on why things play out the way they do.”
 
+Part way through WWDC 1997, [Steve Jobs handles an incredibly emotionally-charged attack on him personally](https://youtu.be/6iACK-LNnzM?t=3024). Starts at 50:24. \#video
+
