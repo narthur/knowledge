@@ -16,6 +16,10 @@
 
 [1997 WWDC Fireside Chat with Steve Jobs](https://www.youtube.com/watch?v=6iACK-LNnzM) \#video
 
+### 2004
+
+[Steve Jobs in 2004 at D2 \(Enhanced Quality\)](https://www.youtube.com/watch?v=idhrY_3-bJs) \#video
+
 ### 2005
 
 [Steve Jobs in 2005 at D3 \(Enhanced Quality\)](https://www.youtube.com/watch?v=IzH54FpWAP0) \#video
