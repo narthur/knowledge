@@ -10,6 +10,8 @@
 
 Bill Gates
 
+[Gil Amelio](https://en.wikipedia.org/wiki/Gil_Amelio) \#article - Wikipedia. "**Gilbert Frank Amelio** \(born March 1, 1943\) is an American technology executive. Amelio worked at [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs), [Fairchild Semiconductor](https://en.wikipedia.org/wiki/Fairchild_Semiconductor), and the semiconductor division of [Rockwell International](https://en.wikipedia.org/wiki/Rockwell_International) but is best remembered as a [CEO](https://en.wikipedia.org/wiki/Chief_executive_officer) of [National Semiconductor](https://en.wikipedia.org/wiki/National_Semiconductor) and [Apple Inc.](https://en.wikipedia.org/wiki/Apple_Inc.)"
+
 Johnny Ives
 
 [Kara Swisher](https://en.wikipedia.org/wiki/Kara_Swisher) \#article - Wikipedia. "**Kara Anne Swisher** \(born December 11, 1962\) is an American progressive technology business journalist and co-founder of [Recode](https://en.wikipedia.org/wiki/Recode). She became a contributing writer to The New York Times Opinion Section in 2018.[\[1\]](https://en.wikipedia.org/wiki/Kara_Swisher#cite_note-1) Previously she wrote for [The Wall Street Journal](https://en.wikipedia.org/wiki/The_Wall_Street_Journal), serving as co-executive editor of [All Things Digital](https://en.wikipedia.org/wiki/All_Things_Digital)."
