@@ -24,6 +24,10 @@
 
 [Steve Jobs in 2005 at D3 \(Enhanced Quality\)](https://www.youtube.com/watch?v=IzH54FpWAP0) \#video
 
+### 2007
+
+[Steve Jobs in 2007, at D5 Conference \(Edited, Full Video\)](https://www.youtube.com/watch?v=WktCKB-QMkk) \#video - "Steve Jobs full interview with Walt Mossberg at the All Things Digital: D5 Conference in 2007. ❡ Steve Jobs Demo of Apple TV and YouTube app on Apple TV has been removed from this video as it contains third-party content with respective YouTube Content IDs."
+
 ### 2010
 
 [Steve Jobs at the D8 Conference 2010](https://www.youtube.com/watch?v=a0AZLPqjpkg) \#video
