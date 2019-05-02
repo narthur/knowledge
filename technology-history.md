@@ -6,6 +6,8 @@
 
 [Rhapsody \(operating system\)](https://en.wikipedia.org/wiki/Rhapsody_%28operating_system%29) \#article - Wikipedia. "**Rhapsody** was the code name given to [Apple Computer](https://en.wikipedia.org/wiki/Apple_Inc.)'s next-generation [operating system](https://en.wikipedia.org/wiki/Operating_system) during the period of its development between Apple's purchase of [NeXT](https://en.wikipedia.org/wiki/NeXT) in late 1996 and the announcement of [Mac OS X](https://en.wikipedia.org/wiki/MacOS) \(now called "macOS"\) in 1998."
 
+[Walt Mossberg](https://en.wikipedia.org/wiki/Walt_Mossberg) \#article - Wikipedia. "**Walter S. Mossberg** \(born March 27, 1947\) is an [American](https://en.wikipedia.org/wiki/United_States) journalist. He is widely credited with pioneering the modern, consumer-focused, technology review and commentary. ❡ From 1991 through 2013, he was the principal technology columnist for [The Wall Street Journal](https://en.wikipedia.org/wiki/The_Wall_Street_Journal). He also co-founded [AllThingsD](https://en.wikipedia.org/wiki/AllThingsD), [Recode](https://en.wikipedia.org/wiki/Recode.net) and the [D](https://en.wikipedia.org/wiki/All_Things_Digital) and [Code Conferences.](https://en.wikipedia.org/wiki/Recode) From 2015 to 2017, Mossberg was Executive Editor of [The Verge](https://en.wikipedia.org/wiki/The_Verge) and Editor-at-Large of [Recode](https://en.wikipedia.org/wiki/Recode), web sites owned by [Vox Media](https://en.wikipedia.org/wiki/Vox_Media). Mossberg wrote a weekly column for both and also had a weekly podcast, Ctrl-Walt-Delete. Mossberg was also co-executive producer of the annual Code Conference. He retired in July 2017."
+
 ## Timeline
 
 ### 1992
@@ -25,6 +27,8 @@
 [Steve Jobs in 2005 at D3 \(Enhanced Quality\)](https://www.youtube.com/watch?v=IzH54FpWAP0) \#video
 
 ### 2007
+
+[Steve Jobs and Bill Gates Together in 2007 at D5](https://www.youtube.com/watch?v=ZWaX1g_2SSQ)
 
 [Steve Jobs in 2007, at D5 Conference \(Edited, Full Video\)](https://www.youtube.com/watch?v=WktCKB-QMkk) \#video - "Steve Jobs full interview with Walt Mossberg at the All Things Digital: D5 Conference in 2007. ❡ Steve Jobs Demo of Apple TV and YouTube app on Apple TV has been removed from this video as it contains third-party content with respective YouTube Content IDs."
 
