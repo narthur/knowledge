@@ -46,5 +46,5 @@
 
 [CSS-Tricks](https://css-tricks.com/) - "CSS-Tricks is created, written by, and maintained by [Chris Coyier](https://chriscoyier.net/) and [a team](https://css-tricks.com/about/) of swell people. It is built on WordPress and powered up by [Jetpack](https://css-tricks.com/jetpack/). It is made possible through [sponsorships](https://css-tricks.com/advertising/) from products and services we like."
 
-[Kevin Powell](https://www.youtube.com/user/KepowOb/featured) \#channel - "Helping you learn how to make the web, and make it look good while you're at it. ❡ With a new video every Wednesday, I'll be bringing you How Tos and Tutorials, and well as simple tips and tricks. I'm mostly looking to help people who are new to the world of web development."
+[Kevin Powell](https://www.youtube.com/user/KepowOb/featured) \#channel - [Personal website](https://www.kevinpowell.co/). "Helping you learn how to make the web, and make it look good while you're at it. ❡ With a new video every Wednesday, I'll be bringing you How Tos and Tutorials, and well as simple tips and tricks. I'm mostly looking to help people who are new to the world of web development."
 
