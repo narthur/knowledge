@@ -34,6 +34,7 @@ Rank potential topics based on criteria
 * [A Book Apart](https://abookapart.com/)
 * GoodReads
 * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
+* [SkillShare](https://www.skillshare.com/) - "Thousands of classes to fuel your creativity and career."
 * [Zenva Academy](https://academy.zenva.com/) - "Trusted by 400,000+ learners and developers, Zenva provides world-class training on in-demand programming skills."
 
 ## Inbox
