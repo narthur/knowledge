@@ -32,6 +32,16 @@
 
 [Understanding Variable Scope And Variable Injection In Less CSS](https://www.bennadel.com/blog/2642-understanding-variable-scope-and-variable-injection-in-less-css.htm) \#article - "The Less CSS preprocessor allows you to define variables that can be used throughout your CSS structure; however, as I have been digging into Less CSS more, I have found the rules around variable assignment and variable visibility to be a bit confusing. Sometimes variables can be overridden; sometimes they can't. Sometimes they can bubble-up; sometimes they can't. As such, I thought this would make a valuable exploration."
 
+## Resets
+
+[CSS Remedy](https://github.com/mozdevs/cssremedy) - "Start your project with a remedy for the technical debt of CSS. A gift to you from Mozilla Developer Outreach."
+
+[Eric Meyer: Reset CSS](https://meyerweb.com/eric/tools/css/reset/) - "The reset styles given here are intentionally very generic. There isn't any default color or background set for the `body` element, for example. I don't particularly recommend that you just use this in its unaltered state in your own projects. It should be tweaked, edited, extended, and otherwise tuned to match your specific reset baseline. Fill in your preferred colors for the page, links, and so on."
+
+[Normalize.css](https://necolas.github.io/normalize.css/) - "[Normalize.css](https://github.com/necolas/normalize.css/) makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing."
+
+[Reboot](https://getbootstrap.com/docs/4.0/content/reboot/) - "Reboot, a collection of element-specific CSS changes in a single file, kickstart Bootstrap to provide an elegant, consistent, and simple baseline to build upon."
+
 ## Sources
 
 [CSS-Tricks](https://css-tricks.com/) - "CSS-Tricks is created, written by, and maintained by [Chris Coyier](https://chriscoyier.net/) and [a team](https://css-tricks.com/about/) of swell people. It is built on WordPress and powered up by [Jetpack](https://css-tricks.com/jetpack/). It is made possible through [sponsorships](https://css-tricks.com/advertising/) from products and services we like."
