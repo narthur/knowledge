@@ -4,3 +4,5 @@
 
 [GoodReads: Genre &gt; Computer Science &gt; Software](https://www.goodreads.com/genres/software) - A collection of the most-read and most-popular books on software development on GoodReads.
 
+“Show a man a program and frustrate him for a day. Teach a man to program and you frustrate him for a lifetime” \(via [phi's forum profile](https://forum.beeminder.com/u/phi/summary)\).
+
