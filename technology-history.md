@@ -28,6 +28,10 @@ Steve Wozniak
 
 ## Timeline
 
+### 1988
+
+[Steve Jobs Predicts Google In 1988](https://www.youtube.com/watch?v=Ir3kSyHw9Is) \#video - "Following the launch of the NeXT Computer, Steve Jobs appears in a TV report about the future of computing and predicts Google."
+
 ### 1992
 
 [Steve Jobs President & CEO, NeXT Computer Corp and Apple. MIT Sloan Distinguished Speaker Series](https://www.youtube.com/watch?v=Gk-9Fd2mEnI) \#video - "Steve Jobs, one of the computer industry’s foremost entrepreneurs, gives a wide-ranging talk to a group of MIT Sloan School of Management students in the spring of 1992. Jobs shares his professional vision and personal anecdotes, from his role at the time as president and CEO of NeXT Computer Corporation, to the thrilling challenges of co-creating Apple Computer, and subsequent disappointments at his ousting. In conversational exchanges with audience members Jobs underscores the value of direct experience in the field, and “developing scar tissue.” The unexpected guest lecture within the Sloan Distinguished Speaker Series came about through the efforts of a Sloan MBA ’92 student whose sister had recently married Jobs"
