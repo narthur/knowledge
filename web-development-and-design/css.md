@@ -32,6 +32,10 @@
 
 [Understanding Variable Scope And Variable Injection In Less CSS](https://www.bennadel.com/blog/2642-understanding-variable-scope-and-variable-injection-in-less-css.htm) \#article - "The Less CSS preprocessor allows you to define variables that can be used throughout your CSS structure; however, as I have been digging into Less CSS more, I have found the rules around variable assignment and variable visibility to be a bit confusing. Sometimes variables can be overridden; sometimes they can't. Sometimes they can bubble-up; sometimes they can't. As such, I thought this would make a valuable exploration."
 
+## Grid
+
+[Why CSS grid-area is the best property for laying out content](https://www.youtube.com/watch?v=duH4DLq5yoo) \#video - "CSS Grid is amazing, and grid-area just make it so much better. When grid first launched I loved the idea of grid areas, but didn't get fully on board as it seemed like a little too much work... but once you start actually using them on a regular basis, you realize that while the initial setup in slightly longer, in the long run you can save a boat load of time!"
+
 ## Resets
 
 [CSS Remedy](https://github.com/mozdevs/cssremedy) - "Start your project with a remedy for the technical debt of CSS. A gift to you from Mozilla Developer Outreach."

@@ -6,3 +6,7 @@
 
 “Show a man a program and frustrate him for a day. Teach a man to program and you frustrate him for a lifetime” \(via [phi's forum profile](https://forum.beeminder.com/u/phi/summary)\).
 
+## Functional Programming
+
+[Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) \#playlist - "This is a collection of the videos from FunFunFunction that is specifically about functional programming in JavaScript"
+
