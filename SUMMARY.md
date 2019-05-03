@@ -34,6 +34,7 @@
   * [Techniques](purity/techniques.md)
 * [Quantified Self](quantified-self.md)
 * [Remote Work](remote-work.md)
+* [Research Tools](research-tools.md)
 * [Science](science.md)
 * [Self-Study](self-study/README.md)
   * [Accessibility & Usability](self-study/accessibility-and-usability.md)

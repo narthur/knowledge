@@ -6,6 +6,8 @@
 
 [Nomad List](https://nomadlist.com/) - "[Nomad List](https://nomadlist.com/help) is a database of 2,327+ cities in the world analyzing 1,889,930+ data points every second to help you choose where to go next — and when you arrive, it connects you to 100,000+ 🌍 nomads there."
 
+[WeWork](https://www.wework.com/) - "Space to Elevate Work. From desks to offices and entire headquarters, we create environments for productivity, innovation, and connection."
+
 ## Virtual Co-Working
 
 [Complice Rooms](https://complice.co/rooms)
