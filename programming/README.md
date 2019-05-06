@@ -10,6 +10,10 @@
 
 [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) \#playlist - "This is a collection of the videos from FunFunFunction that is specifically about functional programming in JavaScript"
 
+## Object-Oriented Programming
+
+[Dependency Injection basics- Fun Fun Function](https://www.youtube.com/watch?v=0X1Ns2NRfks) \#video
+
 ## Refactoring
 
 [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/book/show/44936.Refactoring) \#book
