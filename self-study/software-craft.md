@@ -8,3 +8,5 @@
 
 [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/book/show/44936.Refactoring) \#book
 
+[Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) \#book
+
