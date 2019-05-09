@@ -40,6 +40,8 @@
 
 [Filestack](https://www.filestack.com/) - "The File Handling Service for Developers. Powerful APIs that allow you to upload, transform and deliver any file into your app."
 
+[Rellax](https://dixonandmoe.com/rellax/) - "Light \(1021b gz\) Vanilla Javascript Parallax Library"
+
 [Uppy](https://uppy.io/) - "Sleek, modular open source JavaScript file uploader. Uppy fetches files locally and from remote places like Dropbox or Instagram. With its seamless integration, reliability and ease of use, Uppy is truly your best friend in file uploading."
 
 ## HTML
