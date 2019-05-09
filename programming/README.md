@@ -2,6 +2,8 @@
 
 [Biggest Challenge You'll Face Learning to Code \(Plus How to Overcome It!\)](https://www.youtube.com/watch?v=B-sh_ncnDUE) \#video - "Learning any new skill is challenging and I've definitely noticed a recurring theme that most everybody faces: how to stay motivated when progress seems to be non-existent \(also know as the intermediate plateau\). There's is no easy answer or magic pill but I definitely laid out a few pieces of advice of how to overcome it."
 
+[CONTINUOUS INTEGRATION](https://www.thoughtworks.com/continuous-integration) - "Continuous Integration \(CI\) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early. ❡ By integrating regularly, you can detect errors quickly, and locate them more easily."
+
 [GoodReads: Genre &gt; Computer Science &gt; Software](https://www.goodreads.com/genres/software) - A collection of the most-read and most-popular books on software development on GoodReads.
 
 [Postman](https://www.getpostman.com/) \#software - "Simplifies API Development. Get easy, API-First solutions with the industry's only complete API Development Environment."
@@ -15,4 +17,12 @@
 [Testing Legacy Code Elliotte by Rusty Harold](https://www.youtube.com/watch?v=cjxXv0eifhY) \#video - "You've been bitten by the testing bug, are thoroughly test infected. Excellent! You're undoubtedly producing more robust, less buggy software faster and at lower cost. Sadly, it wasn't always this way. You're saddled with a large legacy of untested code. Test first development is not an option. Nonetheless unit testing, JUnit, and test driven development can still dramatically improve your maintenance tasks. Learn strategies for retrofitting test frameworks onto existing code, and developing a test suite for code that never had one before."
 
 [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) \#book
+
+## Sources
+
+[The Clean Code Blog](http://blog.cleancoder.com/) \#blog - "by Robert C. Martin \(Uncle Bob\)"
+
+[Coding Horror](https://blog.codinghorror.com/) \#blog - by Jeff Atwood. "Programming and human factors"
+
+[ThoughtWorks Insights](https://www.thoughtworks.com/insights) \#blog
 
