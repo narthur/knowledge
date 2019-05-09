@@ -48,5 +48,7 @@
 
 [Indie Hackers](https://www.indiehackers.com/) - "Learn from the founders behind hundreds of profitable online businesses, and connect with others who are starting and growing their own companies." Forum, blog, podcast.
 
+[Indie Hackers on YouTube](https://www.youtube.com/channel/UC36zt_eM_gZQXayw_pAdASg/featured) \#channel
+
 [Inside Intercom](https://www.intercom.com/blog/) \#blog
 
