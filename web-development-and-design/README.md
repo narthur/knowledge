@@ -1,5 +1,9 @@
 # Web Development
 
+## APIs
+
+[Filestack](https://www.filestack.com/) - "The File Handling Service for Developers. Powerful APIs that allow you to upload, transform and deliver any file into your app."
+
 ## Browsers
 
 [Blockstack](https://blockstack.org/) - “Blockstack is a new internet for decentralized apps where users own their data. A browser is all that’s needed to get started.”
@@ -22,6 +26,8 @@
 
 [Codepen](https://codepen.io/#) \#webapp - “👋 CodePen is a social development environment. At it's heart, it allows you to write code in the browser, and see the results of it as you build. A useful and liberating tool for developers of any skill, and particularly empowering for people learning to code. We focus primarily on front-end languages like HTML, CSS, JavaScript, and preprocessing syntaxes that turn into those things.”
 
+[Postman](https://www.getpostman.com/) \#software - "Simplifies API Development. Get easy, API-First solutions with the industry's only complete API Development Environment."
+
 ## Email
 
 [Benchmark](https://www.benchmarkemail.com) - “Powerful and Simple Email Marketing. Simple enough for your intern. Design to impress the creative team. Bigger sales to thrill the boss.” \#email
@@ -29,6 +35,12 @@
 ## Frameworks
 
 [Bootstrap](https://getbootstrap.com/) - “Build responsive, mobile-first projects on the web with the world’s most popular front-end component library. Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.”
+
+## Libraries
+
+[Filestack](https://www.filestack.com/) - "The File Handling Service for Developers. Powerful APIs that allow you to upload, transform and deliver any file into your app."
+
+[Uppy](https://uppy.io/) - "Sleek, modular open source JavaScript file uploader. Uppy fetches files locally and from remote places like Dropbox or Instagram. With its seamless integration, reliability and ease of use, Uppy is truly your best friend in file uploading."
 
 ## HTML
 

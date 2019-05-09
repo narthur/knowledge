@@ -21,3 +21,10 @@
 * [ScalaCheck](https://www.scalacheck.org) - “ScalaCheck is a library written in Scala and used for automated property-based testing of Scala or Java programs. ScalaCheck was originally inspired by the Haskell library QuickCheck, but has also ventured into its own.” \#scala
 * [ScalaTest](http://www.scalatest.org) - \#scala
 
+## Testable Architecture
+
+* [Auto-mocking Container by Mark Seemann](https://blog.ploeh.dk/2013/03/11/auto-mocking-container/) \#article - "A major problem with unit tests is to make sure that they are robust in the face of a changing system. One of the most common problems programmers have with unit tests is the so-called [Fragile Test](http://xunitpatterns.com/Fragile%20Test.html) smell. Every time you attempt to refactor your code, tests break."
+* [Dependency Injection basics- Fun Fun Function](https://www.youtube.com/watch?v=0X1Ns2NRfks) \#video
+* [Inversion of Control - Fun Fun Function](https://www.youtube.com/watch?v=-kpEP4JeEdc) \#video
+* [SUT Factory by Mark Seemann](https://blog.ploeh.dk/2009/02/13/SUTFactory/) \#article - "Maintainability, not only of your production code, but also of your test code, is important, and the DRY principle is just as applicable here."
+

@@ -32,6 +32,7 @@ Rank potential topics based on criteria
 ## Sources
 
 * [A Book Apart](https://abookapart.com/)
+* [Brilliant](https://brilliant.org/) - "Math and science done right. Master key ideas in math, science, and computer science through problem solving."
 * GoodReads
 * Lynda.com
 * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
