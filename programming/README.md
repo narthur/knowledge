@@ -14,6 +14,8 @@
 
 [Postman](https://www.getpostman.com/) \#software - "Simplifies API Development. Get easy, API-First solutions with the industry's only complete API Development Environment."
 
+[Slate](https://github.com/lord/slate) - "Beautiful static documentation for your API"
+
 [Swagger](https://swagger.io/) - "Swagger open source and pro tools have helped millions of API developers, teams, and organizations deliver great APIs."
 
 ## Refactoring
