@@ -20,7 +20,7 @@
 
 [Why You Don't Want To Go Viral](https://www.youtube.com/watch?v=9LZEZ5QuyzM&feature=youtu.be) \#video - "On a rainy Scottish island called Jura, it's time to talk about the Manual, about long-term sustainable success, and about not having just that one catchphrase. The term "viral" has fallen out of fashion in the last few years, which is why this series wasn't called "going viral". And in truth, that's not what you want to do."
 
-## Career & Work Satisfaction
+## Job Satisfaction
 
 [This is what makes employees happy at work \| The Way We Work, a TED series](https://www.youtube.com/watch?v=PYJ22-YYNW8&feature=youtu.be) \#video - "There are three billion working people on this planet, and only 40 percent of them report being happy at work. Michael C. Bush shares his insights into what makes workers unhappy -- and how companies can benefit their bottom lines by fostering satisfaction."
 
