@@ -38,6 +38,10 @@
 
 [WordPress.com](https://wordpress.com/) - Hosted WordPress service. "Build a website, build a movement. Whatever you want to create, share, or sell, we’ll help you do it right here."
 
+## Design Patterns
+
+[The Media Object, A Bunch of Ways](https://css-tricks.com/media-object-bunch-ways/) \#article - "The Media Object pattern is: image thingy on the left, heading and text on the right."
+
 ## Development Environments
 
 [Codepen](https://codepen.io/#) \#webapp - “👋 CodePen is a social development environment. At it's heart, it allows you to write code in the browser, and see the results of it as you build. A useful and liberating tool for developers of any skill, and particularly empowering for people learning to code. We focus primarily on front-end languages like HTML, CSS, JavaScript, and preprocessing syntaxes that turn into those things.”

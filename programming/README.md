@@ -6,6 +6,8 @@
 
 [GoodReads: Genre &gt; Computer Science &gt; Software](https://www.goodreads.com/genres/software) - A collection of the most-read and most-popular books on software development on GoodReads.
 
+[Lobsters](https://lobste.rs/) - "Lobsters is a computing-focused community centered around link aggregation and discussion, launched on July 1st, 2012. The administrator is [Peter Bhat Harkins](https://lobste.rs/u/pushcx) \("pushcx"\), contact him with any support issues. Lobsters was created by [joshua stein](https://lobste.rs/u/jcs) with some specific design goals in mind to avoid problems faced by other link aggregation sites." [Site code on GitHub](https://github.com/lobsters/lobsters).
+
 [Postman](https://www.getpostman.com/) \#software - "Simplifies API Development. Get easy, API-First solutions with the industry's only complete API Development Environment."
 
 “Show a man a program and frustrate him for a day. Teach a man to program and you frustrate him for a lifetime” \(via [phi's forum profile](https://forum.beeminder.com/u/phi/summary)\).
