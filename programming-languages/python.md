@@ -43,6 +43,16 @@ s = "01/12/2011"
 timestamp = time.mktime(datetime.datetime.strptime(s, "%d/%m/%Y").timetuple())
 ```
 
+Get list of dictionary keys sorted by their values \([source](https://www.pythoncentral.io/how-to-sort-python-dictionaries-by-key-or-value/)\):
+
+```python
+numbers = {'first': 1, 'second': 2, 'third': 3, 'Fourth': 4}
+# Use the __getitem__ method as the key function
+sorted(numbers, key=numbers.__getitem__)
+# In order of sorted values: [1, 2, 3, 4]
+['first', 'second', 'third', 'Fourth']
+```
+
 ## Links
 
 [Python File I/O](https://www.programiz.com/python-programming/file-operation) \#article - "In this article, you'll learn about Python file operations. More specifically, opening a file, reading from it, writing into it, closing it and various file methods you should be aware of."

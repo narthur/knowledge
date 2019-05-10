@@ -44,3 +44,7 @@
 
 [Ed Catmull and Larry Ellison on Steve Jobs at D10 \(Full\)](https://www.youtube.com/watch?v=B7p2u_hMqK4) \#video - "Walt asks Ed Catmull and Larry Ellison about Steve Jobs"
 
+## 2019
+
+[ENEMIES NO MORE: MICROSOFT BRINGS THE LINUX KERNEL TO WINDOWS](https://www.wired.com/story/enemies-no-more-microsoft-brings-linux-kernel-windows/) \#article - "FOR DECADES, MICROSOFT Windows and the [open source](https://www.wired.com/story/wired-guide-open-source-software/)Linux operating system were polar opposites. Windows was developed by the biggest software company in the world, one that was no friend to open source. [Linux](https://www.wired.com/tag/linux/) was developed by a ragtag team of programmers scattered around the world, often working in their spare time. But over the years, open source, and Linux in particular, went mainstream. Linux now powers the majority of the world's web servers and underpins Android, the world’s most popular mobile operating system. That forced a change in how Microsoft treated the rival operating system. First it began [supporting Linux](https://www.wired.com/2012/05/microsoft-linux/) on its cloud service Azure. Then it began releasing software for Android and Linux and even [using Linux internally](https://www.wired.com/2016/03/now-can-use-linux-just-like-microsoft/) to power Azure. Now Microsoft is bringing the heart of Linux into Windows."
+

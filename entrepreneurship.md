@@ -42,6 +42,12 @@
 
 [The Ultimate List of Customer Development Questions](https://mfishbein.com/the-ultimate-list-of-customer-development-questions/) \#article - "I’ve had a few requests for this post. I’ve compiled all of my favorite customer development questions into one place! I’m sure I’ve missed some great questions. Please let me know your favorites in the comments sections and I’ll continually update this post."
 
+## Marketing
+
+[Benchmark](https://www.benchmarkemail.com) - “Powerful and Simple Email Marketing. Simple enough for your intern. Design to impress the creative team. Bigger sales to thrill the boss.” \#email
+
+[TinyLetter](https://tinyletter.com/) - "Email for people with something to say." Free.
+
 ## Sources
 
 [Bootstrappers.io](https://bootstrappers.io/) - Newsletter, curated links, blog.

@@ -26,6 +26,10 @@
 
 [Carrd](https://carrd.co/) - "Simple, free, fully responsive one-page sites for pretty much anything."
 
+[Known](https://withknown.com/) - "A collaborative social publishing engine. Known allows any number of users to post to a shared site with blog posts, status updates, photographs, and more. Its robust open source framework can be used to build fully-fledged community sites, or a blog for a single user. It's up to you."
+
+[October](https://octobercms.com/) - "October is a free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. Thousands of digital studios and freelancers all over the world love October for its simplicity, flexibility and modern design. Their clients are happy, because October saves them both time and money."
+
 [Squarespace](https://www.squarespace.com/?channel=pbr&subchannel=bing&source=branded&subcampaign=%28branded-squarespace%28only%29-us-search_squarespace_squarespace_e%29&msclkid=3d716fc577801407bd08331104cd7046) - "Squarespace is the all-in-one platform to build a beautiful online presence."
 
 [Wix](https://www.wix.com/html5bing/hiker-create-wix?utm_source=bing&utm_campaign=MS_Wix_NEW%5Ewix_English-x&experiment_id=wix%5Ebe%5E79783360752420%5Ewix&msclkid=3a0379c916c81b23bf6f251d6566e9ec&utm_medium=cpc) - "The Leader in Website Creation"
@@ -40,21 +44,9 @@
 
 [Postman](https://www.getpostman.com/) \#software - "Simplifies API Development. Get easy, API-First solutions with the industry's only complete API Development Environment."
 
-## Email
-
-[Benchmark](https://www.benchmarkemail.com) - “Powerful and Simple Email Marketing. Simple enough for your intern. Design to impress the creative team. Bigger sales to thrill the boss.” \#email
-
 ## Frameworks
 
 [Bootstrap](https://getbootstrap.com/) - “Build responsive, mobile-first projects on the web with the world’s most popular front-end component library. Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.”
-
-## Libraries
-
-[Filestack](https://www.filestack.com/) - "The File Handling Service for Developers. Powerful APIs that allow you to upload, transform and deliver any file into your app."
-
-[Rellax](https://dixonandmoe.com/rellax/) - "Light \(1021b gz\) Vanilla Javascript Parallax Library"
-
-[Uppy](https://uppy.io/) - "Sleek, modular open source JavaScript file uploader. Uppy fetches files locally and from remote places like Dropbox or Instagram. With its seamless integration, reliability and ease of use, Uppy is truly your best friend in file uploading."
 
 ## HTML
 
@@ -87,16 +79,6 @@
 [How to Load Web Fonts in 2019 🎆](https://www.youtube.com/watch?v=s-G1m23Emlk)\#video - "After a lot of experimentation I've come across my preferred way of loading web fonts. I have balanced ease of use, i.e. how to implement, with performance."
 
 [Pixels vs. Ems: Users DO Change Font Size](https://medium.com/@vamptvo/pixels-vs-ems-users-do-change-font-size-5cfb20831773) \#article - “The question was “How many users browse the main Internet Archive site with a default font size other than the common value of 16 pixels?” By knowing this, we would determine how many users would be affected by sizing with relative units like rems/ems. Using the methodology I describe below, we found that the answer is 3.08% of our users. That’s a pretty big number, higher than most counts of the market share of browsers like Internet Explorer, Edge, or Opera Mini.”
-
-## Testing
-
-[BrowserStack](https://www.browserstack.com/) - "App & Browser Testing Made Easy. Give your users a seamless experience by testing on 2000+ real devices and browsers. Don't compromise with emulators and simulators."
-
-[BrowserStack: Free Testing on Microsoft Edge](https://www.browserstack.com/test-on-microsoft-edge-browser#) - "Until now, developers have been relying on virtual machines or PC’s with Windows 10 to test their products and websites on Microsoft Edge. To provide an easier way to test, Microsoft and BrowserStack are partnering to give developers a cloud-based infrastructure to instantly test and ship great experiences on Microsoft Edge."
-
-[Lighthouse Chrome extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - "Lighthouse is an open-source, automated tool for improving the performance, quality, and correctness of your web apps. When auditing a page, Lighthouse runs a barrage of tests against the page, and then generates a report on how well the page did. From here you can use the failing tests as indicators on what you can do to improve your app."
-
-[Microsoft Edge virtual machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) - "Test Microsoft Edge \(EdgeHTML\) and versions of IE8 through IE11 using free virtual machines you download and manage locally."
 
 ## Sources
 

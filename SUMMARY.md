@@ -67,7 +67,9 @@
 * [Web Development](web-development-and-design/README.md)
   * [Accessibility & Usability](web-development-and-design/accessibility-and-usability.md)
   * [CSS](web-development-and-design/css.md)
+  * [Libraries](web-development-and-design/libraries.md)
   * [Serverless](web-development-and-design/serverless.md)
   * [Static Sites](web-development-and-design/static-sites.md)
+  * [Testing](web-development-and-design/testing.md)
 * [Work Satisfaction](work-satisfaction.md)
 
