@@ -46,6 +46,8 @@
 
 [Benchmark](https://www.benchmarkemail.com) - “Powerful and Simple Email Marketing. Simple enough for your intern. Design to impress the creative team. Bigger sales to thrill the boss.” \#email
 
+[PostPerk](https://postperk.com/) - "Partnerships, made easy. Instantly boost your sales by partnering with complementary brands. Even if you're short on time, team, or expertise."
+
 [TinyLetter](https://tinyletter.com/) - "Email for people with something to say." Free.
 
 ## Sources
