@@ -6,8 +6,6 @@
 
 [October](https://octobercms.com/) - "October is a free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. Thousands of digital studios and freelancers all over the world love October for its simplicity, flexibility and modern design. Their clients are happy, because October saves them both time and money."
 
-[SimpleUpdates](https://www.simpleupdates.com/) - "YOUR NEW WEBSITE IS JUST A CLICK AWAY. Simple is in our name. Results are in our DNA."
-
 [Squarespace](https://www.squarespace.com/?channel=pbr&subchannel=bing&source=branded&subcampaign=%28branded-squarespace%28only%29-us-search_squarespace_squarespace_e%29&msclkid=3d716fc577801407bd08331104cd7046) - "Squarespace is the all-in-one platform to build a beautiful online presence."
 
 [Wix](https://www.wix.com/html5bing/hiker-create-wix?utm_source=bing&utm_campaign=MS_Wix_NEW%5Ewix_English-x&experiment_id=wix%5Ebe%5E79783360752420%5Ewix&msclkid=3a0379c916c81b23bf6f251d6566e9ec&utm_medium=cpc) - "The Leader in Website Creation"
