@@ -25,7 +25,6 @@
   * [Python](programming-languages/python.md)
 * [Personal Finance](personal-finance/README.md)
   * [Investing](personal-finance/investing.md)
-* [Psychology](psychology.md)
 * [Publishing](publishing.md)
 * [Purity](purity/README.md)
   * [Techniques](purity/techniques.md)
