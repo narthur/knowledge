@@ -72,5 +72,4 @@
   * [Serverless](web-development-and-design/serverless.md)
   * [Static Sites](web-development-and-design/static-sites.md)
   * [Testing](web-development-and-design/testing.md)
-* [Work Satisfaction](work-satisfaction.md)
 
