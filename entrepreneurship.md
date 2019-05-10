@@ -48,6 +48,8 @@
 
 [PostPerk](https://postperk.com/) - "Partnerships, made easy. Instantly boost your sales by partnering with complementary brands. Even if you're short on time, team, or expertise."
 
+[Sales for Founders](https://salesforfounders.com/) - "You get access to the sales knowledge I had to spend _years of pain_ learning the hard way. And then refined into super effective, actionable lessons... over years coaching hundreds of founders just like you."
+
 [TinyLetter](https://tinyletter.com/) - "Email for people with something to say." Free.
 
 ## Sources
