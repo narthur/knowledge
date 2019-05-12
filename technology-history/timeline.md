@@ -1,5 +1,9 @@
 # Timeline
 
+## 1953
+
+[The Transistor: a 1953 documentary, anticipating its coming impact on technology](https://www.youtube.com/watch?v=V9xUQWo4vN0) \#video - "Made between the 1947 invention of the transistor at Bell Labs and the 1956 awarding of the Nobel Prize for Physics to its creators, this documentary is less about the discovery itself than its anticipated impact on technology and society. The intent of the film was clearly to give the public of that era their first understanding of what a transistor was and why it mattered so much."
+
 ## 1988
 
 [Steve Jobs Predicts Google In 1988](https://www.youtube.com/watch?v=Ir3kSyHw9Is) \#video - "Following the launch of the NeXT Computer, Steve Jobs appears in a TV report about the future of computing and predicts Google."
