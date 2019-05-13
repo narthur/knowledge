@@ -1,7 +1,5 @@
 # Civil Discourse
 
-
-
 [200 dropped wallets- the 20 MOST and LEAST HONEST cities](https://www.youtube.com/watch?v=jnL7sJYblGY) \#video - “I lost my wallet and someone didn't return it. Revenge is a dish best served... with data.”
 
 [3 lessons of revolutionary love in a time of rage](https://www.ted.com/talks/valarie_kaur_3_lessons_of_revolutionary_love_in_a_time_of_rage) \#video - “What's the antidote to rising nationalism, polarization and hate? In this inspiring, poetic talk, Valarie Kaur asks us to reclaim love as a revolutionary act. As she journeys from the birthing room to tragic sites of bloodshed, Kaur shows us how the choice to love can be a force for justice.”
