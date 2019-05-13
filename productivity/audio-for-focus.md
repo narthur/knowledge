@@ -1,6 +1,6 @@
 # Audio for Focus
 
-[10 Most Popular Soundscapes + 2 Bonus Tracks](https://gumroad.com/l/mostpopularsoundscapecollection) - "I have brought together the 12 most popular soundscapes from my youtube channel [**johnnielawson**](http://www.youtube.com/johnnielawson) into one great package ****for only**$49.99**."
+[10 Most Popular Soundscapes + 2 Bonus Tracks](https://gumroad.com/l/mostpopularsoundscapecollection) - "I have brought together the 12 most popular soundscapes from my youtube channel [**johnnielawson**](http://www.youtube.com/johnnielawson) into one great package ****for only **$49.99**."
 
 [Brain.fm](https://www.brain.fm/) - "Functional Music On Demand. We use our patented AI music engine and scientific research to create music to help you improve the activities you already do in 15 minutes or less."
 
