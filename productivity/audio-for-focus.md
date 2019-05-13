@@ -16,6 +16,8 @@
 
 [Rain sounds at Night \| Forest ambience \| 3 Hours](https://www.youtube.com/watch?v=dd4D8tZPfKE) \#video
 
+[Relaxing Legend of Zelda Music \(COMPLETE\)](https://www.youtube.com/watch?v=-Siljd9PwKs) \#video - "A re-edited, combined edition of all 4 relaxing playlists with some bonus songs! Duplicates or unfitting songs were taken out, resulting in what I think makes up a much better version."
+
 [Waterfall Sounds - Garden Pond, Bird Life \| 2 hours](https://www.youtube.com/watch?v=euEwKtP5CG4) \#video
 
 ## Sources
