@@ -16,6 +16,10 @@
 
 [1997 WWDC Fireside Chat with Steve Jobs](https://www.youtube.com/watch?v=6iACK-LNnzM) \#video
 
+## 2000
+
+[Apple Co-Founder Steve "Woz" Wozniak Talks About the Early Days Before Apple](https://www.youtube.com/watch?v=iDOYnq2qa50) \#video - "Steve "Woz" Wozniak visits MacGroup-Detroit in October 2000 and talks about the early days before he and Steve Jobs founded Apple as well as how he got started with electronics, practical jokes and inventing the first personal computer."
+
 ## 2004
 
 [Steve Jobs in 2004 at D2 \(Enhanced Quality\)](https://www.youtube.com/watch?v=idhrY_3-bJs) \#video
