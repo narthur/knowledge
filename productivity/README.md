@@ -22,6 +22,8 @@ Tools I've used in the past:
 
 [FocusMe](https://focusme.com/)
 
+[MindMeister](https://www.mindmeister.com/) \#webapp - "Online Mind Mapping"
+
 [MyLifeOrganized](https://www.mylifeorganized.net/) \#software - "The Most Flexible Task Management Tool"
 
 [Slack Is Not Where 'Deep Work' Happens](https://blog.nuclino.com/slack-is-not-where-deep-work-happens?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) \#article
