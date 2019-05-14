@@ -1,5 +1,7 @@
 # Web Development
 
+[xwp/pwa-wp](https://github.com/xwp/pwa-wp) - "WordPress feature plugin to bring Progressive Web Apps \(PWA\) to Core"
+
 ## APIs
 
 [Filestack](https://www.filestack.com/) - "The File Handling Service for Developers. Powerful APIs that allow you to upload, transform and deliver any file into your app."

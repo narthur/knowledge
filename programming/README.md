@@ -8,6 +8,8 @@
 
 [Lobsters](https://lobste.rs/) - "Lobsters is a computing-focused community centered around link aggregation and discussion, launched on July 1st, 2012. The administrator is [Peter Bhat Harkins](https://lobste.rs/u/pushcx) \("pushcx"\), contact him with any support issues. Lobsters was created by [joshua stein](https://lobste.rs/u/jcs) with some specific design goals in mind to avoid problems faced by other link aggregation sites." [Site code on GitHub](https://github.com/lobsters/lobsters).
 
+[Local Composer Package Development](https://medium.com/pvtl/local-composer-package-development-47ac5c0e5bb4) \#article - "When developing a package for say, [Laravel](https://laravel.com/), you’d want to incorporate that package into your vendor folder so that you can test its integration into the project and how it would behave as if someone had pulled it from [Packagist](https://packagist.org/)."
+
 “Show a man a program and frustrate him for a day. Teach a man to program and you frustrate him for a lifetime” \(via [phi's forum profile](https://forum.beeminder.com/u/phi/summary)\).
 
 ## API Design
