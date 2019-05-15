@@ -58,6 +58,10 @@
 
 [PandoMonthly: Fireside Chat With Elon Musk](https://www.youtube.com/watch?v=uegOUmgKB4E) \#video - "Sarah Lacy talked to Elon Musk of Tesla Motors and SpaceX during PandoMonthly and went into detail on what other entreprenuers should do while raising venture capital, why he isn't going to be doing another Internet startup, his thoughts on CleanTech, the launch of SpaceX, and finally, his plans for the future."
 
+## 2018
+
+[Elon Musk Answers Your Questions! \| SXSW 2018](https://www.youtube.com/watch?v=kzlUyrccbos) \#video - "From space travel to deep earth boring, Elon Musk shares his opinions on AI, Mars, and business. He explores his early years as an entrepreneur that led to creating some of the most cutting-edge companies on the planet, in the planet and beyond. Oh, and there is a great little ditty at the end."
+
 ## 2019
 
 [ENEMIES NO MORE: MICROSOFT BRINGS THE LINUX KERNEL TO WINDOWS](https://www.wired.com/story/enemies-no-more-microsoft-brings-linux-kernel-windows/) \#article - "FOR DECADES, MICROSOFT Windows and the [open source](https://www.wired.com/story/wired-guide-open-source-software/)Linux operating system were polar opposites. Windows was developed by the biggest software company in the world, one that was no friend to open source. [Linux](https://www.wired.com/tag/linux/) was developed by a ragtag team of programmers scattered around the world, often working in their spare time. But over the years, open source, and Linux in particular, went mainstream. Linux now powers the majority of the world's web servers and underpins Android, the world’s most popular mobile operating system. That forced a change in how Microsoft treated the rival operating system. First it began [supporting Linux](https://www.wired.com/2012/05/microsoft-linux/) on its cloud service Azure. Then it began releasing software for Android and Linux and even [using Linux internally](https://www.wired.com/2016/03/now-can-use-linux-just-like-microsoft/) to power Azure. Now Microsoft is bringing the heart of Linux into Windows."
