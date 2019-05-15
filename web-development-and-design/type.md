@@ -1,0 +1,14 @@
+# Type
+
+[Controlling Font Performance with font-display](https://developers.google.com/web/updates/2016/02/font-display?utm_source=lighthouse&utm_medium=extension) \#article - "Deciding the behavior for a web font as it is loading can be an important performance tuning technique. The new font-display descriptor for `@font-face` lets developers decide how their web fonts will render \(or fallback\), depending on how long it takes for them to load."
+
+[FontSquirrel](https://www.fontsquirrel.com/) - "Free fonts have met their match. We know how hard it is to find quality freeware that is licensed for commercial work. We've done the hard work, hand-selecting these typefaces and presenting them in an easy-to-use format."
+
+[Google Fonts](https://fonts.google.com/) - "We believe the best way to bring personality and performance to websites and products is through great design and technology. Our goal is to make that process simple, by offering an intuitive and robust directory of open source designer web fonts. By using our extensive catalog, you can share and integrate typography into any design project seamlessly—no matter where you are in the world."
+
+[Google Fonts and font-display](https://css-tricks.com/google-fonts-and-font-display/) \#article - "The [`font-display`](https://css-tricks.com/almanac/properties/f/font-display/) descriptor in [`@font-face`](https://css-tricks.com/snippets/css/using-font-face/) blocks is really great. It goes a long way, all by itself, for improving the perceived performance of web font loading. Loading web fonts is tricky stuff and having a tool like this that works as well as it does is a big deal for the web. It's such a big deal that Google's own [Pagespeed Insights / Lighthouse](https://developers.google.com/speed/pagespeed/insights/) will ding you for not using it. A cruel irony, as their own Google Fonts \(easily the most-used repository of custom fonts on the web\) don't offer any way to use `font-display`."
+
+[How to Load Web Fonts in 2019 🎆](https://www.youtube.com/watch?v=s-G1m23Emlk)\#video - "After a lot of experimentation I've come across my preferred way of loading web fonts. I have balanced ease of use, i.e. how to implement, with performance."
+
+[Pixels vs. Ems: Users DO Change Font Size](https://medium.com/@vamptvo/pixels-vs-ems-users-do-change-font-size-5cfb20831773) \#article - “The question was “How many users browse the main Internet Archive site with a default font size other than the common value of 16 pixels?” By knowing this, we would determine how many users would be affected by sizing with relative units like rems/ems. Using the methodology I describe below, we found that the answer is 3.08% of our users. That’s a pretty big number, higher than most counts of the market share of browsers like Internet Explorer, Edge, or Opera Mini.”
+

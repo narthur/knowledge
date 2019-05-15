@@ -56,16 +56,6 @@ VeggieIpsum
 
 [Links to cross-origin destinations are unsafe](https://developers.google.com/web/tools/lighthouse/audits/noopener?utm_source=lighthouse&utm_medium=extension) \#article - "The other page can access your `window` object with the `window.opener` property. This exposes an [attack surface](https://en.wikipedia.org/wiki/Attack_surface) because the other page can potentially redirect your page to a malicious URL. See [About rel=noopener](https://mathiasbynens.github.io/rel-noopener/)."
 
-## Typography
-
-[Controlling Font Performance with font-display](https://developers.google.com/web/updates/2016/02/font-display?utm_source=lighthouse&utm_medium=extension) \#article - "Deciding the behavior for a web font as it is loading can be an important performance tuning technique. The new font-display descriptor for `@font-face` lets developers decide how their web fonts will render \(or fallback\), depending on how long it takes for them to load."
-
-[Google Fonts and font-display](https://css-tricks.com/google-fonts-and-font-display/) \#article - "The [`font-display`](https://css-tricks.com/almanac/properties/f/font-display/) descriptor in [`@font-face`](https://css-tricks.com/snippets/css/using-font-face/) blocks is really great. It goes a long way, all by itself, for improving the perceived performance of web font loading. Loading web fonts is tricky stuff and having a tool like this that works as well as it does is a big deal for the web. It's such a big deal that Google's own [Pagespeed Insights / Lighthouse](https://developers.google.com/speed/pagespeed/insights/) will ding you for not using it. A cruel irony, as their own Google Fonts \(easily the most-used repository of custom fonts on the web\) don't offer any way to use `font-display`."
-
-[How to Load Web Fonts in 2019 🎆](https://www.youtube.com/watch?v=s-G1m23Emlk)\#video - "After a lot of experimentation I've come across my preferred way of loading web fonts. I have balanced ease of use, i.e. how to implement, with performance."
-
-[Pixels vs. Ems: Users DO Change Font Size](https://medium.com/@vamptvo/pixels-vs-ems-users-do-change-font-size-5cfb20831773) \#article - “The question was “How many users browse the main Internet Archive site with a default font size other than the common value of 16 pixels?” By knowing this, we would determine how many users would be affected by sizing with relative units like rems/ems. Using the methodology I describe below, we found that the answer is 3.08% of our users. That’s a pretty big number, higher than most counts of the market share of browsers like Internet Explorer, Edge, or Opera Mini.”
-
 ## Sources
 
 [CSS-Tricks](https://css-tricks.com/) - "CSS-Tricks is created, written by, and maintained by [Chris Coyier](https://chriscoyier.net/) and [a team](https://css-tricks.com/about/) of swell people. It is built on WordPress and powered up by [Jetpack](https://css-tricks.com/jetpack/). It is made possible through [sponsorships](https://css-tricks.com/advertising/) from products and services we like."
