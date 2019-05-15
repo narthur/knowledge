@@ -34,6 +34,8 @@
 
 ## 2007
 
+[Apple Keynote 2007 Complete - iPhone](https://www.youtube.com/watch?v=VKpaK670U7s) \#video - "Watch Apple CEO Steve Jobs kick off the Macworld Conference & Expo 2007 with a keynote address from San Francisco's Moscone West. Check out the exciting new developments at Apple, which include the addition of Paramount movies to iTunes, Apple TV, which allows you to wirelessly play all of your iTunes content from your Mac or PC on your television, and the pioneering iPhone. This revolutionary product is a widescreen iPod with touch controls, a mobile phone, and an Internet communications device all in one."
+
 [Steve Jobs and Bill Gates Together in 2007 at D5](https://www.youtube.com/watch?v=ZWaX1g_2SSQ)
 
 [Steve Jobs in 2007, at D5 Conference \(Edited, Full Video\)](https://www.youtube.com/watch?v=WktCKB-QMkk) \#video - "Steve Jobs full interview with Walt Mossberg at the All Things Digital: D5 Conference in 2007. ❡ Steve Jobs Demo of Apple TV and YouTube app on Apple TV has been removed from this video as it contains third-party content with respective YouTube Content IDs."
