@@ -34,6 +34,10 @@
 
 [Bootstrap](https://getbootstrap.com/) - “Build responsive, mobile-first projects on the web with the world’s most popular front-end component library. Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.”
 
+[Sapper](https://sapper.svelte.dev/) - "The next small thing in web development. Sapper is a framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing. ❡ Unlike single-page apps, Sapper doesn't compromise on SEO, progressive enhancement or the initial load experience — but unlike traditional server-rendered apps, navigation is instantaneous for that app-like feel."
+
+[Svelte](https://svelte.dev/) - "Cybernetically enhanced web apps. Svelte is a radical new approach to building user interfaces. Whereas traditional frameworks like React and Vue do the bulk of their work in the _browser_, Svelte shifts that work into a _compile step_ that happens when you build your app. ❡ Instead of using techniques like virtual DOM diffing, Svelte writes code that surgically updates the DOM when the state of your app changes."
+
 ## HTML
 
 [Key Value Arrays in Twig](https://mijingo.com/blog/key-value-arrays-in-twig) \#article - "A hash is one of [several types of literals available in Twig](http://twig.sensiolabs.org/doc/templates.html#literals). It has a key and a value. The pairs are separated by a comma and enclosed in curly braces."
@@ -51,6 +55,14 @@
 [How to Load Web Fonts in 2019 🎆](https://www.youtube.com/watch?v=s-G1m23Emlk)\#video - "After a lot of experimentation I've come across my preferred way of loading web fonts. I have balanced ease of use, i.e. how to implement, with performance."
 
 [Links to cross-origin destinations are unsafe](https://developers.google.com/web/tools/lighthouse/audits/noopener?utm_source=lighthouse&utm_medium=extension) \#article - "When you open another page using `target="_blank"`, the other page may run on the same process as your page, unless [Site Isolation](https://developers.google.com/web/updates/2018/07/site-isolation) is enabled. If the other page is running a lot of JavaScript, your page's performance may also suffer. See [The Performance Benefits of `rel=noopener`](https://jakearchibald.com/2016/performance-benefits-of-rel-noopener/)."
+
+## Placeholder Content
+
+[Cupcake Ipsum](http://www.cupcakeipsum.com/#/paragraphs/5/length/long/with_love/true/start_with_cupcake/false/seed/5a49403db7af57f6ec84b789da160450f96d8dd3b775ec955eaaabd84c99e587)  - "How about using auto-generated text that will actually make people love your project even more? Pretty sweet, right?"
+
+Unsplash
+
+VeggieIpsum
 
 ## Security
 

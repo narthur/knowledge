@@ -10,6 +10,8 @@
 
 [Great developers are raised, not hired](https://sizovs.net/2019/04/10/the-best-developers-are-raised-not-hired/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) \#article - "By building mentoring capacity at work, you can hire newcomers, broken toys, impostors and turn them into the loyal, high-quality workforce. Shifting focus from assessing to mentoring can simplify your interviewing process. Instead of trying to predict future performance by asking tough questions and sending candidate through nine circles of hell, you can hire candidates with a growth mindset and grow them."
 
+[Joustlist](https://joustlist.com/) - "For just $5.99 per month, Joustlist Premium eases your stress by keeping all your prospects organized in one place, helps you compile the data that means the most to you, and even reminds you to follow up to keep you at the top of your game."
+
 [Key Values](https://www.keyvalues.com/) - "Find engineering teams that share your values. Select your top values and find teams you'll click with."
 
 [ResumeSkills.us](https://resumeskills.us/) - "Most candidates approach resume writing at the wrong level. Yes, picking the skills to put on a resume is important. But the overall impression of the capabilities you bring to the team is far more critical to getting hired. We're going to walk through how to tweak these resume skills to your advantage to help you land the right job."
