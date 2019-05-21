@@ -20,6 +20,8 @@ Tools I've used in the past:
 
 ## Links
 
+[Amazing Marvin](https://www.amazingmarvin.com/) \#webapp - "THE ULTIMATE PRODUCTIVITY TOOL. Get more done with more ease. Marvin incorporates principles from behavioral psychology to help you beat procrastination, feel in control and finish your to-do list."
+
 [FocusMe](https://focusme.com/)
 
 [MindMeister](https://www.mindmeister.com/) \#webapp - "Online Mind Mapping"
