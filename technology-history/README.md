@@ -1,5 +1,7 @@
 # Technology History
 
+[Apple’s Secret iPhone Launch Team: The Event That Began It All](https://www.youtube.com/watch?v=xxBc1c3uAJw) \#video - "As Tim Cook and Apple launch the iPhone 8 and the iPhone X, the story of Steve Jobs’ original vision is told through exclusive interviews with former Apple executives Scott Forstall, Tony Fadell and Greg Christie. Together they made up the secret Project Purple team and created one of the best-selling products ever."
+
 [Apple's Twiggy Disks](http://www.brouhaha.com/~eric/retrocomputing/lisa/twiggy.html) \#article - "In the early '80s, Apple fell victim to a serious case of NIH Syndrome \(Not Invented Here\), and decided to manufacture their own disk drives. Not content to be industry compatible, instead they designed what they believed to be leading-edge drives: the Twiggy floppy drive and the Widget hard drive."
 
 [Apple Worldwide Developers Conference](https://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference) \#article - Wikipedia. "WWDC began in 1987 in [Santa Clara](https://en.wikipedia.org/wiki/Santa_Clara,_California). After 15 years in nearby San Jose, the conference moved to [San Francisco](https://en.wikipedia.org/wiki/San_Francisco), where it eventually became Apple's primary media event of the year and regularly sold out. WWDC returned to San Jose 13 years later."
