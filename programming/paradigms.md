@@ -18,5 +18,7 @@
 
 [Dependency Injection basics- Fun Fun Function](https://www.youtube.com/watch?v=0X1Ns2NRfks) \#video
 
+\_\_[_Dive Into Design Patterns_](https://refactoring.guru/design-patterns/book) \#book - "**Design patterns** help you solve commonly-occurring problems in software design. But you can’t just find a pattern and copy it into your program, the way you can with off-the-shelf functions or libraries. A pattern is not a specific piece of code, but a general concept for solving a particular problem. They are like pre-made blueprints that you can customize to solve a recurring design problem in your code."
+
 [Inversion of Control - Fun Fun Function](https://www.youtube.com/watch?v=-kpEP4JeEdc) \#video
 
