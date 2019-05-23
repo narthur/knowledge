@@ -2,6 +2,15 @@
 
 {% embed url="https://www.youtube.com/watch?v=rVmMbMa3ncI" %}
 
+## Strategies
+
+* Look up college course reading lists.
+* Find the top performers in the field and study them.
+* Take advantage of resources provided by public and university libraries in your area, such as free access to Lynda.com and academic databases.
+* Use a service like Beeminder or StickK to commit to putting in the effort.
+* Have a public place where you publish regular updates on your progress. \(Beemind this, too!\)
+* Take and publish notes.
+
 ## Ranking Criteria
 
 Rank potential topics based on criteria
