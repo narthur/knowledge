@@ -27,6 +27,8 @@ console.log(found);
 
 [egghead.io](https://egghead.io/) - "Learn the best JavaScript tools and frameworks from industry pros. Video tutorials for badass web developers."
 
+[Factory Functions in JavaScript](https://www.youtube.com/watch?v=ImwrezYhw4w&feature=youtu.be) \#video
+
 [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) \#playlist - "This is a collection of the videos from FunFunFunction that is specifically about functional programming in JavaScript"
 
 [Getting creative with the Console API!](https://areknawo.com/getting-creative-with-the-console-api/) \#article - "**Debugging** in JavaScript has always been inseparably connected with the [**Console API**](https://developer.mozilla.org/en-US/docs/Web/API/Console), which is most of the time used only through `console.log()`. But, did you know that it doesn't have to be this way? Hasn't `console.log()` already bored you with its **monolithic** output? Do you want to make your logs better, to make them **prettier**? 💅 If so, follow me, as we'll discover how colorful and playful Console API can really be!"
