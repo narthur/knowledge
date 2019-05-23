@@ -1,5 +1,7 @@
 # Self-Study
 
+{% embed url="https://www.youtube.com/watch?v=rVmMbMa3ncI" %}
+
 ## Ranking Criteria
 
 Rank potential topics based on criteria
