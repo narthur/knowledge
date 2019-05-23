@@ -4,6 +4,8 @@
 
 [Gumroad](https://gumroad.com/) - "Gumroad helps creators do more of what they love. We have sent over $195M to artists, designers, educators, writers, influencers and more."
 
+[My Video Went Viral. Here's Why](https://www.youtube.com/watch?v=fHsa9DqmId8&feature=youtu.be) \#video - "My hypothesis is that the algorithm, rather than viewer preference, drives views on the site. As the algorithm shifts, various YouTubers experience burnout \(as what used to work no longer works\) and right now click-through rate is the key metric. So clickable titles and thumbnails are the only way to get a lot of impressions and hence views - they are the only way to go viral. This leads me to wonder which audiences will become most prevalent on the site and if there will even be a place for educational content. In the long-term, hopefully YouTube is able to measure satisfaction through surveys and other metrics to ensure an optimal experience for everyone on the site."
+
 [How to use emoji, accents, and symbols on your Mac](https://support.apple.com/en-us/HT201586) \#article - "macOS includes features that make it easy to find and type special characters like emoji and currency symbols."
 
 [Liberapay](https://liberapay.com/) - "Liberapay is a recurrent donations platform. We help you fund the creators and projects you appreciate."
