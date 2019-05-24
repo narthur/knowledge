@@ -28,7 +28,7 @@ Tools I've used in the past:
 
 [FocusMe](https://focusme.com/)
 
-[How to Get Motivated: A Guide for Defeating Procrastination](https://alexvermeer.com/getmotivated/) \#article - "I created a flowchart, to be printed in colour and posted somewhere visible, to help me _actually use_the anti-procrastination advice I so desperately need!"
+[How to Get Motivated: A Guide for Defeating Procrastination](https://alexvermeer.com/getmotivated/) \#article - "I created a flowchart, to be printed in colour and posted somewhere visible, to help me _actually use_ the anti-procrastination advice I so desperately need!"
 
 [MindMeister](https://www.mindmeister.com/) \#webapp - "Online Mind Mapping"
 
