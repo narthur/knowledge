@@ -1,4 +1,4 @@
-# Governance
+# Governance & Politics
 
 ## Democracy
 
@@ -11,6 +11,18 @@
 [Pizza to the Polls](https://polls.pizza/) - "Waiting in line for hours to vote? Tummies grumblin? Pizza to the Polls is here to help. Send us reports of long lines and we'll send in the delicious reinforcements."
 
 [Quadratic voting](https://en.wikipedia.org/wiki/Quadratic_voting) \#article - "Quadratic voting \(sometimes abbreviated QV\) is a collective decision-making procedure, where participants express how strongly they feel about an issue rather than just whether they are in favor of it or opposed to it."
+
+## Fact Checking
+
+[Factba.se](https://factba.se/)
+
+[FactCheck.org](https://www.factcheck.org/) - "A Project of The Annenberg Public Policy Center"
+
+[NPR Fact Check](https://www.npr.org/sections/politics-fact-check/)
+
+[PolitiFact](https://www.politifact.com/truth-o-meter/)
+
+[The Washington Post Fact Checker](https://www.washingtonpost.com/news/fact-checker/?noredirect=on&utm_term=.3a4fc449dbad) - "The Truth Behind The Rhetoric \| By Glenn Kessler"
 
 
 
