@@ -20,6 +20,7 @@
 * [Futurism](futurism.md)
 * [Governance & Politics](governance.md)
 * [Health](health.md)
+* [Humane Tech](humane-tech.md)
 * [Productivity](productivity/README.md)
   * [Audio for Focus](productivity/audio-for-focus.md)
 * [Programming Languages](programming-languages/README.md)
