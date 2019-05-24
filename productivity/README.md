@@ -20,11 +20,15 @@ Tools I've used in the past:
 
 ## Links
 
+[8,760 Hours](https://drive.google.com/file/d/0B2PaeRjVqAN7MngxTXFPQkpLVjg/view) \#pdf - "How to get the most out of the next year"
+
 [Amazing Marvin](https://www.amazingmarvin.com/) \#webapp - "THE ULTIMATE PRODUCTIVITY TOOL. Get more done with more ease. Marvin incorporates principles from behavioral psychology to help you beat procrastination, feel in control and finish your to-do list."
 
 [Flowstate](http://hailoverman.com/flowstate) - "Flowstate is guided by a simple philosophy: flow, then react. It is the first writing tool to emphasize the distinction between writing and editing. Unlike other writing programs, Flowstate features a sacred space for initial creation, with rigid laws enlisted to unleash a person's thoughts, feelings, and ideas like water."
 
 [FocusMe](https://focusme.com/)
+
+[How to Get Motivated: A Guide for Defeating Procrastination](https://alexvermeer.com/getmotivated/) \#article - "I created a flowchart, to be printed in colour and posted somewhere visible, to help me _actually use_the anti-procrastination advice I so desperately need!"
 
 [MindMeister](https://www.mindmeister.com/) \#webapp - "Online Mind Mapping"
 
@@ -51,4 +55,8 @@ Tools I've used in the past:
 [Tasker](https://tasker.joaoapps.com/index.html) \#app - "Total Automation for Android"
 
 [Tasker on the Play Store](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) \#app - "Total Automation, From Settings to SMS."
+
+### Sources
+
+[Alex Vermeer](https://alexvermeer.com/blog/) \#blog - "I drink coffee, climb rocks, play go, and read books. I research and use tools for that improve my thinking, productivity, and life in general. I strive to reduce friction in my life, keep things minimal, and simplify. Sometimes I write."
 

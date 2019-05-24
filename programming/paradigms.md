@@ -22,3 +22,5 @@
 
 [Inversion of Control - Fun Fun Function](https://www.youtube.com/watch?v=-kpEP4JeEdc) \#video
 
+[Refactoring From Inheritance To Composition To Data](https://www.rubypigeon.com/posts/refactoring-inheritance-composition-data/) \#article - "[“Prefer composition over inheritance”](http://www.artima.com/lejava/articles/designprinciples4.html) is a popular saying amongst programmers. In this article, I want to demonstrate what that looks like."
+

@@ -53,6 +53,12 @@ sorted(numbers, key=numbers.__getitem__)
 ['first', 'second', 'third', 'Fourth']
 ```
 
+Check of datetime object is localized \([source](https://stackoverflow.com/a/27596917/937377)\):
+
+```python
+d.tzinfo is not None and d.tzinfo.utcoffset(d) is not None
+```
+
 ## Links
 
 [Python File I/O](https://www.programiz.com/python-programming/file-operation) \#article - "In this article, you'll learn about Python file operations. More specifically, opening a file, reading from it, writing into it, closing it and various file methods you should be aware of."
@@ -88,4 +94,16 @@ _Web Scraping with Python_ by Ryan Mitchell
 ### matplotlib
 
 [Matplotlib trendline](http://widu.tumblr.com/post/43624347354/matplotlib-trendline) \#article - "Drawing a trendline of a scatter plot in matplotlib is very easy thanks to numpy’s polyfit function."
+
+### pytz
+
+[List of tz database time zones](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) \#article - Wikipedia. "This is a list of time zones from release 2017c of the [tz database](https://en.wikipedia.org/wiki/Tz_database)."
+
+[pytz on pypi](https://pypi.org/project/pytz/) - "pytz brings the Olson tz database into Python. This library allows accurate and cross platform timezone calculations using Python 2.4 or higher. It also solves the issue of ambiguous times at the end of daylight saving time, which you can read more about in the Python Library Reference \(`datetime.tzinfo`\)."
+
+[pytz - World Timezone Definitions for Python](https://pythonhosted.org/pytz/) \#article - Docs. "pytz brings the Olson tz database into Python. This library allows accurate and cross platform timezone calculations using Python 2.4 or higher. It also solves the issue of ambiguous times at the end of daylight saving time, which you can read more about in the Python Library Reference \(datetime.tzinfo\)."
+
+[Time Zone Database](http://www.iana.org/time-zones) - IANA. "The Time Zone Database \(often called tz or zoneinfo\) contains code and data that represent the history of local time for many representative locations around the globe. It is updated periodically to reflect changes made by political bodies to time zone boundaries, UTC offsets, and daylight-saving rules. Its management procedure is documented in [BCP 175: Procedures for Maintaining the Time Zone Database](http://www.iana.org/go/rfc6557)."
+
+[tz database](https://en.wikipedia.org/wiki/Tz_database) \#article - Wikipedia. "The **tz database** is a collaborative compilation of information about the world's [time zones](https://en.wikipedia.org/wiki/Time_zone), primarily intended for use with computer programs and operating systems.[\[2\]](https://en.wikipedia.org/wiki/Tz_database#cite_note-2) Paul Eggert is its current editor and maintainer,[\[3\]](https://en.wikipedia.org/wiki/Tz_database#cite_note-3) with the organizational backing of [ICANN](https://en.wikipedia.org/wiki/ICANN).[\[4\]](https://en.wikipedia.org/wiki/Tz_database#cite_note-:0-4) The tz database is also known as **tzdata**, the **zoneinfo database** or **IANA time zone database**, and occasionally as the **Olson database**, referring to the founding contributor, Arthur David Olson.[\[5\]](https://en.wikipedia.org/wiki/Tz_database#cite_note-5)"
 
