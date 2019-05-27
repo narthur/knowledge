@@ -24,6 +24,8 @@
 
 ## Sketch App
 
+[Open .ai in Sketch](https://blog.nocturnalmonkey.com/open-ai-in-sketch/) \#article - "Today I was sent an Illustrator \(.ai\) file from a client which I needed to use to output a .svg file. The only problem is I don't have Illustrator so I had to go searching for a solution."
+
 [Saving time in Sketch](https://medium.com/sketch-app-sources/saving-time-in-sketch-7042142c8a8e) \#article - "A collection of 6 time saving design techniques."
 
 [Sketch Shortcuts](https://sketchshortcuts.com/) - "A list of Keyboard Shortcuts for Sketch App."
