@@ -4,6 +4,8 @@
 
 [Design Process for ANYTHING](https://www.youtube.com/watch?v=LHWnQOlX7Cw) \#video - "If you don't have an well structured design process, it means you're just winging it, and most probably won't get good results."
 
+[The first secret of great design \| Tony Fadell](https://www.youtube.com/watch?v=9uOMectkCCs) \#video - "As human beings, we get used to "the way things are" really fast. But for designers, the way things are is an opportunity ... Could things be better? How? In this funny, breezy talk, the man behind the iPod and the Nest thermostat shares some of his tips for noticing — and driving — change."
+
 ## Design Thinking
 
 ![https://citl.illinois.edu/paradigms/design-thinking](https://citl.illinois.edu/images/default-source/default-album/default-album/designthinkinggraphic.png?sfvrsn=4&MaxWidth=900&MaxHeight=&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=4863C7B29AC7D6FD6BBA069782685245F3DFB3F3)
