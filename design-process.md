@@ -2,6 +2,8 @@
 
 [Aaron Draplin Takes On a Logo Design Challenge](https://www.youtube.com/watch?v=zOPA0NaeTBk) \#video - "Most logos aren't designed in fifteen minutes, but most designers aren't Aaron Draplin. Aaron's a Portland fixture by way of the Midwest, the owner of Draplin Design Co., and an advocate of "blue collar" design: design that works. Here he takes our logo design challenge, creating a dozen iterations of a logo for a fictional construction company. Not inspired? Just wait. Watch as he sketches, brings his ideas into Illustrator, and tests and tunes the different iterations. The logos Aaron creates prove design can elevate any company or brand. Along the way, he provides tips for freelancing, finding inspiration, and providing clients context for logos that won't just live in PDFs."
 
+[Design Process for ANYTHING](https://www.youtube.com/watch?v=LHWnQOlX7Cw) \#video - "If you don't have an well structured design process, it means you're just winging it, and most probably won't get good results."
+
 ## Design Thinking
 
 ![https://citl.illinois.edu/paradigms/design-thinking](https://citl.illinois.edu/images/default-source/default-album/default-album/designthinkinggraphic.png?sfvrsn=4&MaxWidth=900&MaxHeight=&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=4863C7B29AC7D6FD6BBA069782685245F3DFB3F3)
