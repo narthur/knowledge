@@ -60,3 +60,5 @@ Tools I've used in the past:
 
 [Alex Vermeer](https://alexvermeer.com/blog/) \#blog - "I drink coffee, climb rocks, play go, and read books. I research and use tools for that improve my thinking, productivity, and life in general. I strive to reduce friction in my life, keep things minimal, and simplify. Sometimes I write."
 
+[Cal Newport](http://www.calnewport.com/blog/) \#blog - "I'm a [computer science professor](http://people.cs.georgetown.edu/~cnewport/) who writes about the intersection of technology and society. I’m particularly interested in the impact of new technologies on our ability to perform productive work and lead satisfying lives. If you’re new to my writing, a good place to start is the [about page](http://calnewport.com/about/). You can access over a decade's worth of posts in the [blog archive](http://calnewport.com/blog/archive/)."
+
