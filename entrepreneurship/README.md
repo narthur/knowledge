@@ -8,6 +8,8 @@
 
 [The Four Steps to Epiphany](https://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf) \#book - by Steven G. Blank
 
+[The Other Side of Burnout](https://www.youtube.com/watch?v=zHMfmcIWXT8) \#video
+
 [Stripe Atlas](https://stripe.com/atlas) - "The best way to start an internet business. Starting a company can be needlessly complicated—lengthy paperwork, bank visits, legal complexity, numerous fees, and non-obvious decisions about what services to use. We built Stripe Atlas to make this easy: a tool to handle everything involved in establishing an internet business. It’s available to entrepreneurs everywhere."
 
 [Your Whole Goal Is to Not Quit - Courtland Allen of Indie Hackers](https://www.youtube.com/watch?v=HR4nKgDnPHs) \#video  - Takeaways: 
