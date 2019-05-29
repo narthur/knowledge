@@ -32,5 +32,7 @@ Tim Cook
 
 [The Story of SpaceX \| ColdFusion](https://www.youtube.com/watch?v=iSv63RaZeuo&list=PLIilwIraDV2Ib7pm2whTH1JFyKCN0rIz_&index=2) \#video - "SpaceX is set to turn the aerospace industry upside down. This isn't the most amazing thing \(and the real achievement\) is the pure ambition that SpaceX's founder Elon Musk and his team possesses. Watch and find out the story."
 
+[Timeboxing: Elon Musk's Time Management Method](https://www.youtube.com/watch?v=fbAYK4KQrso) \#video
+
 [We saw the first Hyperloop tubes in the desert](https://www.youtube.com/watch?v=14Hs0r5RUww&list=PLIilwIraDV2Ib7pm2whTH1JFyKCN0rIz_&index=2) \#video - "Hyperloop Technologies has begun work on a Hyperloop test track -- the futuristic transportation system envisioned by Elon Musk. Laurie Segall reports."
 

@@ -24,8 +24,6 @@ Tools I've used in the past:
 
 [Amazing Marvin](https://www.amazingmarvin.com/) \#webapp - "THE ULTIMATE PRODUCTIVITY TOOL. Get more done with more ease. Marvin incorporates principles from behavioral psychology to help you beat procrastination, feel in control and finish your to-do list."
 
-[Deep Habits: The Importance of Planning Every Minute of Your Work Day](http://www.calnewport.com/blog/2013/12/21/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/) \#article - "I call this planning method _time blocking_. I take time blocking seriously, dedicating ten to twenty minutes every evening to building my schedule for the next day. During this planning process I consult my task lists and calendars, as well as my weekly and quarterly planning notes. My goal is to make sure progress is being made on the right things at the right  pace for the relevant deadlines."
-
 [Flowstate](http://hailoverman.com/flowstate) - "Flowstate is guided by a simple philosophy: flow, then react. It is the first writing tool to emphasize the distinction between writing and editing. Unlike other writing programs, Flowstate features a sacred space for initial creation, with rigid laws enlisted to unleash a person's thoughts, feelings, and ideas like water."
 
 [FocusMe](https://focusme.com/)
@@ -37,10 +35,6 @@ Tools I've used in the past:
 [MyLifeOrganized](https://www.mylifeorganized.net/) \#software - "The Most Flexible Task Management Tool"
 
 [Slack Is Not Where 'Deep Work' Happens](https://blog.nuclino.com/slack-is-not-where-deep-work-happens?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) \#article
-
-[Timeular](https://timeular.com/?ref=producthunt) - "Track, understand and improve how you work. Timeular helps you visualize your time and become more productive." Physical device for time tracking.
-
-[TomatoTimer](https://tomato-timer.com/)
 
 [TypeRacer](https://play.typeracer.com/)
 
@@ -57,6 +51,16 @@ Tools I've used in the past:
 [Tasker](https://tasker.joaoapps.com/index.html) \#app - "Total Automation for Android"
 
 [Tasker on the Play Store](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) \#app - "Total Automation, From Settings to SMS."
+
+### Time Management
+
+[Deep Habits: The Importance of Planning Every Minute of Your Work Day](http://www.calnewport.com/blog/2013/12/21/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/) \#article - "I call this planning method _time blocking_. I take time blocking seriously, dedicating ten to twenty minutes every evening to building my schedule for the next day. During this planning process I consult my task lists and calendars, as well as my weekly and quarterly planning notes. My goal is to make sure progress is being made on the right things at the right  pace for the relevant deadlines."
+
+[Timeboxing: Elon Musk's Time Management Method](https://www.youtube.com/watch?v=fbAYK4KQrso) \#video
+
+[Timeular](https://timeular.com/?ref=producthunt) - "Track, understand and improve how you work. Timeular helps you visualize your time and become more productive." Physical device for time tracking.
+
+[TomatoTimer](https://tomato-timer.com/)
 
 ### Sources
 
