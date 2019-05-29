@@ -34,6 +34,8 @@ Tools I've used in the past:
 
 [MyLifeOrganized](https://www.mylifeorganized.net/) \#software - "The Most Flexible Task Management Tool"
 
+"Plans are nothing; planning is everything" \(Dwight D. Eisenhower; [via BrainyQuote](https://www.brainyquote.com/quotes/dwight_d_eisenhower_149111)\).
+
 [Slack Is Not Where 'Deep Work' Happens](https://blog.nuclino.com/slack-is-not-where-deep-work-happens?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) \#article
 
 [TypeRacer](https://play.typeracer.com/)
