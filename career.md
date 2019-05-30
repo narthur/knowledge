@@ -36,3 +36,5 @@
 
 [The Balance Careers](https://www.thebalancecareers.com/) \#blog
 
+[Cal Newport](http://www.calnewport.com/blog/) \#blog
+
