@@ -70,6 +70,10 @@
 
 [John Sculley On How Steve Jobs Got Fired From Apple \| Forbes](https://www.youtube.com/watch?v=f8V4XhtQ4H8) \#video - "On Thursday, Sculley gave perhaps his fullest public account ever of the circumstances surrounding Apple's firing of Steve Jobs."
 
+## 2016
+
+Oct 5, 2016: [Some of Steve Jobs’s best interviews, five years after his death](https://www.youtube.com/watch?v=boCM-3W6-Sk) \#video - "Steve Jobs didn’t do many onstage interviews while he was leading Apple’s comeback. ❡ An exception was his regular presence at the D: All Things Digital conference, created and produced by Recode co-founders Kara Swisher and Walt Mossberg."
+
 ## 2018
 
 [Elon Musk Answers Your Questions! \| SXSW 2018](https://www.youtube.com/watch?v=kzlUyrccbos) \#video - "From space travel to deep earth boring, Elon Musk shares his opinions on AI, Mars, and business. He explores his early years as an entrepreneur that led to creating some of the most cutting-edge companies on the planet, in the planet and beyond. Oh, and there is a great little ditty at the end."
