@@ -14,6 +14,8 @@
 
 ## 1995
 
+[Jobs on Sculley](https://www.youtube.com/watch?v=tCObyEnetFs) \#video
+
 [Steve Jobs about Microsoft 1995](https://www.youtube.com/watch?v=IKxOywaoUKo) \#video - "A conversation with Steve Jobs as he was running NeXT, the company he had founded after leaving Apple."
 
 ## 1997
