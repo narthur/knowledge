@@ -66,6 +66,10 @@
 
 [PandoMonthly: Fireside Chat With Elon Musk](https://www.youtube.com/watch?v=uegOUmgKB4E) \#video - "Sarah Lacy talked to Elon Musk of Tesla Motors and SpaceX during PandoMonthly and went into detail on what other entreprenuers should do while raising venture capital, why he isn't going to be doing another Internet startup, his thoughts on CleanTech, the launch of SpaceX, and finally, his plans for the future."
 
+## 2013
+
+[John Sculley On How Steve Jobs Got Fired From Apple \| Forbes](https://www.youtube.com/watch?v=f8V4XhtQ4H8) \#video - "On Thursday, Sculley gave perhaps his fullest public account ever of the circumstances surrounding Apple's firing of Steve Jobs."
+
 ## 2018
 
 [Elon Musk Answers Your Questions! \| SXSW 2018](https://www.youtube.com/watch?v=kzlUyrccbos) \#video - "From space travel to deep earth boring, Elon Musk shares his opinions on AI, Mars, and business. He explores his early years as an entrepreneur that led to creating some of the most cutting-edge companies on the planet, in the planet and beyond. Oh, and there is a great little ditty at the end."
