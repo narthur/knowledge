@@ -50,3 +50,5 @@
 
 [Inside Intercom](https://www.intercom.com/blog/) \#blog
 
+[A Smart Bear](https://blog.asmartbear.com/) \#blog
+

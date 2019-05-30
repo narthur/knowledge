@@ -32,3 +32,9 @@
 
 [SwiftCV](https://www.swiftcv.com/?ref=producthunt) - "Build simple yet powerful web responsive resume in minutes at free of cost. The all-in-one platform powering your professional presence online. This will be the only resume that you’ll ever need."
 
+## Sources
+
+[The Balance Careers](https://www.thebalancecareers.com/) \#blog
+
+[Cal Newport](http://www.calnewport.com/blog/) \#blog
+
