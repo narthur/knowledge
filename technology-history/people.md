@@ -14,8 +14,6 @@ Linus Torvalds
 
 Mark Zuckerberg
 
-Steve Jobs
-
 Steve Wozniak
 
 Tim Cook
@@ -35,4 +33,8 @@ Tim Cook
 [Timeboxing: Elon Musk's Time Management Method](https://www.youtube.com/watch?v=fbAYK4KQrso) \#video
 
 [We saw the first Hyperloop tubes in the desert](https://www.youtube.com/watch?v=14Hs0r5RUww&list=PLIilwIraDV2Ib7pm2whTH1JFyKCN0rIz_&index=2) \#video - "Hyperloop Technologies has begun work on a Hyperloop test track -- the futuristic transportation system envisioned by Elon Musk. Laurie Segall reports."
+
+## Steve Jobs
+
+[Some of Steve Jobs’s best interviews, five years after his death](https://www.youtube.com/watch?v=boCM-3W6-Sk) \#video - "Steve Jobs didn’t do many onstage interviews while he was leading Apple’s comeback. ❡ An exception was his regular presence at the D: All Things Digital conference, created and produced by Recode co-founders Kara Swisher and Walt Mossberg."
 
