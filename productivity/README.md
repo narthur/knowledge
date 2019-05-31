@@ -22,25 +22,37 @@ Tools I've used in the past:
 
 [8,760 Hours](https://drive.google.com/file/d/0B2PaeRjVqAN7MngxTXFPQkpLVjg/view) \#pdf - "How to get the most out of the next year"
 
-[Amazing Marvin](https://www.amazingmarvin.com/) \#webapp - "THE ULTIMATE PRODUCTIVITY TOOL. Get more done with more ease. Marvin incorporates principles from behavioral psychology to help you beat procrastination, feel in control and finish your to-do list."
+[Contexts](https://contexts.co/) \#software - "Switch between application windows effortlessly — with Fast Search, a better Command-Tab, a Sidebar or even a quick gesture. Includes fantastic features for multiple spaces & multiple displays."
 
 [Flowstate](http://hailoverman.com/flowstate) - "Flowstate is guided by a simple philosophy: flow, then react. It is the first writing tool to emphasize the distinction between writing and editing. Unlike other writing programs, Flowstate features a sacred space for initial creation, with rigid laws enlisted to unleash a person's thoughts, feelings, and ideas like water."
-
-[FocusMe](https://focusme.com/)
 
 [How to Get Motivated: A Guide for Defeating Procrastination](https://alexvermeer.com/getmotivated/) \#article - "I created a flowchart, to be printed in colour and posted somewhere visible, to help me _actually use_ the anti-procrastination advice I so desperately need!"
 
 [MindMeister](https://www.mindmeister.com/) \#webapp - "Online Mind Mapping"
 
-[MyLifeOrganized](https://www.mylifeorganized.net/) \#software - "The Most Flexible Task Management Tool"
-
 "Plans are nothing; planning is everything" \(Dwight D. Eisenhower; [via BrainyQuote](https://www.brainyquote.com/quotes/dwight_d_eisenhower_149111)\).
+
+[Setapp](https://setapp.com/) \#software - "The frontier platform that packs 140+ Mac apps into just one. A personally curated membership for $9.99/mo."
 
 [Slack Is Not Where 'Deep Work' Happens](https://blog.nuclino.com/slack-is-not-where-deep-work-happens?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) \#article
 
+[Station](https://getstation.com/) \#software - "One app to rule them all. Station is the first smart browser for busy people. A single place for all of your web applications."
+
 [TypeRacer](https://play.typeracer.com/)
 
+### Attention Management
+
+[Bunch](https://brettterpstra.com/projects/bunch/) \#software - "A Batch Application Launcher for your Dock"
+
+[Focus](https://heyfocus.com/) \#software - "Reclaim your productivity by blocking distracting sites and applications, like Facebook and Fortnite. Stay on task and in flow to accomplish your best work!"
+
+[FocusMe](https://focusme.com/) \#app \#software - "Break free from distractions, Unleash your productivity. FocusMe is the most powerful App and Website Blocker for Windows, Mac & Android. Our Android app is free!" Coupon code: MAY20
+
+[ScreenFocus](https://www.apptorium.com/screenfocus) \#software - "Working with multiple monitors made right."
+
 [Workspace](https://workspaceproapp.com/) \#software - "Launch/close a bunch of macOS apps just in 1 click!"
+
+[Workspaces](https://www.apptorium.com/workspaces) \#software - "Meet your personal project assistant!"
 
 ### Tasker
 
@@ -56,9 +68,19 @@ Tools I've used in the past:
 
 [Tasker on the Play Store](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) \#app - "Total Automation, From Settings to SMS."
 
+### Task Management
+
+[Amazing Marvin](https://www.amazingmarvin.com/) \#webapp - "THE ULTIMATE PRODUCTIVITY TOOL. Get more done with more ease. Marvin incorporates principles from behavioral psychology to help you beat procrastination, feel in control and finish your to-do list."
+
+[MyLifeOrganized](https://www.mylifeorganized.net/) \#software - "The Most Flexible Task Management Tool"
+
 ### Time Management
 
 [Deep Habits: The Importance of Planning Every Minute of Your Work Day](http://www.calnewport.com/blog/2013/12/21/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/) \#article - "I call this planning method _time blocking_. I take time blocking seriously, dedicating ten to twenty minutes every evening to building my schedule for the next day. During this planning process I consult my task lists and calendars, as well as my weekly and quarterly planning notes. My goal is to make sure progress is being made on the right things at the right  pace for the relevant deadlines."
+
+[Focus Booster](https://www.focusboosterapp.com/) \#software - "Simple pomodoro timer. Powerful productivity boost. Stop procrastinating, focus consistently and track your time. Using focus booster you will achieve more, understand how you use your time and feel satisfied knowing you are productive."
+
+[Focus Time Manager](https://masterbuilders.io/focus) \#software - "The best pomodoro time manager for professionals"
 
 [Timeboxing: Elon Musk's Time Management Method](https://www.youtube.com/watch?v=fbAYK4KQrso) \#video
 

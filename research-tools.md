@@ -27,6 +27,8 @@
 | [Slite](https://slite.com/) |  |  |  |  |  |  |
 | [Ulysses](https://ulysses.app/) |  |  |  |  |  | Mac, iOS |
 | [Typora](https://typora.io/) |  |  |  | Hybrid |  |  |
+| [FiveNotes](https://www.apptorium.com/fivenotes) |  |  |  | Yes? |  |  |
+| [NoteApp](https://www.apptorium.com/noteapp) |  |  |  |  |  |  |
 
 
 
