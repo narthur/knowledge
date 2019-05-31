@@ -4,6 +4,10 @@
 
 [The Transistor: a 1953 documentary, anticipating its coming impact on technology](https://www.youtube.com/watch?v=V9xUQWo4vN0) \#video - "Made between the 1947 invention of the transistor at Bell Labs and the 1956 awarding of the Nobel Prize for Physics to its creators, this documentary is less about the discovery itself than its anticipated impact on technology and society. The intent of the film was clearly to give the public of that era their first understanding of what a transistor was and why it mattered so much."
 
+## 1965
+
+[The Genesis of the Transistor, with Bonus Introduction - AT&T Archives](https://www.youtube.com/watch?v=LRJZtuqCoMw) \#video - "This 1965 film shows footage of them reunited/recreating their 1940s lab time to show how it was done, but in real life they had parted. Bardeen had left the labs in 1951 for the U. of IL; Shockley in 1956 to run a semiconductor company in California \(laying the groundwork for Silicon Valley\), and Brattain retired in 1967 to Whitman College."
+
 ## 1988
 
 [Steve Jobs Predicts Google In 1988](https://www.youtube.com/watch?v=Ir3kSyHw9Is) \#video - "Following the launch of the NeXT Computer, Steve Jobs appears in a TV report about the future of computing and predicts Google."
