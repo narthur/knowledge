@@ -48,6 +48,8 @@ Tools I've used in the past:
 
 [FocusMe](https://focusme.com/) \#app \#software - "Break free from distractions, Unleash your productivity. FocusMe is the most powerful App and Website Blocker for Windows, Mac & Android. Our Android app is free!" Coupon code: MAY20
 
+[Quitter](https://marco.org/apps#quitter) \#software - "Quitter is a Mac app that automatically hides or quits apps after periods of inactivity, inspired by my [Automatic Social Discipline](https://marco.org/2015/10/30/automatic-social-discipline) method. It’s great for minimizing distraction from social apps like Twitter and Slack, news readers, or even your email app."
+
 [ScreenFocus](https://www.apptorium.com/screenfocus) \#software - "Working with multiple monitors made right."
 
 [Workspace](https://workspaceproapp.com/) \#software - "Launch/close a bunch of macOS apps just in 1 click!"
