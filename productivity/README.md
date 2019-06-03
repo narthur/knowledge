@@ -26,6 +26,8 @@ Tools I've used in the past:
 
 [Flowstate](http://hailoverman.com/flowstate) - "Flowstate is guided by a simple philosophy: flow, then react. It is the first writing tool to emphasize the distinction between writing and editing. Unlike other writing programs, Flowstate features a sacred space for initial creation, with rigid laws enlisted to unleash a person's thoughts, feelings, and ideas like water."
 
+[Fluid](https://fluidapp.com/) \#software - $5. "Fluid lets you create a Real Mac App \(or "Fluid App"\) out of any website or web application, effectively turning your favorite web apps into OS X desktop apps."
+
 [How to Get Motivated: A Guide for Defeating Procrastination](https://alexvermeer.com/getmotivated/) \#article - "I created a flowchart, to be printed in colour and posted somewhere visible, to help me _actually use_ the anti-procrastination advice I so desperately need!"
 
 [MindMeister](https://www.mindmeister.com/) \#webapp - "Online Mind Mapping"
