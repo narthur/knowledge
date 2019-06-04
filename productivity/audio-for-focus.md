@@ -6,19 +6,21 @@
 
 [Focus@Will](https://www.focusatwill.com/) \#webapp - "Scientifically optimized music to help you focus"
 
+[Generative.fm](https://generative.fm/) \#webapp - "Endlessly unique ambient music"
+
 ## Videos
-
-[2½ Hours of Unedited Garlic Bread Flight Footage](https://www.youtube.com/watch?v=YKAblynZYhI) \#video
-
-[Forest Sounds-Birds Singing-Sound of Nature-Birdsong-Relaxation-Relaxing Meditation-Mindfulness](https://www.youtube.com/watch?v=FOVxHkqkP1o) \#video
-
-[Rain & Thunderstorm Sounds \| Crackling Fireplace \| 3 Hours](https://www.youtube.com/watch?v=3sL0omwElxw) \#video
-
-[Rain sounds at Night \| Forest ambience \| 3 Hours](https://www.youtube.com/watch?v=dd4D8tZPfKE) \#video
 
 [Relaxing Legend of Zelda Music \(COMPLETE\)](https://www.youtube.com/watch?v=-Siljd9PwKs) \#video - "A re-edited, combined edition of all 4 relaxing playlists with some bonus songs! Duplicates or unfitting songs were taken out, resulting in what I think makes up a much better version."
 
-[Waterfall Sounds - Garden Pond, Bird Life \| 2 hours](https://www.youtube.com/watch?v=euEwKtP5CG4) \#video
+{% embed url="https://www.youtube.com/watch?v=YKAblynZYhI" %}
+
+{% embed url="https://www.youtube.com/watch?v=FOVxHkqkP1o" %}
+
+{% embed url="https://www.youtube.com/watch?v=3sL0omwElxw" %}
+
+{% embed url="https://www.youtube.com/watch?v=dd4D8tZPfKE" %}
+
+{% embed url="https://www.youtube.com/watch?v=euEwKtP5CG4" %}
 
 ## Sources
 
