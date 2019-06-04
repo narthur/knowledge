@@ -8,6 +8,8 @@
 
 [How to Load Web Fonts in 2019 🎆](https://www.youtube.com/watch?v=s-G1m23Emlk)\#video - "After a lot of experimentation I've come across my preferred way of loading web fonts. I have balanced ease of use, i.e. how to implement, with performance."
 
+[ImageOptim](https://imageoptim.com/mac) \#software - "ImageOptim makes images load faster. Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality."
+
 [Links to cross-origin destinations are unsafe](https://developers.google.com/web/tools/lighthouse/audits/noopener?utm_source=lighthouse&utm_medium=extension) \#article - "When you open another page using `target="_blank"`, the other page may run on the same process as your page, unless [Site Isolation](https://developers.google.com/web/updates/2018/07/site-isolation) is enabled. If the other page is running a lot of JavaScript, your page's performance may also suffer. See [The Performance Benefits of `rel=noopener`](https://jakearchibald.com/2016/performance-benefits-of-rel-noopener/)."
 
 [The performance benefits of rel=noopener](https://jakearchibald.com/2016/performance-benefits-of-rel-noopener/) \#article - "If you have links to another origin, you should use `rel="noopener"`, especially if they open in a new tab/window."
