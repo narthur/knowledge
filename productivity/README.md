@@ -24,6 +24,8 @@ Tools I've used in the past:
 
 [Contexts](https://contexts.co/) \#software - "Switch between application windows effortlessly — with Fast Search, a better Command-Tab, a Sidebar or even a quick gesture. Includes fantastic features for multiple spaces & multiple displays."
 
+[Digital Minimalism - with Dr. Cal Newport](https://www.stitcher.com/podcast/paula-pant-and-j-money/money-103/e/58555559?refid=asa&autoplay=true) \#podcast - "Cal Newport created a philosophy called digital minimalism, which is idea of reducing your digital life down to only the most important core essentials. Remove the apps from your phone, then slowly re-introduce only the ones that are the most useful and beneficial. Take control of your smartphone, rather than letting it control you."
+
 [Flowstate](http://hailoverman.com/flowstate) - "Flowstate is guided by a simple philosophy: flow, then react. It is the first writing tool to emphasize the distinction between writing and editing. Unlike other writing programs, Flowstate features a sacred space for initial creation, with rigid laws enlisted to unleash a person's thoughts, feelings, and ideas like water."
 
 [Fluid](https://fluidapp.com/) \#software - $5. "Fluid lets you create a Real Mac App \(or "Fluid App"\) out of any website or web application, effectively turning your favorite web apps into OS X desktop apps."
@@ -38,27 +40,11 @@ Tools I've used in the past:
 
 [Slack Is Not Where 'Deep Work' Happens](https://blog.nuclino.com/slack-is-not-where-deep-work-happens?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) \#article
 
+[Spend More Time Alone](http://www.calnewport.com/blog/2017/09/24/spend-more-time-alone/) \#article - by Cal Newport. "The right way to define “solitude” is as a subjective state in which you’re isolated from input from other minds. ... Regular doses of solitude are crucial for the effective and resilient functioning of your brain."
+
 [Station](https://getstation.com/) \#software - "One app to rule them all. Station is the first smart browser for busy people. A single place for all of your web applications."
 
 [TypeRacer](https://play.typeracer.com/)
-
-### Attention Management
-
-[Bunch](https://brettterpstra.com/projects/bunch/) \#software - "A Batch Application Launcher for your Dock"
-
-[Focus](https://heyfocus.com/) \#software - "Reclaim your productivity by blocking distracting sites and applications, like Facebook and Fortnite. Stay on task and in flow to accomplish your best work!"
-
-[FocusMe](https://focusme.com/) \#app \#software - "Break free from distractions, Unleash your productivity. FocusMe is the most powerful App and Website Blocker for Windows, Mac & Android. Our Android app is free!" Coupon code: MAY20
-
-[Hocus Focus](http://hocusfoc.us/) \#software - "Hocus Focus automatically hides application windows that have been inactive for a certain period of time, leaving only the applications you’re using visible. It’s a great way to keep your screens clutter free and your mind focused on the task at hand."
-
-[Quitter](https://marco.org/apps#quitter) \#software - "Quitter is a Mac app that automatically hides or quits apps after periods of inactivity, inspired by my [Automatic Social Discipline](https://marco.org/2015/10/30/automatic-social-discipline) method. It’s great for minimizing distraction from social apps like Twitter and Slack, news readers, or even your email app."
-
-[ScreenFocus](https://www.apptorium.com/screenfocus) \#software - "Working with multiple monitors made right."
-
-[Workspace](https://workspaceproapp.com/) \#software - "Launch/close a bunch of macOS apps just in 1 click!"
-
-[Workspaces](https://www.apptorium.com/workspaces) \#software - "Meet your personal project assistant!"
 
 ### Tasker
 
