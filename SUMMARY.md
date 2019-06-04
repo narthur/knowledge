@@ -27,6 +27,7 @@
   * [Audio for Focus](productivity/audio-for-focus.md)
 * [Programming Languages](programming-languages/README.md)
   * [JavaScript](programming-languages/javascript.md)
+  * [PHP](programming-languages/php.md)
   * [Python](programming-languages/python.md)
 * [Personal Finance](personal-finance/README.md)
   * [Investing](personal-finance/investing.md)
