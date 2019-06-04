@@ -4,9 +4,23 @@
 
 [Brain.fm](https://www.brain.fm/) - "Functional Music On Demand. We use our patented AI music engine and scientific research to create music to help you improve the activities you already do in 15 minutes or less."
 
+[Calm Radio](https://calmradio.com/en/) - "Music that helps you get through the day"
+
+[Coffitivity](https://coffitivity.com/) - "Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better. Proven and peer reviewed, see the research to learn more."
+
 [Focus@Will](https://www.focusatwill.com/) \#webapp - "Scientifically optimized music to help you focus"
 
 [Generative.fm](https://generative.fm/) \#webapp - "Endlessly unique ambient music"
+
+[GitHub Audio](https://github.audio/) \#webapp - "Project Audio for GitHub" 👍
+
+[Moszen](https://www.moszen.com/) \#webapp - Clean, simple page with a selection of nature ambience tracks. 👍
+
+[Noisli](https://www.noisli.com/) \#webapp - "Improve focus and boost your productivity. Mix different sounds and create your perfect environment."
+
+[Rainy Mood](https://www.rainymood.com/) \#webapp \#app - "Welcome to Rainy Mood, the internet's most popular rain experience. Millions of people use Rainy Mood while sleeping, studying, and relaxing. Enjoy the free web version, or try the iOS/Android app with additional features."
+
+[A Soft Murmur](https://asoftmurmur.com/) \#webapp - "Ambient sounds to wash away distraction."
 
 ## Videos
 
