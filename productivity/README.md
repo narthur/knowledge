@@ -94,6 +94,8 @@ Tools I've used in the past:
 
 [TomatoTimer](https://tomato-timer.com/)
 
+[Tomighty](http://tomighty.org/) \#software - "A free desktop timer for the Pomodoro Technique®" 👍
+
 ### Sources
 
 [Alex Vermeer](https://alexvermeer.com/blog/) \#blog - "I drink coffee, climb rocks, play go, and read books. I research and use tools for that improve my thinking, productivity, and life in general. I strive to reduce friction in my life, keep things minimal, and simplify. Sometimes I write."
