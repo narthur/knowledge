@@ -4,6 +4,8 @@
 
 [Known](https://withknown.com/) - "A collaborative social publishing engine. Known allows any number of users to post to a shared site with blog posts, status updates, photographs, and more. Its robust open source framework can be used to build fully-fledged community sites, or a blog for a single user. It's up to you."
 
+[Movable Type](https://www.movabletype.com/) - From [Wikipedia](https://en.wikipedia.org/wiki/Movable_Type): "**Movable Type** is a [weblog publishing system](https://en.wikipedia.org/wiki/Blog_software) developed by the company [Six Apart](https://en.wikipedia.org/wiki/Six_Apart). It was publicly announced on September 3, 2001;[\[3\]](https://en.wikipedia.org/wiki/Movable_Type#cite_note-3) version 1.0 was publicly released on October 8, 2001.[\[4\]](https://en.wikipedia.org/wiki/Movable_Type#cite_note-4)"
+
 [October](https://octobercms.com/) - "October is a free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. Thousands of digital studios and freelancers all over the world love October for its simplicity, flexibility and modern design. Their clients are happy, because October saves them both time and money."
 
 [SimpleUpdates](https://www.simpleupdates.com/) - "YOUR NEW WEBSITE IS JUST A CLICK AWAY. Simple is in our name. Results are in our DNA."
