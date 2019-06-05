@@ -10,6 +10,7 @@
 * [Computer Science](computer-science/README.md)
   * [Artificial Intelligence](computer-science/artificial-intelligence.md)
 * [Design](design/README.md)
+  * [Color](design/color.md)
   * [Design Process](design/design-process.md)
   * [Web Design](design/web-design.md)
 * [Economics](economics.md)
