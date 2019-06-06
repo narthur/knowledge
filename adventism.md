@@ -12,6 +12,8 @@
 
 [The Haystack](https://www.thehaystack.org/) - "Encouraging conversations and creative thinking for Millennials of the Christian Church."
 
+[Office of Archives, Statistics, and Research](https://www.adventistarchives.org/) - "ASTR brings together the Seventh-day Adventist Church’s past and present in order to inspire for the future"
+
 [Restoration International](https://www.youtube.com/c/RestorationInternational) \#channel - "Restoring individuals, marriages, and families to God since 1989."
 
 [The Scratch](https://thescratchnews.com/) - Adventist news briefings. "The Scratch’s weekly Brief is broken down into two sections. First, “The Need to Know” covers this week’s main story—one story, several paragraphs, and opinions separated at the end. The second section, “The Ought to Know,” covers other stories—each paragraph is a separate story entirely. Lastly, while our content is serious, our headings are not. We like to spice up our headings with a little personality. :\)" 
