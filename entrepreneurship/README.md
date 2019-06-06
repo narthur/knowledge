@@ -44,6 +44,14 @@
 
 [TinyLetter](https://tinyletter.com/) - "Email for people with something to say." Free.
 
+## Open Startup Movement
+
+[MakerPad Open](https://www.makerpad.co/open) - "Makerpad is sharing stats as part of the [Open Startup](https://twitter.com/levelsio/status/968219339588493312) movement"
+
+[What does it mean to be an Open Startup?](https://hackernoon.com/what-does-it-mean-to-be-an-open-startup-f4446984189) \#article - "The Open Startup trend is a transparency and openness movement seemingly initiated by [Buffer](https://buffer.com/transparency), quickly adopted by [Ghost](https://ghost.org/open/), capitalised by [Baremetrics](https://demo.baremetrics.com/), and recently popularised in the Indie Maker community by [Pieter Levels](http://open-startup.com/)."
+
+[What’s exciting about the Open Startup movement?](https://blog.productdisrupt.com/whats-exciting-about-the-open-startup-movement-729aaa11b107) \#article - "To put it simply, any startup is an open startup that shares its statistics, revenue and growth stories out in the public."
+
 ## Sources
 
 [Bootstrappers.io](https://bootstrappers.io/) - Newsletter, curated links, blog.
