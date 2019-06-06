@@ -8,6 +8,8 @@
 
 [Adventist On Fire](https://aofire.org/) \#podcast
 
+[AudioVerse](https://www.audioverse.org/english/) - "AudioVerse is an online collection of thousands of Bible-based media content that is available for anyone in the world to stream and download for free. This ministry has a global reach that impacts thousands of individuals every single day. AudioVerse is a 501\(c\)\(3\) nonprofit organization in the United States of America."
+
 [GAiN](https://gain.adventist.org/) - "Global Adventist Internet Network \(GAiN\) is a conference designed to foster the use of technology, media and the internet to help the mission of the Adventist Church. Through annual, worldwide events, we seek to educate and train communication and technlogy professionals in finding new ways to reach their communities."
 
 [The Haystack](https://www.thehaystack.org/) - "Encouraging conversations and creative thinking for Millennials of the Christian Church."
