@@ -2,6 +2,8 @@
 
 [1Kprojects](https://1kprojects.com/) - "Neglected side projects for less than $1000. 1Kprojects is a curated marketplace where makers sell their abandoned projects for less than $1000."
 
+[Company of One, the podcast](https://ofone.co/company-of-one-podcast/) \#podcast - "Company of One is a podcast that explores what happens when businesses challenge the traditional idea that bigger is always better. What if we break from the idea that growth in revenue, customers and employees is always the byproduct of success and focus instead on what it means to create richer and more fulfilling careers and businesses that don’t require exponential growth in all directions at all times?"
+
 [Courtland's Checklist](https://courtlandschecklist.com/) - "Validate your business idea. A simple checklist shared by @csallen. Made by Chris McCormick."
 
 [FiveMinuteFounder](https://www.fiveminutefounder.com/index.html) - "Become a Better Founder. Actionable, concise advice to improve your startup/company by 1% each week. Only what you need to know, in five minutes, with examples."
