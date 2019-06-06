@@ -1,5 +1,7 @@
 # Adventism
 
+[AdventistCommons/adventistcommons.org](https://github.com/AdventistCommons/adventistcommons.org) - "By collaborating with Adventist Commons, you can play an integral part in getting our distinctive Adventist message into the hands of unreached people, right from the comfort of your own home. Do you have skills in writing, translating, editing, proofreading, graphic design, or web development? 🖥📝🎨😀 Sign up below to become a valued contributor at Adventist Commons!"
+
 [Adventist History](http://adventisthistorypodcast.org/) \#podcast
 
 [Adventist.io](https://www.adventist.io/) - "Adventist.io aims to highlight web technology projects of the Seventh-day Adventist Church. The site was launched in 2016 to engage the community for feedback and development of the Adventist Living Pattern System \(ALPS\). ALPS is a web template system designed to help visually unite the Adventist Church online."
