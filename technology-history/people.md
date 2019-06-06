@@ -16,6 +16,8 @@ Linus Torvalds
 
 Mark Zuckerberg
 
+[Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand) \#article - Wikipedia. "**Stewart Brand** \(born December 14, 1938\) is an American writer, best known as editor of the [Whole Earth Catalog](https://en.wikipedia.org/wiki/Whole_Earth_Catalog). He founded a number of organizations, including [The WELL](https://en.wikipedia.org/wiki/The_WELL), the [Global Business Network](https://en.wikipedia.org/wiki/Global_Business_Network), and the [Long Now Foundation](https://en.wikipedia.org/wiki/Long_Now_Foundation). He is the author of several books, most recently [Whole Earth Discipline: An Ecopragmatist Manifesto](https://en.wikipedia.org/wiki/Whole_Earth_Discipline)."
+
 Steve Wozniak
 
 Tim Cook

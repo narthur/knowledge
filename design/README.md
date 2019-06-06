@@ -18,3 +18,13 @@
 
 [YouWorkForThem](https://www.youworkforthem.com/graphics/)
 
+### Illustrations
+
+[OSLO](https://craftwork.design/oslo-illustrations/) - "Awesome illustrations for your next landing"
+
+[Struct](https://struct.rocks/)
+
+[Undraw](https://undraw.co/) - "Open-source illustrations for every project you can imagine and create"
+
+
+
