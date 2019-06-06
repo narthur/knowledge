@@ -14,6 +14,8 @@
 
 [CSS Lint](http://csslint.net/) \#webapp - “Will hurt your feelings\* \(And help you code better\)”
 
+[CSS stacking contexts: What they are and how they work](https://tiffanybbrown.com/2015/09/css-stacking-contexts-wtf/index.html) \#article - "So what is a **stacking context**? A stacking context is an element that contains a set of layers. This can be a _root_ stacking context, as created by the `html` element. Or it can be a _local_ stacking context, as created by specific properties and values."
+
 [CSSYNTH](http://bennettfeely.com/cssynth/)
 
 [Image Effects with CSS](https://bennettfeely.com/image-effects/)
@@ -24,7 +26,7 @@
 
 [pointer-events](https://css-tricks.com/almanac/properties/p/pointer-events/) \#article - “The pointer-events property allows for control over how HTML elements respond to mouse/touch events – including CSS hover/active states, click/tap events in Javascript, and whether or not the cursor is visible.” Also allows you to pass click events through an element to whatever it’s behind it by using \`pointer-events: none;\` \#chris\_coyier \#css-tricks
 
-[Pure CSS Parallax Websites](https://keithclark.co.uk/articles/pure-css-parallax-websites/) \#article - "This article demonstrates how to use CSS transforms, perspective and some scaling trickery to create a pure CSS parallax scrolling website." 👍
+[Pure CSS Parallax Websites](https://keithclark.co.uk/articles/pure-css-parallax-websites/) \#article - "This article demonstrates how to use CSS transforms, perspective and some scaling trickery to create a pure CSS parallax scrolling website." 👍Be careful, though. Applying `perspective` to a root element [breaks fixed positioning](https://stackoverflow.com/questions/26386038/why-does-perspective-changes-fixed-position-in-css) by establishes a new stacking context.
 
 [Purgecss](https://www.purgecss.com/) - "[Purgecss](https://github.com/FullHuman/purgecss) is a tool to remove unused CSS. It can be used as part of your development workflow. Purgecss comes with a JavaScript API, a CLI, and plugins for popular build tools."
 
