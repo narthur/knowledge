@@ -22,6 +22,8 @@ Tools I've used in the past:
 
 [8,760 Hours](https://drive.google.com/file/d/0B2PaeRjVqAN7MngxTXFPQkpLVjg/view) \#pdf - "How to get the most out of the next year"
 
+[clarissalittler/productive-while-mentally-ill](https://github.com/clarissalittler/productive-while-mentally-ill) \#book - "Repo for a short book on dealing with chronic mental illness while still trying to Get Things Done."
+
 [Contexts](https://contexts.co/) \#software - "Switch between application windows effortlessly — with Fast Search, a better Command-Tab, a Sidebar or even a quick gesture. Includes fantastic features for multiple spaces & multiple displays."
 
 [Digital Minimalism - with Dr. Cal Newport](https://www.stitcher.com/podcast/paula-pant-and-j-money/money-103/e/58555559?refid=asa&autoplay=true) \#podcast - "Cal Newport created a philosophy called digital minimalism, which is idea of reducing your digital life down to only the most important core essentials. Remove the apps from your phone, then slowly re-introduce only the ones that are the most useful and beneficial. Take control of your smartphone, rather than letting it control you."
@@ -33,6 +35,8 @@ Tools I've used in the past:
 [How to Get Motivated: A Guide for Defeating Procrastination](https://alexvermeer.com/getmotivated/) \#article - "I created a flowchart, to be printed in colour and posted somewhere visible, to help me _actually use_ the anti-procrastination advice I so desperately need!"
 
 [MindMeister](https://www.mindmeister.com/) \#webapp - "Online Mind Mapping"
+
+\_\_[_The Motivation Hacker_](http://www.nickwinter.net/the-motivation-hacker) \#book - "_The Motivation Hacker_ shows you how to summon extreme amounts of motivation to accomplish anything you can think of. From precommitment to rejection therapy, this is your field guide to getting yourself to want to do everything you always wanted to want to do."
 
 "Plans are nothing; planning is everything" \(Dwight D. Eisenhower; [via BrainyQuote](https://www.brainyquote.com/quotes/dwight_d_eisenhower_149111)\).
 
@@ -89,4 +93,6 @@ Tools I've used in the past:
 [Cal Newport](http://www.calnewport.com/blog/) \#blog - "I'm a [computer science professor](http://people.cs.georgetown.edu/~cnewport/) who writes about the intersection of technology and society. I’m particularly interested in the impact of new technologies on our ability to perform productive work and lead satisfying lives. If you’re new to my writing, a good place to start is the [about page](http://calnewport.com/about/). You can access over a decade's worth of posts in the [blog archive](http://calnewport.com/blog/archive/)."
 
 [Matt D'Avella](https://mattdavella.com/) - "Hi, my name’s Matt D’Avella. I’m a [filmmaker](http://minimalismfilm.com/), [YouTuber](http://youtube.com/mattdavella) & [podcaster](http://groundupshow.com/) that explores what it means to live a good life."
+
+[Tim Ferriss](http://www.timferriss.com/) - "Tim Ferriss is a start-up angel investor \(Uber, Facebook, Twitter, Alibaba, etc.\), [blogger](http://www.fourhourworkweek.com/blog), and entrepreneur. His best-known written work is [The 4-Hour Workweek](http://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307353133/ref=pd_bbs_1?ie=UTF8&s=books&qid=1203371924&sr=8-1), which had been sold into 35 languages and reached \#1 on The New York Times, BusinessWeek, and The Wall Street Journal bestseller lists.  On May 3, 2009, it celebrated its 2nd straight year on The New York Times business bestseller list since its publication on April 27, 2007."
 
