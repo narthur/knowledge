@@ -4,6 +4,8 @@
 
 [Google Domains](https://domains.google/#/) - "Find a domain, create a site, and get custom email"
 
+[mailgun/transactional-email-templates](https://github.com/mailgun/transactional-email-templates) - "Transactional HTML emails often get neglected. **Styling HTML email is painful**. Tables, inline CSS, unsupported CSS, desktop clients, web clients, mobile clients, various devices, various providers. ❡ We’ve tried to remove some of the pain for you and open-sourced a collection of common templates for transactional email."
+
 [Microservices Foundations](https://www.lynda.com/Developer-tutorials/Microservices-Foundations/647664-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3amicroservices%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) \#course - "Microservices is a major architectural pattern in the software industry, and having an overview of what this architecture is-and what it isn't-is critical as a starting point to evaluating this model. This course covers the basic concepts of microservices, to help you determine if this architectural model is the right fit for you and your team. Instructor Frank Moley kicks off the course by briefly discussing how microservices fit into the history of software architecture, and going into some of the other notable patterns that have emerged in recent years. Frank then helps to familiarize you with some core concepts of microservices, including bounded contexts and the API layer. He also goes over some of the more advanced areas of the architecture, as well as the importance of embracing a DevOps culture should you choose to move to microservices."
 
 [xwp/pwa-wp](https://github.com/xwp/pwa-wp) - "WordPress feature plugin to bring Progressive Web Apps \(PWA\) to Core"
