@@ -8,6 +8,8 @@
 
 [Hocus Focus](http://hocusfoc.us/) \#software - "Hocus Focus automatically hides application windows that have been inactive for a certain period of time, leaving only the applications you’re using visible. It’s a great way to keep your screens clutter free and your mind focused on the task at hand."
 
+[How To Hack Your To-Do List](https://www.youtube.com/watch?v=Xduzwk04l2E) \#video - How GTD principles free up your attention to focus on what's important. "We talked with David Allen, the author of, "Getting Things Done: The Art of Stress-Free Productivity," about how to hack through your to-do list and free up your mind to focus on what's actually most important to you."
+
 [Quitter](https://marco.org/apps#quitter) \#software - "Quitter is a Mac app that automatically hides or quits apps after periods of inactivity, inspired by my [Automatic Social Discipline](https://marco.org/2015/10/30/automatic-social-discipline) method. It’s great for minimizing distraction from social apps like Twitter and Slack, news readers, or even your email app."
 
 [ScreenFocus](https://www.apptorium.com/screenfocus) \#software - "Working with multiple monitors made right."

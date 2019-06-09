@@ -68,6 +68,8 @@ Tools I've used in the past:
 
 [Amazing Marvin](https://www.amazingmarvin.com/) \#webapp - "THE ULTIMATE PRODUCTIVITY TOOL. Get more done with more ease. Marvin incorporates principles from behavioral psychology to help you beat procrastination, feel in control and finish your to-do list."
 
+[How To Hack Your To-Do List](https://www.youtube.com/watch?v=Xduzwk04l2E) \#video - "We talked with David Allen, the author of, "Getting Things Done: The Art of Stress-Free Productivity," about how to hack through your to-do list and free up your mind to focus on what's actually most important to you."
+
 [MyLifeOrganized](https://www.mylifeorganized.net/) \#software - "The Most Flexible Task Management Tool"
 
 ### Time Management
