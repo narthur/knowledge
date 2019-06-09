@@ -10,6 +10,8 @@
 
 [The Four Steps to Epiphany](https://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf) \#book - by Steven G. Blank
 
+[How Your To-Do List is Killing Your Productivity - Dan Lok](https://www.youtube.com/watch?v=HGk3tmodKDE) \#video - Delegate as much as possible, identify the 5 most import things to accomplish today, complete them, and then spend the rest of your time to think and strategize. Avoid the cult of busy. You can't do quality thinking when you're always busy and always running.
+
 [MakerPad](https://www.makerpad.co/) - "You don't need to know how to code. Makerpad is the best no-code platform for professionals & creators."
 
 [The Other Side of Burnout](https://www.youtube.com/watch?v=zHMfmcIWXT8) \#video
