@@ -1,5 +1,7 @@
 # Minimalism
 
+[How Minimalism Can Make You More Productive](https://www.youtube.com/watch?v=CttGNGjwp6A&feature=youtu.be) \#video - "One of the biggest benefits I’ve received from living a life with less, has been that I’ve been able to create more. In this video I break down five ways that I've applied minimalism to my work life."
+
 [Minimalism](https://minimalismfilm.com/) \#documentary - "A documentary about the important things"
 
 ## Sources
