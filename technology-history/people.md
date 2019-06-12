@@ -1,7 +1,5 @@
 # People
 
-Bill Gates
-
 [Dick Costolo](https://en.wikipedia.org/wiki/Dick_Costolo) \#article - Wikipedia. "**Richard William Costolo** \(pronounced: [/ˈkɒstəloʊ/](https://en.wikipedia.org/wiki/Help:IPA/English)\) \(born September 10, 1963\) was the [CEO](https://en.wikipedia.org/wiki/CEO) of [Twitter](https://en.wikipedia.org/wiki/Twitter) from 2010 to 2015; he also served as the [COO](https://en.wikipedia.org/wiki/Chief_Operating_Officer) before becoming CEO. He took over as CEO from [Evan Williams](https://en.wikipedia.org/wiki/Evan_Williams_%28Internet_entrepreneur%29) in October 2010. On June 11, 2015, it was announced that Costolo would step down as CEO on July 1, 2015 and would be replaced by Twitter co-founder and chairman [Jack Dorsey](https://en.wikipedia.org/wiki/Jack_Dorsey) on an interim basis until the Board of Directors could find a replacement.[\[2\]](https://en.wikipedia.org/wiki/Dick_Costolo#cite_note-ceo-2) On August 8, 2015, [The New York Times](https://en.wikipedia.org/wiki/The_New_York_Times) reported that Costolo would be leaving Twitter's Board of Directors by the end of the year or when a new CEO is appointed.[\[3\]](https://en.wikipedia.org/wiki/Dick_Costolo#cite_note-3)"
 
 [Gil Amelio](https://en.wikipedia.org/wiki/Gil_Amelio) \#article - Wikipedia. "**Gilbert Frank Amelio** \(born March 1, 1943\) is an American technology executive. Amelio worked at [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs), [Fairchild Semiconductor](https://en.wikipedia.org/wiki/Fairchild_Semiconductor), and the semiconductor division of [Rockwell International](https://en.wikipedia.org/wiki/Rockwell_International) but is best remembered as a [CEO](https://en.wikipedia.org/wiki/Chief_executive_officer) of [National Semiconductor](https://en.wikipedia.org/wiki/National_Semiconductor) and [Apple Inc.](https://en.wikipedia.org/wiki/Apple_Inc.)"
@@ -23,6 +21,10 @@ Mark Zuckerberg
 Steve Wozniak
 
 Tim Cook
+
+## Bill Gates
+
+['A Conversation with Bill Gates' Q&A at Harvard University](https://www.youtube.com/watch?v=ofQMbC2e_as) \#video - "Join Bill for a wide-ranging student Q&A hosted by Provost Alan Garber and Dean Frank Doyle. Bill will take questions from the audience about various areas of his work – global health and development, technology, clean energy innovation, Alzheimer’s research, philanthropy, and education – as well as current events, his favorite books, and why he loves coming back to Harvard four decades after he dropped out."
 
 ## Elon Musk
 
