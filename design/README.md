@@ -10,6 +10,8 @@
 
 [Logo Design Love](https://www.logodesignlove.com/) \#blog - "On logos and visual identity design"
 
+[ManyPixels](https://manypixels.co/) - "ManyPixels is the first on-demand design outsourcing service that works on a subscription model. Pay a fixed monthly price and get your design within 1-2 business days."
+
 [Teenage Engineering](https://teenage.engineering/)
 
 ## Stock
@@ -25,6 +27,8 @@
 [YouWorkForThem](https://www.youworkforthem.com/graphics/)
 
 ### Icons
+
+[HeroIcons](http://www.heroicons.com/) - $49 on sale. "_Heroicons_ are a unique set of icons for your marketing website that make it [easy to customize with CSS](http://www.heroicons.com/#customization) to better align to your brand."
 
 [Icons8](https://icons8.com/) - "FREE DESIGN RESOURCES AND SOFTWARE." Icons, photos, vectors, music. 👍
 
