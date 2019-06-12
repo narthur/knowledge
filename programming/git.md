@@ -39,6 +39,12 @@ Make an empty commit \(good for debugging CI\):
 git commit --allow-empty -m "Empty commit to trigger post_receive hooks"
 ```
 
+Initialize all submodules recursively \([source](https://stackoverflow.com/a/10168693/937377)\):
+
+```bash
+git submodule update --init --recursive
+```
+
 ## Links
 
 * [Conventional Commits](https://www.conventionalcommits.org/) - "A specification for adding human and machine readable meaning to commit messages"
