@@ -12,6 +12,10 @@
 
 [The Genesis of the Transistor, with Bonus Introduction - AT&T Archives](https://www.youtube.com/watch?v=LRJZtuqCoMw) \#video - "This 1965 film shows footage of them reunited/recreating their 1940s lab time to show how it was done, but in real life they had parted. Bardeen had left the labs in 1951 for the U. of IL; Shockley in 1956 to run a semiconductor company in California \(laying the groundwork for Silicon Valley\), and Brattain retired in 1967 to Whitman College."
 
+## 1982
+
+[AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0) \#video - "This film "The UNIX System: Making Computers More Productive", is one of two that Bell Labs made in 1982 about UNIX's significance, impact and usability. Even 10 years after its first installation, it's still an introduction to the system. The other film, "The UNIX System: Making Computers Easier to Use", is roughly the same, only a little shorter. The former film was geared towards software developers and computer science students, the latter towards programmers specifically."
+
 ## 1988
 
 [Steve Jobs Predicts Google In 1988](https://www.youtube.com/watch?v=Ir3kSyHw9Is) \#video - "Following the launch of the NeXT Computer, Steve Jobs appears in a TV report about the future of computing and predicts Google."
