@@ -45,6 +45,7 @@ Rank potential topics based on criteria
 * [A Book Apart](https://abookapart.com/)
 * [Brilliant](https://brilliant.org/) - "Math and science done right. Master key ideas in math, science, and computer science through problem solving."
 * GoodReads
+* [The Great Courses](https://www.thegreatcoursesplus.com/)
 * Lynda.com
 * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
 * [SkillShare](https://www.skillshare.com/) - "Thousands of classes to fuel your creativity and career."
