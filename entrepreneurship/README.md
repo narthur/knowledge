@@ -6,6 +6,8 @@
 
 [Courtland's Checklist](https://courtlandschecklist.com/) - "Validate your business idea. A simple checklist shared by @csallen. Made by Chris McCormick."
 
+"Educate yourself about everything about business. Get that broad, universal perspective first. It doesn’t take very long" \(Josh Kaufman, author of The Personal MBA, via IndieHackers\).
+
 [FiveMinuteFounder](https://www.fiveminutefounder.com/index.html) - "Become a Better Founder. Actionable, concise advice to improve your startup/company by 1% each week. Only what you need to know, in five minutes, with examples."
 
 [The Four Steps to Epiphany](https://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf) \#book - by Steven G. Blank
