@@ -16,7 +16,13 @@ You Need a Budget \#webapp
 
 \_\_[_You Need a Budget_](https://www.youneedabudget.com/book-order-now/) by Jesse Mecham
 
-## Financial Indepe
+## FIRE Movement
+
+[ChooseFI](https://www.choosefi.com/) - "Earn More, Spend Less, Enjoy The Journey"
+
+[Mr. Money Mustache](http://www.mrmoneymustache.com/) \#blog
+
+[Playing with Fire](https://www.playingwithfire.co/) \#documentary
 
 ## Investing
 
