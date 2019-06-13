@@ -28,6 +28,8 @@
 
 ### Icons
 
+[GitHub Octicons](https://octicons.github.com/) - "Your project. GitHub's icons."
+
 [HeroIcons](http://www.heroicons.com/) - $49 on sale. "_Heroicons_ are a unique set of icons for your marketing website that make it [easy to customize with CSS](http://www.heroicons.com/#customization) to better align to your brand."
 
 [Icons8](https://icons8.com/) - "FREE DESIGN RESOURCES AND SOFTWARE." Icons, photos, vectors, music. 👍
