@@ -4,6 +4,12 @@
 
 [Papers We Love](https://paperswelove.org/) - "Papers We Love is a repository of academic computer science papers and a community who loves reading them."
 
+## Decentralization
+
+[Bitcoin](https://bitcoin.org/en/) - "Bitcoin is an innovative payment network and a new kind of money."
+
+[Matrix](https://matrix.org/) - "An open network for secure, decentralized communication"
+
 ## Quantum Computing
 
 [How Quantum Computers Could Change the World](https://www.youtube.com/watch?v=kEJBxotcxRw&feature=youtu.be) \#video - "In this video we'll take a look at quantum computers and they promise they hold for the future."

@@ -10,6 +10,8 @@
 
 [How To Hack Your To-Do List](https://www.youtube.com/watch?v=Xduzwk04l2E) \#video - How GTD principles free up your attention to focus on what's important. "We talked with David Allen, the author of, "Getting Things Done: The Art of Stress-Free Productivity," about how to hack through your to-do list and free up your mind to focus on what's actually most important to you."
 
+[How to Prevent the Internet From Taking Over Your Life: Digital Minimalism 06](https://www.youtube.com/watch?v=jEps2fnwL-0&feature=youtu.be) \#video - "It's way too easy now to let the internet be a part of every aspect of our lives. This was starting to have a really negative effect on me, so I decided to do something about it."
+
 [Quitter](https://marco.org/apps#quitter) \#software - "Quitter is a Mac app that automatically hides or quits apps after periods of inactivity, inspired by my [Automatic Social Discipline](https://marco.org/2015/10/30/automatic-social-discipline) method. It’s great for minimizing distraction from social apps like Twitter and Slack, news readers, or even your email app."
 
 [ScreenFocus](https://www.apptorium.com/screenfocus) \#software - "Working with multiple monitors made right."

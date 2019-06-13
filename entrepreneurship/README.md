@@ -4,6 +4,8 @@
 
 [Company of One, the podcast](https://ofone.co/company-of-one-podcast/) \#podcast - "Company of One is a podcast that explores what happens when businesses challenge the traditional idea that bigger is always better. What if we break from the idea that growth in revenue, customers and employees is always the byproduct of success and focus instead on what it means to create richer and more fulfilling careers and businesses that don’t require exponential growth in all directions at all times?"
 
+[Competition is for Losers with Peter Thiel \(How to Start a Startup 2014: 5\)](https://www.youtube.com/watch?v=3Fx5Q8xGU8k&feature=youtu.be) \#video - "Peter Thiel, founder of Paypal and Palantir, discusses business strategy and monopoly theory in "Competition is For Losers"."
+
 [Courtland's Checklist](https://courtlandschecklist.com/) - "Validate your business idea. A simple checklist shared by @csallen. Made by Chris McCormick."
 
 "Educate yourself about everything about business. Get that broad, universal perspective first. It doesn’t take very long" \(Josh Kaufman, author of The Personal MBA, via IndieHackers\).
@@ -19,6 +21,8 @@
 [Kiip](https://www.kiip.me/) - "Kiip is an in-app mobile advertising platform that uses moments to create meaningful customer interactions and generate highly targeted, custom audiences."
 
 [MakerPad](https://www.makerpad.co/) - "You don't need to know how to code. Makerpad is the best no-code platform for professionals & creators."
+
+[MicroConf](https://www.microconf.com/) - "The World's Biggest Conference For the World's Smallest Self-Funded Software Companies"
 
 [The Other Side of Burnout](https://www.youtube.com/watch?v=zHMfmcIWXT8) \#video
 
