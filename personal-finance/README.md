@@ -18,6 +18,8 @@ You Need a Budget \#webapp
 
 ## FIRE Movement
 
+[1500 Days to Freedom](https://www.1500days.com/) \#blog
+
 [ChooseFI](https://www.choosefi.com/) - "Earn More, Spend Less, Enjoy The Journey"
 
 [Mr. Money Mustache](http://www.mrmoneymustache.com/) \#blog
