@@ -44,29 +44,21 @@ Tools I've used in the past:
 
 [Setapp](https://setapp.com/) \#software - "The frontier platform that packs 140+ Mac apps into just one. A personally curated membership for $9.99/mo."
 
-[Slack Is Not Where 'Deep Work' Happens](https://blog.nuclino.com/slack-is-not-where-deep-work-happens?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) \#article
-
 [Spend More Time Alone](http://www.calnewport.com/blog/2017/09/24/spend-more-time-alone/) \#article - by Cal Newport. "The right way to define “solitude” is as a subjective state in which you’re isolated from input from other minds. ... Regular doses of solitude are crucial for the effective and resilient functioning of your brain."
 
 [Station](https://getstation.com/) \#software - "One app to rule them all. Station is the first smart browser for busy people. A single place for all of your web applications."
 
 [TypeRacer](https://play.typeracer.com/)
 
-### Tasker
+### Communication
 
-[Android and Beeminder and Tasker](https://blog.beeminder.com/beedroid/) \#article - "Tasker is like [IFTTT](http://ifttt.com/) for your Android. It exposes triggers and events that you can string together kind of like a recipe. It lets you plug in Beeminder as the event portion of a recipe, and so you can do things like automatically mind your sleep based on how long your phone’s display is off at night, or start a timer every time you launch Candy Crush Saga, and stop and submit the datapoint every time you quit the app. "
+[Slack Is Not Where 'Deep Work' Happens](https://blog.nuclino.com/slack-is-not-where-deep-work-happens?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) \#article
 
-[Android intents in Tasker](https://notenoughtech.com/tasker/android-intents-in-tasker/) \#article - "In my recent post about [run shell](https://notenoughtech.com/tasker/tasker-run-shell-commands/) actions in Tasker I listed over 40 different shell commands to help you toggle settings on your Android device. There is one more way of forcing specific actions, especially within different applications. Android intents in Tasker are another way to communicate with applications by passing a command, that often consist an action and parameters to complete this action."
-
-[Beginner’s guide to Tasker, part 5: Tips & tricks](https://www.pocketables.com/2012/09/beginners-guide-to-tasker-part-5-tips-tricks.html) \#article - "[The previous four parts of this guide](https://www.pocketables.com/tag/beginners-guide-to-tasker) have been thorough, but this is Tasker – thorough only covers a small corner. Sometimes things aren’t as simple as they seem, and other times things are actually simpler than they seem. This part will be dedicated to various tips and tricks for using Tasker, things that aren’t as obvious as they perhaps should be. I’ve tried to think of as many as I can, but there might be a second tips and tricks in the future if I think of more."
-
-[r/tasker](https://www.reddit.com/r/tasker)
-
-[Tasker](https://tasker.joaoapps.com/index.html) \#app - "Total Automation for Android"
-
-[Tasker on the Play Store](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) \#app - "Total Automation, From Settings to SMS."
+[Spark](https://sparkmailapp.com/) \#software \#app - "The best personal email client. Revolutionary email for teams."
 
 ### Task Management
+
+[The easiest way to fight procrastination](https://qz.com/169043/this-one-weird-trick-will-make-you-breeze-through-your-to-do-list/) \#article - "If you want to get five tasks done, my father always said, first find five additional but enjoyable tasks to do."
 
 [How To Hack Your To-Do List](https://www.youtube.com/watch?v=Xduzwk04l2E) \#video - "We talked with David Allen, the author of, "Getting Things Done: The Art of Stress-Free Productivity," about how to hack through your to-do list and free up your mind to focus on what's actually most important to you."
 

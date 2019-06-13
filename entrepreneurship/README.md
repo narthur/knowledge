@@ -10,9 +10,13 @@
 
 [FiveMinuteFounder](https://www.fiveminutefounder.com/index.html) - "Become a Better Founder. Actionable, concise advice to improve your startup/company by 1% each week. Only what you need to know, in five minutes, with examples."
 
+[FounderPad](https://www.founderpad.co/) - Curated list of podcasts, books, newsletters, etc.
+
 [The Four Steps to Epiphany](https://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf) \#book - by Steven G. Blank
 
 [How Your To-Do List is Killing Your Productivity - Dan Lok](https://www.youtube.com/watch?v=HGk3tmodKDE) \#video - Delegate as much as possible, identify the 5 most import things to accomplish today, complete them, and then spend the rest of your time to think and strategize. Avoid the cult of busy. You can't do quality thinking when you're always busy and always running.
+
+[Kiip](https://www.kiip.me/) - "Kiip is an in-app mobile advertising platform that uses moments to create meaningful customer interactions and generate highly targeted, custom audiences."
 
 [MakerPad](https://www.makerpad.co/) - "You don't need to know how to code. Makerpad is the best no-code platform for professionals & creators."
 
