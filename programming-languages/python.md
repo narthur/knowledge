@@ -61,6 +61,8 @@ d.tzinfo is not None and d.tzinfo.utcoffset(d) is not None
 
 ## Links
 
+[PyCharm](https://www.jetbrains.com/pycharm/?fromMenu) \#software - IDE. The community edition is free to use, [even at work](https://blog.jetbrains.com/pycharm/2017/09/pycharm-community-edition-and-professional-edition-explained-licenses-and-more/).
+
 [Python File I/O](https://www.programiz.com/python-programming/file-operation) \#article - "In this article, you'll learn about Python file operations. More specifically, opening a file, reading from it, writing into it, closing it and various file methods you should be aware of."
 
 ### Books
