@@ -16,6 +16,8 @@
 
 ## Object-Oriented Programming
 
+[Composition vs. Inheritance: How to Choose?](https://www.thoughtworks.com/insights/blog/composition-vs-inheritance-how-choose) \#article - "As a heuristic, ‘favor composition over inheritance’ is okay, however, I am [not a fan of mantras](http://programmers.stackexchange.com/a/65209/906). While they often contain a kernel of truth, it is far too easy for people to hear the slogan without understanding its source or context, and thus avoid thinking for themselves - and that never turns out well."
+
 [Dependency Injection basics- Fun Fun Function](https://www.youtube.com/watch?v=0X1Ns2NRfks) \#video
 
 \_\_[_Dive Into Design Patterns_](https://refactoring.guru/design-patterns/book) \#book - "**Design patterns** help you solve commonly-occurring problems in software design. But you can’t just find a pattern and copy it into your program, the way you can with off-the-shelf functions or libraries. A pattern is not a specific piece of code, but a general concept for solving a particular problem. They are like pre-made blueprints that you can customize to solve a recurring design problem in your code."
