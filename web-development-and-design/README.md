@@ -68,6 +68,18 @@ Unsplash
 
 VeggieIpsum
 
+## Progressive Web Apps
+
+[An Extensive Guide To Progressive Web Applications](https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/) \#article - “In this article, we’ll look at the pain points of users who are browsing old non-PWA websites and the promise of PWAs to make the web great. You’ll learn most of the important technologies that make for cool PWAs, like service workers, web push notifications and IndexedDB.”
+
+[Going Offline](https://abookapart.com/products/going-offline) \#book - "Boldly take your website where it’s never gone before: offline. Jeremy Keith introduces you to service workers \(and the code behind them\) to show you the latest strategies in offline pages. Learn the ins and outs of fetching and caching, enhance your website’s performance, and create an ideal offline experience for every user, no matter their connection."
+
+[Google Play Store now open for Progressive Web Apps 😱](https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc) \#article - "Chrome 72 for Android shipped the long-awaited Trusted Web Activity feature, which means we can now distribute PWAs in the Google Play Store! I played with the feature for a while, digging into the APIs and here you have a summary of what’s going on, what to expect and how to use it today."
+
+[Pwa-wp plugin](https://github.com/xwp/pwa-wp) - WordPress plugin. [WP plugin page](https://wordpress.org/plugins/pwa/)
+
+[Workbox](https://developers.google.com/web/tools/workbox/)
+
 ## Security
 
 [Links to cross-origin destinations are unsafe](https://developers.google.com/web/tools/lighthouse/audits/noopener?utm_source=lighthouse&utm_medium=extension) \#article - "The other page can access your `window` object with the `window.opener` property. This exposes an [attack surface](https://en.wikipedia.org/wiki/Attack_surface) because the other page can potentially redirect your page to a malicious URL. See [About rel=noopener](https://mathiasbynens.github.io/rel-noopener/)."
