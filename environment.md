@@ -56,6 +56,8 @@
 
 [Solar Power Plants \| The Next Big Thing?](https://www.youtube.com/watch?v=crAgssqpgQQ&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=3) \#video
 
+[Thorium - The Future of Energy?](https://www.youtube.com/watch?v=U1lIfFcxVuY&feature=youtu.be) \#video - "There's been a lot of talk about Thorium lately, but what's it all about? Will it be the future of energy?"
+
 [Why modern renewable power doesn’t need a breakthrough in energy storage \| Amory Lovins](https://www.youtube.com/watch?v=Oo8iEL6SqgI&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video - "More Americans work in the booming solar or windpower industries than in the coal industry, yet renewables are often claimed to be unreliable, needing vast and costly energy storage. Amory Lovins explains why that’s a myth."
 
 [WHY SOLAR ENERGY IS THE FUTURE!](https://www.youtube.com/watch?v=QPXaA9SeVjA&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video
