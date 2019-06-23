@@ -10,6 +10,8 @@
 
 [Life-like Gaming is Now Possible \(Thanks to A.I.\)](https://www.youtube.com/watch?v=fQlQQSsC47g&feature=youtu.be) \#video - "A.I. is making its way into gaming, with real-time ray tracing now possible, what other things does A.I. have in store?"
 
+[Machine Learning: Living in the Age of AI \| A WIRED Film](https://www.youtube.com/watch?v=ZJixNvx9BAc) \#video - "“Machine Learning: Living in the Age of AI,” examines the extraordinary ways in which people are interacting with AI today. Hobbyists and teenagers are now developing tech powered by machine learning and WIRED shows the impacts of AI on schoolchildren and farmers and senior citizens, as well as looking at the implications that rapidly accelerating technology can have. The film was directed by filmmaker Chris Cannucciari, produced by WIRED, and supported by McCann Worldgroup."
+
 [The Rise of the Machines – Why Automation is Different this Time](https://www.youtube.com/watch?v=WSKi8HfcxEk&list=PLIilwIraDV2JkPdIwldXw3jav0kNO0iO_&index=2) \#video - "Automation in the Information Age is different."
 
 [SPEND PART OF THE $2 TRILLION INFRASTRUCTURE PLAN ON ROBOTS](https://www.wired.com/story/infrastructure-plan-robots/) \#article - "New technologies are threatening jobs, but they also offer the possibility of completing projects we otherwise couldn't afford, minimizing disruption, improving safety, and optimizing systems in ways humans working alone could not. Robots and artificial intelligence can help us build the infrastructure we need, here and around the world. In short, the infrastructure robots are coming; in fact, some of them are already here."
