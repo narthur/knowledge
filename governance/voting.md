@@ -14,11 +14,15 @@
 
 [Pizza to the Polls](https://polls.pizza/) - "Waiting in line for hours to vote? Tummies grumblin? Pizza to the Polls is here to help. Send us reports of long lines and we'll send in the delicious reinforcements."
 
+[Politics in the Animal Kingdom: Single Transferable Vote](https://www.youtube.com/watch?v=l8XOZJkozfI&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
+
 [Primary Elections Explained](https://www.youtube.com/watch?v=_95I_1rZiIs&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
 
 [The Problems with First Past the Post Voting Explained](https://www.youtube.com/watch?v=s7tWHJfhiyo&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
 
 [Quadratic voting](https://en.wikipedia.org/wiki/Quadratic_voting) \#article - "Quadratic voting \(sometimes abbreviated QV\) is a collective decision-making procedure, where participants express how strongly they feel about an issue rather than just whether they are in favor of it or opposed to it."
+
+[Quick and Easy Voting for Normal People](https://www.youtube.com/watch?v=orybDrUj4vA&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
 
 ## The Electoral College
 
