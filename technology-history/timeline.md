@@ -82,6 +82,12 @@
 
 [John Sculley On How Steve Jobs Got Fired From Apple \| Forbes](https://www.youtube.com/watch?v=f8V4XhtQ4H8) \#video - "On Thursday, Sculley gave perhaps his fullest public account ever of the circumstances surrounding Apple's firing of Steve Jobs."
 
+## 2016
+
+[Elon Musk \| Full interview \| Code Conference 2016](https://www.youtube.com/watch?v=wsixsRI-Sz4&list=PLIilwIraDV2Ib7pm2whTH1JFyKCN0rIz_&index=2) \#video - "SpaceX CEO Elon Musk talks with Recode's Kara Swisher and The Verge's Walt Mossberg about his plans to send a one-way rocket to Mars in 2018. He estimates colonists could start arriving on the Red Planet by 2025. Musk also talks about the proliferation of electric vehicle initiatives that compete with his other company, Tesla, and why autonomous cars will become the norm. He says he doesn't see Google as a competitor, but that "Apple will be more direct." Plus: Why Musk wants more people to have access to the power of artificial intelligence."
+
+**March 31, 2016:** [Tesla Model 3 first test drive 0-60 with 5 adults! 1080HD](https://www.youtube.com/watch?v=TiWOKBMTDvc&list=PLIilwIraDV2Ib7pm2whTH1JFyKCN0rIz_&index=2&t=22s) \#video - "Elon Musk unveils the Model 3 at the Tesla Design Studio March 31, 2016. I was among the first to take a ride in the new car and was impressed with the design, power, and great looks! The interior just has one  4:3 ratio monitor in a horizontal positon. There are no gauges or dials anywhere! Still a very fast car and I'm sure options will include models that can go 0-60 in the 4.5 second range. Base models will innclude auto pilot and supercharging."
+
 ## 2018
 
 [Elon Musk Answers Your Questions! \| SXSW 2018](https://www.youtube.com/watch?v=kzlUyrccbos) \#video - "From space travel to deep earth boring, Elon Musk shares his opinions on AI, Mars, and business. He explores his early years as an entrepreneur that led to creating some of the most cutting-edge companies on the planet, in the planet and beyond. Oh, and there is a great little ditty at the end."

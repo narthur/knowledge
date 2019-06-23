@@ -34,6 +34,8 @@ Tim Cook
 
 [How Will SpaceX Get Us To Mars?](https://www.youtube.com/watch?v=txLmVpdWtNc&list=PLIilwIraDV2Ib7pm2whTH1JFyKCN0rIz_) \#video
 
+[SpaceX: Entrepreneur's race to space](https://www.youtube.com/watch?v=PNwg8FvfuuU&list=PLIilwIraDV2Ib7pm2whTH1JFyKCN0rIz_&index=2) \#video - "From PayPal to electric cars to rockets, billionaire entrepreneur Elon Musk wants his company, SpaceX, to build America's next manned spacecraft. Scott Pelley reports."
+
 [The Story of SpaceX \| ColdFusion](https://www.youtube.com/watch?v=iSv63RaZeuo&list=PLIilwIraDV2Ib7pm2whTH1JFyKCN0rIz_&index=2) \#video - "SpaceX is set to turn the aerospace industry upside down. This isn't the most amazing thing \(and the real achievement\) is the pure ambition that SpaceX's founder Elon Musk and his team possesses. Watch and find out the story."
 
 [Timeboxing: Elon Musk's Time Management Method](https://www.youtube.com/watch?v=fbAYK4KQrso) \#video
