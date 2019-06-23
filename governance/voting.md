@@ -1,8 +1,8 @@
-# Governance & Politics
-
-## Democracy
+# Voting
 
 [A bold idea to replace politicians \| César Hidalgo](https://www.youtube.com/watch?v=CyGWML6cI_k) \#video - "César Hidalgo has a radical suggestion for fixing our broken political system: automate it! In this provocative talk, he outlines a bold idea to bypass politicians by empowering citizens to create personalized AI representatives that participate directly in democratic decisions. Explore a new way to make collective decisions and expand your understanding of democracy."
+
+[The Alternative Vote Explained](https://www.youtube.com/watch?v=3Y3jE3B8HsE&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
 
 [Category:Voting on Wikipedia](https://en.wikipedia.org/wiki/Category:Voting)
 
@@ -12,19 +12,7 @@
 
 [Pizza to the Polls](https://polls.pizza/) - "Waiting in line for hours to vote? Tummies grumblin? Pizza to the Polls is here to help. Send us reports of long lines and we'll send in the delicious reinforcements."
 
+[The Problems with First Past the Post Voting Explained](https://www.youtube.com/watch?v=s7tWHJfhiyo&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
+
 [Quadratic voting](https://en.wikipedia.org/wiki/Quadratic_voting) \#article - "Quadratic voting \(sometimes abbreviated QV\) is a collective decision-making procedure, where participants express how strongly they feel about an issue rather than just whether they are in favor of it or opposed to it."
-
-## Fact Checking
-
-[Factba.se](https://factba.se/)
-
-[FactCheck.org](https://www.factcheck.org/) - "A Project of The Annenberg Public Policy Center"
-
-[NPR Fact Check](https://www.npr.org/sections/politics-fact-check/)
-
-[PolitiFact](https://www.politifact.com/truth-o-meter/)
-
-[The Washington Post Fact Checker](https://www.washingtonpost.com/news/fact-checker/?noredirect=on&utm_term=.3a4fc449dbad) - "The Truth Behind The Rhetoric \| By Glenn Kessler"
-
-
 
