@@ -18,6 +18,16 @@
 
 [THE WIRED GUIDE TO ARTIFICIAL INTELLIGENCE](https://www.wired.com/story/guide-artificial-intelligence/?itm_campaign=GuideCarveLeft) \#article - "Superintelligent algorithms aren’t about to take all the jobs or wipe out humanity. But software has gotten significantly smarter of late. It’s why you can talk to your friends as an animated poop on the iPhone X using Apple’s Animoji, or ask your smart speaker to order more paper towels."
 
+## Dangers
+
+[AI "Stop Button" Problem - Computerphile](https://www.youtube.com/watch?v=3TYT1QfdfsM&list=PLIilwIraDV2L3QailjC91OkRaIioM0DYv&index=10) \#video - "How do you implement an on/off switch on a General Artificial Intelligence? Rob Miles explains the perils."
+
+[General AI Won't Want You To Fix its Code - Computerphile](https://www.youtube.com/watch?v=4l7Is6vOAOA&list=PLIilwIraDV2L3QailjC91OkRaIioM0DYv&index=22&t=0s) \#video - "Part 1 of a Series on AI Safety Research with Rob Miles. Rob heads away from his 'Killer Stamp Collector' example to find a more concrete example of the problem."
+
+[Project Zero Dawn, and the Fall of Humanity Explained \| Horizon Zero Dawn Lore](https://www.youtube.com/watch?v=WlDRAmTmhlc) \#video
+
+[The Rise of the Machines – Why Automation is Different this Time](https://www.youtube.com/watch?v=WSKi8HfcxEk&list=PLIilwIraDV2L3QailjC91OkRaIioM0DYv&index=24) \#video - "Automation in the Information Age is different."
+
 ## Deep Learning
 
 [The Deep Learning Revolution](https://www.youtube.com/watch?v=Dy0hJWltsyE&list=PLIilwIraDV2L3QailjC91OkRaIioM0DYv&index=2) \#video - "More info at: [http://www.nvidia.com/deep-learning](https://www.youtube.com/redirect?redir_token=_QWqt8H0m8eIote0KkYxHus8muZ8MTU2MTM5MTcxMEAxNTYxMzA1MzEw&q=http%3A%2F%2Fwww.nvidia.com%2Fdeep-learning&v=Dy0hJWltsyE&event=video_description) Deep learning is the fastest-growing field in artificial intelligence, helping computers make sense of infinite amounts of data in the form of images, sound, and text. Using multiple levels of neural networks, computers now have the capacity to see, learn, and react to complex situations as well or better than humans. Every industry will be impacted by deep learning, and many businesses are already delivering new products and services based on this new way of thinking about data and technology."
