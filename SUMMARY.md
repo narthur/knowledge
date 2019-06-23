@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Adventism](adventism.md)
 * [Akrasia](akrasia.md)
 * [American Sign Language](american-sign-language.md)
 * [Art](art.md)
@@ -23,7 +22,7 @@
   * [Estimating](freelancing/estimating.md)
 * [Futurism](futurism.md)
 * [Governance & Politics](governance/README.md)
-  * [Voting](governance/voting.md)
+  * [Representation & Voting](governance/voting.md)
 * [Health](health.md)
 * [Humane Tech](humane-tech.md)
 * [Minimalism](minimalism.md)
@@ -43,6 +42,8 @@
   * [Techniques](purity/techniques.md)
 * [Quantified Self](quantified-self.md)
 * [Rationality](rationality.md)
+* [Religion](religion/README.md)
+  * [Adventism](religion/adventism.md)
 * [Remote Work](remote-work.md)
 * [Research](research-tools.md)
 * [Science](science.md)

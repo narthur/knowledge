@@ -1,5 +1,15 @@
 # Governance & Politics
 
+[Can Texas Secede from the Union?](https://www.youtube.com/watch?v=S92fTz_-kQE&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
+
+[The Debt Limit Explained](https://www.youtube.com/watch?v=KIbkoop4AYE&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
+
+[The \(Secret\) City of London, Part 1: History](https://www.youtube.com/watch?v=LrObZ_HZZUc&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
+
+[The \(Secret\) City of London, Part 2: Government](https://www.youtube.com/watch?v=z1ROpIKZe-c&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
+
+[The True Cost of the Royal Family Explained](https://www.youtube.com/watch?v=bhyYgnhhKFw&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
+
 ## Fact Checking
 
 [Factba.se](https://factba.se/)
