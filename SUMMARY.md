@@ -18,6 +18,7 @@
   * [Customer Development](entrepreneurship/customer-development.md)
   * [Pricing](entrepreneurship/pricing.md)
 * [Environment](environment.md)
+* [Failure & Vulnerability](failure-and-vulnerability.md)
 * [Freelancing](freelancing/README.md)
   * [Estimating](freelancing/estimating.md)
 * [Futurism](futurism.md)
