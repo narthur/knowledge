@@ -16,6 +16,10 @@
 
 [AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0) \#video - "This film "The UNIX System: Making Computers More Productive", is one of two that Bell Labs made in 1982 about UNIX's significance, impact and usability. Even 10 years after its first installation, it's still an introduction to the system. The other film, "The UNIX System: Making Computers Easier to Use", is roughly the same, only a little shorter. The former film was geared towards software developers and computer science students, the latter towards programmers specifically."
 
+## 1984
+
+[Macintosh 512K](https://en.wikipedia.org/wiki/Macintosh_512K) - "The **Macintosh 512K** is a [personal computer](https://en.wikipedia.org/wiki/Personal_computer) that was designed, manufactured and sold by [Apple Computer, inc.](https://en.wikipedia.org/wiki/Apple_Inc.)from September 1984 to April 1986. It is the first update to the original [Macintosh 128K](https://en.wikipedia.org/wiki/Macintosh_128K). It was virtually identical to the previous [Macintosh](https://en.wikipedia.org/wiki/Macintosh), differing primarily in the amount of built-in [random-access memory](https://en.wikipedia.org/wiki/Random-access_memory). The increased memory turned the Macintosh into a more business-capable computer and gained the ability to run more software."
+
 ## 1988
 
 [Steve Jobs Predicts Google In 1988](https://www.youtube.com/watch?v=Ir3kSyHw9Is) \#video - "Following the launch of the NeXT Computer, Steve Jobs appears in a TV report about the future of computing and predicts Google."
