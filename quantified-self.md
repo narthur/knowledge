@@ -6,6 +6,8 @@ Beeminder
 
 [Exist](https://exist.io/) - "Track everything together. Understand your behaviour."
 
+[HAPIfork](https://www.hapilabs.com/product/hapifork) - [On KickStarter](https://www.kickstarter.com/projects/1273668931/hapifork-the-smart-fork-that-tracks-your-eating-ha-0/description). Seems to be discontinued. "HAPIfork Is the Smart Fork That Helps You Eat Healthier, Eat Slower and Lose Weight By Eating at the Right Time and at the Right Speed"
+
 [How Tracking My Life Changed Everything](https://www.youtube.com/watch?v=0tnX81N6Ris) \#video
 
 [Quantified Self](https://quantifiedself.com/) - "Quantified Self supports every person's right and ability to learn from their own data. We're committed to accuracy, independence, inclusiveness, and transparency in all of our work."
