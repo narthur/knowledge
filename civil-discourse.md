@@ -18,6 +18,8 @@
 
 “The first one to plead his cause seems right, Until his neighbor comes and examines him” \(Proverbs 18:17, NKJV\).
 
+[The End of Empathy](https://www.stitcher.com/podcast/national-public-radio/invisibilia/e/60002023?refid=asa&autoplay=true) \#podcast - Invisibilia. "Invisibilia is a show that runs on empathy. We believe in it. But are we right? In this episode, we'll let you decide. We tell the same story twice in order to examine the questions: who deserves our empathy? And is there a wrong way to empathize? If you or somebody you know might need help, the National Suicide Prevention Lifeline is available 24/7 at 1-800-273-8255 or at suicidepreventionlifeline.org."
+
 [Free Speech](https://xkcd.com/1357/) \#comic - XKCD
 
 [Free yourself from your filter bubbles \| Joan Blades and John Gable](https://youtu.be/jtVIDBs60S8) \#video
