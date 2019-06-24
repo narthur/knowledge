@@ -8,5 +8,7 @@
 
 [HAPIfork](https://www.hapilabs.com/product/hapifork) - [On KickStarter](https://www.kickstarter.com/projects/1273668931/hapifork-the-smart-fork-that-tracks-your-eating-ha-0/description). Seems to be discontinued. "HAPIfork Is the Smart Fork That Helps You Eat Healthier, Eat Slower and Lose Weight By Eating at the Right Time and at the Right Speed"
 
+[OpenNotes](https://www.opennotes.org/) - "OpenNotes is the international movement that’s making health care more transparent. It urges doctors, nurses, therapists, and others to invite patients to read the notes they write to describe a visit. We call these opennotes."
+
 [Zwift](https://zwift.com/) - "SERIOUS TRAINING MADE FUN. The at home training app connecting cyclists around the world."
 
