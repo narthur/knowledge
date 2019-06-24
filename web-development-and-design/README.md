@@ -56,6 +56,17 @@
 
 ## HTML
 
+Prevent returned HTML from being auto-escaped by Twig \([source](https://stackoverflow.com/a/44736733/937377)\):
+
+```php
+class MyParser {
+    public function getHTML() {
+         $rawString = '<a href="#">Hello World</a>'
+         return new \Twig\Markup( $rawString, 'UTF-8' );
+    }
+}
+```
+
 [Key Value Arrays in Twig](https://mijingo.com/blog/key-value-arrays-in-twig) \#article - "A hash is one of [several types of literals available in Twig](http://twig.sensiolabs.org/doc/templates.html#literals). It has a key and a value. The pairs are separated by a comma and enclosed in curly braces."
 
 [Twig Documentation](https://twig.symfony.com/doc/2.x/)
