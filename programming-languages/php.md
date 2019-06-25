@@ -1,5 +1,20 @@
 # PHP
 
+## Snippets
+
+`array_map_recursive` \([source](https://stackoverflow.com/a/39637749/937377)\):
+
+```php
+function array_map_recursive($callback, $array)
+{
+  $func = function ($item) use (&$func, &$callback) {
+    return is_array($item) ? array_map($func, $item) : call_user_func($callback, $item);
+  };
+
+  return array_map($func, $array);
+}
+```
+
 ## PHPStorm
 
 [Mastering PhpStorm keyboard shortcuts](https://www.jetbrains.com/help/phpstorm/mastering-keyboard-shortcuts.html) \#article - "PhpStorm has keyboard shortcuts for most of its commands related to editing, navigation, refactoring, debugging, and other tasks. Memorizing these hotkeys can help you stay more productive by keeping your hands on the keyboard."
