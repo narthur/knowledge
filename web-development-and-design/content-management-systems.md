@@ -18,9 +18,13 @@
 
 [Wix](https://www.wix.com/html5bing/hiker-create-wix?utm_source=bing&utm_campaign=MS_Wix_NEW%5Ewix_English-x&experiment_id=wix%5Ebe%5E79783360752420%5Ewix&msclkid=3a0379c916c81b23bf6f251d6566e9ec&utm_medium=cpc) - "The Leader in Website Creation"
 
+[write.as](https://write.as/) - "Minimalist, privacy-focused, writing and publishing platform."
+
+## WordPress
+
+[Query Monitor](https://wordpress.org/plugins/query-monitor/) \#plugin - "Query Monitor is the developer tools panel for WordPress. It enables debugging of database queries, PHP errors, hooks and actions, block editor blocks, enqueued scripts and stylesheets, HTTP API calls, and more." Also helps with debugging rewrite rules.
+
 [WordPress](https://wordpress.org/) - "WordPress is open source software you can use to create a beautiful website, blog, or app."
 
 [WordPress.com](https://wordpress.com/) - Hosted WordPress service. "Build a website, build a movement. Whatever you want to create, share, or sell, we’ll help you do it right here."
-
-[write.as](https://write.as/) - "Minimalist, privacy-focused, writing and publishing platform."
 
