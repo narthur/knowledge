@@ -65,6 +65,8 @@ d.tzinfo is not None and d.tzinfo.utcoffset(d) is not None
 
 [Python File I/O](https://www.programiz.com/python-programming/file-operation) \#article - "In this article, you'll learn about Python file operations. More specifically, opening a file, reading from it, writing into it, closing it and various file methods you should be aware of."
 
+[Python's `strftime` directives](http://strftime.org/) - "I need to use Python’s `strftime` rarely enough that I can’t remember it off the top of my head and never bookmark it but often enough to be annoyed with having to Google “python strftime” and then find the table above in the Python documentation. So I decided to put this reference page up."
+
 ### Books
 
 \_\_[_Elegant SciPy_](https://github.com/elegant-scipy/elegant-scipy) by Juan Nunez-Iglesias, Stefan van der Walt & Harriet Dashnow
