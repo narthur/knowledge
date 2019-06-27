@@ -22,7 +22,7 @@
 
 ## WordPress
 
-[Query Monitor](https://wordpress.org/plugins/query-monitor/) \#plugin - "Query Monitor is the developer tools panel for WordPress. It enables debugging of database queries, PHP errors, hooks and actions, block editor blocks, enqueued scripts and stylesheets, HTTP API calls, and more." Also helps with debugging rewrite rules.
+[Query Monitor](https://wordpress.org/plugins/query-monitor/) \#plugin - "Query Monitor is the developer tools panel for WordPress. It enables debugging of database queries, PHP errors, hooks and actions, block editor blocks, enqueued scripts and stylesheets, HTTP API calls, and more." Also helps with debugging rewrite rules. 👍
 
 [WordPress](https://wordpress.org/) - "WordPress is open source software you can use to create a beautiful website, blog, or app."
 
