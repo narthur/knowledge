@@ -10,6 +10,8 @@
 
 [A First Drive](https://www.youtube.com/watch?v=CqSDWoAhvLU&list=PLIilwIraDV2JkPdIwldXw3jav0kNO0iO_) \#video - "Fully autonomous driving has always been the goal of our project, because we think this could improve road safety and help lots of people who can't drive. We're now developing prototypes of vehicles that have been designed from the ground up to drive themselves—just push a button and they'll take you where you want to go! We'll use these vehicles to test our software and learn what it will really take to bring this technology into the world."
 
+[How AI Is Changing Sports As We Know It \| Random Thursday](https://www.youtube.com/watch?v=KkY4qnrWxvk&feature=youtu.be) \#video
+
 [Life-like Gaming is Now Possible \(Thanks to A.I.\)](https://www.youtube.com/watch?v=fQlQQSsC47g&feature=youtu.be) \#video - "A.I. is making its way into gaming, with real-time ray tracing now possible, what other things does A.I. have in store?"
 
 [Machine Learning: Living in the Age of AI \| A WIRED Film](https://www.youtube.com/watch?v=ZJixNvx9BAc) \#video - "“Machine Learning: Living in the Age of AI,” examines the extraordinary ways in which people are interacting with AI today. Hobbyists and teenagers are now developing tech powered by machine learning and WIRED shows the impacts of AI on schoolchildren and farmers and senior citizens, as well as looking at the implications that rapidly accelerating technology can have. The film was directed by filmmaker Chris Cannucciari, produced by WIRED, and supported by McCann Worldgroup."
