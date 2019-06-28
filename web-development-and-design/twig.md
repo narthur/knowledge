@@ -1,7 +1,5 @@
 # Twig
 
-
-
 ## Snippets
 
 Prevent returned HTML from being auto-escaped by Twig \([source](https://stackoverflow.com/a/44736733/937377)\):
