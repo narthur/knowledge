@@ -54,23 +54,6 @@
 
 [Svelte](https://svelte.dev/) - "Cybernetically enhanced web apps. Svelte is a radical new approach to building user interfaces. Whereas traditional frameworks like React and Vue do the bulk of their work in the _browser_, Svelte shifts that work into a _compile step_ that happens when you build your app. ❡ Instead of using techniques like virtual DOM diffing, Svelte writes code that surgically updates the DOM when the state of your app changes."
 
-## HTML
-
-Prevent returned HTML from being auto-escaped by Twig \([source](https://stackoverflow.com/a/44736733/937377)\):
-
-```php
-class MyParser {
-    public function getHTML() {
-         $rawString = '<a href="#">Hello World</a>'
-         return new \Twig\Markup( $rawString, 'UTF-8' );
-    }
-}
-```
-
-[Key Value Arrays in Twig](https://mijingo.com/blog/key-value-arrays-in-twig) \#article - "A hash is one of [several types of literals available in Twig](http://twig.sensiolabs.org/doc/templates.html#literals). It has a key and a value. The pairs are separated by a comma and enclosed in curly braces."
-
-[Twig Documentation](https://twig.symfony.com/doc/2.x/)
-
 ## Placeholder Content
 
 [Cupcake Ipsum](http://www.cupcakeipsum.com/#/paragraphs/5/length/long/with_love/true/start_with_cupcake/false/seed/5a49403db7af57f6ec84b789da160450f96d8dd3b775ec955eaaabd84c99e587)  - "How about using auto-generated text that will actually make people love your project even more? Pretty sweet, right?"
