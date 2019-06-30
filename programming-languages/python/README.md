@@ -95,16 +95,6 @@ _Twisted Network Programming Essentials_ by Jessica McKellar & Abe Fettig
 
 _Web Scraping with Python_ by Ryan Mitchell
 
-### Development Environments
-
-[Pipenv](https://docs.pipenv.org/en/latest/#pipenv-python-dev-workflow-for-humans) \#software - "**Pipenv** is a tool that aims to bring the best of all packaging worlds \(bundler, composer, npm, cargo, yarn, etc.\) to the Python world. _..._ It automatically creates and manages a virtualenv for your projects, as well as adds/removes packages from your `Pipfile` as you install/uninstall packages. It also generates the ever-important `Pipfile.lock`, which is used to produce deterministic builds."
-
-[Python Environment](https://xkcd.com/1987/) \#comic - \#xkcd
-
-[venv](https://docs.python.org/3/library/venv.html) - Part of the standard library. "The [`venv`](https://docs.python.org/3/library/venv.html#module-venv) module provides support for creating lightweight “virtual environments” with their own site directories, optionally isolated from system site directories. Each virtual environment has its own Python binary \(which matches the version of the binary that was used to create this environment\) and can have its own independent set of installed Python packages in its site directories."
-
-[Why you should use pyenv + Pipenv for your Python projects](https://hackernoon.com/reaching-python-development-nirvana-bb5692adf30c) \#article - "The missing guide for setting up a great local development workflow for your Python projects."
-
 ### matplotlib
 
 [Matplotlib trendline](http://widu.tumblr.com/post/43624347354/matplotlib-trendline) \#article - "Drawing a trendline of a scatter plot in matplotlib is very easy thanks to numpy’s polyfit function."

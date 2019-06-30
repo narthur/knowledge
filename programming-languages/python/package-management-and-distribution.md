@@ -10,8 +10,6 @@
 
 [Pipenv](https://docs.pipenv.org/en/latest/#pipenv-python-dev-workflow-for-humans) \#software - "**Pipenv** is a tool that aims to bring the best of all packaging worlds \(bundler, composer, npm, cargo, yarn, etc.\) to the Python world. _..._ It automatically creates and manages a virtualenv for your projects, as well as adds/removes packages from your `Pipfile` as you install/uninstall packages. It also generates the ever-important `Pipfile.lock`, which is used to produce deterministic builds." [PyPA recommended](https://packaging.python.org/guides/tool-recommendations/).
 
-[Pipenv Crash Course](https://www.youtube.com/watch?v=6Qmnh5C4Pmo) \#video - "Create a better Python workflow by using Pipenv which allows you to install Python packages within a virtual environment easily."
-
 [pipx](https://pipxproject.github.io/pipx/) \#software - "Execute binaries from Python packages in isolated environments. ❡ `pipx` is a tool to install and run any of the thousands of Python applications available on PyPI in a safe, convenient, and reliable way. Not all Python packages have entry points, but many do."
 
 [Python Packaging Authority](https://www.pypa.io/en/latest/) - "The Python Packaging Authority \(PyPA\) is a working group that maintains many of the relevant projects in Python packaging."
