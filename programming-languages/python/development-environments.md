@@ -12,6 +12,8 @@
 
 [Pipenv Crash Course](https://www.youtube.com/watch?v=6Qmnh5C4Pmo) \#video - "Create a better Python workflow by using Pipenv which allows you to install Python packages within a virtual environment easily."
 
+[Pipfile vs setup.py](https://docs.pipenv.org/en/latest/advanced/#pipfile-vs-setup-py) \#article - Advice on using Pipenv inside a library as opposed to an application.
+
 [PyCharm: Configure a Pipenv environment](https://www.jetbrains.com/help/pycharm/pipenv.html#Pipenv.xml) \#article - "To use Pipenv with PyCharm, you need to implement several preparation steps."
 
 [Why you should use pyenv + Pipenv for your Python projects](https://hackernoon.com/reaching-python-development-nirvana-bb5692adf30c) \#article - "The missing guide for setting up a great local development workflow for your Python projects."
