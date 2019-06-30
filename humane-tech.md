@@ -6,6 +6,8 @@
 
 [Digital Minimalism - with Dr. Cal Newport](https://www.stitcher.com/podcast/paula-pant-and-j-money/money-103/e/58555559?refid=asa&autoplay=true) \#podcast - "Cal Newport created a philosophy called digital minimalism, which is idea of reducing your digital life down to only the most important core essentials. Remove the apps from your phone, then slowly re-introduce only the ones that are the most useful and beneficial. Take control of your smartphone, rather than letting it control you."
 
+[Forest](https://www.forestapp.cc/) \#app - "Stay focused, be present"
+
 [How to Prevent the Internet From Taking Over Your Life: Digital Minimalism 06](https://www.youtube.com/watch?v=jEps2fnwL-0&feature=youtu.be) \#video - "It's way too easy now to let the internet be a part of every aspect of our lives. This was starting to have a really negative effect on me, so I decided to do something about it."
 
 [Humane Tech Community](https://humanetech.community/) - "We are building the Pyramids of Humane Technology. We envision a future where we have unobtrusive technology that is empowering us and that allows humans to flourish and humanity to thrive. Where the digital world is a natural extension of the real one and a reflection of ourselves."

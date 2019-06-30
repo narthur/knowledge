@@ -6,6 +6,8 @@
 
 [FocusMe](https://focusme.com/) \#app \#software - "Break free from distractions, Unleash your productivity. FocusMe is the most powerful App and Website Blocker for Windows, Mac & Android. Our Android app is free!" Coupon code: MAY20
 
+[Forest](https://www.forestapp.cc/) \#app - "Stay focused, be present"
+
 [Hocus Focus](http://hocusfoc.us/) \#software - "Hocus Focus automatically hides application windows that have been inactive for a certain period of time, leaving only the applications you’re using visible. It’s a great way to keep your screens clutter free and your mind focused on the task at hand."
 
 [How To Hack Your To-Do List](https://www.youtube.com/watch?v=Xduzwk04l2E) \#video - How GTD principles free up your attention to focus on what's important. "We talked with David Allen, the author of, "Getting Things Done: The Art of Stress-Free Productivity," about how to hack through your to-do list and free up your mind to focus on what's actually most important to you."
