@@ -26,12 +26,6 @@ You Need a Budget \#webapp
 
 [Playing with Fire](https://www.playingwithfire.co/) \#documentary
 
-## Investing
-
-Betterment
-
-GuideLine
-
 ## Sources
 
 * [Dave Ramsey](https://www.daveramsey.com/)
