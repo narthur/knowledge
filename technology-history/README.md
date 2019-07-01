@@ -12,3 +12,5 @@
 
 [Rhapsody \(operating system\)](https://en.wikipedia.org/wiki/Rhapsody_%28operating_system%29) \#article - Wikipedia. "**Rhapsody** was the code name given to [Apple Computer](https://en.wikipedia.org/wiki/Apple_Inc.)'s next-generation [operating system](https://en.wikipedia.org/wiki/Operating_system) during the period of its development between Apple's purchase of [NeXT](https://en.wikipedia.org/wiki/NeXT) in late 1996 and the announcement of [Mac OS X](https://en.wikipedia.org/wiki/MacOS) \(now called "macOS"\) in 1998."
 
+[The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4&list=PLIilwIraDV2J8hueIWIwvkT3NvfuSChe7&index=3&t=11s) \#video - "The history of JavaScript over the last 25 years. How did a simple scripting language for Netscape evolve into the world's most widely used programming language?"
+

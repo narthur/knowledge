@@ -33,6 +33,8 @@ console.log(found);
 
 [js2coffee](http://js2.coffee/) \#webapp - "JavaScript to CoffeeScript compiler."
 
+[The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4&list=PLIilwIraDV2J8hueIWIwvkT3NvfuSChe7&index=3&t=11s) \#video - "The history of JavaScript over the last 25 years. How did a simple scripting language for Netscape evolve into the world's most widely used programming language?"
+
 ### **Design Patterns**
 
 [Factory Functions in JavaScript](https://www.youtube.com/watch?v=ImwrezYhw4w&feature=youtu.be) \#video
