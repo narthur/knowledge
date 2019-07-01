@@ -16,6 +16,10 @@
 
 [The Four Steps to Epiphany](https://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf) \#book - by Steven G. Blank
 
+[Guideline](https://www.guideline.com/) - "The easy, affordable 401\(k\) for small business. We handle all the hard work for just $8 per employee each month."
+
+[Gusto](https://gusto.com/product/payroll) - "Payroll made easy. See why Gusto is simply the best online payroll"
+
 [How Your To-Do List is Killing Your Productivity - Dan Lok](https://www.youtube.com/watch?v=HGk3tmodKDE) \#video - Delegate as much as possible, identify the 5 most import things to accomplish today, complete them, and then spend the rest of your time to think and strategize. Avoid the cult of busy. You can't do quality thinking when you're always busy and always running.
 
 [Kiip](https://www.kiip.me/) - "Kiip is an in-app mobile advertising platform that uses moments to create meaningful customer interactions and generate highly targeted, custom audiences."
