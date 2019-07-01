@@ -20,7 +20,7 @@ You Need a Budget \#webapp
 
 [1500 Days to Freedom](https://www.1500days.com/) \#blog
 
-[ChooseFI](https://www.choosefi.com/) - "Earn More, Spend Less, Enjoy The Journey"
+[ChooseFI](https://www.choosefi.com/) \#podcast \#blog - "Earn More, Spend Less, Enjoy The Journey"
 
 [Mr. Money Mustache](http://www.mrmoneymustache.com/) \#blog
 
