@@ -66,6 +66,7 @@ Tools I've used in the past:
 [The Autofocus Time Management System](http://markforster.squarespace.com/autofocus-system/) \#article \#video - "The system consists of one long list of everything that you have to do, written in a ruled notebook \(25-35 lines to a page ideal\). As you think of new items, add them to the end of the list. You work through the list one page at a time in the following manner..."
 
 * Take a notebook and write down tasks in the order they occur to you.
+  * Include the date of entry for the first item on each page to help you monitor progress.
 * When completing tasks, take each page as a unit and work on it for as long as you feel like working on it.
   * First, review the entire page just to remind yourself what's on it that is yet to be completed.
   * Then, start back at the top of the page, looking at each item in turn, until you come to an item that you feel is ready to be done.
