@@ -74,6 +74,7 @@
   * [Web Animation](self-study/web-animation.md)
 * [Software Development](programming/README.md)
   * [Collaboration](programming/collaboration.md)
+  * [Command Line](programming/command-line.md)
   * [git](programming/git.md)
   * [Paradigms](programming/paradigms.md)
   * [Testing](programming/testing.md)
