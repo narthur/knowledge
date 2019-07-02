@@ -6,6 +6,8 @@
 
 [Design Talks With Aaron Draplin: Finding Inspiration In Dead Stuff](https://www.youtube.com/watch?v=_7bnzOZrc4k) \#video - "Aaron James Draplin of Draplin Design Co., is working solo in the mighty Pacific Northwest, where he rolls up his sleeves on graphic design projects for companies like Nike, Patagonia, Target, Ford Motor Company and even the Obama Administration. Aaron hit design stardom for both his high level of craftsmanship and his honest and sharp talks commenting on the lives of designers and the state of the art of graphic design."
 
+[Figma](https://www.figma.com/) \#webapp - "A better way to design. Design, prototype, and collaborate all in the browser—with Figma."
+
 [ProductDesign.tips](https://productdesign.tips/?ref=producthunt)
 
 [Twemoji](https://github.com/twitter/twemoji) - "A simple library that provides standard Unicode emoji support across all platforms." CC-BY 4.0. More information on how to provide attribution [here](https://twemoji.twitter.com/).

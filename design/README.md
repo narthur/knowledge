@@ -6,6 +6,8 @@
 
 [Flare](https://www.2dimensions.com/about-flare) - "Bring Your Apps and Games to Life with Real-Time Animation. Flare is a powerful design and animation tool, which allows designers and developers to easily add high-quality animation to their apps and games."
 
+[Font Flipper](https://fontflipper.com/upload) \#webapp - Tender-like interface for choosing fonts.
+
 [Hero Patterns](https://www.heropatterns.com/) \#webapp - "A collection of repeatable SVG background patterns for you to use on your web projects."
 
 [Lateral Thinking with Withered Technology](http://ignorethecode.net/blog/2013/09/05/lateral_thinking_with_withered_technology/) \#article - "The basic idea is to use existing, cheap, well-established technology, and use it in new ways, thus allowing Nintendo to introduce new, innovative concepts at affordable prices."

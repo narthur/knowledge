@@ -40,6 +40,8 @@
 
 [Understanding Variable Scope And Variable Injection In Less CSS](https://www.bennadel.com/blog/2642-understanding-variable-scope-and-variable-injection-in-less-css.htm) \#article - "The Less CSS preprocessor allows you to define variables that can be used throughout your CSS structure; however, as I have been digging into Less CSS more, I have found the rules around variable assignment and variable visibility to be a bit confusing. Sometimes variables can be overridden; sometimes they can't. Sometimes they can bubble-up; sometimes they can't. As such, I thought this would make a valuable exploration."
 
+[VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) \#extension - "Open source web design debug tools built with JavaScript: a FireBug for designers." \#chrome
+
 [What No One Told You About Z-Index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/) \#article - "The problem with z-index is that very few people understand how it really works. It’s not complicated, but it if you’ve never taken the time to read its specification, there are almost certainly crucial aspects that you’re completely unaware of."
 
 ## Frameworks
