@@ -6,11 +6,15 @@
 
 [Clippy.js](https://www.smore.com/clippy-js) - “Add Clippy or his friends to any website for instant nostalgia. Our research shows that people love two things: failed Microsoft technologies and obscure Javascript libraries. Naturally, we decided to combine the two.”
 
+[Guess.js](https://guess-js.github.io/docs) - “Guess.js provides a collection of libraries for enabling machine-learning driven experience for the Web. Currently, the project has two main modules: Predictive prefetching for static websites. Predictive prefetching for JavaScript frameworks.”
+
 [http://instantclick.io/](http://instantclick.io/)
 
-[http://qunitjs.com/](http://qunitjs.com/)
+[Leaflet](https://leafletjs.com) - “an open-source JavaScript library for mobile-friendly interactive maps.” Uses OpenStreetMap data.
 
 [Preact](https://preactjs.com/) - “Fast 3kB alternative to React with the same ES6 API.”
+
+[http://qunitjs.com/](http://qunitjs.com/)
 
 [Scrollama.js](https://pudding.cool/process/introducing-scrollama/?utm_source=frontendfocus&utm_medium=email) - “Scrollama is a modern and lightweight JavaScript library for scrollytelling using IntersectionObserver in favor of scroll events.”
 

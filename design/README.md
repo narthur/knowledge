@@ -4,6 +4,8 @@
 
 [Checklist: 10 Must-Have Criteria for Your Logo](https://gistbrands.net/10-must-have-logo-criteria/) \#article - "What makes a logo not just creative, but strong, successful, and lasting? How do you know when your logo isn’t working the way it should? What makes one concept potentially better than another? How do you narrow down your top choices in a logo redesign to a front-runner when different people are responding to different esthetics?"
 
+[Flare](https://www.2dimensions.com/about-flare) - "Bring Your Apps and Games to Life with Real-Time Animation. Flare is a powerful design and animation tool, which allows designers and developers to easily add high-quality animation to their apps and games."
+
 [Hero Patterns](https://www.heropatterns.com/) \#webapp - "A collection of repeatable SVG background patterns for you to use on your web projects."
 
 [Lateral Thinking with Withered Technology](http://ignorethecode.net/blog/2013/09/05/lateral_thinking_with_withered_technology/) \#article - "The basic idea is to use existing, cheap, well-established technology, and use it in new ways, thus allowing Nintendo to introduce new, innovative concepts at affordable prices."

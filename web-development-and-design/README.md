@@ -10,10 +10,6 @@
 
 [xwp/pwa-wp](https://github.com/xwp/pwa-wp) - "WordPress feature plugin to bring Progressive Web Apps \(PWA\) to Core"
 
-## APIs
-
-[Filestack](https://www.filestack.com/) - "The File Handling Service for Developers. Powerful APIs that allow you to upload, transform and deliver any file into your app."
-
 ## Browsers
 
 [Blockstack](https://blockstack.org/) - “Blockstack is a new internet for decentralized apps where users own their data. A browser is all that’s needed to get started.”

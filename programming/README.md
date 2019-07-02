@@ -24,6 +24,16 @@
 
 [Swagger](https://swagger.io/) - "Swagger open source and pro tools have helped millions of API developers, teams, and organizations deliver great APIs."
 
+## Integrated Development Environments
+
+[Atom](https://atom.io/) \#software - "A hackable text editor for the 21st Century"
+
+[PhpStorm](https://www.jetbrains.com/phpstorm/) \#software - "The Lightning-Smart PHP IDE"
+
+[Postman](https://www.getpostman.com/) \#software - “Postman Makes API Development Simple. Developers use Postman to build modern software for the API-first world.”
+
+[PyCharm](https://www.jetbrains.com/pycharm/) \#software - "The Python IDE for Professional Developers"
+
 ## Refactoring
 
 [Refactoring Guru](https://refactoring.guru/) - "**Refactoring.Guru** makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles and other smart programming topics."
