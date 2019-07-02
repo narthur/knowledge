@@ -28,6 +28,8 @@
 
 [Atom](https://atom.io/) \#software - "A hackable text editor for the 21st Century"
 
+[Insomnia](https://insomnia.rest/) - "Debug APIs like a human, not a robot. Finally, a REST client you'll love"
+
 [PhpStorm](https://www.jetbrains.com/phpstorm/) \#software - "The Lightning-Smart PHP IDE"
 
 [Postman](https://www.getpostman.com/) \#software - “Postman Makes API Development Simple. Developers use Postman to build modern software for the API-first world.”

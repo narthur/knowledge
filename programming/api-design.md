@@ -37,3 +37,7 @@
   * The solution is to be very opinionated, and make your philosophy visible, spread it among both your users and those building the product.
   * Especially be opinionated when there is no right or wrong
 
+[Insomnia](https://insomnia.rest/) - "Debug APIs like a human, not a robot. Finally, a REST client you'll love"
+
+[Postman](https://www.getpostman.com/) \#software - “Postman Makes API Development Simple. Developers use Postman to build modern software for the API-first world.”
+
