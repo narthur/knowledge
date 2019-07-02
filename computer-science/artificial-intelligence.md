@@ -20,6 +20,8 @@
 
 [SPEND PART OF THE $2 TRILLION INFRASTRUCTURE PLAN ON ROBOTS](https://www.wired.com/story/infrastructure-plan-robots/) \#article - "New technologies are threatening jobs, but they also offer the possibility of completing projects we otherwise couldn't afford, minimizing disruption, improving safety, and optimizing systems in ways humans working alone could not. Robots and artificial intelligence can help us build the infrastructure we need, here and around the world. In short, the infrastructure robots are coming; in fact, some of them are already here."
 
+[Using a phone to steal baseball signs](https://www.youtube.com/watch?v=PmlRbfSavbI&feature=youtu.be) \#video - "I always sucked at baseball... until now... ok, I still probably suck."
+
 [Which Jobs Should You Avoid Because Robots Will Take Them First](https://www.youtube.com/watch?v=Mj9OGupiC1s&list=PLIilwIraDV2JkPdIwldXw3jav0kNO0iO_&index=2) \#video - "Robots are taking our jobs left and right, but we wanted to take a look at which jobs are going to be replaced by robots \(ai & automation\) first. In this episode, let's compare Robots vs Humans."
 
 [THE WIRED GUIDE TO ARTIFICIAL INTELLIGENCE](https://www.wired.com/story/guide-artificial-intelligence/?itm_campaign=GuideCarveLeft) \#article - "Superintelligent algorithms aren’t about to take all the jobs or wipe out humanity. But software has gotten significantly smarter of late. It’s why you can talk to your friends as an animated poop on the iPhone X using Apple’s Animoji, or ask your smart speaker to order more paper towels."
