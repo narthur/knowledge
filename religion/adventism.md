@@ -1,5 +1,7 @@
 # Adventism
 
+[Adventist Christian Fellowship](http://acflink.org/) - "Adventist Christian Fellowship \(ACF\) is the official organization for Adventist campus ministry on non-Adventist college and university campuses within the [North American Division](http://nadadventist.org/) \(NAD\) of Seventh-day Adventist's, including the US, Canada, Bermuda and Guam. Currently ACF is a network of over one hundred chapters across the North American Division."
+
 [AdventistCommons/adventistcommons.org](https://github.com/AdventistCommons/adventistcommons.org) - "By collaborating with Adventist Commons, you can play an integral part in getting our distinctive Adventist message into the hands of unreached people, right from the comfort of your own home. Do you have skills in writing, translating, editing, proofreading, graphic design, or web development? 🖥📝🎨😀 Sign up below to become a valued contributor at Adventist Commons!"
 
 [Adventist History](http://adventisthistorypodcast.org/) \#podcast
