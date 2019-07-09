@@ -56,3 +56,7 @@
 
 [You Can Live Without Producing Trash](https://www.youtube.com/watch?v=nYDQcBQUDpw&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video - "One New York woman is making an effort to change the way we think about waste. Over the past two years, Lauren Singer has produced only enough trash to fill a 16 oz mason jar. ❡ In Going Off Grid, Laura Ling examines how 180,000 Americans a year are choosing to live entirely disconnected from our modern internet-focused world in pursuit of a more sustainable, simple lifestyle. "
 
+## Sources
+
+[Greentech Media](https://www.greentechmedia.com/#gs.nzgu9y) \#blog - "Greentech Media delivers market analysis, business-to-business news and conferences that inform and connect players in the global clean energy market. Our coverage extends across the clean energy industry with a focus on solar power and the electric utility market's evolution. Greentech Media's industry-leading coverage is provided by world-class journalists and a global network of expert contributors, supported by a team of analysts from our market intelligence arm, GTM Research."
+
