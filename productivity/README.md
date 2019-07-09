@@ -61,33 +61,17 @@ Tools I've used in the past:
 
 [Spark](https://sparkmailapp.com/) \#software \#app - "The best personal email client. Revolutionary email for teams."
 
-### Time Management
-
-[Deep Habits: The Importance of Planning Every Minute of Your Work Day](http://www.calnewport.com/blog/2013/12/21/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/) \#article - "I call this planning method _time blocking_. I take time blocking seriously, dedicating ten to twenty minutes every evening to building my schedule for the next day. During this planning process I consult my task lists and calendars, as well as my weekly and quarterly planning notes. My goal is to make sure progress is being made on the right things at the right  pace for the relevant deadlines."
-
-[Focus Booster](https://www.focusboosterapp.com/) \#software - "Simple pomodoro timer. Powerful productivity boost. Stop procrastinating, focus consistently and track your time. Using focus booster you will achieve more, understand how you use your time and feel satisfied knowing you are productive."
-
-[Focus Time Manager](https://masterbuilders.io/focus) \#software - "The best pomodoro time manager for professionals"
-
-[Overcommitters Club](https://overcommitters.club/) - "OVERCOMMITTERS CLUB is a monthly "event" for folks like us, who sign up for too many things, and need to reclaim that time every once in awhile. We like to think we're the only recurring event that's happy when you're a no-show."
-
-[Procrastination Research Group](https://www.procrastination.ca/) - "Over the past 20 years, our exclusive focus has been on researching the breakdown in volitional action we commonly call procrastination. We seek to understand why we become our own worst enemy at times with needless, voluntary delay. Although our research and site originates at Carleton University \(Ottawa, Canada\), it represents a compilation of information and research on procrastination from all over the world." Creators of the iProcrastinate podcast.
-
-[Timeboxing: Elon Musk's Time Management Method](https://www.youtube.com/watch?v=fbAYK4KQrso) \#video
-
-[Timeular](https://timeular.com/?ref=producthunt) - "Track, understand and improve how you work. Timeular helps you visualize your time and become more productive." Physical device for time tracking.
-
-[TomatoTimer](https://tomato-timer.com/)
-
-[Tomighty](http://tomighty.org/) \#software - "A free desktop timer for the Pomodoro Technique®" 👍
-
 ### Sources
 
 [Alex Vermeer](https://alexvermeer.com/blog/) \#blog - "I drink coffee, climb rocks, play go, and read books. I research and use tools for that improve my thinking, productivity, and life in general. I strive to reduce friction in my life, keep things minimal, and simplify. Sometimes I write."
 
+[AlternativeTo](https://alternativeto.net/) - "Reviews, comments and recommendations."
+
 [Cal Newport](http://www.calnewport.com/blog/) \#blog - "I'm a [computer science professor](http://people.cs.georgetown.edu/~cnewport/) who writes about the intersection of technology and society. I’m particularly interested in the impact of new technologies on our ability to perform productive work and lead satisfying lives. If you’re new to my writing, a good place to start is the [about page](http://calnewport.com/about/). You can access over a decade's worth of posts in the [blog archive](http://calnewport.com/blog/archive/)."
 
 [Matt D'Avella](https://mattdavella.com/) - "Hi, my name’s Matt D’Avella. I’m a [filmmaker](http://minimalismfilm.com/), [YouTuber](http://youtube.com/mattdavella) & [podcaster](http://groundupshow.com/) that explores what it means to live a good life."
+
+[Slant](https://www.slant.co/) - "TRUSTWORTHY PRODUCT RANKINGS FOR ALL YOUR SHOPPING NEEDS. Each month, over 2.8 Million people use Slant to find the best products and share their knowledge"
 
 [Tim Ferriss](http://www.timferriss.com/) - "Tim Ferriss is a start-up angel investor \(Uber, Facebook, Twitter, Alibaba, etc.\), [blogger](http://www.fourhourworkweek.com/blog), and entrepreneur. His best-known written work is [The 4-Hour Workweek](http://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307353133/ref=pd_bbs_1?ie=UTF8&s=books&qid=1203371924&sr=8-1), which had been sold into 35 languages and reached \#1 on The New York Times, BusinessWeek, and The Wall Street Journal bestseller lists.  On May 3, 2009, it celebrated its 2nd straight year on The New York Times business bestseller list since its publication on April 27, 2007."
 

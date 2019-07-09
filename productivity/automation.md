@@ -1,5 +1,7 @@
 # Automation
 
+[Hammerspoon](http://www.hammerspoon.org/) - "This is a tool for powerful automation of OS X. At its core, Hammerspoon is just a bridge between the operating system and a Lua scripting engine. What gives Hammerspoon its power is a set of extensions that expose specific pieces of system functionality, to the user."
+
 ## Tasker
 
 [Android and Beeminder and Tasker](https://blog.beeminder.com/beedroid/) \#article - "Tasker is like [IFTTT](http://ifttt.com/) for your Android. It exposes triggers and events that you can string together kind of like a recipe. It lets you plug in Beeminder as the event portion of a recipe, and so you can do things like automatically mind your sleep based on how long your phone’s display is off at night, or start a timer every time you launch Candy Crush Saga, and stop and submit the datapoint every time you quit the app. "

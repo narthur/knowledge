@@ -30,3 +30,55 @@
 
 [Why DEEP WORK is So Valuable, with Cal Newport \| Afford Anything Podcast \(Ep. \#42\) \| Audio](https://www.youtube.com/watch?v=9EwwjQ2Kld0&feature=youtu.be) \#video \#podcast - "Your most valuable asset isn’t your house, car or retirement portfolio. It’s your attention."
 
+## Window Management
+
+[Amethyst](https://github.com/ianyh/Amethyst) - "Automatic tiling window manager for macOS à la xmonad."
+
+[AROW](https://mac.softpedia.com/get/Utilities/AROW.shtml) - "AROW is a lightweight and efficient app that makes it as easy as possible for you to arrange, resize, organize windows in ways that are just above OS X’s capabilities."
+
+[BetterSnapTool](https://apps.apple.com/us/app/bettersnaptool/id417375580?mt=12) - "BetterSnapTool allows you to easily manage your window positions and sizes by either dragging them to one of the screen's corners or to the top, left or right side of the screen. This enables you to easily maximize your windows, position them side by side or even resize them to quarters of the screen."
+
+[Better Window Manager](http://www.gngrwzrd.com/better-window-manager/) - "Put Windows Where You Want!"
+
+[Breeze](https://apps.apple.com/us/app/breeze/id414857071?mt=12) - "Maximize your productivity with simple window management."
+
+[Cinch](http://www.irradiatedsoftware.com/cinch/) - "Cinch allows you to precisely resize a window simply by dragging to the left, right, or top screen edge."
+
+[Divvy](https://mizage.com/divvy/) - "Window management at its finest"
+
+[DoublePane](https://apps.apple.com/us/app/doublepane/id409737246?mt=12) - "DoublePane effortlessly repositions application windows to maximize your screen space for easy side-by-side viewing."
+
+[Gridsutra](http://www.gridsutra.com/)
+
+[HyperDock](https://apps.apple.com/us/app/hyperdock/id449830122?mt=12) - "HyperDock adds long awaited features to your Dock: Select individual application windows just by moving the mouse on a dock item, use mouse clicks to quickly open new windows and many more."
+
+[Magnet](https://magnet.crowdcafe.com/) - "Magnet keeps your workspace organized. Activated by dragging, customizable keyboard shortcuts or via menu bar, Magnet declutters your screen by snapping windows into organized tiles." 👍
+
+[MercuryMover](http://www.heliumfoot.com/mercurymover/) - "MercuryMover reduces the friction you feel when you use your Mac. With MercuryMover, you can move and resize windows on your Mac from the keyboard, positioning them precisely where you want. By shunning the slow and imprecise mouse, MercuryMover empowers you to work faster and play more. Download and try MercuryMover today!"
+
+[Moom](https://manytricks.com/moom/) - "Move and zoom windows"
+
+[Mosaic](https://www.lightpillar.com/mosaic.html) - "Effortlessly resize and reposition macOS apps"
+
+[Optimal Layout](http://most-advantageous.com/optimal-layout/) - "The ultimate window manager, for Mac OS X"
+
+[osxmonad](https://github.com/puffnfresh/osxmonad) - "This is a library which allows [XMonad](https://xmonad.org/) to manage Mac OS X windows."
+
+[ShiftIt](https://github.com/fikovnik/ShiftIt) - "Managing window size and position in OSX"
+
+[SizeUp](http://www.irradiatedsoftware.com/sizeup/) - "SizeUp allows you to quickly resize and position your windows with keyboard shortcuts or a handy menu bar icon."
+
+[Slate](https://github.com/jigish/slate) - "A window management application \(replacement for Divvy/SizeUp/ShiftIt\)"
+
+[Spectacle](https://www.spectacleapp.com/) - "Move and resize windows with ease. Window control with simple and customizable [keyboard shortcuts](https://github.com/eczarny/spectacle#keyboard-shortcuts)"
+
+[Sticker](http://www.chompstomp.com/sticker/) - "A simple and intuitive way to manage your windows on a Mac"
+
+[TileWindows](http://www.carsten-mielke.com/tilewindows.html) - "TileWindows is a window management tool developed to provide a quick and practical way to rearrange and resize windows as and when required. In addition to the programs preset window layout options, it includes also standard functions such as half-sizing a window to the left or right of the screen, cascading windows or switching to full screen mode. Customizable shortcuts can be used instead of the menubar."
+
+[Veeer](https://veeer.io/) - "A Lightweight Window Manager for your OSX."
+
+[Window Manager for Mac](https://www.cisdem.com/window-manager-mac.html) - "Split Screen Mac Like You Can in Windows"
+
+[Windownaut](http://www.binarybakery.com/aprod/windownaut.html) - "Tame your app windows."
+

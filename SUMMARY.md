@@ -33,6 +33,7 @@
   * [Audio for Focus](productivity/audio-for-focus.md)
   * [Automation](productivity/automation.md)
   * [Task Management](productivity/task-management.md)
+  * [Time Management](productivity/time-management.md)
 * [Programming Languages](programming-languages/README.md)
   * [JavaScript](programming-languages/javascript.md)
   * [PHP](programming-languages/php.md)
