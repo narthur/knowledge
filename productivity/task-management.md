@@ -1,0 +1,27 @@
+# Task Management
+
+[The Autofocus Time Management System](http://markforster.squarespace.com/autofocus-system/) \#article \#video - "The system consists of one long list of everything that you have to do, written in a ruled notebook \(25-35 lines to a page ideal\). As you think of new items, add them to the end of the list. You work through the list one page at a time in the following manner..."
+
+* Take a notebook and write down tasks in the order they occur to you.
+  * Include the date of entry for the first item on each page to help you monitor progress.
+* When completing tasks, take each page as a unit and work on it for as long as you feel like working on it.
+  * First, review the entire page just to remind yourself what's on it that is yet to be completed.
+  * Then, start back at the top of the page, looking at each item in turn, until you come to an item that you feel is ready to be done.
+  * Commit yourself to that item by placing a dot next to it.
+  * Work on the task as long as you'd like.
+  * If you haven't completed the task or the task is recurring in nature, write it again at the end of your notebook.
+  * Strike out the instance of the task you committed to, whether or not you completed it.
+  * Review the page again, looking for another task you feel ready to complete, repeating this process until you don't feel ready to complete any tasks on this page, at which point you move to the next page.
+* When you wish to move on, start working on the next page.
+* When you run out of pages with tasks on them, go back to the first page.
+* When you finish a page completely, put an X on the top outside corner. When there are no active pages previous to a completed page, add a circle around the X.
+* If you feel a task will never be completed, you can dismiss an item by highlighting it.
+
+[The easiest way to fight procrastination](https://qz.com/169043/this-one-weird-trick-will-make-you-breeze-through-your-to-do-list/) \#article - "If you want to get five tasks done, my father always said, first find five additional but enjoyable tasks to do."
+
+[How To Hack Your To-Do List](https://www.youtube.com/watch?v=Xduzwk04l2E) \#video - "We talked with David Allen, the author of, "Getting Things Done: The Art of Stress-Free Productivity," about how to hack through your to-do list and free up your mind to focus on what's actually most important to you."
+
+[Amazing Marvin](https://www.amazingmarvin.com/) \#webapp - "THE ULTIMATE PRODUCTIVITY TOOL. Get more done with more ease. Marvin incorporates principles from behavioral psychology to help you beat procrastination, feel in control and finish your to-do list."
+
+[MyLifeOrganized](https://www.mylifeorganized.net/) \#software - "The Most Flexible Task Management Tool"
+

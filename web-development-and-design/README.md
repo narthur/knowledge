@@ -6,9 +6,11 @@
 
 [HTML by Toptal Designers](https://www.toptal.com/designers/htmlarrows/) - "A delightful reference for HTML Symbols, Entities and ASCII Character Codes"
 
-[mailgun/transactional-email-templates](https://github.com/mailgun/transactional-email-templates) - "Transactional HTML emails often get neglected. **Styling HTML email is painful**. Tables, inline CSS, unsupported CSS, desktop clients, web clients, mobile clients, various devices, various providers. ❡ We’ve tried to remove some of the pain for you and open-sourced a collection of common templates for transactional email."
-
 [Microservices Foundations](https://www.lynda.com/Developer-tutorials/Microservices-Foundations/647664-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3amicroservices%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) \#course - "Microservices is a major architectural pattern in the software industry, and having an overview of what this architecture is-and what it isn't-is critical as a starting point to evaluating this model. This course covers the basic concepts of microservices, to help you determine if this architectural model is the right fit for you and your team. Instructor Frank Moley kicks off the course by briefly discussing how microservices fit into the history of software architecture, and going into some of the other notable patterns that have emerged in recent years. Frank then helps to familiarize you with some core concepts of microservices, including bounded contexts and the API layer. He also goes over some of the more advanced areas of the architecture, as well as the importance of embracing a DevOps culture should you choose to move to microservices."
+
+[MX Lookup](https://mxtoolbox.com/) - "This test will list MX records for a domain in priority order. The MX lookup is done directly against the domain's authoritative name server, so changes to MX Records should show up instantly. You can click [Diagnostics](https://mxtoolbox.com/diagnostic.aspx) , which will connect to the mail server, verify reverse DNS records, perform a simple Open Relay check and measure response time performance. You may also check each MX record \(IP Address\) against 105 DNS based [blacklists](https://mxtoolbox.com/blacklists.aspx) . \(Commonly called RBLs, DNSBLs\)"
+
+[Postbin](http://bin.mailgun.net/7562e092) - "HTTP Post requests are displayed here, newest to oldest."
 
 [xwp/pwa-wp](https://github.com/xwp/pwa-wp) - "WordPress feature plugin to bring Progressive Web Apps \(PWA\) to Core"
 
@@ -41,6 +43,18 @@
 [Glitch](https://glitch.com/) - "Glitch is the friendly community where everyone can discover and create the best stuff on the web."
 
 [Postman](https://www.getpostman.com/) \#software - "Simplifies API Development. Get easy, API-First solutions with the industry's only complete API Development Environment."
+
+## Email
+
+[mailgun/transactional-email-templates](https://github.com/mailgun/transactional-email-templates) - "Transactional HTML emails often get neglected. **Styling HTML email is painful**. Tables, inline CSS, unsupported CSS, desktop clients, web clients, mobile clients, various devices, various providers. ❡ We’ve tried to remove some of the pain for you and open-sourced a collection of common templates for transactional email."
+
+[MailPoet](https://www.mailpoet.com/) - "Better Email for WordPress-Powered Websites. Send beautiful emails that reach inboxes every time, and create loyal subscribers."
+
+[MailTester](https://www.mail-tester.com/) - "Test the Spammyness of your Emails"
+
+[Return Path](https://returnpath.com/) - "AT RETURN PATH, WE KNOW EMAIL. We're experts in deliverability and driving email ROI."
+
+[Sender Score](https://senderscore.org/) - "Know your sender reputation. Know how to improve it."
 
 ## Frameworks
 
