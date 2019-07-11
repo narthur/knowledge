@@ -4,7 +4,7 @@
 
 [Flit](https://flit.readthedocs.io/en/latest/) \#software - "**Flit** is a simple way to put Python packages and modules on PyPI."
 
-[How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/) \#article - "In this tutorial, you’ll cover how to **upload your own package to PyPI**. While getting your project published is easier than it used to be, there are still a few steps involved."
+[How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/) \#article - "In this tutorial, you’ll cover how to **upload your own package to PyPI**. While getting your project published is easier than it used to be, there are still a few steps involved." 👍
 
 [pip](https://pip.pypa.io/en/stable/) \#software - "pip is the [package installer](https://packaging.python.org/en/latest/current/) for Python. You can use pip to install packages from the [Python Package Index](https://pypi.org/) and other indexes." [PyPA recommended](https://packaging.python.org/guides/tool-recommendations/).
 
