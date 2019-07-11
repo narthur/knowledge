@@ -30,6 +30,8 @@
 
 [Insomnia](https://insomnia.rest/) - "Debug APIs like a human, not a robot. Finally, a REST client you'll love"
 
+[Komodo](https://www.activestate.com/products/komodo-ide/) - "Code faster with the IDE for today’s web languages – Python, PHP, Perl, Golang, Ruby and more. For Windows, Mac and Linux."
+
 [PhpStorm](https://www.jetbrains.com/phpstorm/) \#software - "The Lightning-Smart PHP IDE"
 
 [Postman](https://www.getpostman.com/) \#software - “Postman Makes API Development Simple. Developers use Postman to build modern software for the API-first world.”
