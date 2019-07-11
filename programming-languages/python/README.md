@@ -67,6 +67,8 @@ d.tzinfo is not None and d.tzinfo.utcoffset(d) is not None
 
 [Python's `strftime` directives](http://strftime.org/) - "I need to use Python’s `strftime` rarely enough that I can’t remember it off the top of my head and never bookmark it but often enough to be annoyed with having to Google “python strftime” and then find the table above in the Python documentation. So I decided to put this reference page up."
 
+[Traps for the Unwary in Python’s Import System](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html) \#article - "Python’s import system is powerful, but also quite complicated. Until the release of Python 3.3, there was no comprehensive explanation of the expected import semantics, and even following the release of 3.3, the details of how `sys.path` is initialised are still somewhat challenging to figure out."
+
 ### Books
 
 \_\_[_Elegant SciPy_](https://github.com/elegant-scipy/elegant-scipy) by Juan Nunez-Iglesias, Stefan van der Walt & Harriet Dashnow
