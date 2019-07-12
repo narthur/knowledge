@@ -56,6 +56,8 @@
 
 [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw) \#video \#channel - “I make tutorials based on your requests. I will cover any topic you can imagine. I upload new programming videos on Saturday and Wednesday morning. I Live Stream at 8PM EST on Monday and at 7PM EST on Tuesday, Thursday and Friday.”
 
+[Devchat.tv](https://devchat.tv/)
+
 Martin Fowler
 
 Robert Martin
