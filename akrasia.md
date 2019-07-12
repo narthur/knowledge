@@ -4,6 +4,8 @@
 
 [Forest](https://www.forestapp.cc/) \#app - "Stay focused, be present"
 
+[MOOD - Calvin and Hobbes - Full Story](http://web.mit.edu/manoli/mood/www/calvin-full.html) \#comic - "This strip appeared over the span of several weeks, between May 20, 1992 and June 6, 1992. Calvin goes time-travelling instead of writing a story for his paper." Via [Brent A. Yorgey](http://ozark.hendrix.edu/~yorgey/).
+
 [Not So Ugly After All: When Shame Acts as a Commitment Device](https://www.researchgate.net/publication/23274172_Not_So_Ugly_After_All_When_Shame_Acts_as_a_Commitment_Device) \#paper - "Most psychological theories and research on shame focus on the ugly aspects and negative consequences of this emotion. Theories on moral emotions, however, assume that shame acts as a commitment device motivating prosocial behavior. To solve this apparent paradox, the authors studied the effects of shame on prosocial behavior. Shame was hypothesized to motivate prosocial behavior when it was relevant for the decision at hand \(endogenous\). In contrast, shame that was not relevant for the decision at hand \(exogenous\) was hypothesized to have no such effects. Four experiments with three different shame inductions and two different measures of prosocial behavior confirmed that endogenous shame motivated prosocial behavior for proselfs but that exogenous shame did not. Shame is shown to have a clear interpersonal function in the sense that it acts as a commitment device."
 
 [Pavlok](https://pavlok.com/) - "Break Bad Habits, Reduce Cravings, Wake Up Early. This super-powered Pavlok device includes everything from the Shock Clock, and adds haptic feedback and aversion therapy to help you break even the most deep-rooted bad habits."
