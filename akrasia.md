@@ -2,7 +2,11 @@
 
 "Akrasia ... is described as a lack of self-control or the state of acting against one's better judgment" \([Wikipedia](https://en.wikipedia.org/wiki/Akrasia)\).
 
+[Boss as a Service](https://bossasaservice.life/) - "We make sure you achieve your goals. We keep you accountable. You get stuff done."
+
 [Forest](https://www.forestapp.cc/) \#app - "Stay focused, be present"
+
+[GetMotivatedBuddies](https://www.getmotivatedbuddies.com/) - "You are 77.5% more likely to complete your goal with a buddy."
 
 [MOOD - Calvin and Hobbes - Full Story](http://web.mit.edu/manoli/mood/www/calvin-full.html) \#comic - "This strip appeared over the span of several weeks, between May 20, 1992 and June 6, 1992. Calvin goes time-travelling instead of writing a story for his paper." Via [Brent A. Yorgey](http://ozark.hendrix.edu/~yorgey/).
 
