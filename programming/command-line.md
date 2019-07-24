@@ -21,6 +21,12 @@ Open long output for easier reading \(`q` to exit; [source](https://superuser.co
 my_command | less
 ```
 
+Filter for lines matching \([source](https://stackoverflow.com/a/9074384/937377)\):
+
+```bash
+my_command | grep search_term
+```
+
 Show a notification in Mac Terminal:
 
 ```bash
