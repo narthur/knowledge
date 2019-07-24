@@ -15,7 +15,7 @@ Create a symbolic link in Terminal \([source](https://apple.stackexchange.com/a/
 ln -s /path/to/original /path/to/symlink
 ```
 
-Open long output for easier reading \([source](https://superuser.com/a/1159908/102414)\):
+Open long output for easier reading \(`q` to exit; [source](https://superuser.com/a/1159908/102414)\):
 
 ```bash
 my_command | less
