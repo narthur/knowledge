@@ -30,6 +30,14 @@
 
 [Why DEEP WORK is So Valuable, with Cal Newport \| Afford Anything Podcast \(Ep. \#42\) \| Audio](https://www.youtube.com/watch?v=9EwwjQ2Kld0&feature=youtu.be) \#video \#podcast - "Your most valuable asset isn’t your house, car or retirement portfolio. It’s your attention."
 
+## Tab Management
+
+[Merge Windows](https://singleclickapps.com/merge-windows/) \#extension - "Click and merge all open windows in single one." \#chrome \#opera \#firefox 
+
+[OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) \#extension - "Whenever you find yourself with too many tabs, click the OneTab icon to convert all of your tabs into a list. When you need to access the tabs again, you can either restore them individually or all at once." \#chrome
+
+[Tab Shepherd](https://chrome.google.com/webstore/detail/tab-shepherd/cfgaoapjfmfgcjdbfocfnfcgfoknlcjm) \#extension - "Automatically closes inactive tabs and makes it easy to get them back." \#chrome
+
 ## Window Management
 
 [Amethyst](https://github.com/ianyh/Amethyst) - "Automatic tiling window manager for macOS à la xmonad."
