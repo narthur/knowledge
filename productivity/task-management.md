@@ -17,6 +17,8 @@
 * When you finish a page completely, put an X on the top outside corner. When there are no active pages previous to a completed page, add a circle around the X.
 * If you feel a task will never be completed, you can dismiss an item by highlighting it.
 
+[Caltra](https://www.caltra.co/?ref=producthunt) - "Trello for humans, not companies. Caltra is a project management tool built to help you reach your goals, whether it's hitting the gym or learning to dance. Break your goals down into cards, schedule them, and complete them with Caltra."
+
 [The easiest way to fight procrastination](https://qz.com/169043/this-one-weird-trick-will-make-you-breeze-through-your-to-do-list/) \#article - "If you want to get five tasks done, my father always said, first find five additional but enjoyable tasks to do."
 
 [How To Hack Your To-Do List](https://www.youtube.com/watch?v=Xduzwk04l2E) \#video - "We talked with David Allen, the author of, "Getting Things Done: The Art of Stress-Free Productivity," about how to hack through your to-do list and free up your mind to focus on what's actually most important to you."

@@ -8,6 +8,10 @@
 
 [Forest](https://www.forestapp.cc/) \#app - "Stay focused, be present"
 
+[FreeTube](https://freetubeapp.io/) \#software - YouTube client that lets you turn off recommended videos, comments. [GitHub](https://github.com/FreeTubeApp/FreeTube)
+
+[HOW I REPLACED FACEBOOK WITH "NICEBOOK"](https://elgan.com/blog/how-i-replaced-facebook-with-google-photos) \#article - "I’m replacing Facebook with a single shared folder in Google Photos I’m calling “Nicebook” — it’s all the nice features of Facebook, without the exploitative, racist, disinformation, censoring, advertising and other not-so-nice features of Facebook."
+
 [How to Prevent the Internet From Taking Over Your Life: Digital Minimalism 06](https://www.youtube.com/watch?v=jEps2fnwL-0&feature=youtu.be) \#video - "It's way too easy now to let the internet be a part of every aspect of our lives. This was starting to have a really negative effect on me, so I decided to do something about it."
 
 [Humane Tech Community](https://humanetech.community/) - "We are building the Pyramids of Humane Technology. We envision a future where we have unobtrusive technology that is empowering us and that allows humans to flourish and humanity to thrive. Where the digital world is a natural extension of the real one and a reflection of ourselves."
