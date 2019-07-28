@@ -12,7 +12,9 @@ Gusto
 
 ## Budgeting
 
-You Need a Budget \#webapp
+[Toolkit for YNAB](http://toolkitforynab.com/) \#extension - "The **Toolkit for YNAB** is a free, community contributed, open source browser extension for use with [You Need a Budget](https://www.youneedabudget.com/). It adds tweaks and additional features for a more customizable experience."  \#chrome \#firefox
+
+[You Need a Budget](https://www.youneedabudget.com/) \#webapp - "You Need A Budget is award-winning software and a proven method—that works." [Forum](https://support.youneedabudget.com/). [Reddit](https://www.reddit.com/r/ynab/).
 
 \_\_[_You Need a Budget_](https://www.youneedabudget.com/book-order-now/) by Jesse Mecham
 
