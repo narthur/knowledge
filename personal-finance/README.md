@@ -30,6 +30,7 @@ You Need a Budget \#webapp
 
 * [Dave Ramsey](https://www.daveramsey.com/)
 * [Mr. Money Mustache](http://www.mrmoneymustache.com/)
+* [NerdWallet](https://www.nerdwallet.com/?trk=nw_gn_4.0)
 * [Saving the Crumbs](https://www.savingthecrumbs.com/)
 * [The Simple Dollar](https://www.thesimpledollar.com/)
 * [You Need a Budget blog](https://www.youneedabudget.com/blog/)
