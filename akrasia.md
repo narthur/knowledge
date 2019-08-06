@@ -20,7 +20,7 @@
 
 [StickK](http://www.stickk.com/) \#webapp - "StickK is an ever evolving Commitment platform with the tools to help you achieve your goals."
 
-[Truple](https://truple.io/) - "Truple randomly captures screenshots and shares them"
+[Truple](https://truple.io/) - "Truple randomly captures screenshots and shares them." Currently only supports Android & Windows.
 
 ## Beeminder
 
