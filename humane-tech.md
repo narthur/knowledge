@@ -1,5 +1,7 @@
 # Humane Tech
 
+[Before Launcher](https://play.google.com/store/apps/details?id=com.beforesoft.launcher) \#app - "Before Launcher helps us live in real life, and keeps our smartphone smart." \#android
+
 [Center for Humane Technology](https://humanetech.com/) - "Our mission is to reverse human downgrading by inspiring a new race to the top and realigning technology with humanity."
 
 [Daywise](https://getdaywise.com/) \#app - "Pick a schedule. Get notifications at those times. People who get notifications at set times are less stressed, calmer and more productive."

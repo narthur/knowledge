@@ -1,6 +1,12 @@
+---
+description: >-
+  I espouse a peculiar mix of the philosophies of Jesse Mecham, Dave Ramsey, and
+  Mr. Money Mustache.
+---
+
 # Personal Finance
 
-I espouse a peculiar mix of the philosophies of Jesse Mecham, Dave Ramsey, and Mr. Money Mustache.
+[AAA Discounts](https://discounts.acg.aaa.com/deal/overview)
 
 Gusto
 

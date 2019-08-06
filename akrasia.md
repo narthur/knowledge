@@ -2,6 +2,8 @@
 
 "Akrasia ... is described as a lack of self-control or the state of acting against one's better judgment" \([Wikipedia](https://en.wikipedia.org/wiki/Akrasia)\).
 
+[Before Launcher](https://play.google.com/store/apps/details?id=com.beforesoft.launcher) \#app - "Before Launcher helps us live in real life, and keeps our smartphone smart." \#android
+
 [Boss as a Service](https://bossasaservice.life/) - "We make sure you achieve your goals. We keep you accountable. You get stuff done."
 
 [Forest](https://www.forestapp.cc/) \#app - "Stay focused, be present"
