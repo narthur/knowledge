@@ -54,6 +54,7 @@
 * [Accountable2You](https://accountable2you.com/) - "Achieving Success Through Accountability. A peer-based accountability platform that encourages rich communication to help individuals achieve and sustain excellence!"
 * [CovenantEyes](https://www.covenanteyes.com/?msclkid=28ff0aeabd5b181a85cf565adee2ac04&utm_source=bing&utm_medium=cpc&utm_campaign=Covenant%20Eyes%20-%20%28Bing%20Search%20-%20Alex%29&utm_term=covenant%20eyes&utm_content=Covenant%20Eyes%20-%20Brand) - "Covenant Eyes sends a report of your screen activity to a trusted friend, keeping you accountable for what you do on your device. This helps you live porn free."
 * [R\|Tribe](http://www.rtribe.org/app-features/) - A freemium iOS and Android app that provides a social accountability system for free with added features available on a subscription basis.
+* [Truple](https://truple.io/) - "Truple randomly captures screenshots and shares them"
 
 ## Sources
 
