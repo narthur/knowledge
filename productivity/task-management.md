@@ -23,6 +23,8 @@
 
 [The easiest way to fight procrastination](https://qz.com/169043/this-one-weird-trick-will-make-you-breeze-through-your-to-do-list/) \#article - "If you want to get five tasks done, my father always said, first find five additional but enjoyable tasks to do."
 
+[Effortless](https://www.effortless.app/) \#software - "Stop getting sidetracked and get things done."
+
 [How To Hack Your To-Do List](https://www.youtube.com/watch?v=Xduzwk04l2E) \#video - "We talked with David Allen, the author of, "Getting Things Done: The Art of Stress-Free Productivity," about how to hack through your to-do list and free up your mind to focus on what's actually most important to you."
 
 [Amazing Marvin](https://www.amazingmarvin.com/) \#webapp - "THE ULTIMATE PRODUCTIVITY TOOL. Get more done with more ease. Marvin incorporates principles from behavioral psychology to help you beat procrastination, feel in control and finish your to-do list."
