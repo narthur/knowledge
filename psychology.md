@@ -6,6 +6,8 @@
 
 [Spend More Time Alone](http://www.calnewport.com/blog/2017/09/24/spend-more-time-alone/) \#article - by Cal Newport. "The right way to define “solitude” is as a subjective state in which you’re isolated from input from other minds. ... Regular doses of solitude are crucial for the effective and resilient functioning of your brain."
 
+[The Scarcity Trap: Why We Keep Digging When We're Stuck In A Hole](https://www.npr.org/2017/03/20/520587241/the-scarcity-trap-why-we-keep-digging-when-were-stuck-in-a-hole) \#podcast - "Have you ever noticed that when something important is missing in your life, your brain can only seem to focus on that missing thing?"
+
 ## Growth Mindset
 
 [Rise: 20 Years of Kelly Clark](https://www.youtube.com/watch?v=m7Q22F8mXuQ) \#video - "One of the winningest athletes of all time, the story of Kelly Clark’s snowboarding career is nothing short of mind-blowing. Between the Olympics, the Burton US Open, X Games - if it involved a podium in snowboarding, chances are Kelly has stood atop it."
