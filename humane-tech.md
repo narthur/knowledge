@@ -8,6 +8,8 @@
 
 [Digital Minimalism - with Dr. Cal Newport](https://www.stitcher.com/podcast/paula-pant-and-j-money/money-103/e/58555559?refid=asa&autoplay=true) \#podcast - "Cal Newport created a philosophy called digital minimalism, which is idea of reducing your digital life down to only the most important core essentials. Remove the apps from your phone, then slowly re-introduce only the ones that are the most useful and beneficial. Take control of your smartphone, rather than letting it control you."
 
+[f.lux](https://justgetflux.com/) \#software - "f.lux ... makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day."
+
 [Forest](https://www.forestapp.cc/) \#app - "Stay focused, be present"
 
 [FreeTube](https://freetubeapp.io/) \#software - YouTube client that lets you turn off recommended videos, comments. [GitHub](https://github.com/FreeTubeApp/FreeTube)
