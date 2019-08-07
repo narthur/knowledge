@@ -8,6 +8,8 @@
 
 [Coffitivity](https://coffitivity.com/) - "Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better. Proven and peer reviewed, see the research to learn more."
 
+[Elpy](https://vanejung.com/elpy/) \#software - "Ambient sound mixer"
+
 [Focus@Will](https://www.focusatwill.com/) \#webapp - "Scientifically optimized music to help you focus"
 
 [Generative.fm](https://generative.fm/) \#webapp - "Endlessly unique ambient music"

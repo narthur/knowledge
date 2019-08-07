@@ -6,6 +6,7 @@
 * [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)
 * [Contrast](https://usecontrast.com/)
 * [Iris](https://alpert.altervista.org/iris/) - “Iris aims at being the definitive design tool to create beautiful color schemes to use in your projects.”
+* [Just Color Picker](http://annystudio.com/software/colorpicker/) \#software - "Free portable offline colour picker and colour editor for web designers and digital artists"
 * [Sip](http://sipapp.io/)
 
 ## Galleries

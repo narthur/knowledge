@@ -27,6 +27,7 @@
   * [Representation & Voting](governance/voting.md)
 * [Health](health.md)
 * [Humane Tech](humane-tech.md)
+* [Infotainment](infotainment.md)
 * [Minimalism](minimalism.md)
 * [Productivity](productivity/README.md)
   * [Attention Management](productivity/attention-management.md)

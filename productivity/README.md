@@ -45,6 +45,8 @@ Tools I've used in the past:
 
 \_\_[_The Motivation Hacker_](http://www.nickwinter.net/the-motivation-hacker) \#book - "_The Motivation Hacker_ shows you how to summon extreme amounts of motivation to accomplish anything you can think of. From precommitment to rejection therapy, this is your field guide to getting yourself to want to do everything you always wanted to want to do."
 
+[Numi](https://numi.io) \#software - "Beautiful calculator app for Mac"
+
 "Plans are nothing; planning is everything" \(Dwight D. Eisenhower; [via BrainyQuote](https://www.brainyquote.com/quotes/dwight_d_eisenhower_149111)\).
 
 [Setapp](https://setapp.com/) \#software - "The frontier platform that packs 140+ Mac apps into just one. A personally curated membership for $9.99/mo."
