@@ -4,9 +4,9 @@
 
 [How boredom can lead to your most brilliant ideas \| Manoush Zomorodi](https://www.youtube.com/watch?v=c73Q8oQmwzo&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video - "Do you sometimes have your most creative ideas while folding laundry, washing dishes or doing nothing in particular? It's because when your body goes on autopilot, your brain gets busy forming new neural connections that connect ideas and solve problems. Learn to love being bored as Manoush Zomorodi explains the connection between spacing out and creativity."
 
-[Spend More Time Alone](http://www.calnewport.com/blog/2017/09/24/spend-more-time-alone/) \#article - by Cal Newport. "The right way to define “solitude” is as a subjective state in which you’re isolated from input from other minds. ... Regular doses of solitude are crucial for the effective and resilient functioning of your brain."
-
 [The Scarcity Trap: Why We Keep Digging When We're Stuck In A Hole](https://www.npr.org/2017/03/20/520587241/the-scarcity-trap-why-we-keep-digging-when-were-stuck-in-a-hole) \#podcast - "Have you ever noticed that when something important is missing in your life, your brain can only seem to focus on that missing thing?"
+
+[Spend More Time Alone](http://www.calnewport.com/blog/2017/09/24/spend-more-time-alone/) \#article - by Cal Newport. "The right way to define “solitude” is as a subjective state in which you’re isolated from input from other minds. ... Regular doses of solitude are crucial for the effective and resilient functioning of your brain."
 
 ## Growth Mindset
 
