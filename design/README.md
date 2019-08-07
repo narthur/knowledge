@@ -10,6 +10,8 @@
 
 [Hero Patterns](https://www.heropatterns.com/) \#webapp - "A collection of repeatable SVG background patterns for you to use on your web projects."
 
+[Krita](https://krita.org/en/) \#software - "Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone."
+
 [Lateral Thinking with Withered Technology](http://ignorethecode.net/blog/2013/09/05/lateral_thinking_with_withered_technology/) \#article - "The basic idea is to use existing, cheap, well-established technology, and use it in new ways, thus allowing Nintendo to introduce new, innovative concepts at affordable prices."
 
 [Logo Design Love](https://www.logodesignlove.com/) \#blog - "On logos and visual identity design"

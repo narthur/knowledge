@@ -14,6 +14,8 @@
 
 [The 10 Best Note-Taking Apps in 2019](https://www.youtube.com/watch?v=ay2GvqVH4SM) \#video
 
+[Tyke](https://tyke.app/) \#software - "A little bit of scratch paper 📝 that lives on your Mac menu bar."
+
 | App | Price | Sort Options | Pin | Markdown | Archive | Platforms |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [SimpleNote](https://simplenote.com/) | Free | Modified | Yes | Preview |  | Web, Android |
