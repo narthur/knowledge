@@ -10,6 +10,8 @@
 
 [Procrastination Research Group](https://www.procrastination.ca/) - "Over the past 20 years, our exclusive focus has been on researching the breakdown in volitional action we commonly call procrastination. We seek to understand why we become our own worst enemy at times with needless, voluntary delay. Although our research and site originates at Carleton University \(Ottawa, Canada\), it represents a compilation of information and research on procrastination from all over the world." Creators of the iProcrastinate podcast.
 
+[RescueTime](https://www.rescuetime.com/) \#webapp \#software \#app - "RescueTime helps you understand your daily habits so you can focus and be more productive."
+
 [Timeboxing: Elon Musk's Time Management Method](https://www.youtube.com/watch?v=fbAYK4KQrso) \#video
 
 [Timeular](https://timeular.com/?ref=producthunt) - "Track, understand and improve how you work. Timeular helps you visualize your time and become more productive." Physical device for time tracking.

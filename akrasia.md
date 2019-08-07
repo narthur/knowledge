@@ -16,6 +16,8 @@
 
 [Pavlok](https://pavlok.com/) - "Break Bad Habits, Reduce Cravings, Wake Up Early. This super-powered Pavlok device includes everything from the Shock Clock, and adds haptic feedback and aversion therapy to help you break even the most deep-rooted bad habits."
 
+[SelfControl](https://selfcontrolapp.com/) \#software - "A free Mac application to help you avoid distracting websites."
+
 [Self-Discipline with Minimal Effort](https://www.youtube.com/watch?v=mU2b2kHeEec) \#video
 
 [SleepTown](https://sleeptown.seekrtech.com/) \#app - "Build Healthy Sleep Habits"

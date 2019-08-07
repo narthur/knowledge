@@ -18,6 +18,8 @@
 
 [ScreenFocus](https://www.apptorium.com/screenfocus) \#software - "Working with multiple monitors made right."
 
+[SelfControl](https://selfcontrolapp.com/) \#software - "A free Mac application to help you avoid distracting websites."
+
 [Workspace](https://workspaceproapp.com/) \#software - "Launch/close a bunch of macOS apps just in 1 click!"
 
 [Workspaces](https://www.apptorium.com/workspaces) \#software - "Meet your personal project assistant!"
