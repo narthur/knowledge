@@ -28,6 +28,8 @@
 
 [Ship](https://www.realartists.com/) - “Fast, native, comprehensive issue tracking and code review for GitHub.” Free for public repositories.
 
+[Skitch](https://apps.apple.com/us/app/skitch-snap-mark-up-share/id425955336?mt=12) \#software
+
 [Slab](https://slab.com/) - “Beautiful knowledge base for teams. Keep answers out of silos. A modern editor that makes your company documentation look good by default.”
 
 [Teletype for Atom](https://teletype.atom.io/) - “Collaborate in real time in Atom. Teletype\(beta\) for Atom lets developers share their workspace with team members and collaborate on code in real time.”

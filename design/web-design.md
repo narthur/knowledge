@@ -32,6 +32,8 @@
 
 [Saving time in Sketch](https://medium.com/sketch-app-sources/saving-time-in-sketch-7042142c8a8e) \#article - "A collection of 6 time saving design techniques."
 
+[Sketch](https://www.sketch.com/) \#software - "Create, prototype, collaborate and turn your ideas into incredible products with the definitive platform for digital design."
+
 [Sketch Shortcuts](https://sketchshortcuts.com/) - "A list of Keyboard Shortcuts for Sketch App."
 
 ## Sources
