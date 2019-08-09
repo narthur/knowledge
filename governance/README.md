@@ -48,6 +48,8 @@
 
 ## Privacy & Surveillance
 
+[The Great Hack](https://www.netflix.com/title/80117542) \#documentary - "Explore how a data company named Cambridge Analytica came to symbolize the dark side of social media in the wake of the 2016 U.S. presidential election."
+
 [N.S.A. Spying: Why Does It Matter? \| Op-Docs \| The New York Times](https://www.youtube.com/watch?v=S61eL_06RZ4&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2&t=0s) \#video - "A short film explores whether ordinary Americans should be concerned about online surveillance."
 
 [The NSA and surveillance ... made simple - animation](https://www.youtube.com/watch?v=GoM4jIZbTtQ&list=PLIilwIraDV2Js8hmlun8QpHAB7n8G47EB&index=24) \#video
