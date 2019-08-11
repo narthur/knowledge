@@ -1,5 +1,21 @@
 # Task Management
 
+[Caltra](https://www.caltra.co/?ref=producthunt) - "Trello for humans, not companies. Caltra is a project management tool built to help you reach your goals, whether it's hitting the gym or learning to dance. Break your goals down into cards, schedule them, and complete them with Caltra."
+
+[Claro](https://psst.claro.today/) - "The to-do app you'll want to use is here. Simple as paper with all the benefits of being digital." $5 / month.
+
+[The easiest way to fight procrastination](https://qz.com/169043/this-one-weird-trick-will-make-you-breeze-through-your-to-do-list/) \#article - "If you want to get five tasks done, my father always said, first find five additional but enjoyable tasks to do."
+
+[Effortless](https://www.effortless.app/) \#software - "Stop getting sidetracked and get things done."
+
+[How To Hack Your To-Do List](https://www.youtube.com/watch?v=Xduzwk04l2E) \#video - "We talked with David Allen, the author of, "Getting Things Done: The Art of Stress-Free Productivity," about how to hack through your to-do list and free up your mind to focus on what's actually most important to you."
+
+[Amazing Marvin](https://www.amazingmarvin.com/) \#webapp - "THE ULTIMATE PRODUCTIVITY TOOL. Get more done with more ease. Marvin incorporates principles from behavioral psychology to help you beat procrastination, feel in control and finish your to-do list."
+
+[MyLifeOrganized](https://www.mylifeorganized.net/) \#software - "The Most Flexible Task Management Tool"
+
+## Autofocus
+
 [The Autofocus Time Management System](http://markforster.squarespace.com/autofocus-system/) \#article \#video - "The system consists of one long list of everything that you have to do, written in a ruled notebook \(25-35 lines to a page ideal\). As you think of new items, add them to the end of the list. You work through the list one page at a time in the following manner..."
 
 * Take a notebook and write down tasks in the order they occur to you.
@@ -17,17 +33,9 @@
 * When you finish a page completely, put an X on the top outside corner. When there are no active pages previous to a completed page, add a circle around the X.
 * If you feel a task will never be completed, you can dismiss an item by highlighting it.
 
-[Caltra](https://www.caltra.co/?ref=producthunt) - "Trello for humans, not companies. Caltra is a project management tool built to help you reach your goals, whether it's hitting the gym or learning to dance. Break your goals down into cards, schedule them, and complete them with Caltra."
+[Simple Scanning - The Rules](http://markforster.squarespace.com/blog/2017/12/2/simple-scanning-the-rules.html) \#article - "Up to now I’ve never written any formal rules for Simple Scanning preferring to describe it as “going round and round the list, doing tasks which stand out”."
 
-[Claro](https://psst.claro.today/) - "The to-do app you'll want to use is here. Simple as paper with all the benefits of being digital." $5 / month.
+## Sources
 
-[The easiest way to fight procrastination](https://qz.com/169043/this-one-weird-trick-will-make-you-breeze-through-your-to-do-list/) \#article - "If you want to get five tasks done, my father always said, first find five additional but enjoyable tasks to do."
-
-[Effortless](https://www.effortless.app/) \#software - "Stop getting sidetracked and get things done."
-
-[How To Hack Your To-Do List](https://www.youtube.com/watch?v=Xduzwk04l2E) \#video - "We talked with David Allen, the author of, "Getting Things Done: The Art of Stress-Free Productivity," about how to hack through your to-do list and free up your mind to focus on what's actually most important to you."
-
-[Amazing Marvin](https://www.amazingmarvin.com/) \#webapp - "THE ULTIMATE PRODUCTIVITY TOOL. Get more done with more ease. Marvin incorporates principles from behavioral psychology to help you beat procrastination, feel in control and finish your to-do list."
-
-[MyLifeOrganized](https://www.mylifeorganized.net/) \#software - "The Most Flexible Task Management Tool"
+[Mark Forster](http://markforster.squarespace.com/) \#blog
 
