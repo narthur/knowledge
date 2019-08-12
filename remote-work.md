@@ -10,6 +10,16 @@
 
 [WeWork](https://www.wework.com/) - "Space to Elevate Work. From desks to offices and entire headquarters, we create environments for productivity, innovation, and connection."
 
+[Working From Home](https://mikemcquaid.com/2014/11/23/working-from-home/) \#article - "Now that remote working is becoming more widely available various guides keep popping up about all the things you must ensure you always/never do if you want to work from home successfully. I tend to nod along with about half of each article and strongly disagree with the other half. With that caveat; here are the things I’ve found that help me work from home successfully"
+
+## Ergonomics
+
+{% embed url="https://www.youtube.com/watch?v=F8\_ME4VwTiw" %}
+
+[5 Ways You're Sitting Wrong at Your Desk - Computer Desk Setup Ergonomics](https://www.bing.com/videos/search?q=ergonomic+desk+setup&&view=detail&mid=7D0E85E0859519FC14927D0E85E0859519FC1492&&FORM=VRDGAR) \#video
+
+[Ergonomics: How to Set Up a Computer Workstation](https://www.bing.com/videos/search?q=ergonomic+desk+setup&&view=detail&mid=4DE3152A962C79E6C25A4DE3152A962C79E6C25A&rvsmid=7D0E85E0859519FC14927D0E85E0859519FC1492&FORM=VDQVAP) \#video
+
 ## Virtual Co-Working
 
 [Complice Rooms](https://complice.co/rooms)
