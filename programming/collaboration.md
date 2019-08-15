@@ -20,6 +20,8 @@
 
 [Glo Boards](https://www.gitkraken.com/glo) \#webapp - “See how our issue board helps developers with task tracking!”
 
+[Linear](https://linear.app/) \#software - "The issue tracking tool you'll enjoy using. Linear lets you manage software development and track bugs. Linear's streamlined design is built for speed and efficiency — helping high performing teams accomplish great things."
+
 [Makandracards](https://makandracards.com/) \#webapp - “Your agile knowledge collaboration tool”
 
 [Nuclino](https://www.nuclino.com/) "Meet your team's collective brain. Nuclino brings all your team's knowledge, docs, and projects together in one place."
