@@ -36,6 +36,8 @@ Gusto
 
 ## Insurance
 
+[Hippo](https://myhippo.com/) - "Traditional Home Insurance Coverage + so much more"
+
 [Lemonade](https://www.lemonade.com) - "Home and Renters Insurance for Urban Dwellers. Lemonade's amazing coverage protects the stuff you own at home and everywhere else."
 
 [Root](https://www.joinroot.com/) - "Save up to 52% on your car insurance. Get a rate based primarily on how you drive. Fair insurance. No gimmicks."
