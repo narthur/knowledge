@@ -80,6 +80,8 @@
 
 [Glide](https://www.glideapps.com/)
 
+[MakerPad](https://www.makerpad.co/) - "Makerpad is the no-code platform you need to create tools for your work. From professionals to creators, you can view tutorials, develop skills, browse jobs and build tools. Learning to build can be a gateway into coding."
+
 [MemberSpace](https://www.memberspace.com/)
 
 [MemberStack](https://www.memberstack.io/)
