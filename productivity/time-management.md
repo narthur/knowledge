@@ -6,6 +6,8 @@
 
 [Focus Time Manager](https://masterbuilders.io/focus) \#software - "The best pomodoro time manager for professionals"
 
+[New Tag Time](https://newtagtime.com/) - "Tagtime is a stochastic time tracker. It uses math and statistics to build up a very accurate picture of your days by simply asking you occasionally what you are doing during the day."
+
 [Overcommitters Club](https://overcommitters.club/) - "OVERCOMMITTERS CLUB is a monthly "event" for folks like us, who sign up for too many things, and need to reclaim that time every once in awhile. We like to think we're the only recurring event that's happy when you're a no-show."
 
 [Procrastination Research Group](https://www.procrastination.ca/) - "Over the past 20 years, our exclusive focus has been on researching the breakdown in volitional action we commonly call procrastination. We seek to understand why we become our own worst enemy at times with needless, voluntary delay. Although our research and site originates at Carleton University \(Ottawa, Canada\), it represents a compilation of information and research on procrastination from all over the world." Creators of the iProcrastinate podcast.
