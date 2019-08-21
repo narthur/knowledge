@@ -14,6 +14,8 @@
 
 [Postbin](http://bin.mailgun.net/7562e092) - "HTTP Post requests are displayed here, newest to oldest."
 
+[Screen size map](https://screensizemap.com)
+
 [Storybook](https://storybook.js.org/) - "Build bulletproof UI components faster. Storybook is an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient."
 
 [xwp/pwa-wp](https://github.com/xwp/pwa-wp) - "WordPress feature plugin to bring Progressive Web Apps \(PWA\) to Core"
@@ -48,9 +50,9 @@
 
 [Postman](https://www.getpostman.com/) \#software - "Simplifies API Development. Get easy, API-First solutions with the industry's only complete API Development Environment."
 
-[Storybook](https://storybook.js.org/) - "Build bulletproof UI components faster. Storybook is an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient."
-
 ## Email
+
+[Repl.it](https://repl.it/) \#webapp - "Stop wasting time setting up a development environment. Repl.it gives you an instant IDE to learn, build, collaborate, and host all in one place."
 
 [mailgun/transactional-email-templates](https://github.com/mailgun/transactional-email-templates) - "Transactional HTML emails often get neglected. **Styling HTML email is painful**. Tables, inline CSS, unsupported CSS, desktop clients, web clients, mobile clients, various devices, various providers. ❡ We’ve tried to remove some of the pain for you and open-sourced a collection of common templates for transactional email."
 
@@ -78,9 +80,9 @@
 
 [Bubble](https://bubble.is/)
 
-[Glide](https://www.glideapps.com/)
-
 [MakerPad](https://www.makerpad.co/) - "Makerpad is the no-code platform you need to create tools for your work. From professionals to creators, you can view tutorials, develop skills, browse jobs and build tools. Learning to build can be a gateway into coding."
+
+[Glide](https://www.glideapps.com/)
 
 [MemberSpace](https://www.memberspace.com/)
 
@@ -123,4 +125,32 @@ VeggieIpsum
 [Kevin Powell](https://www.youtube.com/user/KepowOb/featured) \#channel - "Helping you learn how to make the web, and make it look good while you're at it. ❡ With a new video every Wednesday, I'll be bringing you How Tos and Tutorials, and well as simple tips and tricks. I'm mostly looking to help people who are new to the world of web development."
 
 [Traversy Media](https://www.youtube.com/user/TechGuyWeb/featured) \#channel - "Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more"
+
+## Styleguides
+
+[Atellier](http://scup.github.io/atellier/) - "Atellier is a React component that gives you an accessible way to interact with your components library."
+
+[BlueKit](http://bluekit.blueberry.io/) - "Render React components with editable source and live preview"
+
+[Carte Blanche](https://github.com/carteb/carte-blanche) - "Carte Blanche is an isolated development space with integrated fuzz testing for your components. See them individually, explore them in different states and quickly and confidently develop them." Inactive.
+
+[Catalog](https://www.catalog.style/) - "With Catalog you combine design documentation with real, live components in one single place, making collaboration between designers and developers seamless."
+
+[Devcards](https://github.com/bhauman/devcards) - "Devcards aims to provide ClojureScript developers with an interactive visual REPL. Devcards makes it simple to interactively surface code examples that have a visual aspect into a browser interface."
+
+[Docz](https://www.docz.site/) - "It's never been easier to document your things!"
+
+[pocotan001/react-styleguide-generator](https://github.com/pocotan001/react-styleguide-generator) - "Easily generate a good-looking styleguide by adding some documentation to your React project." Archived.
+
+[React-demo](https://github.com/rpominov/react-demo) - "A React-component for creating demos of other components. See also [react-demo-library](https://github.com/rpominov/react-demo-library)"
+
+[React Cards](https://github.com/steos/reactcards) - "React Cards is inspired by Bruce Hauman's excellent [devcards](https://github.com/bhauman/devcards) project which aims to provide ClojureScript developers with a visual REPL-like experience especially suited for UI development."
+
+[React Cosmos](https://github.com/react-cosmos/react-cosmos) - "Dev tool for creating reusable [React](http://facebook.github.io/react/) components"
+
+[React Styleguidist](https://react-styleguidist.js.org/) - "Isolated React component development environment with a living style guide"
+
+[SourceJS](https://github.com/sourcejs/Source) - "Living Style Guides Engine and Maintenance Environment for Front-end Components. Core repository." Inactive.
+
+[Storybook](https://storybook.js.org/) - "Build bulletproof UI components faster. Storybook is an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient."
 
