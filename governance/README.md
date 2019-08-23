@@ -10,6 +10,8 @@
 
 [The Law You Won't Be Told](https://www.youtube.com/watch?v=uqH_Y1TupoQ&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
 
+[Vote Smart](https://votesmart.org/)
+
 [What Is Martial Law And How Does It Work?](https://www.youtube.com/watch?v=-1L3CtY8SCQ&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
 
 [The \(Secret\) City of London, Part 1: History](https://www.youtube.com/watch?v=LrObZ_HZZUc&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
