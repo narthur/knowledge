@@ -12,6 +12,8 @@
 
 [MX Lookup](https://mxtoolbox.com/) - "This test will list MX records for a domain in priority order. The MX lookup is done directly against the domain's authoritative name server, so changes to MX Records should show up instantly. You can click [Diagnostics](https://mxtoolbox.com/diagnostic.aspx) , which will connect to the mail server, verify reverse DNS records, perform a simple Open Relay check and measure response time performance. You may also check each MX record \(IP Address\) against 105 DNS based [blacklists](https://mxtoolbox.com/blacklists.aspx) . \(Commonly called RBLs, DNSBLs\)"
 
+[neocities](https://neocities.org) - "Create your own free website. Unlimited creativity, zero ads. Neocities is a social network of 251,600 web sites that are bringing back the lost individual creativity of the web. We offer free static web hosting and tools that allow you to create your own web site. Join us!"
+
 [Postbin](http://bin.mailgun.net/7562e092) - "HTTP Post requests are displayed here, newest to oldest."
 
 [Screen size map](https://screensizemap.com)

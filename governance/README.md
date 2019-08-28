@@ -6,9 +6,19 @@
 
 [The European Union Explained\*](https://www.youtube.com/watch?v=O37yJBFRrfg&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
 
+[Follow The Money](https://www.followthemoney.org)
+
+[GovTrack](https://www.govtrack.us) - "Tracking the United States Congress. Find your representative and senators and legislation that affects you."
+
 [How to Become the British Monarch](https://www.youtube.com/watch?v=BUY6HGqYweQ&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
 
+[How to research political candidates](http://www.adellefrank.com/blog/how-to-research-political-candidates) \#article - "A follow-up to the [checklist of things to do before election day](http://www.adellefrank.com/blog/voter-checklist-things-to-do-before-election-day), this post gives an overview of 4 criteria for evaluating political candidates, seeing through distortion techniques, and 5 places voters might find candidate information."
+
 [The Law You Won't Be Told](https://www.youtube.com/watch?v=uqH_Y1TupoQ&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
+
+[Open Secrets](https://www.opensecrets.org)
+
+[Vote411](https://www.vote411.org) - "Election Information You Need. Brought to you by The League of Women Voters Education Fund"
 
 [Vote Smart](https://votesmart.org/)
 
@@ -39,8 +49,6 @@
 [Brief History of the Royal Family](https://www.youtube.com/watch?v=jNgP6d9HraI&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
 
 [The True Cost of the Royal Family Explained](https://www.youtube.com/watch?v=bhyYgnhhKFw&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
-
-
 
 ## Net Neutrality
 
