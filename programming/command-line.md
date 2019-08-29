@@ -51,6 +51,8 @@ osascript -e 'display notification "Get to work!" with title "Focusing"'
 >
 > You may find that a few applications don't handle extremely fast keyboard input very well, but most will do just fine with it.”
 
+[jq](https://stedolan.github.io/jq/) \#software - "jq is like `sed` for JSON data - you can use it to slice and filter and map and transform structured data with the same ease that `sed`, `awk`, `grep` and friends let you play with text."
+
 [How can I tell if a directory from “ls” is a symlink?](https://stackoverflow.com/a/15103946/937377) \#article - “Use ls -l”
 
 [Mac OS X: Set / Change $PATH Variable](https://www.cyberciti.biz/faq/appleosx-bash-unix-change-set-path-environment-variable/) \#article - “$PATH is nothing but an environment variable on Linux, OS X, Unix-like operating systems, and Microsoft Windows. You can specify a set of directories where executable programs are located using $PATH. The $PATH variable is specified as a list of directory names separated by colon \(:\) characters.”
