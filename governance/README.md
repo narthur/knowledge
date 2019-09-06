@@ -6,6 +6,8 @@
 
 [The European Union Explained\*](https://www.youtube.com/watch?v=O37yJBFRrfg&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
 
+[FiveThirtyEight](https://fivethirtyeight.com/)
+
 [Follow The Money](https://www.followthemoney.org)
 
 [GovTrack](https://www.govtrack.us) - "Tracking the United States Congress. Find your representative and senators and legislation that affects you."
@@ -16,7 +18,13 @@
 
 [The Law You Won't Be Told](https://www.youtube.com/watch?v=uqH_Y1TupoQ&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
 
+[Political Database of the Americas](http://pdba.georgetown.edu/history.html) - "Through its website, the PDBA offers centralized and systematized information about institutions and political processes, national constitutions, branches of government, elections, political constitutional studies and other subjects related to the strengthening of democracy in the region. With more than 1,500 pages of information, the PDBA is one of the most preferred sources of political information on the Internet reaching more than 600,000 users per month."
+
 [Open Secrets](https://www.opensecrets.org)
+
+[r/Ask\_Politics](https://www.reddit.com/r/Ask_Politics/?utm_source=amp&utm_medium=&utm_content=post_subreddit)
+
+[r/politics](https://www.reddit.com/r/politics/)
 
 [Vote411](https://www.vote411.org) - "Election Information You Need. Brought to you by The League of Women Voters Education Fund"
 
@@ -29,6 +37,12 @@
 [The \(Secret\) City of London, Part 2: Government](https://www.youtube.com/watch?v=z1ROpIKZe-c&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
 
 [What Is Populism?](https://www.youtube.com/watch?v=IwHhV7tyXkE&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
+
+## Candidate Research
+
+[Federal Election Commission](https://www.fec.gov/)
+
+[OnTheIssues](https://www.ontheissues.org/default.htm) - "Every Political Leader on Every Issue"
 
 ## Fact Checking
 
