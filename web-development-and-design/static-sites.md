@@ -41,7 +41,7 @@
 
 [Surge](https://surge.sh/) - “Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line.”
 
-* [Integrating with CircleCI](https://surge.sh/help/integrating-with-circleci) \#article - “Continuous Deployment services like CircleCI make it possible to run publish your project on Surge each time you push to a GitHub repository.” Integrate this with ThemeViz/ThemeBrowserTesting!
+* [Integrating with CircleCI](https://surge.sh/help/integrating-with-circleci) \#article - “Continuous Deployment services like CircleCI make it possible to run publish your project on Surge each time you push to a GitHub repository.”
 
 ### **Services & APIs**
 
