@@ -1,5 +1,7 @@
 # Governance & Politics
 
+[Army Vet Fought Off 5 Offenders at New York Subway Without Pulling Sidearm](https://special-ops.org/48649/army-vet-fought-off-5-offenders-at-new-york-subway-without-pulling-sidearm/) \#article - "The NYPD officer caught on viral video fending off a band of subway vagrants without reaching for his gun has handled himself well under pressure before — he’s a U.S. Army veteran who’s served in Iraq and Afghanistan, police said." [Press event video](https://www.bing.com/videos/search?q=Syed+Ali+NYPD&&view=detail&mid=13C516F2AA8F0A4BB39C13C516F2AA8F0A4BB39C&rvsmid=713DDD1203BD7FFDF177713DDD1203BD7FFDF177&FORM=VDQVAP)
+
 [Can Texas Secede from the Union?](https://www.youtube.com/watch?v=S92fTz_-kQE&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
 
 [The Debt Limit Explained](https://www.youtube.com/watch?v=KIbkoop4AYE&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
