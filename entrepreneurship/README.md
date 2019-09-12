@@ -50,6 +50,8 @@
 
 ## Finance
 
+[Can I Deduct That As A Business Expense?](https://www.forbes.com/sites/brianthompson1/2019/03/17/can-i-deduct-that-as-a-business-expense/#39639ab66a15) \#article - "I work with many business owners and by far, the most commonly asked question I get is, “Can I deduct that as a business expense?” As with all good tax law questions, it depends on a lot of factors — the type of expense, the type of business that you have and whether you can verify the purpose behind the expenses."
+
 [Deducting Business Expenses](https://www.irs.gov/businesses/small-businesses-self-employed/deducting-business-expenses) \#article - "Business expenses are the cost of carrying on a trade or business. These expenses are usually deductible if the business operates to make a profit."
 
 [Guideline](https://www.guideline.com/) - "The easy, affordable 401\(k\) for small business. We handle all the hard work for just $8 per employee each month."
