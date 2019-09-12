@@ -50,6 +50,8 @@
 
 ## Finance
 
+[Deducting Business Expenses](https://www.irs.gov/businesses/small-businesses-self-employed/deducting-business-expenses) \#article - "Business expenses are the cost of carrying on a trade or business. These expenses are usually deductible if the business operates to make a profit."
+
 [Guideline](https://www.guideline.com/) - "The easy, affordable 401\(k\) for small business. We handle all the hard work for just $8 per employee each month."
 
 [Gusto](https://gusto.com/product/payroll) - "Payroll made easy. See why Gusto is simply the best online payroll"
