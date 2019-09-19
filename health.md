@@ -12,5 +12,11 @@
 
 [OpenNotes](https://www.opennotes.org/) - "OpenNotes is the international movement that’s making health care more transparent. It urges doctors, nurses, therapists, and others to invite patients to read the notes they write to describe a visit. We call these opennotes."
 
+[The Top 10 Benefits of Regular Exercise](https://www.healthline.com/nutrition/10-benefits-of-exercise) \#article - "Being active has been shown to have many health benefits, both physically and mentally." Healthline.
+
 [Zwift](https://zwift.com/) - "SERIOUS TRAINING MADE FUN. The at home training app connecting cyclists around the world."
+
+## Sources
+
+[Healthline](https://www.healthline.com/) - Seems to be good about sharing sources and fact checking their articles.
 
