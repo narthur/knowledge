@@ -22,6 +22,8 @@
 
 [Abstract syntax tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree) \#article - Wikipedia. "In [computer science](https://en.wikipedia.org/wiki/Computer_science), an **abstract syntax tree** \(**AST**\), or just **syntax tree**, is a [tree](https://en.wikipedia.org/wiki/Directed_tree) representation of the [abstract syntactic](https://en.wikipedia.org/wiki/Abstract_syntax) structure of [source code](https://en.wikipedia.org/wiki/Source_code) written in a [programming language](https://en.wikipedia.org/wiki/Programming_language). Each node of the tree denotes a construct occurring in the source code."
 
+[AST Explorer](https://astexplorer.net/) \#webapp - "Paste or drop some JavaScript here and explore the syntax tree created by chosen parser. You can use all the cool new features from ES6 and even more. Enjoy!" [List of parsers.](https://github.com/fkling/astexplorer/blob/master/README.md)
+
 [jscodeshift](https://github.com/facebook/jscodeshift) \#software - "jscodeshift is a toolkit for running codemods over multiple JavaScript or TypeScript files."
 
 [recast](https://github.com/benjamn/recast) \#software - "Recast exposes two essential interfaces, one for parsing JavaScript code \(`require("recast").parse`\) and the other for reprinting modified syntax trees \(`require("recast").print`\)."
