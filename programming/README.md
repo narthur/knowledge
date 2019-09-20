@@ -24,7 +24,11 @@
 
 [AST Explorer](https://astexplorer.net/) \#webapp - "Paste or drop some JavaScript here and explore the syntax tree created by chosen parser. You can use all the cool new features from ES6 and even more. Enjoy!" [List of parsers.](https://github.com/fkling/astexplorer/blob/master/README.md)
 
+[Deciphering Python: How to use Abstract Syntax Trees \(AST\) to understand code](https://www.mattlayman.com/blog/2018/decipher-python-ast/) \#article - "Because Python is a “batteries included” language, the tools you need to use ASTs are built into the standard library."
+
 [jscodeshift](https://github.com/facebook/jscodeshift) \#software - "jscodeshift is a toolkit for running codemods over multiple JavaScript or TypeScript files."
+
+[Python AST module](https://docs.python.org/3/library/ast.html) - "The [`ast`](https://docs.python.org/3/library/ast.html#module-ast) module helps Python applications to process trees of the Python abstract syntax grammar. The abstract syntax itself might change with each Python release; this module helps to find out programmatically what the current grammar looks like."
 
 [recast](https://github.com/benjamn/recast) \#software - "Recast exposes two essential interfaces, one for parsing JavaScript code \(`require("recast").parse`\) and the other for reprinting modified syntax trees \(`require("recast").print`\)."
 
