@@ -20,6 +20,8 @@
 
 [Humane Tech Community](https://humanetech.community/) - "We are building the Pyramids of Humane Technology. We envision a future where we have unobtrusive technology that is empowering us and that allows humans to flourish and humanity to thrive. Where the digital world is a natural extension of the real one and a reflection of ourselves."
 
+[Invidious](https://invidio.us/) - Alternative portal to YouTube
+
 [LeftBlank.co](http://www.leftblank.co/) - "This page intentionally left blank."
 
 [Pomy](https://vanejung.com/pomy/) \#software - "Focus timer app for your eye health"
