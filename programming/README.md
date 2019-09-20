@@ -18,6 +18,14 @@
 
 “Show a man a program and frustrate him for a day. Teach a man to program and you frustrate him for a lifetime” \(via [phi's forum profile](https://forum.beeminder.com/u/phi/summary)\).
 
+## Abstract Syntax Trees
+
+[Abstract syntax tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree) \#article - Wikipedia. "In [computer science](https://en.wikipedia.org/wiki/Computer_science), an **abstract syntax tree** \(**AST**\), or just **syntax tree**, is a [tree](https://en.wikipedia.org/wiki/Directed_tree) representation of the [abstract syntactic](https://en.wikipedia.org/wiki/Abstract_syntax) structure of [source code](https://en.wikipedia.org/wiki/Source_code) written in a [programming language](https://en.wikipedia.org/wiki/Programming_language). Each node of the tree denotes a construct occurring in the source code."
+
+[jscodeshift](https://github.com/facebook/jscodeshift) \#software - "jscodeshift is a toolkit for running codemods over multiple JavaScript or TypeScript files."
+
+[recast](https://github.com/benjamn/recast) \#software - "Recast exposes two essential interfaces, one for parsing JavaScript code \(`require("recast").parse`\) and the other for reprinting modified syntax trees \(`require("recast").print`\)."
+
 ## API Design
 
 [Postman](https://www.getpostman.com/) \#software - "Simplifies API Development. Get easy, API-First solutions with the industry's only complete API Development Environment."
