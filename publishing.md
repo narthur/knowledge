@@ -14,3 +14,5 @@
 
 [Patreon](https://www.patreon.com/) - "CREATE ON YOUR OWN TERMS. Start a membership business to develop a direct relationship with your biggest fans and generate predictable, recurring revenue from your creative work."
 
+[Thankful](https://getthankful.io) - "Support the creators that you love using cryptocurrency"
+
