@@ -1,5 +1,7 @@
 # Publishing
 
+[Anchor](https://anchor.fm/) - "Anchor is an all-in-one platform where you can create, distribute, and monetize your podcast from any device, for free."
+
 [The dark side of crowdfunding](https://www.youtube.com/watch?v=HJhQTxTUIH0) \#video - "Crowdfunding gives gadget makers the power to launch their own companies, but sometimes their dream dies not long after launch. In this episode of In the Making, reporter Ashley Carman looks at how crowdfunding platforms Kickstarter and Indiegogo are changing their business to prevent creators from never shipping their product."
 
 [Gumroad](https://gumroad.com/) - "Gumroad helps creators do more of what they love. We have sent over $195M to artists, designers, educators, writers, influencers and more."
