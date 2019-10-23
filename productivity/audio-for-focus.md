@@ -10,6 +10,8 @@
 
 [Elpy](https://vanejung.com/elpy/) \#software - "Ambient sound mixer"
 
+[Endel](https://endel.io/) - "Personalized sounds to help you focus, relax, and sleep"
+
 [Focus@Will](https://www.focusatwill.com/) \#webapp - "Scientifically optimized music to help you focus"
 
 [Generative.fm](https://generative.fm/) \#webapp - "Endlessly unique ambient music"
