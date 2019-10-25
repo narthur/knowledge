@@ -4,6 +4,8 @@
 
 [Amazon Chime](https://aws.amazon.com/chime/) \#software - “Amazon Chime is a communications service that transforms online meetings with a secure, easy-to-use application that you can trust. Amazon Chime works seamlessly across your devices so that you can stay connected. You can use Amazon Chime for online meetings, video conferencing, calls, chat, and to share content, both inside and outside your organization. Amazon Chime works with Alexa for Business, which means you can use Alexa to start your meetings with your voice. Alexa can start your video meetings in large conference rooms, and automatically dial into online meetings in smaller huddle rooms and from your desk.”
 
+[Clubhouse](https://clubhouse.io/) \#webapp - "Clubhouse is the first project management platform for software development that brings everyone on every team together to build better products."
+
 [Coda](https://coda.io/welcome) \#webapp - “It’s a new day  for docs. For years, your team has been split  across spreadsheets, docs, and apps. It’s time to bring us back together.”
 
 [Dimer](https://dimerapp.com) - “Simplest way to publish docs. Dimer generates a clean and beautiful documentation website from Markdown.” $15 / site / month.
@@ -36,7 +38,7 @@
 
 [Teletype for Atom](https://teletype.atom.io/) - “Collaborate in real time in Atom. Teletype\(beta\) for Atom lets developers share their workspace with team members and collaborate on code in real time.”
 
-### **Chat**
+## **Chat**
 
 [Chanty](https://www.chanty.com/) \#software - “Join Chanty – simple AI-powered team chat. Get unlimited message history free forever.”
 
@@ -48,7 +50,7 @@ Google Hangouts
 
 [Twist](https://twistapp.com/home) \#software - “Fewer notifications. More meaningful teamwork. Twist is the communication tool for teams who believe there’s more to work than keeping up with group chat apps.”
 
-### **Pair Programming**
+## **Pair Programming**
 
 [Floobits](https://floobits.com/) - Subscription service. [Supports Intellij IDEA](https://floobits.com/help/plugins/intellij), including PHPStorm.
 
@@ -62,7 +64,7 @@ Google Hangouts
 
 [Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/) - “Real-time collaborative development”
 
-### **Trello**
+## **Trello**
 
 [Kanban WIP for Trello](https://chrome.google.com/webstore/detail/kanban-wip-for-trello/oekefjibcnongmmmmkdiofgeppfkmdii) \#chrome \#extension - “Adds work-in-progress limits to Trello lists supporting a Kanban workflow.”
 
