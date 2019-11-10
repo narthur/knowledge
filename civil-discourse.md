@@ -4,8 +4,6 @@
 
 [3 lessons of revolutionary love in a time of rage](https://www.ted.com/talks/valarie_kaur_3_lessons_of_revolutionary_love_in_a_time_of_rage) \#video - “What's the antidote to rising nationalism, polarization and hate? In this inspiring, poetic talk, Valarie Kaur asks us to reclaim love as a revolutionary act. As she journeys from the birthing room to tragic sites of bloodshed, Kaur shows us how the choice to love can be a force for justice.”
 
-[Accidental Courtesy](https://accidentalcourtesy.com/) \#documentary
-
 [Argue with me, please](https://uxdesign.cc/argue-with-me-please-f8a8541982c4?ref=webdesignernews.com) \#article - “Friendly discourse is at the core of great of product design and UX. How can we get over our fears and use it as a tool?”
 
 [The Bad Show](https://www.wnycstudios.org/story/bad-show) \#podcast - Radiolab. “With all of the black-and-white moralizing in our world today, we decided to bring back an old show about the little bit of bad that's in all of us...and the little bit of really, really bad that's in some of us.
@@ -71,6 +69,12 @@
 [Megan McArdle on Internet Shaming and Online Mobs](http://www.econtalk.org/archives/2017/10/megan_mcardle_o.html) \#podcast \#audio - “Author and journalist Megan McArdle of Bloomberg View talks with EconTalk host Russ Roberts about how the internet has allowed a new kind of shaming via social media and how episodes of bad behavior live on because Google's memory is very, very good. McArdle discusses the implications this new reality has on how we behave at work and how people protect and maintain their reputations in a world where nothing is forgotten and seemingly little is forgiven.” \#econtalk \#russrobert
 
 [Why You Can't Win an Internet Argument](https://youtu.be/YWKUhZJp7uw) \#video - “One of the internet's favorite pastimes is arguing, but very few of those arguments ever actually go anywhere. It can be frustrating to watch, but scientists have some ideas on why things play out the way they do.”
+
+## Case Studies
+
+[Accidental Courtesy](https://accidentalcourtesy.com/) \#documentary
+
+[How Apple CEO Tim Cook Charmed President Donald Trump](https://invidio.us/watch?v=AG8w0TEZunE) \#video - "President Donald Trump and Tim Cook's relationship really started after Trump's election win in 2016, when the Apple CEO and several other CEOs visited the president-elect at Trump Tower. Since then, Apple has became the corporate mascot for Trump's trade war against China. And Cook put on the charm offensive to help save the tech giant's bottom line."
 
 Part way through WWDC 1997, [Steve Jobs handles an incredibly emotionally-charged attack on him personally](https://youtu.be/6iACK-LNnzM?t=3024). Starts at 50:24. \#video
 
