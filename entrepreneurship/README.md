@@ -2,11 +2,15 @@
 
 [1Kprojects](https://1kprojects.com/) - "Neglected side projects for less than $1000. 1Kprojects is a curated marketplace where makers sell their abandoned projects for less than $1000."
 
+[ClientSuccess](https://www.clientsuccess.com/) - "We help you retain and grow your existing customer base. Customer success software that helps you build relationships that last."
+
 [Company of One, the podcast](https://ofone.co/company-of-one-podcast/) \#podcast - "Company of One is a podcast that explores what happens when businesses challenge the traditional idea that bigger is always better. What if we break from the idea that growth in revenue, customers and employees is always the byproduct of success and focus instead on what it means to create richer and more fulfilling careers and businesses that don’t require exponential growth in all directions at all times?"
 
 [Competition is for Losers with Peter Thiel \(How to Start a Startup 2014: 5\)](https://www.youtube.com/watch?v=3Fx5Q8xGU8k&feature=youtu.be) \#video - "Peter Thiel, founder of Paypal and Palantir, discusses business strategy and monopoly theory in "Competition is For Losers"."
 
 [Courtland's Checklist](https://courtlandschecklist.com/) - "Validate your business idea. A simple checklist shared by @csallen. Made by Chris McCormick."
+
+[Earnest Capital](https://earnestcapital.com/) - "Earnest Capital provides early-stage funding, resources and a network of experienced advisors to founders building sustainable profitable businesses."
 
 "Educate yourself about everything about business. Get that broad, universal perspective first. It doesn’t take very long" \(Josh Kaufman, author of The Personal MBA, via IndieHackers\).
 

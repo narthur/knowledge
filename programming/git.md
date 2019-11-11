@@ -59,6 +59,7 @@ git submodule update --init --recursive
 * [Global Git ignore](https://stackoverflow.com/a/7335487/937377) \#article - git config --global core.excludesfile '~/.gitignore'
 * [How to copy commits from one branch to another?](https://stackoverflow.com/a/2474371) \#article
   * git cherry-pick &lt;SHA of commit to cherry-pick&gt;
+* [Husky](https://github.com/typicode/husky) - "🐶 Git hooks made easy"
 * [Quick Tip: Autocomplete Git Commands and Branch Names in Bash](http://code-worrier.com/blog/autocomplete-git/) \#article - “In bash in Mac OS X, you can use \[TAB\] to autocomplete file paths. Wouldn’t it be nice if you could do the same with git commands and branch names?”
 * [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - “Good-lookin' diffs. Actually… nah… The best-lookin' diffs. 🎉”
 * [Undo working copy modifications of one file in Git?](https://stackoverflow.com/a/692329/937377) \#article

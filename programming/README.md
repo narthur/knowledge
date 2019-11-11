@@ -4,6 +4,8 @@
 
 [CONTINUOUS INTEGRATION](https://www.thoughtworks.com/continuous-integration) - "Continuous Integration \(CI\) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early. ❡ By integrating regularly, you can detect errors quickly, and locate them more easily."
 
+[FOSSA](https://fossa.com/) - "Scalable, end-to-end management for third-party code, license compliance and vulnerabilities."
+
 [frp](https://frp.ai/) - "frp™ is a reliable Enterprise level face recognition system for commercial use"
 
 [GoodReads: Genre &gt; Computer Science &gt; Software](https://www.goodreads.com/genres/software) - A collection of the most-read and most-popular books on software development on GoodReads.
