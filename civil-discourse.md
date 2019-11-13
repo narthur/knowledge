@@ -6,9 +6,9 @@
 
 [Argue with me, please](https://uxdesign.cc/argue-with-me-please-f8a8541982c4?ref=webdesignernews.com) \#article - “Friendly discourse is at the core of great of product design and UX. How can we get over our fears and use it as a tool?”
 
-[The Bad Show](https://www.wnycstudios.org/story/bad-show) \#podcast - Radiolab. “With all of the black-and-white moralizing in our world today, we decided to bring back an old show about the little bit of bad that's in all of us...and the little bit of really, really bad that's in some of us.
+[The Bad Show](https://www.wnycstudios.org/story/bad-show) \#podcast - Radiolab. “With all of the black-and-white moralizing in our world today, we decided to bring back an old show about the little bit of bad that's in all of us...and the little bit of really, really bad that's in some of us."
 
-[Change A View](https://www.changeaview.com/cav/posts) - "Discuss Differently. Change A View aims to improve the world’s discussions. Enter with a mindset for conversation, not debate.
+[Change A View](https://www.changeaview.com/cav/posts) - "Discuss Differently. Change A View aims to improve the world’s discussions. Enter with a mindset for conversation, not debate."
 
 [A conservative's plea: Let's work together \| Arthur Brooks](https://youtu.be/87AEeLpodnE) \#video - “Conservatives and liberals both believe that they alone are motivated by love while their opponents are motivated by hate. How can we solve problems with so much polarization? In this talk, social scientist Arthur Brooks shares ideas for what we can each do as individuals to break the gridlock. "We might just be able to take the ghastly holy war of ideology that we're suffering under and turn it into a competition of ideas," he says.”
 
