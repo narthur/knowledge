@@ -22,6 +22,8 @@
 
 [The Four Steps to Epiphany](https://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf) \#book - by Steven G. Blank
 
+[GitLab Handbook](https://about.gitlab.com/handbook/) - " The GitLab team handbook is the central repository for how we run the company. Printed, it consists of over [3,000 pages of text](https://about.gitlab.com/handbook/about/#count-handbook-pages). As part of our value of being transparent the handbook is [open to the world](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/handbook), and we welcome feedback. Please make a [merge request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests) to suggest improvements or add clarifications. Please use [issues](https://gitlab.com/gitlab-com/www-gitlab-com/issues) to ask questions."
+
 [How Your To-Do List is Killing Your Productivity - Dan Lok](https://www.youtube.com/watch?v=HGk3tmodKDE) \#video - Delegate as much as possible, identify the 5 most import things to accomplish today, complete them, and then spend the rest of your time to think and strategize. Avoid the cult of busy. You can't do quality thinking when you're always busy and always running.
 
 [Juro](https://juro.com) - "Make contracts work for everyone. Contract management software your whole team will love."

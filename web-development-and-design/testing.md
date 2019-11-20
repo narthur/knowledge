@@ -46,6 +46,8 @@
 
 [Screener](https://www.screener.io/) - “10x faster visual UI testing on the cloud without a line of code. Visual test automation for web apps. End-to-end visual + functional testing in minutes. No coding required.”
 
+[SmartBear VisualRegressionTesting](https://crossbrowsertesting.com/) - " Ditch your VMs and Device Lab. Easily run Manual, Visual, and Selenium Tests in the cloud **on 2050+ real desktop and mobile browsers."**
+
 [Spectre](https://github.com/wearefriday/spectre) - “A simple UI for browsing and inspecting diffs, and an API for runner scripts to submit screenshots to and receive a pass or fail in real time. \(For use with Wraith, Backstop, Selenium etc\)”
 
 [Visual Regression Testing](https://visualregressiontesting.com/) - Curated lists of articles, videos, tools, & talks on the subject of visual regression testing. \#article \#video \#software

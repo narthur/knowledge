@@ -14,6 +14,8 @@
 
 [Twemoji](https://github.com/twitter/twemoji) - "A simple library that provides standard Unicode emoji support across all platforms." CC-BY 4.0. More information on how to provide attribution [here](https://twemoji.twitter.com/).
 
+[type-scale.com](https://type-scale.com/) - "I like to enter the base font-size for paragraph text. Then I select from the surrounding values for headers and small text."
+
 [Using Visual Loudness for Better Wayfinding](https://www.viget.com/articles/visual-loudness/) \#article - ““It needs more ‘pop’.” Can I tell you how many times I’ve heard that phrase? It’s the sad reaction to a design that could lack proper emphasis. My reaction is usually something like, “if everything pops, nothing pops.” Does this sound familiar?”
 
 ## Design Patterns
