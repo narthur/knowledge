@@ -48,6 +48,8 @@
 
 [Insomnia](https://insomnia.rest/) - "Debug APIs like a human, not a robot. Finally, a REST client you'll love"
 
+[IntelliJ IDEA](https://www.jetbrains.com/idea/) - " **IntelliJ IDEA** is an [integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment) \(IDE\) written in [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29) for developing computer software. It is developed by [JetBrains](https://en.wikipedia.org/wiki/JetBrains) \(formerly known as IntelliJ\), and is available as an [Apache 2 Licensed](https://en.wikipedia.org/wiki/Apache_2_License) community edition,[\[4\]](https://en.wikipedia.org/wiki/IntelliJ_IDEA#cite_note-4) and in a [proprietary](https://en.wikipedia.org/wiki/Proprietary_software) commercial edition. Both can be used for commercial development[\[5\]](https://en.wikipedia.org/wiki/IntelliJ_IDEA#cite_note-5)" \([Wikipedia](https://en.wikipedia.org/wiki/IntelliJ_IDEA)\).
+
 [Komodo](https://www.activestate.com/products/komodo-ide/) - "Code faster with the IDE for today’s web languages – Python, PHP, Perl, Golang, Ruby and more. For Windows, Mac and Linux."
 
 [PhpStorm](https://www.jetbrains.com/phpstorm/) \#software - "The Lightning-Smart PHP IDE"
@@ -57,6 +59,8 @@
 [PyCharm](https://www.jetbrains.com/pycharm/) \#software - "The Python IDE for Professional Developers"
 
 ## Refactoring
+
+[Refactoring.com](https://www.refactoring.com/) - "**Refactoring** is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior."
 
 [Refactoring Guru](https://refactoring.guru/) - "**Refactoring.Guru** makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles and other smart programming topics."
 
@@ -70,17 +74,19 @@
 
 [The Clean Code Blog](http://blog.cleancoder.com/) \#blog - "by Robert C. Martin \(Uncle Bob\)"
 
+[Clean Coders](https://cleancoders.com/) \#video - "Write code that sings. Elevate your skill with software training videos for impassioned developers."
+
 [Coding Horror](https://blog.codinghorror.com/) \#blog - by Jeff Atwood. "Programming and human factors"
 
 [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw) \#video \#channel - “I make tutorials based on your requests. I will cover any topic you can imagine. I upload new programming videos on Saturday and Wednesday morning. I Live Stream at 8PM EST on Monday and at 7PM EST on Tuesday, Thursday and Friday.”
 
 [Devchat.tv](https://devchat.tv/)
 
-Martin Fowler
+[Martin Fowler](https://martinfowler.com/) - "Software development is a young profession, and we are still learning the techniques and building the tools to do it effectively. I've been involved in this activity for over three decades and in the last two I've been writing on this website about patterns and practices that make it easier to build useful software. The site began as a place to put my own writing, but I also use it to publish articles by my colleagues."
 
 [Robert Heaton](https://robertheaton.com) \#blog
 
-Robert Martin
+Robert Martin \#article - [Blog](http://blog.cleancoder.com/). "**Robert Cecil Martin**, colloquially known as "Uncle Bob",[\[2\]](https://en.wikipedia.org/wiki/Robert_C._Martin#cite_note-rcm-informit-2) is an American [software engineer](https://en.wikipedia.org/wiki/Software_engineer) and instructor. He is best known for being one of the authors of the [Agile Manifesto](https://en.wikipedia.org/wiki/Agile_Manifesto)[\[3\]](https://en.wikipedia.org/wiki/Robert_C._Martin#cite_note-rcm-laplante-3)[\[4\]](https://en.wikipedia.org/wiki/Robert_C._Martin#cite_note-rcm-manifesto-4) and for developing several software design principles. He was also the editor-in-chief of [C++ Report](https://en.wikipedia.org/wiki/C%2B%2B_Report) magazine and served as the first chairman of the Agile Alliance" \([Wikipedia](https://en.wikipedia.org/wiki/Robert_C._Martin)\).
 
 [ThoughtWorks Insights](https://www.thoughtworks.com/insights) \#blog
 
