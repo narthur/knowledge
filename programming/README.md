@@ -42,22 +42,6 @@
 
 [Swagger](https://swagger.io/) - "Swagger open source and pro tools have helped millions of API developers, teams, and organizations deliver great APIs."
 
-## Integrated Development Environments
-
-[Atom](https://atom.io/) \#software - "A hackable text editor for the 21st Century"
-
-[Insomnia](https://insomnia.rest/) - "Debug APIs like a human, not a robot. Finally, a REST client you'll love"
-
-[IntelliJ IDEA](https://www.jetbrains.com/idea/) - " **IntelliJ IDEA** is an [integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment) \(IDE\) written in [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29) for developing computer software. It is developed by [JetBrains](https://en.wikipedia.org/wiki/JetBrains) \(formerly known as IntelliJ\), and is available as an [Apache 2 Licensed](https://en.wikipedia.org/wiki/Apache_2_License) community edition,[\[4\]](https://en.wikipedia.org/wiki/IntelliJ_IDEA#cite_note-4) and in a [proprietary](https://en.wikipedia.org/wiki/Proprietary_software) commercial edition. Both can be used for commercial development[\[5\]](https://en.wikipedia.org/wiki/IntelliJ_IDEA#cite_note-5)" \([Wikipedia](https://en.wikipedia.org/wiki/IntelliJ_IDEA)\).
-
-[Komodo](https://www.activestate.com/products/komodo-ide/) - "Code faster with the IDE for today’s web languages – Python, PHP, Perl, Golang, Ruby and more. For Windows, Mac and Linux."
-
-[PhpStorm](https://www.jetbrains.com/phpstorm/) \#software - "The Lightning-Smart PHP IDE"
-
-[Postman](https://www.getpostman.com/) \#software - “Postman Makes API Development Simple. Developers use Postman to build modern software for the API-first world.”
-
-[PyCharm](https://www.jetbrains.com/pycharm/) \#software - "The Python IDE for Professional Developers"
-
 ## Refactoring
 
 [Refactoring.com](https://www.refactoring.com/) - "**Refactoring** is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior."
