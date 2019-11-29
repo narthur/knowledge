@@ -54,6 +54,7 @@ git submodule update --init --recursive
 * [Git housekeeping tutorial: clean-up outdated branches in local and remote repositories](https://railsware.com/blog/2014/08/11/git-housekeeping-tutorial-clean-up-outdated-branches-in-local-and-remote-repositories/) \#article - “After working with branch per feature for a while any Git-repository becomes a mess of outdated and not finished branches. To deal with this issue, we need to clean-up three kinds of branches…”
 * [Git: How to rebase your feature branch from one branch to another](https://makandracards.com/makandra/10173-git-how-to-rebase-your-feature-branch-from-one-branch-to-another) \#article
   * [How do I properly force a Git push?](https://stackoverflow.com/a/12610763/937377) \#article
+* [GitHub Desktop](https://desktop.github.com/) \#software - "Focus on what matters instead of fighting with Git. Whether you're new to Git or a seasoned user, GitHub Desktop simplifies your development workflow."
 * [GitKraken](https://www.gitkraken.com/) \#software - “The legendary Git GUI client for Windows, Mac and Linux”
 * [GitUp](http://gitup.co/) \#software - “Work quickly, safely, and without headaches. The Git interface you've been missing all your life has finally arrived.”
 * [Global Git ignore](https://stackoverflow.com/a/7335487/937377) \#article - git config --global core.excludesfile '~/.gitignore'
