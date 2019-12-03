@@ -42,6 +42,14 @@
 
 [Swagger](https://swagger.io/) - "Swagger open source and pro tools have helped millions of API developers, teams, and organizations deliver great APIs."
 
+## Cloud Services
+
+Amazon Web Services
+
+[Dashbird](https://dashbird.io/) - "Monitor serverless apps on AWS."
+
+Google Cloud Platform
+
 ## Refactoring
 
 [Refactoring.com](https://www.refactoring.com/) - "**Refactoring** is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior."

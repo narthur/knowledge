@@ -6,13 +6,15 @@
 
 [Cloudcraft](https://cloudcraft.co/) \#webapp - "Visualize your cloud architecture like a pro. Create smart AWS diagrams"
 
+[Dashbird](https://dashbird.io/) - "Monitor serverless apps on AWS."
+
+[Find a domain, create a site, and get custom email](https://www.lynda.com/course-tutorials/Learning-Cloud-Computing-Serverless-Computing/728399-2.html) \#course - "Serverless computing allows you to build and run applications and services without having to manage infrastructure. This training course is targeted at IT professionals who need to gain a foundational knowledge of serverless computing—what it is and why it's important—and what's offered by serverless computing technologies like AWS Lambda and Azure Functions. Instructor David Linthicum begins with the basics: what serverless computing is and the problems it can solve. He then runs through demos of both Lambda and Functions and explores effective use cases for serverless computing."
+
 [Google Cloud Functions](https://cloud.google.com/functions/) - "Event-driven serverless compute platform"
 
 [JAMstack](https://jamstack.org/) - "Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup."
 
 [JAMstack\_conf](https://jamstackconf.com/) - “Attend the premier event to learn how to design, develop, and deploy fast, modern web projects that run without web servers.” [JAMstack Conf on YouTube](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg)
-
-[Find a domain, create a site, and get custom email](https://www.lynda.com/course-tutorials/Learning-Cloud-Computing-Serverless-Computing/728399-2.html) \#course - "Serverless computing allows you to build and run applications and services without having to manage infrastructure. This training course is targeted at IT professionals who need to gain a foundational knowledge of serverless computing—what it is and why it's important—and what's offered by serverless computing technologies like AWS Lambda and Azure Functions. Instructor David Linthicum begins with the basics: what serverless computing is and the problems it can solve. He then runs through demos of both Lambda and Functions and explores effective use cases for serverless computing."
 
 [The Power of Serverless for Front-End Developers](https://thepowerofserverless.info/) - “Web developers of all kinds can take advantage of it, but this site is particularly interested in how it relates to and helps front-end web developers. Here's one way to think about it: you can take your front-end skills and do things that typically only a back-end can do. You can write a JavaScript function that you run and receive a response from by hitting a URL. That's sometimes also called Cloud Functions or Functions as a Service, which are perhaps better names, but just a part of the whole serverless thing.”
 
