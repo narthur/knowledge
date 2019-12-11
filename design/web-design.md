@@ -10,6 +10,8 @@
 
 [InVision Studio](https://www.invisionapp.com/studio) \#software - "The world’s most powerful screen design tool"
 
+[Pixels](https://klart.io/pixels) - "If you're looking for kick-ass designs and copywriting, you've come to the right place. I'll share a couple of designs here every day and I hope you'll enjoy it 🍿."
+
 [ProductDesign.tips](https://productdesign.tips/?ref=producthunt)
 
 [Twemoji](https://github.com/twitter/twemoji) - "A simple library that provides standard Unicode emoji support across all platforms." CC-BY 4.0. More information on how to provide attribution [here](https://twemoji.twitter.com/).
