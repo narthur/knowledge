@@ -24,6 +24,8 @@
 
 [LeftBlank.co](http://www.leftblank.co/) - "This page intentionally left blank."
 
+[OFFTIME ](https://play.google.com/store/apps/details?id=co.offtime.kit&hl=en_US)\#app - "OFFTIME lets you track and **customize your connectivity \(and limit phone usage\) so you can do the things that matter**. **Unplug**, **digital detox** and **focus** on your work, have **quality time** without distractions with the people you care about, or simply enjoy some peace of mind."
+
 [Pomy](https://vanejung.com/pomy/) \#software - "Focus timer app for your eye health"
 
 [Siempo](http://www.getsiempo.com/) \#app - Android launcher. "Use your tech, not the other way around. Let’s build a healthier relationship with our devices. Siempo puts you back in control of your apps and protects you from overuse."

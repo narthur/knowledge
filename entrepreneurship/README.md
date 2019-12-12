@@ -36,6 +36,8 @@
 
 [The Other Side of Burnout](https://www.youtube.com/watch?v=zHMfmcIWXT8) \#video
 
+[Proximity Placements](https://proximityplacements.com/) - Virtual assistants. "Leading with Business Owners and Consultants in Hiring the Best People to Grow their Business with."
+
 [Ramen Profitable](http://www.paulgraham.com/ramenprofitable.html) \#article - "Ramen profitable means a startup makes just enough to pay the founders' living expenses. This is a different form of profitability than startups have traditionally aimed for. Traditional profitability means a big bet is finally paying off, whereas the main importance of ramen profitability is that it buys you time."
 
 [Stripe Atlas](https://stripe.com/atlas) - "The best way to start an internet business. Starting a company can be needlessly complicated—lengthy paperwork, bank visits, legal complexity, numerous fees, and non-obvious decisions about what services to use. We built Stripe Atlas to make this easy: a tool to handle everything involved in establishing an internet business. It’s available to entrepreneurs everywhere."

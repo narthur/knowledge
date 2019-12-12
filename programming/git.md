@@ -48,6 +48,7 @@ git submodule update --init --recursive
 ## Links
 
 * [Conventional Commits](https://www.conventionalcommits.org/) - "A specification for adding human and machine readable meaning to commit messages"
+* [Dangit, git!](http://dangitgit.com/) - "Git is hard: screwing up is easy, and figuring out how to fix your mistakes is nigh on impossible. Git documentation has this chicken and egg problem where you can't search for how to get yourself out of a mess, unless you _already know the name of the thing you need to know about_ in order to fix your problem."
 * [Git-cherry-pick](https://git-scm.com/docs/git-cherry-pick) \#article - “Apply the changes introduced by some existing commits”
   * [Applying git commits to working tree unadded?](https://stackoverflow.com/a/26618896/937377) \#article
     * git cherry-pick --no-commit 4..8
