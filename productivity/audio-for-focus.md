@@ -2,6 +2,8 @@
 
 [10 Most Popular Soundscapes + 2 Bonus Tracks](https://gumroad.com/l/mostpopularsoundscapecollection) - "I have brought together the 12 most popular soundscapes from my youtube channel [**johnnielawson**](http://www.youtube.com/johnnielawson) into one great package ****for only **$49.99**."
 
+[Birds in the Forest](https://open.spotify.com/playlist/37i9dQZF1DWVEt8B7a1H1M?si=x75VRnFDTwKrtRh2iKTynQ) \#audio \#playlist - Spotify. "Relax to the sounds of birds chirping in vast, echoing forests."
+
 [Brain.fm](https://www.brain.fm/) - "Functional Music On Demand. We use our patented AI music engine and scientific research to create music to help you improve the activities you already do in 15 minutes or less."
 
 [Calm Radio](https://calmradio.com/en/) - "Music that helps you get through the day"
