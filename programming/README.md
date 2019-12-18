@@ -50,14 +50,6 @@ Amazon Web Services
 
 Google Cloud Platform
 
-## Knoxville Scene
-
-[./DC865](http://www.dc865.org/) - DefCon group. "A GROUP FOR HACKERS, SYSADMINS, DEVELOPERS, AND STUDENTS."
-
-[KnoxDevs](https://knoxdevs.com/) - "KnoxDevs is a registered non-profit 501\(c\)\(3\) whose sole mission is to foster a healthy software developer community in Knoxville, TN."
-
-[KnoxPy](https://knoxpy.org/) - "Python users group in Knoxville, TN"
-
 ## Refactoring
 
 [Refactoring.com](https://www.refactoring.com/) - "**Refactoring** is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior."

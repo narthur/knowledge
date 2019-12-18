@@ -81,6 +81,7 @@
   * [Command Line](programming/command-line.md)
   * [git](programming/git.md)
   * [Integrated Development Environments](programming/integrated-development-environments.md)
+  * [Knoxville Scene](programming/knoxville-scene.md)
   * [Paradigms](programming/paradigms.md)
   * [Testing](programming/testing.md)
 * [Technology History](technology-history/README.md)
