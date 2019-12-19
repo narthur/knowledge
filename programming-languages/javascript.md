@@ -23,6 +23,8 @@ console.log(found);
 
 ## Links
 
+[Best of JavaScript](https://bestofjs.org/) - "The best of JavaScript, HTML and CSS"
+
 [BundlePhobia](https://bundlephobia.com/) \#webapp - "find the cost of adding a npm package to your bundle"
 
 [Creating a regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) \#article - "Regular expressions are patterns used to match character combinations in strings. In JavaScript, regular expressions are also objects. These patterns are used with the exec and test methods of RegExp, and with the match, replace, search, and split methods of String. This chapter describes JavaScript regular expressions."
@@ -34,6 +36,8 @@ console.log(found);
 [Getting creative with the Console API!](https://areknawo.com/getting-creative-with-the-console-api/) \#article - "**Debugging** in JavaScript has always been inseparably connected with the [**Console API**](https://developer.mozilla.org/en-US/docs/Web/API/Console), which is most of the time used only through `console.log()`. But, did you know that it doesn't have to be this way? Hasn't `console.log()` already bored you with its **monolithic** output? Do you want to make your logs better, to make them **prettier**? 💅 If so, follow me, as we'll discover how colorful and playful Console API can really be!"
 
 [js2coffee](http://js2.coffee/) \#webapp - "JavaScript to CoffeeScript compiler."
+
+[StateOfJS](https://stateofjs.com/) - Yearly surveys on the JavaScript ecosystem
 
 [The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4&list=PLIilwIraDV2J8hueIWIwvkT3NvfuSChe7&index=3&t=11s) \#video - "The history of JavaScript over the last 25 years. How did a simple scripting language for Netscape evolve into the world's most widely used programming language?"
 
