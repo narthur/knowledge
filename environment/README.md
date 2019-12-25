@@ -32,6 +32,8 @@
 
 [Climate Crisis](https://www.stitcher.com/podcast/national-public-radio/npr-ted-radio-hour-podcast/e/61751327?refid=asa&autoplay=true) \#podcast - Episode of TED Radio Hour. "There's no greater threat to humanity than climate change. What can we do to stop the worst consequences? This hour, TED speakers explore how we can save our planet and whether we can do it in time. Guests include climate activist Greta Thunberg, chemical engineer Jennifer Wilcox, research scientist Sean Davis, food innovator Bruce Friedrich, and psychologist Per Espen Stoknes."
 
+[Earth Temperature Timeline](https://xkcd.com/1732/) \#comic - XKCD. "A Timeline of Earth's Average Temperature"
+
 [What Most People Don't Get About Climate Change \| Answers With Joe](https://www.youtube.com/watch?v=GYJDAmDX2dM&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video - "You've probably heard a lot about climate change, and you've probably already picked a side in this debate. But things change when you look at it from a big picture perspective."
 
 [Why humans are so bad at thinking about climate change](https://www.youtube.com/watch?v=DkZ7BJQupVA&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video - "The biggest problem for the climate change fight isn’t technology – it’s human psychology."

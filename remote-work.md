@@ -2,8 +2,6 @@
 
 {% embed url="https://www.youtube.com/watch?v=x6fIseKzzH0&feature=youtu.be" %}
 
-[The \#1 Office Perk? Natural Light](https://hbr.org/2018/09/the-1-office-perk-natural-light?utm_medium=social&utm_campaign=hbr&utm_source=twitter) \#article - "The news headlines about what perks or elements of office design make for a great employee experience seem to be dominated by fads — think treadmill desks, nap pods, and “bring your dog to work day” for starters."
-
 [Coworker](https://www.coworker.com/) - "Find Your Perfect Coworking Space. Desks, offices & meeting rooms in 10,000+ coworking spaces with friendly communities in 164 countries"
 
 [Getting Remote Critique Right](https://medium.com/building-creative-market/getting-remote-critique-right-fc458577a8f4) \#article - “Remote work brings with it some challenges that need careful pruning to create a successful and happy team. One of the first things that comes to mind is critique, a daunting task when in the same room as people, let alone hundreds or thousands of miles away from one another.”
