@@ -70,6 +70,8 @@
 
 [Why You Can't Win an Internet Argument](https://youtu.be/YWKUhZJp7uw) \#video - “One of the internet's favorite pastimes is arguing, but very few of those arguments ever actually go anywhere. It can be frustrating to watch, but scientists have some ideas on why things play out the way they do.”
 
+![XKCD \#2247 : Weird Hill](.gitbook/assets/weird_hill.png)
+
 ## Case Studies
 
 [Accidental Courtesy](https://accidentalcourtesy.com/) \#documentary
