@@ -122,16 +122,6 @@ VeggieIpsum
 
 [Links to cross-origin destinations are unsafe](https://developers.google.com/web/tools/lighthouse/audits/noopener?utm_source=lighthouse&utm_medium=extension) \#article - "The other page can access your `window` object with the `window.opener` property. This exposes an [attack surface](https://en.wikipedia.org/wiki/Attack_surface) because the other page can potentially redirect your page to a malicious URL. See [About rel=noopener](https://mathiasbynens.github.io/rel-noopener/)."
 
-## Sources
-
-[CSS-Tricks](https://css-tricks.com/) - "CSS-Tricks is created, written by, and maintained by [Chris Coyier](https://chriscoyier.net/) and [a team](https://css-tricks.com/about/) of swell people. It is built on WordPress and powered up by [Jetpack](https://css-tricks.com/jetpack/). It is made possible through [sponsorships](https://css-tricks.com/advertising/) from products and services we like."
-
-[Jake Archibald wrote...](https://jakearchibald.com/) \#blog - "Hello, I’m Jake and that is my face. I’m a developer advocate for Google Chrome."
-
-[Kevin Powell](https://www.youtube.com/user/KepowOb/featured) \#channel - "Helping you learn how to make the web, and make it look good while you're at it. ❡ With a new video every Wednesday, I'll be bringing you How Tos and Tutorials, and well as simple tips and tricks. I'm mostly looking to help people who are new to the world of web development."
-
-[Traversy Media](https://www.youtube.com/user/TechGuyWeb/featured) \#channel - "Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more"
-
 ## Styleguides
 
 [Atellier](http://scup.github.io/atellier/) - "Atellier is a React component that gives you an accessible way to interact with your components library."
@@ -159,4 +149,16 @@ VeggieIpsum
 [SourceJS](https://github.com/sourcejs/Source) - "Living Style Guides Engine and Maintenance Environment for Front-end Components. Core repository." Inactive.
 
 [Storybook](https://storybook.js.org/) - "Build bulletproof UI components faster. Storybook is an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient."
+
+## Sources
+
+[CSS-Tricks](https://css-tricks.com/) - "CSS-Tricks is created, written by, and maintained by [Chris Coyier](https://chriscoyier.net/) and [a team](https://css-tricks.com/about/) of swell people. It is built on WordPress and powered up by [Jetpack](https://css-tricks.com/jetpack/). It is made possible through [sponsorships](https://css-tricks.com/advertising/) from products and services we like."
+
+[Jake Archibald wrote...](https://jakearchibald.com/) \#blog - "Hello, I’m Jake and that is my face. I’m a developer advocate for Google Chrome."
+
+[Kevin Powell](https://www.youtube.com/user/KepowOb/featured) \#channel - "Helping you learn how to make the web, and make it look good while you're at it. ❡ With a new video every Wednesday, I'll be bringing you How Tos and Tutorials, and well as simple tips and tricks. I'm mostly looking to help people who are new to the world of web development."
+
+[Traversy Media](https://www.youtube.com/user/TechGuyWeb/featured) \#channel - "Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more"
+
+[web.dev](https://web.dev/) - "Let's build the future of the web. Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev."
 
