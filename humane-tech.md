@@ -20,6 +20,10 @@
 
 [LeftBlank.co](http://www.leftblank.co/) - "This page intentionally left blank."
 
+[The Light Phone](https://www.thelightphone.com/) - "A phone is a tool, and it should serve you as the user, not the other way around. The Light Phone II is a phone that actually respects you."
+
+[Mudita Pure](https://mudita.com/products/pure/) - "Modern take on a classic phone. Enjoy no distractions, an eye-friendly E Ink display, long battery life, ultralow SAR value and the features you need."
+
 [OFFTIME ](https://play.google.com/store/apps/details?id=co.offtime.kit&hl=en_US)\#app - "OFFTIME lets you track and **customize your connectivity \(and limit phone usage\) so you can do the things that matter**. **Unplug**, **digital detox** and **focus** on your work, have **quality time** without distractions with the people you care about, or simply enjoy some peace of mind."
 
 [Pomy](https://vanejung.com/pomy/) \#software - "Focus timer app for your eye health"
