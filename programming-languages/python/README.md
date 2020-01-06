@@ -69,6 +69,8 @@ d.tzinfo is not None and d.tzinfo.utcoffset(d) is not None
 
 [Python's `strftime` directives](http://strftime.org/) - "I need to use Python’s `strftime` rarely enough that I can’t remember it off the top of my head and never bookmark it but often enough to be annoyed with having to Google “python strftime” and then find the table above in the Python documentation. So I decided to put this reference page up."
 
+[SnakeViz](https://jiffyclub.github.io/snakeviz/) \#software - "SnakeViz is a browser based graphical viewer for the output of Python’s [cProfile](https://docs.python.org/3/library/profile.html#module-cProfile) module and an alternative to using the standard library [pstats module](https://docs.python.org/3/library/profile.html#module-pstats). It was originally inspired by [RunSnakeRun](http://www.vrplumber.com/programming/runsnakerun/). SnakeViz works on Python 2.7 and Python 3. SnakeViz itself is still likely to work on Python 2.6, but official support has been dropped now that [Tornado](http://www.tornadoweb.org/) no longer supports Python 2.6."
+
 [Traps for the Unwary in Python’s Import System](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html) \#article - "Python’s import system is powerful, but also quite complicated. Until the release of Python 3.3, there was no comprehensive explanation of the expected import semantics, and even following the release of 3.3, the details of how `sys.path` is initialised are still somewhat challenging to figure out."
 
 ### Books
