@@ -1,5 +1,7 @@
 # Task Management
 
+[Amazing Marvin](https://www.amazingmarvin.com/) \#webapp - "THE ULTIMATE PRODUCTIVITY TOOL. Get more done with more ease. Marvin incorporates principles from behavioral psychology to help you beat procrastination, feel in control and finish your to-do list."
+
 [Caltra](https://www.caltra.co/?ref=producthunt) - "Trello for humans, not companies. Caltra is a project management tool built to help you reach your goals, whether it's hitting the gym or learning to dance. Break your goals down into cards, schedule them, and complete them with Caltra."
 
 [Claro](https://psst.claro.today/) - "The to-do app you'll want to use is here. Simple as paper with all the benefits of being digital." $5 / month.
@@ -10,9 +12,9 @@
 
 [How To Hack Your To-Do List](https://www.youtube.com/watch?v=Xduzwk04l2E) \#video - "We talked with David Allen, the author of, "Getting Things Done: The Art of Stress-Free Productivity," about how to hack through your to-do list and free up your mind to focus on what's actually most important to you."
 
-[Amazing Marvin](https://www.amazingmarvin.com/) \#webapp - "THE ULTIMATE PRODUCTIVITY TOOL. Get more done with more ease. Marvin incorporates principles from behavioral psychology to help you beat procrastination, feel in control and finish your to-do list."
-
 [MyLifeOrganized](https://www.mylifeorganized.net/) \#software - "The Most Flexible Task Management Tool"
+
+[TickTick](https://www.ticktick.com/) \#software - "Join millions of people to capture ideas, organize life, and do something creative everyday."
 
 ## Autofocus
 
