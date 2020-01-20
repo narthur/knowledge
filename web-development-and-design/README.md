@@ -6,6 +6,8 @@
 
 [HTML by Toptal Designers](https://www.toptal.com/designers/htmlarrows/) - "A delightful reference for HTML Symbols, Entities and ASCII Character Codes"
 
+[HTTP Status Codes](https://httpstatuses.com/) - "httpstatuses.com is an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place. Visit an individual status code via `httpstatuses.com/code` or browse the list below."
+
 [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) \#extension - "Makes JSON easy to read. Open source." [GitHub](https://github.com/callumlocke/json-formatter). \#chrome
 
 [Landbot.io](https://landbot.io/) - "Hey! 👋 My name is Landbot and I transform websites into Conversational Experiences."

@@ -10,6 +10,8 @@
 
 [GoodReads: Genre &gt; Computer Science &gt; Software](https://www.goodreads.com/genres/software) - A collection of the most-read and most-popular books on software development on GoodReads.
 
+[How to write Pseudocode: A beginner’s guide](https://blog.usejournal.com/how-to-write-pseudocode-a-beginners-guide-29956242698) \#article - "Pseudocode is an informal high-level description of a computer program or algorithm. It is written in symbolic code which must be translated into a programming language before it can be executed."
+
 [Hyper](https://hyper.is/) \#software - "The goal of the project is to create a beautiful and extensible experience for command-line interface users, built on open web standards. In the beginning, our focus will be primarily around speed, stability and the development of the correct API for extension authors."
 
 [Lepton](https://hackjutsu.com/Lepton/) \#software  - "A Lean GitHub Gist Client"
@@ -17,6 +19,8 @@
 [Lobsters](https://lobste.rs/) - "Lobsters is a computing-focused community centered around link aggregation and discussion, launched on July 1st, 2012. The administrator is [Peter Bhat Harkins](https://lobste.rs/u/pushcx) \("pushcx"\), contact him with any support issues. Lobsters was created by [joshua stein](https://lobste.rs/u/jcs) with some specific design goals in mind to avoid problems faced by other link aggregation sites." [Site code on GitHub](https://github.com/lobsters/lobsters).
 
 [Local Composer Package Development](https://medium.com/pvtl/local-composer-package-development-47ac5c0e5bb4) \#article - "When developing a package for say, [Laravel](https://laravel.com/), you’d want to incorporate that package into your vendor folder so that you can test its integration into the project and how it would behave as if someone had pulled it from [Packagist](https://packagist.org/)."
+
+[Paper is dead, long live Paper Programming](https://www.sacrideo.us/paper-is-dead-long-live-paper-programming/) \#article - "It should come as no surprise to anyone who reads this blog that I love to program "by hand." I happen to practice a degree of ascetical programming practices, and I believe that they help me to more deeply internalize and understand problems, ultimately delivering higher quality solutions. One of the ways that I do this is the use of paper programming."
 
 “Show a man a program and frustrate him for a day. Teach a man to program and you frustrate him for a lifetime” \(via [phi's forum profile](https://forum.beeminder.com/u/phi/summary)\).
 
