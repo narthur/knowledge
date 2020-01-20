@@ -10,3 +10,5 @@
 
 [Pocket Biases](https://pocket-biases.glideapp.io/?ref=producthunt) - "Every cognitive bias in your pocket."
 
+[Spurious Correlations](https://www.tylervigen.com/spurious-correlations)
+

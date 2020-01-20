@@ -154,6 +154,8 @@ VeggieIpsum
 
 ## Sources
 
+[Conferences](https://conferences.css-tricks.com/) - "... related to Front-End Design & Development"
+
 [CSS-Tricks](https://css-tricks.com/) - "CSS-Tricks is created, written by, and maintained by [Chris Coyier](https://chriscoyier.net/) and [a team](https://css-tricks.com/about/) of swell people. It is built on WordPress and powered up by [Jetpack](https://css-tricks.com/jetpack/). It is made possible through [sponsorships](https://css-tricks.com/advertising/) from products and services we like."
 
 [Jake Archibald wrote...](https://jakearchibald.com/) \#blog - "Hello, I’m Jake and that is my face. I’m a developer advocate for Google Chrome."

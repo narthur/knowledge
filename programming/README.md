@@ -24,6 +24,8 @@
 
 “Show a man a program and frustrate him for a day. Teach a man to program and you frustrate him for a lifetime” \(via [phi's forum profile](https://forum.beeminder.com/u/phi/summary)\).
 
+[StateCharts](https://statecharts.github.io/) - "Put simply, a statechart is a beefed up [state machine](https://statecharts.github.io/what-is-a-state-machine.html). The beefing up solves a lot of the problems that state machines have, especially [state explosion](https://statecharts.github.io/state-machine-state-explosion.html) that happens as state machines grow. One of the goals of this site is to help explain what statecharts are and how they are useful."
+
 [Why My Teenage Code Was Terrible: Sorting Algorithms and Big O Notation](https://invidio.us/watch?v=RGuJga2Gl_k) \#video - "When I was a teenager, I wrote some terrible code. Here's why." \#algorithms
 
 ## Abstract Syntax Trees
