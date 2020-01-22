@@ -12,7 +12,9 @@ Gusto
 
 [My Personal Finance bookshelf on GoodReads](https://www.goodreads.com/review/list/9682365-nathan?shelf=personal-finance)
 
-[Simple.com](https://www.simple.com/)
+{% embed url="https://Simple.com" %}
+
+[Two Dollar Eats](https://twodollareats.com/) - "Love your taste buds and your wallet! At Two Dollar Eats, our main goal is to save you money. We strive to provide you recipes that cost about $2 per serving, allowing you to eat delicious food while not breaking the bank!"
 
 [Why you should think about financial independence and mini-retirements \| Lacey Filipich \| TEDxUWA](https://www.youtube.com/watch?v=XSHNDyinZSQ&feature=youtu.be) \#video - "'Time poor' is the catch-cry of our era, and yet end-of-life retirement means we have an average of two decades of feeling time rich to look forward to… when we’re old. In this talk, Lacey shares how combining financial independence and mini-retirements is one way to bring that time rich feeling into our youth.  Lacey Filipich started her entrepreneurial journey with a hair wrap stall at 10 years old. Today, she is the co-founder and director of two successful businesses; Money School and Maker Kids Club."
 
