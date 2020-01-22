@@ -24,6 +24,8 @@
 
 [GitLab Handbook](https://about.gitlab.com/handbook/) - " The GitLab team handbook is the central repository for how we run the company. Printed, it consists of over [3,000 pages of text](https://about.gitlab.com/handbook/about/#count-handbook-pages). As part of our value of being transparent the handbook is [open to the world](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/handbook), and we welcome feedback. Please make a [merge request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests) to suggest improvements or add clarifications. Please use [issues](https://gitlab.com/gitlab-com/www-gitlab-com/issues) to ask questions."
 
+[HelpSpace](https://helpspace.io/) - "Simplify Your Customer Support. All your emails and messages in one place."
+
 [How Your To-Do List is Killing Your Productivity - Dan Lok](https://www.youtube.com/watch?v=HGk3tmodKDE) \#video - Delegate as much as possible, identify the 5 most import things to accomplish today, complete them, and then spend the rest of your time to think and strategize. Avoid the cult of busy. You can't do quality thinking when you're always busy and always running.
 
 [Juro](https://juro.com) - "Make contracts work for everyone. Contract management software your whole team will love."
@@ -33,6 +35,8 @@
 [MakerPad](https://www.makerpad.co/) - "You don't need to know how to code. Makerpad is the best no-code platform for professionals & creators."
 
 [MicroConf](https://www.microconf.com/) - "The World's Biggest Conference For the World's Smallest Self-Funded Software Companies"
+
+[Nolt](https://nolt.io/) - "Collect feedback in a central place that your users will love"
 
 [The Other Side of Burnout](https://www.youtube.com/watch?v=zHMfmcIWXT8) \#video
 
@@ -67,26 +71,6 @@
 [Gusto](https://gusto.com/product/payroll) - "Payroll made easy. See why Gusto is simply the best online payroll"
 
 [Mercury](https://mercury.co) - "Banking built for startups. Mercury makes bank accounts that help tech companies scale.
-
-## Marketing
-
-[Benchmark](https://www.benchmarkemail.com) - “Powerful and Simple Email Marketing. Simple enough for your intern. Design to impress the creative team. Bigger sales to thrill the boss.” \#email
-
-[ClickFunnels](https://www.clickfunnels.com/) - "ClickFunnels Gives You EVERYTHING You Need To Market, Sell, and Deliver Your Products and Services Online! \(Without Having To Hire or Rely On A Tech Team!\)"
-
-[ClickFunnels Review Video Alert\| Don't Buy ClickFunnels- Top 5 Reasons](https://www.youtube.com/watch?v=tQ79nb7raYo) \#video - "I have a love - hate relationship with this software provider, but this honest ClickFunnels Review will help you decide if this software is right for you. If Your considering CF, then you need to watch this honest ClickFunnels review video for 2017 before you buy it."
-
-[Free landing page templates for startups.](https://cruip.com/)
-
-[Meta Tags](https://metatags.io/) \#webapp - "With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!"
-
-[Ontraport](https://ontraport.com/) - "All your marketing tools in one place. Complete your campaigns with all your promotional pieces—from emails to pages and pop-up forms—which you can seamlessly create and connect right inside of Ontraport."
-
-[PostPerk](https://postperk.com/) - "Partnerships, made easy. Instantly boost your sales by partnering with complementary brands. Even if you're short on time, team, or expertise."
-
-[Sales for Founders](https://salesforfounders.com/) - "You get access to the sales knowledge I had to spend _years of pain_ learning the hard way. And then refined into super effective, actionable lessons... over years coaching hundreds of founders just like you."
-
-[TinyLetter](https://tinyletter.com/) - "Email for people with something to say." Free.
 
 ## Open Startup Movement
 

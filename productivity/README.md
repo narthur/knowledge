@@ -49,6 +49,8 @@ Tools I've used in the past:
 
 "Plans are nothing; planning is everything" \(Dwight D. Eisenhower; [via BrainyQuote](https://www.brainyquote.com/quotes/dwight_d_eisenhower_149111)\).
 
+[RageQuit.tips](https://ragequit.tips/) - "Don't let burnout make you quit! When work or the world make you feel like just quitting, this is place for tips, links and stories about coping with burnout."
+
 [Setapp](https://setapp.com/) \#software - "The frontier platform that packs 140+ Mac apps into just one. A personally curated membership for $9.99/mo."
 
 [Spend More Time Alone](http://www.calnewport.com/blog/2017/09/24/spend-more-time-alone/) \#article - by Cal Newport. "The right way to define “solitude” is as a subjective state in which you’re isolated from input from other minds. ... Regular doses of solitude are crucial for the effective and resilient functioning of your brain."
@@ -57,13 +59,21 @@ Tools I've used in the past:
 
 [TypeRacer](https://play.typeracer.com/)
 
+[warner/magic-wormhole](https://github.com/warner/magic-wormhole) - "get things from one computer to another, safely"
+
 [yEd](https://www.yworks.com/products/yed) \#software - "yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams. Create diagrams manually, or import your external data for analysis. Our automatic layout algorithms arrange even large data sets with just the press of a button."
 
 ### Communication
 
+[Juicy Mail](https://www.juicymail.co/) - "Introducing the next generation email experience"
+
 [Slack Is Not Where 'Deep Work' Happens](https://blog.nuclino.com/slack-is-not-where-deep-work-happens?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) \#article
 
 [Spark](https://sparkmailapp.com/) \#software \#app - "The best personal email client. Revolutionary email for teams."
+
+### Self-Care
+
+![https://twitter.com/buttpoems/status/1213296913006465025?s=09](../.gitbook/assets/enz_hb-u0aeucfx.jpg)
 
 ### Sources
 

@@ -14,11 +14,17 @@
 
 [Do Something When Third Party Notification Text Changes](https://forum.joaoapps.com/index.php?resources/do-something-when-third-party-notification-text-changes.125/) \#article - "Learn how to make something happen when a text in a notification changes."
 
+[Plug-Ins and 3rd Party Tools](http://tasker.wikidot.com/plug-ins-and-3rd-party)
+
 [r/tasker](https://www.reddit.com/r/tasker)
 
 [Tasker](https://tasker.joaoapps.com/index.html) \#app - "Total Automation for Android"
 
+[Tasker: Having fun with Tasker Post-It notes](https://www.pocketables.com/2018/12/tasker-having-fun-with-tasker-post-it-notes.html) \#article - "I love creating little projects that aren’t solving any problems but work well as great tutorials. AutoTools Web screens just got updated with Post-It notes – the sticky notes that are displayed as an overlay, so I thought I create a project that replicates the original purpose of the notes: leaving more or less useful messages for your friends and family."
+
 [Tasker on the Play Store](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) \#app - "Total Automation, From Settings to SMS."
 
 [Variables](https://tasker.joaoapps.com/userguide/en/variables.html) \#article - "A variable is a named value which changes over time e.g. the level of the battery, the time of day."
+
+[What kinds of things do you use root for?](https://www.reddit.com/r/tasker/comments/bf2sbs/what_kinds_of_things_do_you_use_root_for/) - "What kinds of things can be done better, more easily, or only with root?"
 

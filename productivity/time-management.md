@@ -10,6 +10,8 @@
 
 ## Pomodoro Technique
 
+[devon/eggscellent](https://github.com/devon/eggscellent) - "Pomodoro app for mac"
+
 [Focus Booster](https://www.focusboosterapp.com/) \#software - "Simple pomodoro timer. Powerful productivity boost. Stop procrastinating, focus consistently and track your time. Using focus booster you will achieve more, understand how you use your time and feel satisfied knowing you are productive."
 
 [Focus Time Manager](https://masterbuilders.io/focus) \#software - "The best pomodoro time manager for professionals"

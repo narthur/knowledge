@@ -16,6 +16,7 @@
 * [Engineering](engineering.md)
 * [Entrepreneurship](entrepreneurship/README.md)
   * [Customer Development](entrepreneurship/customer-development.md)
+  * [Marketing](entrepreneurship/marketing.md)
   * [Pricing](entrepreneurship/pricing.md)
 * [Environment](environment/README.md)
   * [Energy](environment/energy.md)
