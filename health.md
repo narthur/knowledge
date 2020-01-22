@@ -12,6 +12,8 @@
 
 [OpenNotes](https://www.opennotes.org/) - "OpenNotes is the international movement that’s making health care more transparent. It urges doctors, nurses, therapists, and others to invite patients to read the notes they write to describe a visit. We call these opennotes."
 
+[Scientists Discovered How Sleep Cleans Toxins From Your Brain](https://invidio.us/watch?v=GUGqraRfGnQ) \#video - "No surprise: sleep is essential to being a functioning, healthy human being. And new research looks even further into how sleep actually helps us maintain clean brains—but what does that mean?"
+
 [The Top 10 Benefits of Regular Exercise](https://www.healthline.com/nutrition/10-benefits-of-exercise) \#article - "Being active has been shown to have many health benefits, both physically and mentally." Healthline.
 
 [Zwift](https://zwift.com/) - "SERIOUS TRAINING MADE FUN. The at home training app connecting cyclists around the world."
