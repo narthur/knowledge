@@ -1,7 +1,5 @@
 # Energy
 
-[Artificial Leaf Technology Could One Day Power Our World](https://invidio.us/watch?v=RRhGRSsiKxQ) \#video - "Scientists at the University of Waterloo in Canada have come up with a new design for an artificial leaf. Not only is this technology 10 times more efficient than plant photosynthesis, it might help us move away from the fossil fuels that are getting us into so much trouble."
-
 [Can A City Run On 100% Renewable Energy?](https://www.youtube.com/watch?v=zKhzVcHrWH4&list=PLIilwIraDV2JwXZ5bQ500pxPe0PyL3m7L&index=2) \#video - "In 2014 Burlington, Vermont became the first city in the United States to run on 100% Renewable Energy.   But how do they actually do it?  What’s their secret?"
 
 [Documentary : The renewable energy breakthrough! \(finally\).](https://www.youtube.com/watch?v=BV8VJMMtjlk&list=PLIilwIraDV2JwXZ5bQ500pxPe0PyL3m7L&index=2) \#video - "Finally after decades of research and development of renewable energy technologies, the price of electricity per Kw. \(in 80% of the world\) has become competitive with fossil fuel generated electricity. With no end in sight to the falling prices and wind power just slightly behind in production price, countries around the world are making the push to convert their energy production to renewables. Nowhere is this more evident than in China's aggressive push to modernize their entire energy production industry!"

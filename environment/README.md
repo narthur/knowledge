@@ -28,6 +28,8 @@
 
 ## Climate Change
 
+[Carbon Dioxide Is Not the Worst Greenhouse Gas, Meet SF6](https://invidio.us/watch?v=uGpDFgTfRYU) \#video - "SF6 is a colorless, odorless, cheap and non-flammable synthetic gas that is incredibly effective at insulating material for medium- and high-voltage electrical installation. Because sulfur hexafluoride displaces the air that feeds the flames, SF6 is used to help prevent short circuits and fires in high-voltage electrical switches and circuit breakers."
+
 [Climate Change is Boring](https://www.youtube.com/watch?v=eNx9tvCrvv8&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video
 
 [Climate Crisis](https://www.stitcher.com/podcast/national-public-radio/npr-ted-radio-hour-podcast/e/61751327?refid=asa&autoplay=true) \#podcast - Episode of TED Radio Hour. "There's no greater threat to humanity than climate change. What can we do to stop the worst consequences? This hour, TED speakers explore how we can save our planet and whether we can do it in time. Guests include climate activist Greta Thunberg, chemical engineer Jennifer Wilcox, research scientist Sean Davis, food innovator Bruce Friedrich, and psychologist Per Espen Stoknes."
