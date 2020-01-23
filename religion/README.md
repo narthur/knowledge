@@ -8,7 +8,7 @@
 
 [Planning Center](https://planning.center/) - "Love your church management software. Software designed to help you find freedom to focus on what matters in your ministry."
 
-[Pro Church Tools](https://prochurchtools.com/) - "WE'RE HELPING CHURCHES NAVIGATE THE BIGGEST COMMUNICATION SHIFT IN 500 YEARS. You and I are living through the single biggest change since the printing press - and it’s just getting started."
+[Pro Church Tools](https://prochurchtools.com/) - "WE'RE HELPING CHURCHES NAVIGATE THE BIGGEST COMMUNICATION SHIFT IN 500 YEARS. You and I are living through the single biggest change since the printing press - and it’s just getting started." [Invidious](https://www.invidio.us/channel/UCjamZs-IMPsvu9uNzP9v8RA).
 
 [Vatican City Explained](https://www.youtube.com/watch?v=OPHRIjI3hXs&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
 
