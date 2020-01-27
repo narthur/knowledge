@@ -4,6 +4,8 @@
 
 [CONTINUOUS INTEGRATION](https://www.thoughtworks.com/continuous-integration) - "Continuous Integration \(CI\) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early. ❡ By integrating regularly, you can detect errors quickly, and locate them more easily."
 
+[Database normalization](https://en.wikipedia.org/wiki/Database_normalization) \#article - Wikipedia. "**Database normalization** is the process of structuring a [relational database](https://en.wikipedia.org/wiki/Relational_database) in accordance with a series of so-called [normal forms](https://en.wikipedia.org/wiki/Database_normalization#Normal_forms) in order to reduce [data redundancy](https://en.wikipedia.org/wiki/Data_redundancy) and improve [data integrity](https://en.wikipedia.org/wiki/Data_integrity). It was first proposed by [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd) as part of his [relational model](https://en.wikipedia.org/wiki/Relational_model)."
+
 [FOSSA](https://fossa.com/) - "Scalable, end-to-end management for third-party code, license compliance and vulnerabilities."
 
 [frp](https://frp.ai/) - "frp™ is a reliable Enterprise level face recognition system for commercial use"
