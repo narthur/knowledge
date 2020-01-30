@@ -72,6 +72,12 @@ Google Cloud Platform
 
 [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) \#book
 
+## Security
+
+[ATT&CK AWS Matrix](https://attack.mitre.org/matrices/enterprise/cloud/aws/) - "Below are the tactics and technique representing the MITRE ATT&CK Matrix™ for Enterprise covering cloud-based techniques. The Matrix contains information for the AWS platform."
+
+[ATT&CK Enterprise Matrix](https://attack.mitre.org/matrices/enterprise/) - "Below are the tactics and technique representing the MITRE ATT&CK Matrix™ for Enterprise. The Matrix contains information for the following platforms: [Windows](https://attack.mitre.org/matrices/enterprise/windows), [macOS](https://attack.mitre.org/matrices/enterprise/macos), [Linux](https://attack.mitre.org/matrices/enterprise/linux), [AWS](https://attack.mitre.org/matrices/enterprise/cloud/aws), [GCP](https://attack.mitre.org/matrices/enterprise/cloud/gcp), [Azure](https://attack.mitre.org/matrices/enterprise/cloud/azure), [Azure AD](https://attack.mitre.org/matrices/enterprise/cloud/azuread), [Office 365](https://attack.mitre.org/matrices/enterprise/cloud/office365), [SaaS](https://attack.mitre.org/matrices/enterprise/cloud/saas)."
+
 ## Sources
 
 [The Clean Code Blog](http://blog.cleancoder.com/) \#blog - "by Robert C. Martin \(Uncle Bob\)"

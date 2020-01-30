@@ -90,7 +90,3 @@
 
 [Touch target size](https://support.google.com/accessibility/android/answer/7101858?hl=en) \#article - "Any on-screen element that someone can click, touch, or otherwise interact with should be large enough for reliable interaction. Consider making sure these elements have a width and height of at least 48dp, as described in the [Material Design Accessibility guidelines](https://material.google.com/usability/accessibility.html#accessibility-layout)."
 
-## Sources
-
-[Nielsen Norman Group](https://www.nngroup.com/) - "World Leaders in Research-Based User Experience." [Invidious](https://www.invidio.us/channel/UC2oCugzU6W8-h95W7eBTUEg).
-
