@@ -76,7 +76,9 @@ Google Cloud Platform
 
 [ATT&CK Enterprise Matrix](https://attack.mitre.org/matrices/enterprise/) - "Below are the tactics and technique representing the MITRE ATT&CK Matrix™ for Enterprise. The Matrix contains information for the following platforms: [Windows](https://attack.mitre.org/matrices/enterprise/windows), [macOS](https://attack.mitre.org/matrices/enterprise/macos), [Linux](https://attack.mitre.org/matrices/enterprise/linux), [AWS](https://attack.mitre.org/matrices/enterprise/cloud/aws), [GCP](https://attack.mitre.org/matrices/enterprise/cloud/gcp), [Azure](https://attack.mitre.org/matrices/enterprise/cloud/azure), [Azure AD](https://attack.mitre.org/matrices/enterprise/cloud/azuread), [Office 365](https://attack.mitre.org/matrices/enterprise/cloud/office365), [SaaS](https://attack.mitre.org/matrices/enterprise/cloud/saas)."
 
-## State Charts
+## State Machines & Statecharts
+
+[Let’s learn state machines with David K. Piano! — Learn With Jason](https://www.invidio.us/watch?v=czi24DqUfSA) \#video - "What are state machines? How are they helpful? In this episode, David Khourshid \([https://twitter.com/DavidKPiano](https://twitter.com/DavidKPiano)\) walks us through refactoring a React component to use xstate, which helps us clear up some bugs and add more predictability."
 
 [spectrum.chat/statecharts](https://spectrum.chat/statecharts?tab=posts) - "Statecharts are a precise, visual way of modeling the behaviour of complex reactive systems. They describe how things work, and can help you get your code doing exactly what you want."
 

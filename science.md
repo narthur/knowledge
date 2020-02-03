@@ -6,5 +6,3 @@
 
 [Quanta Magazine](https://www.quantamagazine.org/) - "Illuminating basic science and math research through public service journalism."
 
-[Zooniverse](https://www.zooniverse.org/) - "People-powered research"
-
