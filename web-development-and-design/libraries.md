@@ -16,6 +16,8 @@
 
 [http://qunitjs.com/](http://qunitjs.com/)
 
+[Redux](https://redux.js.org/) - "A Predictable State Container for JS Apps"
+
 [Scrollama.js](https://pudding.cool/process/introducing-scrollama/?utm_source=frontendfocus&utm_medium=email) - “Scrollama is a modern and lightweight JavaScript library for scrollytelling using IntersectionObserver in favor of scroll events.”
 
 [SnackbarJS](http://fezvrasta.github.io/snackbarjs/) - “SnackbarJS is a lightweight and jQuery powered plugin made to work in Bootstrap style, just like the Bootstrap tooltips work.”

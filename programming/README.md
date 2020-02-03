@@ -80,6 +80,8 @@ Google Cloud Platform
 
 [Let’s learn state machines with David K. Piano! — Learn With Jason](https://www.invidio.us/watch?v=czi24DqUfSA) \#video - "What are state machines? How are they helpful? In this episode, David Khourshid \([https://twitter.com/DavidKPiano](https://twitter.com/DavidKPiano)\) walks us through refactoring a React component to use xstate, which helps us clear up some bugs and add more predictability."
 
+[Sketch.systems](https://sketch.systems/) - "Explore how your product should work, before building it. Sketch.systems helps software designers think about complex product behavior. Sketch out states, add prototypes, and clarify questions quickly."
+
 [spectrum.chat/statecharts](https://spectrum.chat/statecharts?tab=posts) - "Statecharts are a precise, visual way of modeling the behaviour of complex reactive systems. They describe how things work, and can help you get your code doing exactly what you want."
 
 [StateCharts](https://statecharts.github.io/) - "Put simply, a statechart is a beefed up [state machine](https://statecharts.github.io/what-is-a-state-machine.html). The beefing up solves a lot of the problems that state machines have, especially [state explosion](https://statecharts.github.io/state-machine-state-explosion.html) that happens as state machines grow. One of the goals of this site is to help explain what statecharts are and how they are useful."

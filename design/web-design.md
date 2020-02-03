@@ -10,6 +10,10 @@
 
 [InVision Studio](https://www.invisionapp.com/studio) \#software - "The world’s most powerful screen design tool"
 
+[Origami Studio](https://origami.design/) \#software - "Design Prototyping with Origami Studio"
+
+[Overflow](https://overflow.io/) \#software - "Turn your designs into playable user flow diagrams that tell a story."
+
 [Pixels](https://klart.io/pixels) - "If you're looking for kick-ass designs and copywriting, you've come to the right place. I'll share a couple of designs here every day and I hope you'll enjoy it 🍿."
 
 [ProductDesign.tips](https://productdesign.tips/?ref=producthunt)
