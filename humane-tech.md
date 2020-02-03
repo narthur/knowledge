@@ -18,6 +18,8 @@
 
 [Humane Tech Community](https://humanetech.community/) - "We are building the Pyramids of Humane Technology. We envision a future where we have unobtrusive technology that is empowering us and that allows humans to flourish and humanity to thrive. Where the digital world is a natural extension of the real one and a reflection of ourselves."
 
+[IRL Glasses](https://www.kickstarter.com/projects/ivancash/irl-glasses-glasses-that-block-screens/faqs) - "Glasses that Block Screens." Made by [IRL Labs](https://www.irl-labs.co/).
+
 [LeftBlank.co](http://www.leftblank.co/) - "This page intentionally left blank."
 
 [The Light Phone](https://www.thelightphone.com/) - "A phone is a tool, and it should serve you as the user, not the other way around. The Light Phone II is a phone that actually respects you."
@@ -27,6 +29,8 @@
 [OFFTIME ](https://play.google.com/store/apps/details?id=co.offtime.kit&hl=en_US)\#app - "OFFTIME lets you track and **customize your connectivity \(and limit phone usage\) so you can do the things that matter**. **Unplug**, **digital detox** and **focus** on your work, have **quality time** without distractions with the people you care about, or simply enjoy some peace of mind."
 
 [Pomy](https://vanejung.com/pomy/) \#software - "Focus timer app for your eye health"
+
+[Punkt MP01 Phone](https://www.punkt.ch/en/products/mp01-mobile-phone/) - "Distracted? Focus. Sometimes it’s good to take a break"
 
 [Siempo](http://www.getsiempo.com/) \#app - Android launcher. "Use your tech, not the other way around. Let’s build a healthier relationship with our devices. Siempo puts you back in control of your apps and protects you from overuse."
 
