@@ -26,8 +26,6 @@
 
 “Show a man a program and frustrate him for a day. Teach a man to program and you frustrate him for a lifetime” \(via [phi's forum profile](https://forum.beeminder.com/u/phi/summary)\).
 
-[StateCharts](https://statecharts.github.io/) - "Put simply, a statechart is a beefed up [state machine](https://statecharts.github.io/what-is-a-state-machine.html). The beefing up solves a lot of the problems that state machines have, especially [state explosion](https://statecharts.github.io/state-machine-state-explosion.html) that happens as state machines grow. One of the goals of this site is to help explain what statecharts are and how they are useful."
-
 [Why My Teenage Code Was Terrible: Sorting Algorithms and Big O Notation](https://invidio.us/watch?v=RGuJga2Gl_k) \#video - "When I was a teenager, I wrote some terrible code. Here's why." \#algorithms
 
 ## Abstract Syntax Trees
@@ -77,6 +75,16 @@ Google Cloud Platform
 [ATT&CK AWS Matrix](https://attack.mitre.org/matrices/enterprise/cloud/aws/) - "Below are the tactics and technique representing the MITRE ATT&CK Matrix™ for Enterprise covering cloud-based techniques. The Matrix contains information for the AWS platform."
 
 [ATT&CK Enterprise Matrix](https://attack.mitre.org/matrices/enterprise/) - "Below are the tactics and technique representing the MITRE ATT&CK Matrix™ for Enterprise. The Matrix contains information for the following platforms: [Windows](https://attack.mitre.org/matrices/enterprise/windows), [macOS](https://attack.mitre.org/matrices/enterprise/macos), [Linux](https://attack.mitre.org/matrices/enterprise/linux), [AWS](https://attack.mitre.org/matrices/enterprise/cloud/aws), [GCP](https://attack.mitre.org/matrices/enterprise/cloud/gcp), [Azure](https://attack.mitre.org/matrices/enterprise/cloud/azure), [Azure AD](https://attack.mitre.org/matrices/enterprise/cloud/azuread), [Office 365](https://attack.mitre.org/matrices/enterprise/cloud/office365), [SaaS](https://attack.mitre.org/matrices/enterprise/cloud/saas)."
+
+## State Charts
+
+[spectrum.chat/statecharts](https://spectrum.chat/statecharts?tab=posts) - "Statecharts are a precise, visual way of modeling the behaviour of complex reactive systems. They describe how things work, and can help you get your code doing exactly what you want."
+
+[StateCharts](https://statecharts.github.io/) - "Put simply, a statechart is a beefed up [state machine](https://statecharts.github.io/what-is-a-state-machine.html). The beefing up solves a lot of the problems that state machines have, especially [state explosion](https://statecharts.github.io/state-machine-state-explosion.html) that happens as state machines grow. One of the goals of this site is to help explain what statecharts are and how they are useful."
+
+[XState](https://xstate.js.org/) - "JavaScript State Machines and Statecharts"
+
+[XState Visualizer](https://xstate.js.org/viz/)
 
 ## Sources
 

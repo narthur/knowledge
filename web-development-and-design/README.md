@@ -118,6 +118,8 @@ VeggieIpsum
 
 [Pwa-wp plugin](https://github.com/xwp/pwa-wp) - WordPress plugin. [WP plugin page](https://wordpress.org/plugins/pwa/)
 
+[Service Workies](https://serviceworkies.com/) - "Learn Service Workers inside and out with the new game of Service Worker mastery"
+
 [Workbox](https://developers.google.com/web/tools/workbox/)
 
 ## Security
