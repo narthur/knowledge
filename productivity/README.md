@@ -27,6 +27,8 @@ Tools I've used in the past:
 
 [8,760 Hours](https://drive.google.com/file/d/0B2PaeRjVqAN7MngxTXFPQkpLVjg/view) \#pdf - "How to get the most out of the next year"
 
+[Baronfig](https://www.baronfig.com/) - "Tools for Thinking." Notebooks, pens, bags, etc.
+
 [clarissalittler/productive-while-mentally-ill](https://github.com/clarissalittler/productive-while-mentally-ill) \#book - "Repo for a short book on dealing with chronic mental illness while still trying to Get Things Done."
 
 [Contexts](https://contexts.co/) \#software - "Switch between application windows effortlessly — with Fast Search, a better Command-Tab, a Sidebar or even a quick gesture. Includes fantastic features for multiple spaces & multiple displays."
