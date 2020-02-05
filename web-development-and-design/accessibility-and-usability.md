@@ -1,6 +1,6 @@
 # Accessibility & Usability
 
-
+[10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) \#article - "**Summary:** Jakob Nielsen's 10 general principles for interaction design. They are called "heuristics" because they are broad rules of thumb and not specific usability guidelines."
 
 [18F Accessibility Guide](https://accessibility.18f.gov/)
 
@@ -24,6 +24,8 @@
 
 [Deque](https://www.deque.com/)
 
+[Don't Reinvent the Wheel](https://www.colorado.edu/accessible-technology/2018/02/28/dont-reinvent-wheel) \#article - "If you’re trying to create an innovative car that will expand for extra passengers or cargo and shrink when you want to park it between a couple of enormous SUVs, you don’t need to reinvent the wheel. You might decide to modify the frame or axles in some way, but it’s already generally established that a round, rubber wheel is the best way to get around on American roads. The same principle applies to designing digital content: be deliberate about when you use well-established tools and when you design in a new way."
+
 [eBay MIND Patterns](https://ianmcburnie.github.io/mindpatterns/index.html)
 
 [Empathy Prompts](https://empathyprompts.net/)
@@ -46,6 +48,10 @@
 
 [Intro to ARIA -- A11ycasts \#13](https://www.youtube.com/watch?v=g9Qff0b-lHk) \#video - "Here on a11ycasts I always try to encourage developers to use native controls rather than roll their own mainly because you get semantics and keyboard functionality for free. But there are situations where you need to build something and there's no native analog in the platform. For these occasions when you need to go offroad and build your own control, the Web Content Accessibility Initiatives Accessible Rich Internet Applications spec \(WAI-ARIA\) can help you add in the semantics your new custom control is missing. Today on the show I'll cover what ARIA is from a high level and show off some of the features and relationships ARIA let's you take advantage of."
 
+[Jacob's Law](https://lawsofux.com/jakobs-law) - "Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know."
+
+[Jakob's Law of Internet User Experience](https://www.nngroup.com/videos/jakobs-law-internet-ux/) \#video - "**Summary:** Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know. Design for patterns for which users are accustomed."
+
 [Julie Grundy – The UX of Form Design: Designing an Effective Form](https://www.youtube.com/watch?v=hPS7LUW7SlA) \#video - "Forms are critical user’s experience. We have clear guidelines to follow, yet these guidelines are often are overlooked. Come to this talk to hear clear, practical tips on what to do, and what is new in the world of form design with research-backed best practices from Julie, Senior UX Designer at Oracle+Bronto. Attendees will leave with an understanding of what makes a well designed form and why."
 
 [Microsoft Inclusive Design Principles](https://www.microsoft.com/en-us/design/inclusive)
@@ -56,11 +62,17 @@
 
 [Pixels vs. Ems: Users DO Change Font Size](https://medium.com/@vamptvo/pixels-vs-ems-users-do-change-font-size-5cfb20831773) \#article - “The question was “How many users browse the main Internet Archive site with a default font size other than the common value of 16 pixels?” By knowing this, we would determine how many users would be affected by sizing with relative units like rems/ems. Using the methodology I describe below, we found that the answer is 3.08% of our users. That’s a pretty big number, higher than most counts of the market share of browsers like Internet Explorer, Edge, or Opera Mini.”
 
+[Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) \#article - Wikipedia. "The **principle of least astonishment** \(**POLA**\), also called the **principle of least surprise** \(alternatively a "law" or "rule"\)[\[1\]](https://en.wikipedia.org/wiki/Principle_of_least_astonishment#cite_note-Raymond2004-1)[\[2\]](https://en.wikipedia.org/wiki/Principle_of_least_astonishment#cite_note-2) applies to [user interface](https://en.wikipedia.org/wiki/User_interface) and [software](https://en.wikipedia.org/wiki/Software_design) design.[\[3\]](https://en.wikipedia.org/wiki/Principle_of_least_astonishment#cite_note-3) A typical formulation of the principle, from 1984, is: "If a necessary feature has a high astonishment factor, it may be necessary to redesign the feature."[\[4\]](https://en.wikipedia.org/wiki/Principle_of_least_astonishment#cite_note-rexx-4)"
+
 [Random A11y Color Palettes](https://randoma11y.com/)
 
 [tota11y](http://khan.github.io/tota11y/)
 
 [Udacity Web Accessibility course, by Google, free](https://www.udacity.com/course/web-accessibility--ud891)
+
+[Usability Heuristic 4: Consistency and Standards](https://www.nngroup.com/videos/usability-heuristic-consistency-standards/) \#video - "**Summary:** No. 4 of the top 10 UX design heuristics is to stick to UI conventions and follow existing standards, so that users know what to expect and how to operate the interface."
+
+[Variations on Practiced Patterns Cause Mistakes](https://www.nngroup.com/articles/practiced-patterns-mistakes/) \#article - "**Summary:** Past experiences and repeated practice inform user expectations. Deviations from a learned routine lead to user errors."
 
 [Vox Media Accessibility Guidelines Checklist](http://accessibility.voxmedia.com/) - “Making work accessible creates a better experience across the board. Use this checklist to help build accessibility into your process no matter your role or stage in a project.”
 
@@ -89,4 +101,8 @@
 [Tap targets are not sized appropriately](https://developers.google.com/web/tools/lighthouse/audits/tap-targets) \#article - "Tap targets are interactive elements, like buttons or links, that users frequently tap. Appropriately-sized tap targets make pages more mobile-friendly and accessible. Google Search started boosting the ranking of mobile-friendly pages on mobile search results back in 2015. See [Rolling out the mobile-friendly update](https://webmasters.googleblog.com/2015/04/rolling-out-mobile-friendly-update.html)."
 
 [Touch target size](https://support.google.com/accessibility/android/answer/7101858?hl=en) \#article - "Any on-screen element that someone can click, touch, or otherwise interact with should be large enough for reliable interaction. Consider making sure these elements have a width and height of at least 48dp, as described in the [Material Design Accessibility guidelines](https://material.google.com/usability/accessibility.html#accessibility-layout)."
+
+## Sources
+
+[Nielsen Norman Group](https://www.nngroup.com/) - "World Leaders in Research-Based User Experience." [Invidious](https://www.invidio.us/channel/UC2oCugzU6W8-h95W7eBTUEg).
 
