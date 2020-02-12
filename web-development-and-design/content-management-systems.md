@@ -22,6 +22,10 @@
 
 ## WordPress
 
+[devowlio](https://github.com/devowlio)/[**create-wp-react-app**](https://github.com/devowlio/create-wp-react-app) - "Create React WordPress plugin with no build configuration."
+
+[devowlio](https://github.com/devowlio)/[**wp-react-starter**](https://github.com/devowlio/wp-react-starter) - "🚀 Complete WordPress Plugin Boilerplate using modern web techs like TypeScript, SASS, and so on... on top of a local development environment with Docker and predefined GitLab CI for continous integration and deployment!" [Docs](https://devowlio.gitbook.io/wp-react-starter/).
+
 [Query Monitor](https://wordpress.org/plugins/query-monitor/) \#plugin - "Query Monitor is the developer tools panel for WordPress. It enables debugging of database queries, PHP errors, hooks and actions, block editor blocks, enqueued scripts and stylesheets, HTTP API calls, and more." Also helps with debugging rewrite rules. 👍
 
 [WordPress](https://wordpress.org/) - "WordPress is open source software you can use to create a beautiful website, blog, or app."
