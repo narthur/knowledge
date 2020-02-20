@@ -37,6 +37,10 @@ osascript -e 'display notification "Get to work!" with title "Focusing"'
 
 [Column 80](https://stackapps.com/questions/542/column-80-plain-text-optimised-stack-exchange) - StackExchange network optimized for text-only browsers
 
+[Cronitor](https://cronitor.io/index) - "Instant alerts when your critical background jobs, websites or APIs fail."
+
+[crontab.guru - the cron schedule expression editor](https://crontab.guru/)
+
 [Ctrl+L in terminal](https://askubuntu.com/questions/434240/ctrll-in-terminal) \#article - “ctrl + L just clear the terminal screen.”
 
 [Docopt](http://docopt.org/) - “Command-line interface description language”

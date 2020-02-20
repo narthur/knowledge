@@ -1,12 +1,16 @@
 # Humane Tech
 
+[Before Launcher](https://play.google.com/store/apps/details?id=com.beforesoft.launcher) \#app - "Before Launcher helps us live in real life, and keeps our smartphone smart." \#android
+
 [Center for Humane Technology](https://humanetech.com/) - "Our mission is to reverse human downgrading by inspiring a new race to the top and realigning technology with humanity."
+
+[Daywise](https://getdaywise.com/) \#app - "Pick a schedule. Get notifications at those times. People who get notifications at set times are less stressed, calmer and more productive."
 
 [Digital Minimalism - with Dr. Cal Newport](https://www.stitcher.com/podcast/paula-pant-and-j-money/money-103/e/58555559?refid=asa&autoplay=true) \#podcast - "Cal Newport created a philosophy called digital minimalism, which is idea of reducing your digital life down to only the most important core essentials. Remove the apps from your phone, then slowly re-introduce only the ones that are the most useful and beneficial. Take control of your smartphone, rather than letting it control you."
 
-[Experiments with Google: Digital Wellbeing](https://experiments.withgoogle.com/collection/digitalwellbeing) - "A collection of ideas and tools that help people find a better balance with technology. We hope these experiments inspire developers and designers to consider digital wellbeing in everything they design and make. All the code is open sourced and helpful guides and tips are available to kick start new ideas. Try the experiments and create new ones. The more people that get involved the more we can all learn about building better technology for everyone."
-
 [f.lux](https://justgetflux.com/) \#software - "f.lux ... makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day."
+
+[Forest](https://www.forestapp.cc/) \#app - "Stay focused, be present"
 
 [HOW I REPLACED FACEBOOK WITH "NICEBOOK"](https://elgan.com/blog/how-i-replaced-facebook-with-google-photos) \#article - "I’m replacing Facebook with a single shared folder in Google Photos I’m calling “Nicebook” — it’s all the nice features of Facebook, without the exploitative, racist, disinformation, censoring, advertising and other not-so-nice features of Facebook."
 
@@ -14,25 +18,7 @@
 
 [Humane Tech Community](https://humanetech.community/) - "We are building the Pyramids of Humane Technology. We envision a future where we have unobtrusive technology that is empowering us and that allows humans to flourish and humanity to thrive. Where the digital world is a natural extension of the real one and a reflection of ourselves."
 
-[IRL Glasses](https://www.kickstarter.com/projects/ivancash/irl-glasses-glasses-that-block-screens/faqs) - "Glasses that Block Screens." Made by [IRL Labs](https://www.irl-labs.co/).
-
 [LeftBlank.co](http://www.leftblank.co/) - "This page intentionally left blank."
-
-[Pomy](https://vanejung.com/pomy/) \#software - "Focus timer app for your eye health"
-
-[Spend More Time Alone](http://www.calnewport.com/blog/2017/09/24/spend-more-time-alone/) \#article - by Cal Newport. "The right way to define “solitude” is as a subjective state in which you’re isolated from input from other minds. ... Regular doses of solitude are crucial for the effective and resilient functioning of your brain."
-
-## Phone Usage
-
-[Before Launcher](https://play.google.com/store/apps/details?id=com.beforesoft.launcher) \#app - "Before Launcher helps us live in real life, and keeps our smartphone smart." \#android
-
-[Daywise](https://getdaywise.com/) \#app - "Pick a schedule. Get notifications at those times. People who get notifications at set times are less stressed, calmer and more productive."
-
-[Desert Island](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.desertisland) \#app - "Desert Island helps you find focus, by challenging you to go a day with only your essential apps. Simply pick the apps that are most important to you, then give it a go for 24 hours."
-
-[Envelope ](https://play.google.com/store/apps/details?id=com.specialprojects.experiments.envelopecall)\#app - "An experimental app which temporarily transforms your phone into a simpler, calmer device. Currently supports Pixel 3a." [Printable PDF envelope](https://s3-eu-west-1.amazonaws.com/media.designersfriend.co.uk/sps/media/uploads/misc/downloads/google-unplugged-envelope-instructions.pdf). [GitHub](https://github.com/specialprojects-experiments/envelope).
-
-[Forest](https://www.forestapp.cc/) \#app - "Stay focused, be present"
 
 [The Light Phone](https://www.thelightphone.com/) - "A phone is a tool, and it should serve you as the user, not the other way around. The Light Phone II is a phone that actually respects you."
 
@@ -40,9 +26,11 @@
 
 [OFFTIME ](https://play.google.com/store/apps/details?id=co.offtime.kit&hl=en_US)\#app - "OFFTIME lets you track and **customize your connectivity \(and limit phone usage\) so you can do the things that matter**. **Unplug**, **digital detox** and **focus** on your work, have **quality time** without distractions with the people you care about, or simply enjoy some peace of mind."
 
-[Punkt MP01 Phone](https://www.punkt.ch/en/products/mp01-mobile-phone/) - "Distracted? Focus. Sometimes it’s good to take a break"
+[Pomy](https://vanejung.com/pomy/) \#software - "Focus timer app for your eye health"
 
 [Siempo](http://www.getsiempo.com/) \#app - Android launcher. "Use your tech, not the other way around. Let’s build a healthier relationship with our devices. Siempo puts you back in control of your apps and protects you from overuse."
+
+[Spend More Time Alone](http://www.calnewport.com/blog/2017/09/24/spend-more-time-alone/) \#article - by Cal Newport. "The right way to define “solitude” is as a subjective state in which you’re isolated from input from other minds. ... Regular doses of solitude are crucial for the effective and resilient functioning of your brain."
 
 ## YouTube Alternatives
 
