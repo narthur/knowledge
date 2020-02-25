@@ -4,8 +4,6 @@
 
 [Google Domains](https://domains.google/#/) - "Find a domain, create a site, and get custom email"
 
-[go-unicornify](https://bitbucket.org/balpha/go-unicornify/src/default/) - "A port of the unicorn avatar generator at http://unicornify.appspot.com to Go, usable as a command line app"
-
 [HTML by Toptal Designers](https://www.toptal.com/designers/htmlarrows/) - "A delightful reference for HTML Symbols, Entities and ASCII Character Codes"
 
 [HTTP Status Codes](https://httpstatuses.com/) - "httpstatuses.com is an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place. Visit an individual status code via `httpstatuses.com/code` or browse the list below."
@@ -119,8 +117,6 @@ VeggieIpsum
 [Google Play Store now open for Progressive Web Apps 😱](https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc) \#article - "Chrome 72 for Android shipped the long-awaited Trusted Web Activity feature, which means we can now distribute PWAs in the Google Play Store! I played with the feature for a while, digging into the APIs and here you have a summary of what’s going on, what to expect and how to use it today."
 
 [Pwa-wp plugin](https://github.com/xwp/pwa-wp) - WordPress plugin. [WP plugin page](https://wordpress.org/plugins/pwa/)
-
-[Service Workies](https://serviceworkies.com/) - "Learn Service Workers inside and out with the new game of Service Worker mastery"
 
 [Workbox](https://developers.google.com/web/tools/workbox/)
 
