@@ -4,6 +4,8 @@
 
 [Google Domains](https://domains.google/#/) - "Find a domain, create a site, and get custom email"
 
+[go-unicornify](https://bitbucket.org/balpha/go-unicornify/src/default/) - "A port of the unicorn avatar generator at http://unicornify.appspot.com to Go, usable as a command line app"
+
 [HTML by Toptal Designers](https://www.toptal.com/designers/htmlarrows/) - "A delightful reference for HTML Symbols, Entities and ASCII Character Codes"
 
 [HTTP Status Codes](https://httpstatuses.com/) - "httpstatuses.com is an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place. Visit an individual status code via `httpstatuses.com/code` or browse the list below."
@@ -118,6 +120,8 @@ VeggieIpsum
 
 [Pwa-wp plugin](https://github.com/xwp/pwa-wp) - WordPress plugin. [WP plugin page](https://wordpress.org/plugins/pwa/)
 
+[Service Workies](https://serviceworkies.com/) - "Learn Service Workers inside and out with the new game of Service Worker mastery"
+
 [Workbox](https://developers.google.com/web/tools/workbox/)
 
 ## Security
@@ -157,6 +161,8 @@ VeggieIpsum
 [Conferences](https://conferences.css-tricks.com/) - "... related to Front-End Design & Development"
 
 [CSS-Tricks](https://css-tricks.com/) - "CSS-Tricks is created, written by, and maintained by [Chris Coyier](https://chriscoyier.net/) and [a team](https://css-tricks.com/about/) of swell people. It is built on WordPress and powered up by [Jetpack](https://css-tricks.com/jetpack/). It is made possible through [sponsorships](https://css-tricks.com/advertising/) from products and services we like."
+
+[Facebook Open Source](https://opensource.facebook.com/) - "Building community through open source technology"
 
 [Jake Archibald wrote...](https://jakearchibald.com/) \#blog - "Hello, I’m Jake and that is my face. I’m a developer advocate for Google Chrome."
 

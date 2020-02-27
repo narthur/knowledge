@@ -102,8 +102,6 @@ Google Cloud Platform
 
 [Devchat.tv](https://devchat.tv/)
 
-[Dev.to](https://dev.to/) - "DEV is a community of software developers getting together to help one another out. The software industry relies on collaboration and networked learning. We provide a place for that to happen."
-
 [Martin Fowler](https://martinfowler.com/) - "Software development is a young profession, and we are still learning the techniques and building the tools to do it effectively. I've been involved in this activity for over three decades and in the last two I've been writing on this website about patterns and practices that make it easier to build useful software. The site began as a place to put my own writing, but I also use it to publish articles by my colleagues."
 
 [Robert Heaton](https://robertheaton.com) \#blog
