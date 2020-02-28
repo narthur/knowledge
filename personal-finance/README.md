@@ -12,9 +12,7 @@ Gusto
 
 [My Personal Finance bookshelf on GoodReads](https://www.goodreads.com/review/list/9682365-nathan?shelf=personal-finance)
 
-[Oxygen](https://oxygenbank.com/) - "We’re Oxygen: the fresh new bank account for free thinkers, rebels and entrepreneurs. Awarded Best Digital Banking Account\* in the US, we look after people who want to rise above. Yes, we’re looking at you."
-
-[Simple](https://www.simple.com/) - "Bank, budget and earn 25x the national average."
+{% embed url="https://Simple.com" %}
 
 [Two Dollar Eats](https://twodollareats.com/) - "Love your taste buds and your wallet! At Two Dollar Eats, our main goal is to save you money. We strive to provide you recipes that cost about $2 per serving, allowing you to eat delicious food while not breaking the bank!"
 
