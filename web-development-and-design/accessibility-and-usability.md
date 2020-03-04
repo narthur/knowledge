@@ -8,6 +8,8 @@
 
 [A11Y Style Guide](http://a11y-style-guide.com/style-guide/)
 
+[axe ](https://www.deque.com/axe/)- "Accessibility for Development Teams. Start building accessibility into your dev process today."
+
 [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y)
 
 [Calculating Color Contrast](https://24ways.org/2010/calculating-color-contrast/) \#article - “Some websites and services allow you to customize your profile by uploading pictures, changing the background color or other aspects of the design. As a customer, this personalization turns a web app into your little nest where you store your data. As a designer, letting your customers have free rein over the layout and design is a scary prospect. So what happens to all the stock text and images that are designed to work on nice white backgrounds? Even the Mac only lets you choose between two colors for the OS, blue or graphite! Opening up the ability to customize your site’s color scheme can be a recipe for disaster unless you are flexible and understand how to find maximum color contrasts.” \#javascript \#php \#color \#accessibility
@@ -41,6 +43,8 @@
 [Hostile Design](https://hostiledesign.org/) - “Hostile designs are designs against humanity. They are made specifically to exclude, harm or otherwise hinder the freedom of a human being. Quite often they aim to remove a certain section of a community from a public space.”
 
 [HTML5 Accessibility](http://www.html5accessibility.com/)
+
+[HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/) \#article - "I’m going to start rounding up those HTML shortfalls in this here post as a little living document that I can personally reference every time I write some HTML."
 
 [Inclusive Components](https://inclusive-components.design/)  - "A blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece."
 

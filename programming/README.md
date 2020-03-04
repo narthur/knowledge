@@ -26,6 +26,10 @@
 
 “Show a man a program and frustrate him for a day. Teach a man to program and you frustrate him for a lifetime” \(via [phi's forum profile](https://forum.beeminder.com/u/phi/summary)\).
 
+[Spectrum](https://spectrum.chat/) - "Spectrum makes it easy to grow safe, successful online communities that are built to last." Has a lot of developer communities.
+
+[WakaTime ](https://wakatime.com/)- "The developer dashboard. Open source editor plugins for metrics about your programming."
+
 [Why My Teenage Code Was Terrible: Sorting Algorithms and Big O Notation](https://invidio.us/watch?v=RGuJga2Gl_k) \#video - "When I was a teenager, I wrote some terrible code. Here's why." \#algorithms
 
 ## Abstract Syntax Trees
@@ -102,11 +106,17 @@ Google Cloud Platform
 
 [Devchat.tv](https://devchat.tv/)
 
+[Dev.to](https://dev.to/) - "DEV is a community of software developers getting together to help one another out. The software industry relies on collaboration and networked learning. We provide a place for that to happen."
+
+[DevTube](https://dev.tube/)
+
 [Martin Fowler](https://martinfowler.com/) - "Software development is a young profession, and we are still learning the techniques and building the tools to do it effectively. I've been involved in this activity for over three decades and in the last two I've been writing on this website about patterns and practices that make it easier to build useful software. The site began as a place to put my own writing, but I also use it to publish articles by my colleagues."
 
 [Robert Heaton](https://robertheaton.com) \#blog
 
 Robert Martin \#article - [Blog](http://blog.cleancoder.com/). "**Robert Cecil Martin**, colloquially known as "Uncle Bob",[\[2\]](https://en.wikipedia.org/wiki/Robert_C._Martin#cite_note-rcm-informit-2) is an American [software engineer](https://en.wikipedia.org/wiki/Software_engineer) and instructor. He is best known for being one of the authors of the [Agile Manifesto](https://en.wikipedia.org/wiki/Agile_Manifesto)[\[3\]](https://en.wikipedia.org/wiki/Robert_C._Martin#cite_note-rcm-laplante-3)[\[4\]](https://en.wikipedia.org/wiki/Robert_C._Martin#cite_note-rcm-manifesto-4) and for developing several software design principles. He was also the editor-in-chief of [C++ Report](https://en.wikipedia.org/wiki/C%2B%2B_Report) magazine and served as the first chairman of the Agile Alliance" \([Wikipedia](https://en.wikipedia.org/wiki/Robert_C._Martin)\).
+
+[Software Engineering Daily](https://softwareengineeringdaily.com/) \#podcast - "The World Through the Lens of Software"
 
 [ThoughtWorks Insights](https://www.thoughtworks.com/insights) \#blog
 
