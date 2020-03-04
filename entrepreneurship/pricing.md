@@ -2,6 +2,8 @@
 
 [How to figure out the best pricing for your SaaS](https://www.indiehackers.com/@bsears/how-to-figure-out-the-best-pricing-for-your-saas-2f6b4249b6) \#article - "You just finished building your MVP. Now you’re looking to launch and start getting paying customers. The problem is, you have no idea how you should be pricing your product."
 
+[Price Intelligently](https://www.priceintelligently.com/blog) \#blog
+
 [Pricing low-touch SaaS](https://stripe.com/en-ch/atlas/guides/saas-pricing) \#article - "How to approach pricing and packaging a new SaaS app, by example."
 
 ## Pay What You Want
