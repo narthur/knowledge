@@ -26,8 +26,6 @@
 
 [GitLab Handbook](https://about.gitlab.com/handbook/) - " The GitLab team handbook is the central repository for how we run the company. Printed, it consists of over [3,000 pages of text](https://about.gitlab.com/handbook/about/#count-handbook-pages). As part of our value of being transparent the handbook is [open to the world](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/handbook), and we welcome feedback. Please make a [merge request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests) to suggest improvements or add clarifications. Please use [issues](https://gitlab.com/gitlab-com/www-gitlab-com/issues) to ask questions."
 
-[Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart's_law) \#article - "**Goodhart's law** is an [adage](https://en.wikipedia.org/wiki/Adage) named after economist [Charles Goodhart](https://en.wikipedia.org/wiki/Charles_Goodhart), which has been phrased by [Marilyn Strathern](https://en.wikipedia.org/wiki/Marilyn_Strathern) as "When a measure becomes a target, it ceases to be a good measure."[\[1\]](https://en.wikipedia.org/wiki/Goodhart's_law#cite_note-1) One way in which this can occur is individuals trying to anticipate the effect of a [policy](https://en.wikipedia.org/wiki/Policy) and then taking actions that alter its outcome.[\[2\]](https://en.wikipedia.org/wiki/Goodhart's_law#cite_note-2)"
-
 [HelpSpace](https://helpspace.io/) - "Simplify Your Customer Support. All your emails and messages in one place."
 
 [How Your To-Do List is Killing Your Productivity - Dan Lok](https://www.youtube.com/watch?v=HGk3tmodKDE) \#video - Delegate as much as possible, identify the 5 most import things to accomplish today, complete them, and then spend the rest of your time to think and strategize. Avoid the cult of busy. You can't do quality thinking when you're always busy and always running.
@@ -75,6 +73,12 @@
 [Gusto](https://gusto.com/product/payroll) - "Payroll made easy. See why Gusto is simply the best online payroll"
 
 [Mercury](https://mercury.co) - "Banking built for startups. Mercury makes bank accounts that help tech companies scale.
+
+## Management
+
+[Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart's_law) \#article - "**Goodhart's law** is an [adage](https://en.wikipedia.org/wiki/Adage) named after economist [Charles Goodhart](https://en.wikipedia.org/wiki/Charles_Goodhart), which has been phrased by [Marilyn Strathern](https://en.wikipedia.org/wiki/Marilyn_Strathern) as "When a measure becomes a target, it ceases to be a good measure."[\[1\]](https://en.wikipedia.org/wiki/Goodhart's_law#cite_note-1) One way in which this can occur is individuals trying to anticipate the effect of a [policy](https://en.wikipedia.org/wiki/Policy) and then taking actions that alter its outcome.[\[2\]](https://en.wikipedia.org/wiki/Goodhart's_law#cite_note-2)"
+
+[Responsibility assignment matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) \#article - "A **responsibility assignment matrix**[\[1\]](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix#cite_note-pmbok-1) \(**RAM**\), also known as **RACI matrix**[\[2\]](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix#cite_note-2) \([/ˈreɪsi/](https://en.wikipedia.org/wiki/Help:IPA/English)\) or **linear responsibility chart**[\[3\]](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix#cite_note-3) \(**LRC**\), describes the participation by various [roles](https://en.wikipedia.org/wiki/Role) in completing [tasks](https://en.wikipedia.org/wiki/Task_%28project_management%29) or [deliverables](https://en.wikipedia.org/wiki/Deliverable) for a [project](https://en.wikipedia.org/wiki/Project) or [business process](https://en.wikipedia.org/wiki/Business_process). RACI is an [acronym](https://en.wikipedia.org/wiki/Acronym) derived from the four key responsibilities most typically used: Responsible, Accountable, Consulted, and Informed.[\[4\]](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix#cite_note-slaguide-4) It is used for clarifying and defining roles and responsibilities in cross-functional or departmental projects and processes.[\[5\]](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix#cite_note-babok-5) There are a number of alternatives to the RACI model."
 
 ## Open Startup Movement
 

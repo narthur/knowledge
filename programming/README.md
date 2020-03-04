@@ -26,8 +26,6 @@
 
 “Show a man a program and frustrate him for a day. Teach a man to program and you frustrate him for a lifetime” \(via [phi's forum profile](https://forum.beeminder.com/u/phi/summary)\).
 
-[Spectrum](https://spectrum.chat/) - "Spectrum makes it easy to grow safe, successful online communities that are built to last." Has a lot of developer communities.
-
 [WakaTime ](https://wakatime.com/)- "The developer dashboard. Open source editor plugins for metrics about your programming."
 
 [Why My Teenage Code Was Terrible: Sorting Algorithms and Big O Notation](https://invidio.us/watch?v=RGuJga2Gl_k) \#video - "When I was a teenager, I wrote some terrible code. Here's why." \#algorithms
@@ -62,6 +60,16 @@ Amazon Web Services
 
 Google Cloud Platform
 
+## Community
+
+[IndieHackers](https://www.indiehackers.com/) - "Learn from the founders behind hundreds of profitable online businesses, and connect with others who are starting and growing their own companies."
+
+[Makerlog](https://getmakerlog.com/) - "The home of the maker community. Makerlog is where 4,000+ indie hackers & makers get things done together."
+
+[Spectrum](https://spectrum.chat/) - "Spectrum makes it easy to grow safe, successful online communities that are built to last." Has a lot of developer communities.
+
+[WIP](https://wip.chat/?page=4) - "We are a community of makers"
+
 ## Refactoring
 
 [Refactoring.com](https://www.refactoring.com/) - "**Refactoring** is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior."
@@ -69,6 +77,8 @@ Google Cloud Platform
 [Refactoring Guru](https://refactoring.guru/) - "**Refactoring.Guru** makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles and other smart programming topics."
 
 [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/book/show/44936.Refactoring) \#book
+
+[Sourcegraph](https://about.sourcegraph.com/) - "Explore, navigate, and better understand all code, everywhere, faster. **Sourcegraph Universal Code Search** provides [code discovery](https://about.sourcegraph.com/product/code-discovery), [code intelligence](https://about.sourcegraph.com/product/code-intelligence), and [code change management](https://about.sourcegraph.com/product/code-change-management)."
 
 [Testing Legacy Code Elliotte by Rusty Harold](https://www.youtube.com/watch?v=cjxXv0eifhY) \#video - "You've been bitten by the testing bug, are thoroughly test infected. Excellent! You're undoubtedly producing more robust, less buggy software faster and at lower cost. Sadly, it wasn't always this way. You're saddled with a large legacy of untested code. Test first development is not an option. Nonetheless unit testing, JUnit, and test driven development can still dramatically improve your maintenance tasks. Learn strategies for retrofitting test frameworks onto existing code, and developing a test suite for code that never had one before."
 

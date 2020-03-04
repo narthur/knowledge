@@ -162,8 +162,6 @@ VeggieIpsum
 
 [CSS-Tricks](https://css-tricks.com/) - "CSS-Tricks is created, written by, and maintained by [Chris Coyier](https://chriscoyier.net/) and [a team](https://css-tricks.com/about/) of swell people. It is built on WordPress and powered up by [Jetpack](https://css-tricks.com/jetpack/). It is made possible through [sponsorships](https://css-tricks.com/advertising/) from products and services we like."
 
-[Dave Rupert](https://daverupert.com/) - "I'm Dave Rupert, lead developer at [Paravel](http://paravelinc.com/), co-host of [ShopTalk](https://shoptalkshow.com/), dad, and Aarakocran bard."
-
 [Facebook Open Source](https://opensource.facebook.com/) - "Building community through open source technology"
 
 [Jake Archibald wrote...](https://jakearchibald.com/) \#blog - "Hello, I’m Jake and that is my face. I’m a developer advocate for Google Chrome."
