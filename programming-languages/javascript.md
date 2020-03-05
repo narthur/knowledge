@@ -59,3 +59,5 @@ console.log(found);
 
 [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) \#channel - "I’m Mattias Petter Johansson, mpj for short. I’ve been a full-time programmer for about ten years. Among others, I've worked for Absolut Vodka, Blackberry and Spotify."
 
+[JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA) \#channel - "The JSConf YouTube Channel. JSConf is a series of JavaScript conferences from around the world and here we release the conference talk videos for free as fast as we can after every event. Topics include JavaScript, HTML5, CSS, node.js, robotics, etc."
+
