@@ -1,5 +1,9 @@
 # Software Development
 
+Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference \#book
+
+Think Bayes: Bayesian Statistics in Python \#book
+
 [Biggest Challenge You'll Face Learning to Code \(Plus How to Overcome It!\)](https://www.youtube.com/watch?v=B-sh_ncnDUE) \#video - "Learning any new skill is challenging and I've definitely noticed a recurring theme that most everybody faces: how to stay motivated when progress seems to be non-existent \(also know as the intermediate plateau\). There's is no easy answer or magic pill but I definitely laid out a few pieces of advice of how to overcome it."
 
 [CONTINUOUS INTEGRATION](https://www.thoughtworks.com/continuous-integration) - "Continuous Integration \(CI\) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early. ❡ By integrating regularly, you can detect errors quickly, and locate them more easily."
@@ -92,7 +96,7 @@ StackOverflow
 
 ## Refactoring
 
-[Approval Tests](https://approvaltests.com/) - "Unit testing asserts can be difficult to use. Approval tests simplify this by taking a snapshot of the results, and confirming that they have not changed." [GitHub](https://github.com/approvals)
+[Approval Tests](https://app.gitbook.com/@narthur/s/knowledge/programming/testing) - Internal link. See subheading.
 
 [davelosert](https://github.com/davelosert)/[clean-code-kata](https://github.com/davelosert/clean-code-kata) - "A little Kata to practice clean code"
 

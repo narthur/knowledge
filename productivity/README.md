@@ -67,6 +67,8 @@ Tools I've used in the past:
 
 ### Communication
 
+[https://www.admonymous.co/](https://www.admonymous.co/)
+
 [Juicy Mail](https://www.juicymail.co/) - "Introducing the next generation email experience"
 
 [Slack Is Not Where 'Deep Work' Happens](https://blog.nuclino.com/slack-is-not-where-deep-work-happens?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) \#article

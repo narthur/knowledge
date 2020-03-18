@@ -1,6 +1,10 @@
 # Rationality
 
+[Bayesian Inference](https://seeing-theory.brown.edu/bayesian-inference/index.html)
+
 [Farnam Street](https://fs.blog/) - "**Farnam Street** \(FS\) helps you master the best of what other people have already figured out. Together we will develop the [mental models](https://fs.blog/mental-models/) to understand how the world works, make better decisions, and live a more meaningful life."
+
+[How to become a Bayesian in eight easy steps: An annotated reading list](https://link.springer.com/article/10.3758/s13423-017-1317-5) \#article
 
 [Is Most Published Research Wrong?](https://www.youtube.com/watch?v=42QuXLucH3Q) \#video - "Mounting evidence suggests a lot of published research is false."
 

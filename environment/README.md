@@ -14,8 +14,6 @@
 
 [Scientists really aren’t the best champions of climate science](https://www.youtube.com/watch?v=-qfI3DZmmQw&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video - "Facts and data alone won’t inspire people to take action in the fight against global warming. So what will?"
 
-[Trees.org](https://trees.org/) - "We aren’t just planting trees. We’re changing lives through regenerative agriculture."
-
 [Why the ocean is getting louder](https://www.youtube.com/watch?v=CrpkZkwTvu0&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video - "What the world sounds like underwater."
 
 [The World In 2050 \[The Real Future Of Earth\] – Full BBC Documentary 2018](https://www.youtube.com/watch?v=XeEYaX82jSE&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video - "Can you imagine our world in 2050? By mid-century there will likely be 9 billion people on the planet, consuming ever more resources and leading ever more technologically complex lives. What will our cities be like? How will we eat in the future of Earth? Will global warming trigger catastrophic changes, or will we be able to engineer our way out of the world climate crisis?"

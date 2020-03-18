@@ -22,8 +22,6 @@
 
 [The Haystack](https://www.thehaystack.org/) - "Encouraging conversations and creative thinking for Millennials of the Christian Church."
 
-[InVerse](https://www.hopetv.org/inverse) - "InVerse approaches Bible study with warm humor, practical intelligence, simple application, and authentic conversation."
-
 [Office of Archives, Statistics, and Research](https://www.adventistarchives.org/) - "ASTR brings together the Seventh-day Adventist Church’s past and present in order to inspire for the future"
 
 [Restoration International](https://www.youtube.com/c/RestorationInternational) \#channel - "Restoring individuals, marriages, and families to God since 1989."

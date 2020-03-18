@@ -9,6 +9,8 @@
 
 ## **Approval Tests**
 
+[Approval Testing: Agile Testing that Scales](http://www.methodsandtools.com/archive/approvaltest.php) ****\#article - "Tests are a form of the [specification of the software](https://en.wikipedia.org/wiki/Specification_by_example). That is why, in an agile world where software never "stabilizes", tests can quickly move from being a pillar of quality to a burden and hindrance to change. Approval Testing mitigates this risk by removing the need for explicit assertions and instead managing changes to the system behaviour. Read this article to find out how it can help you 1\) create automated tests more quickly ;2\) have them test more thoroughly and 3\) have them adapt much more easily than you ever thought was possible, also when a large amount of functionality is under test."
+
 [Approval Tests](https://approvaltests.com/) - "Unit testing asserts can be difficult to use. Approval tests simplify this by taking a snapshot of the results, and confirming that they have not changed." [GitHub](https://github.com/approvals)
 
 [ApprovalTests.Python](https://github.com/approvals/ApprovalTests.Python) - "ApprovalTests for python"
