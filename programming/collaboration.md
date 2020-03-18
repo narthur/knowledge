@@ -10,6 +10,8 @@
 
 [Dimer](https://dimerapp.com) - “Simplest way to publish docs. Dimer generates a clean and beautiful documentation website from Markdown.” $15 / site / month.
 
+[EditorConfig](https://editorconfig.org/) - "EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs. The EditorConfig project consists of **a file format** for defining coding styles and a collection of **text editor plugins** that enable editors to read the file format and adhere to defined styles. EditorConfig files are easily readable and they work nicely with version control systems."
+
 [FogBugz](https://www.fogbugz.com/index.html) - "The best project management system for your team. FogBugz project management software helps you spend less time on managing, and more on creating your digital masterpiece. Align your team under a common purpose that allows you to plan, track and release great software." Evidence-based scheduling built in.
 
 [Getting Remote Critique Right](https://medium.com/building-creative-market/getting-remote-critique-right-fc458577a8f4) \#article - “Remote work brings with it some challenges that need careful pruning to create a successful and happy team. One of the first things that comes to mind is critique, a daunting task when in the same room as people, let alone hundreds or thousands of miles away from one another.”

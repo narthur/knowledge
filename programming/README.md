@@ -16,6 +16,8 @@
 
 [Hyper](https://hyper.is/) \#software - "The goal of the project is to create a beautiful and extensible experience for command-line interface users, built on open web standards. In the beginning, our focus will be primarily around speed, stability and the development of the correct API for extension authors."
 
+[Increment](https://increment.com/) - "Increment is a print and digital magazine about how teams build and operate software systems at scale."
+
 [Lepton](https://hackjutsu.com/Lepton/) \#software  - "A Lean GitHub Gist Client"
 
 [Lobsters](https://lobste.rs/) - "Lobsters is a computing-focused community centered around link aggregation and discussion, launched on July 1st, 2012. The administrator is [Peter Bhat Harkins](https://lobste.rs/u/pushcx) \("pushcx"\), contact him with any support issues. Lobsters was created by [joshua stein](https://lobste.rs/u/jcs) with some specific design goals in mind to avoid problems faced by other link aggregation sites." [Site code on GitHub](https://github.com/lobsters/lobsters).
