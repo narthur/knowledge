@@ -4,3 +4,7 @@
 
 [Why TRUE + TRUE = 2: Data Types](https://www.youtube.com/watch?v=6otW6OXjR8c) \#video - "INT, BOOLEAN, STRING and FLOAT: these are the things that data is made of."
 
+## Haskell
+
+[diagrams](https://diagrams.github.io/) - "**diagrams** is a _powerful_, _flexible_, _declarative_ domain-specific language for creating vector graphics, using the [Haskell programming language](http://haskell.org/)." [Tutorials](https://diagrams.github.io/tutorials.html). [Gallery](https://diagrams.github.io/gallery.html).
+

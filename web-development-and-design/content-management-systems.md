@@ -32,5 +32,3 @@
 
 [WordPress.com](https://wordpress.com/) - Hosted WordPress service. "Build a website, build a movement. Whatever you want to create, share, or sell, we’ll help you do it right here."
 
-[WP Rig](https://wprig.io/) - "WP Rig is a modern WordPress starter theme and build process bundled into one convenient package. It helps you create beautiful, lightning-fast WordPress themes with exciting user experiences that meet the latest web standards. You write modern PHP, CSS, and JavaScript, WP Rig lints, optimizes, and minifies your code to make the theme–and the site it runs on–as performant as possible."
-

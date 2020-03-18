@@ -30,6 +30,8 @@
 
 [Nuclino](https://www.nuclino.com/) "Meet your team's collective brain. Nuclino brings all your team's knowledge, docs, and projects together in one place."
 
+[The Prime Directive](http://www.retrospectivewiki.org/index.php?title=The_Prime_Directive) \#quote - "Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand."
+
 [Recordit](https://recordit.co/) \#software - "Fast Screenshots"
 
 [Ship](https://www.realartists.com/) - “Fast, native, comprehensive issue tracking and code review for GitHub.” Free for public repositories.
@@ -67,6 +69,12 @@ Google Hangouts
 [Tuple](https://tuple.app/) - "The best remote pair programming experience on macOS. Because we programmers deserve better than a generic screen sharing tool"
 
 [Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/) - “Real-time collaborative development”
+
+### Mob Programming
+
+[Mob programming](https://en.wikipedia.org/wiki/Mob_programming) \#article - Wikipedia. "**Mob programming** \(informally **mobbing**\) is a software development approach where the whole team works on the same thing, at the same time, in the same space, and at the same computer. This is similar to [pair programming](https://en.wikipedia.org/wiki/Pair_programming) where two people sit at the same computer and collaborate on the same code at the same time. With mob programming, the collaboration is extended to everyone on the team, while still using a single computer for writing the code and inputting it into the code base.[\[1\]](https://en.wikipedia.org/wiki/Mob_programming#cite_note-1)"
+
+[What is Mob Programming?](https://www.agilealliance.org/glossary/mob-programming/#q=~%28infinite~true~filters~%28postType~%28~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video%29~tags~%28~'mob*20programming%29%29~searchTerm~'~sort~false~sortDirection~'asc~page~1%29) \#article - "Mob Programming is a software development approach where the whole team works on the same thing, at the same time, in the same space, and at the same computer. This extends the concept of [pair programming](https://www.agilealliance.org/glossary/pairing/) from two people working together to the entire team continuously collaborating at a single computer to deliver a single work item at a time."
 
 ## **Trello**
 
