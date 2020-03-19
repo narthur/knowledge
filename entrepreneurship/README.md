@@ -72,6 +72,8 @@
 
 [Gusto](https://gusto.com/product/payroll) - "Payroll made easy. See why Gusto is simply the best online payroll"
 
+[How to Keep Your Side Hustle From Messing Up Your Taxes](https://www.daveramsey.com/blog/side-hustle-taxes?utm_source=cnl&utm_medium=email&utm_content=3.15_cnl_blog_elp_tax_control&utm_term=elp_bu&utm_campaign=cnl_newsletter&utm_id=cnl_newsletter&cd17=B2C_DR_CNL_DRCOM-6654_SegE_CNL_200315&email_id=3135022) \#article
+
 [Mercury](https://mercury.co) - "Banking built for startups. Mercury makes bank accounts that help tech companies scale.
 
 ## Management

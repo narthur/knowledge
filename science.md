@@ -8,6 +8,8 @@
 
 [Is Most Published Research Wrong?](https://www.youtube.com/watch?v=42QuXLucH3Q) \#video - "Mounting evidence suggests a lot of published research is false."
 
+[Jupyter](https://jupyter.org/)
+
 [Quanta Magazine](https://www.quantamagazine.org/) - "Illuminating basic science and math research through public service journalism."
 
 [Zooniverse](https://www.zooniverse.org/) - "People-powered research"

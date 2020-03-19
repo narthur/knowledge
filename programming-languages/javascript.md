@@ -37,6 +37,10 @@ console.log(found);
 
 [js2coffee](http://js2.coffee/) \#webapp - "JavaScript to CoffeeScript compiler."
 
+[Reactiflux](https://www.reactiflux.com/) - "We’re a chat community of 80,000+ React JS, React Native, Redux, Jest, Relay and GraphQL developers. We hold Q&A’s with Facebook Engineers and other developers in the community. Come chat about tech related to React & JavaScript or ask for help!"
+
+[React Native](https://reactnative.dev/) - "Learn once, write anywhere."
+
 [StateOfJS](https://stateofjs.com/) - Yearly surveys on the JavaScript ecosystem
 
 [The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4&list=PLIilwIraDV2J8hueIWIwvkT3NvfuSChe7&index=3&t=11s) \#video - "The history of JavaScript over the last 25 years. How did a simple scripting language for Netscape evolve into the world's most widely used programming language?"

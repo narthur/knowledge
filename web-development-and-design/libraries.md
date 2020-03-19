@@ -60,31 +60,6 @@
 
 [Select2](https://select2.org/) - “The jQuery replacement for select boxes. Select2 gives you a customizable select box with support for searching, tagging, remote data sets, infinite scrolling, and many other highly used options.”
 
-## Identicons
-
-[https://kawaii-avatar.now.sh/](https://kawaii-avatar.now.sh/)  
-[https://github.com/DannyBen/icodi](https://github.com/DannyBen/icodi)  
-[https://github.blog/2013-08-14-identicons/](https://github.blog/2013-08-14-identicons/)  
-[https://en.wikipedia.org/wiki/Identicon](https://en.wikipedia.org/wiki/Identicon)  
-[https://blog.docuverse.com/tag/identicon/](https://blog.docuverse.com/tag/identicon/)  
-[https://github.com/PauloMigAlmeida/identicon](https://github.com/PauloMigAlmeida/identicon)  
-[https://haacked.com/archive/2007/01/22/Identicons\_as\_Visual\_Fingerprints.aspx/](https://haacked.com/archive/2007/01/22/Identicons_as_Visual_Fingerprints.aspx/)  
-[https://sourceforge.net/projects/identicons/](https://sourceforge.net/projects/identicons/)  
-[https://github.com/donpark/identicon](https://github.com/donpark/identicon)  
-[https://web.archive.org/web/20150120215011/http://identicon.riaforge.org/](https://web.archive.org/web/20150120215011/http://identicon.riaforge.org/)  
-[https://github.com/cupcake/sigil](https://github.com/cupcake/sigil)  
-[https://github.com/RobThree/NIdenticon](https://github.com/RobThree/NIdenticon)  
-[https://www.idbloc.co/blog/product/update/2019/05/09/toggles-identicons-and-beauty.html\#identicons-what-are-those](https://www.idbloc.co/blog/product/update/2019/05/09/toggles-identicons-and-beauty.html#identicons-what-are-those)  
-[https://en.gravatar.com/](https://en.gravatar.com/)  
-[https://github.com/elierotenberg/react-identicon](https://github.com/elierotenberg/react-identicon)  
-[https://cnpmjs.org/package/@polkadot/react-identicon/v/0.43.0-beta.1](https://cnpmjs.org/package/@polkadot/react-identicon/v/0.43.0-beta.1)  
-[https://github.com/ruchevits/react-identity-icon](https://github.com/ruchevits/react-identity-icon)  
-[https://github.com/polkawallet-io/polkadot-identicon-react-native](https://github.com/polkawallet-io/polkadot-identicon-react-native)  
-[https://github.com/topics/identicon?o=asc&s=stars](https://github.com/topics/identicon?o=asc&s=stars)  
-[https://github.com/austintgriffith/react-blockies-image](https://github.com/austintgriffith/react-blockies-image)  
-[https://github.com/AugurProject/react-blockies](https://github.com/AugurProject/react-blockies)  
-[https://github.com/ethereum/blockies](https://github.com/ethereum/blockies)
-
 ## Image Manipulation
 
 [Filestack](https://www.filestack.com/) - "The File Handling Service for Developers. Powerful APIs that allow you to upload, transform and deliver any file into your app."

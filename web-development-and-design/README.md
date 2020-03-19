@@ -10,6 +10,8 @@
 
 [HTTP Status Codes](https://httpstatuses.com/) - "httpstatuses.com is an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place. Visit an individual status code via `httpstatuses.com/code` or browse the list below."
 
+[Jinja live parser](https://cryptic-cliffs-32040.herokuapp.com/) - online Jinja2 sandbox
+
 [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) \#extension - "Makes JSON easy to read. Open source." [GitHub](https://github.com/callumlocke/json-formatter). \#chrome
 
 [Landbot.io](https://landbot.io/) - "Hey! 👋 My name is Landbot and I transform websites into Conversational Experiences."
@@ -81,6 +83,20 @@
 [Sapper](https://sapper.svelte.dev/) - "The next small thing in web development. Sapper is a framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing. ❡ Unlike single-page apps, Sapper doesn't compromise on SEO, progressive enhancement or the initial load experience — but unlike traditional server-rendered apps, navigation is instantaneous for that app-like feel."
 
 [Svelte](https://svelte.dev/) - "Cybernetically enhanced web apps. Svelte is a radical new approach to building user interfaces. Whereas traditional frameworks like React and Vue do the bulk of their work in the _browser_, Svelte shifts that work into a _compile step_ that happens when you build your app. ❡ Instead of using techniques like virtual DOM diffing, Svelte writes code that surgically updates the DOM when the state of your app changes."
+
+ [https://stenciljs.com/](https://stenciljs.com/)  
+[https://glimmerjs.com/](https://glimmerjs.com/)  
+[https://markojs.com/](https://markojs.com/)  
+[https://github.com/adamsanderson/ivy](https://github.com/adamsanderson/ivy)
+
+### React
+
+{% embed url="https://github.com/oayres/react-ssr" %}
+
+{% embed url="https://preactjs.com/" %}
+
+ [https://react-next.com/](https://react-next.com/)  
+[https://nextjs.org/](https://nextjs.org/)
 
 ## No Code Movement
 

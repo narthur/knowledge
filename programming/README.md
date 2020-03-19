@@ -1,9 +1,5 @@
 # Software Development
 
-Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference \#book
-
-Think Bayes: Bayesian Statistics in Python \#book
-
 [Biggest Challenge You'll Face Learning to Code \(Plus How to Overcome It!\)](https://www.youtube.com/watch?v=B-sh_ncnDUE) \#video - "Learning any new skill is challenging and I've definitely noticed a recurring theme that most everybody faces: how to stay motivated when progress seems to be non-existent \(also know as the intermediate plateau\). There's is no easy answer or magic pill but I definitely laid out a few pieces of advice of how to overcome it."
 
 [CONTINUOUS INTEGRATION](https://www.thoughtworks.com/continuous-integration) - "Continuous Integration \(CI\) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early. ❡ By integrating regularly, you can detect errors quickly, and locate them more easily."
@@ -19,8 +15,6 @@ Think Bayes: Bayesian Statistics in Python \#book
 [How to write Pseudocode: A beginner’s guide](https://blog.usejournal.com/how-to-write-pseudocode-a-beginners-guide-29956242698) \#article - "Pseudocode is an informal high-level description of a computer program or algorithm. It is written in symbolic code which must be translated into a programming language before it can be executed."
 
 [Hyper](https://hyper.is/) \#software - "The goal of the project is to create a beautiful and extensible experience for command-line interface users, built on open web standards. In the beginning, our focus will be primarily around speed, stability and the development of the correct API for extension authors."
-
-[Increment](https://increment.com/) - "Increment is a print and digital magazine about how teams build and operate software systems at scale."
 
 [Lepton](https://hackjutsu.com/Lepton/) \#software  - "A Lean GitHub Gist Client"
 
@@ -76,37 +70,7 @@ Google Cloud Platform
 
 [WIP](https://wip.chat/?page=4) - "We are a community of makers"
 
-## Deep Work
-
-Build in public
-
-[CodeKata](http://codekata.com/) - "Code Kata is an attempt to bring this element of practice to software development. A kata is an exercise in karate where you repeat a form many, many times, making little improvements in each. The intent behind code kata is similar. Each is a short exercise \(perhaps 30 minutes to an hour long\). Some involve programming, and can be coded in many different ways. Some are open ended, and involve thinking about the issues behind programming. These are unlikely to have a single correct answer. I add a new kata every week or so. Invest some time in your craft and try them."
-
-[CodeWars](https://www.codewars.com/) - "Improve your skills by training with others on real code challenges"
-
-Deliberate practice
-
-[Kata \(programming\)](https://en.wikipedia.org/wiki/Kata_%28programming%29) \#article - Wikipedia.
-
-Project Euler
-
-StackOverflow
-
-[The Ultimate Code Kata](https://blog.codinghorror.com/the-ultimate-code-kata/) \#article - "Effortful study means constantly tackling problems at the very edge of your ability. Stuff you may have a high probability of failing at. Unless you're [failing some of the time](http://www.codinghorror.com/blog/archives/000300.html), you're probably not growing professionally. You have to seek out those challenges and push yourself beyond your comfort limit." \#deep\_work
-
 ## Refactoring
-
-[Approval Tests](https://app.gitbook.com/@narthur/s/knowledge/programming/testing) - Internal link. See subheading.
-
-[davelosert](https://github.com/davelosert)/[clean-code-kata](https://github.com/davelosert/clean-code-kata) - "A little Kata to practice clean code"
-
-[emilybache](https://github.com/emilybache)/[GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) - "Starting code for the GildedRose Refactoring Kata in many programming languages."
-
-[Legacy Code Rocks](https://www.legacycode.rocks/) - "Menders love fixing bugs, refactoring, and testing to make software applications more stable, scalable and secure."
-
-[Read by Refactoring](https://www.jamasoftware.com/blog/read-by-refactoring/) \#article - "Read by Refactoring is a technique discussed and taught by Arlo Belshee [\(@arlobelshee](https://twitter.com/arlobelshee)\) at [Industrial Logic](https://www.industriallogic.com/). Using this technique, reading code – to figure out what it does, to estimate the effort to modify it, etc. – turns into active refactoring of the code. You read the code by modifying it, nudging it into a clearer, more readable state. The key is you are leveraging your IDE’s built in refactoring functions and mastering the keyboard shortcuts in such a way that your insights of how the code can be improved translate immediately into modification of the code. I’m typing this sentence with no conscious decision of what key to hit or even any thought to commanding my fingers where to go on the keyboard, but the words I think nevertheless appear on the screen. You want to get your mastery of your refactoring tools to the same unconscious, effortless state."
-
-Read by Refactoring [part 1](https://bambielli.com/posts/2016-08-21-read-by-refactoring/) and [part 2](https://bambielli.com/posts/2017-02-26-read-by-refactoring-pt-2/) \#article - "Last week I went to a workshop at Expedia called _**Read by Refactoring**_ where we learned a methodology for reading legacy code and making it better in the process."
 
 [Refactoring.com](https://www.refactoring.com/) - "**Refactoring** is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior."
 
