@@ -65,18 +65,6 @@ Tools I've used in the past:
 
 [yEd](https://www.yworks.com/products/yed) \#software - "yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams. Create diagrams manually, or import your external data for analysis. Our automatic layout algorithms arrange even large data sets with just the press of a button."
 
-### Communication
-
-[https://www.admonymous.co/](https://www.admonymous.co/)
-
-[Juicy Mail](https://www.juicymail.co/) - "Introducing the next generation email experience"
-
-[Slack Is Not Where 'Deep Work' Happens](https://blog.nuclino.com/slack-is-not-where-deep-work-happens?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) \#article
-
-[Spark](https://sparkmailapp.com/) \#software \#app - "The best personal email client. Revolutionary email for teams."
-
-[Spectrum](https://spectrum.chat/) - "Spectrum makes it easy to grow safe, successful online communities that are built to last."
-
 ### Self-Care
 
 ![https://twitter.com/buttpoems/status/1213296913006465025?s=09](../.gitbook/assets/enz_hb-u0aeucfx.jpg)

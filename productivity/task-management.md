@@ -16,6 +16,8 @@
 
 [MyLifeOrganized](https://www.mylifeorganized.net/) \#software - "The Most Flexible Task Management Tool"
 
+[OmniFocus](https://www.omnigroup.com/omnifocus)
+
 [TickTick](https://www.ticktick.com/) \#software - "Join millions of people to capture ideas, organize life, and do something creative everyday."
 
 ## Autofocus
