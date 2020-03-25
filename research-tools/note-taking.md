@@ -1,6 +1,6 @@
 # Note Taking
 
-[Drafts](https://getdrafts.com/) - "Where Text Starts"
+[Drafts](https://getdrafts.com/) - "Where Text Starts." Mac and iOS.
 
 [Roam Research](https://roamresearch.com/) \#webapp - "A note-taking tool for networked thought. As easy to use as a document. As powerful as a graph database. Roam helps you organize your research for the long haul."
 
