@@ -24,6 +24,8 @@
 
 [Glo Boards](https://www.gitkraken.com/glo) \#webapp - “See how our issue board helps developers with task tracking!”
 
+[Kaleidoscope](https://www.kaleidoscopeapp.com/) \#software - "Kaleidoscope is the world’s most powerful file comparison app. Compare different text files, images, and folders on your Mac and iPad. Review and merge changes in a matter of seconds \(merging available only on the Mac\)."
+
 [Linear](https://linear.app/) \#software - "The issue tracking tool you'll enjoy using. Linear lets you manage software development and track bugs. Linear's streamlined design is built for speed and efficiency — helping high performing teams accomplish great things."
 
 [Makandracards](https://makandracards.com/) \#webapp - “Your agile knowledge collaboration tool”

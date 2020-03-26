@@ -20,6 +20,8 @@
 
 [TickTick](https://www.ticktick.com/) \#software - "Join millions of people to capture ideas, organize life, and do something creative everyday."
 
+[Whimsical](https://whimsical.com/) \#webapp - "Communicate visually at the speed of thought."
+
 ## Autofocus
 
 [The Autofocus Time Management System](http://markforster.squarespace.com/autofocus-system/) \#article \#video - "The system consists of one long list of everything that you have to do, written in a ruled notebook \(25-35 lines to a page ideal\). As you think of new items, add them to the end of the list. You work through the list one page at a time in the following manner..."

@@ -6,6 +6,8 @@
 
 [Spectrum](https://spectrum.chat/) - "Spectrum makes it easy to grow safe, successful online communities that are built to last."
 
+[Whimsical](https://whimsical.com/) \#webapp - "Communicate visually at the speed of thought."
+
 ## Email
 
 [Front](https://frontapp.com/) - "Why choose between the powerful workflows and analytics of a help desk, and the ease of use, speed, and personal touch of email? With Front, you get the best of both worlds. Give your team better email — so they can treat every customer like your only customer."

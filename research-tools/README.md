@@ -2,8 +2,6 @@
 
 [BookStack](https://www.bookstackapp.com) - "Simple & Free Wiki Software. BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information."
 
-[The Brain](https://www.thebrain.com/) - "Intelligent note-taking. Non-linear file management. Ideas and relationships visualized."
-
 [Diigo](https://www.diigo.com/) - "Save and tag your online resources for easy access anytime, anywhere"
 
 [Frase](https://frase.io/?ref=producthunt) - "The AI Layer for your Content. For anyone creating content on a regular basis, Frase helps you research faster so you can focus on creativity."

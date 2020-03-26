@@ -1,12 +1,16 @@
 # Note Taking
 
-[Drafts](https://getdrafts.com/) - "Where Text Starts"
+[The 10 Best Note-Taking Apps in 2019](https://www.youtube.com/watch?v=ay2GvqVH4SM) \#video
+
+[The Brain](https://www.thebrain.com/) - "Intelligent note-taking. Non-linear file management. Ideas and relationships visualized."
+
+[Drafts](https://getdrafts.com/) - "Where Text Starts." Mac and iOS.
 
 [Roam Research](https://roamresearch.com/) \#webapp - "A note-taking tool for networked thought. As easy to use as a document. As powerful as a graph database. Roam helps you organize your research for the long haul."
 
-[The 10 Best Note-Taking Apps in 2019](https://www.youtube.com/watch?v=ay2GvqVH4SM) \#video
-
 [Tyke](https://tyke.app/) \#software - "A little bit of scratch paper 📝 that lives on your Mac menu bar."
+
+[Whimsical](https://whimsical.com/) \#webapp - "Communicate visually at the speed of thought."
 
 | App | Price | Sort Options | Pin | Markdown | Archive | Platforms |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

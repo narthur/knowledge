@@ -1,6 +1,10 @@
 # Marketing
 
+[Anchor](https://anchor.fm/) - "The easiest way to make a podcast. Everything you need, 100% free."
+
 [Benchmark](https://www.benchmarkemail.com) - “Powerful and Simple Email Marketing. Simple enough for your intern. Design to impress the creative team. Bigger sales to thrill the boss.” \#email
+
+[Buffer](https://buffer.com/) - "Plan, collaborate, and publish thumb-stopping content that drives meaningful engagement and growth for your brand."
 
 [ClickFunnels](https://www.clickfunnels.com/) - "ClickFunnels Gives You EVERYTHING You Need To Market, Sell, and Deliver Your Products and Services Online! \(Without Having To Hire or Rely On A Tech Team!\)"
 

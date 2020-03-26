@@ -18,7 +18,11 @@
 
 [ManyPixels](https://manypixels.co/) - "ManyPixels is the first on-demand design outsourcing service that works on a subscription model. Pay a fixed monthly price and get your design within 1-2 business days."
 
+[PixelSnap](https://getpixelsnap.com/) \#software - "The fastest tool for measuring anything on your screen"
+
 [Teenage Engineering](https://teenage.engineering/)
+
+[xScope](https://xscopeapp.com/) \#software - "Measure. Inspect. Test."
 
 ## Stock
 

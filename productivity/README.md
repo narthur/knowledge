@@ -43,8 +43,6 @@ Tools I've used in the past:
 
 [How to Get Motivated: A Guide for Defeating Procrastination](https://alexvermeer.com/getmotivated/) \#article - "I created a flowchart, to be printed in colour and posted somewhere visible, to help me _actually use_ the anti-procrastination advice I so desperately need!"
 
-[MindMeister](https://www.mindmeister.com/) \#webapp - "Online Mind Mapping"
-
 \_\_[_The Motivation Hacker_](http://www.nickwinter.net/the-motivation-hacker) \#book - "_The Motivation Hacker_ shows you how to summon extreme amounts of motivation to accomplish anything you can think of. From precommitment to rejection therapy, this is your field guide to getting yourself to want to do everything you always wanted to want to do."
 
 [Numi](https://numi.io) \#software - "Beautiful calculator app for Mac"
@@ -62,6 +60,14 @@ Tools I've used in the past:
 [TypeRacer](https://play.typeracer.com/)
 
 [warner/magic-wormhole](https://github.com/warner/magic-wormhole) - "get things from one computer to another, safely"
+
+### Diagramming
+
+[The Brain](https://www.thebrain.com/) - "Intelligent note-taking. Non-linear file management. Ideas and relationships visualized."
+
+[MindMeister](https://www.mindmeister.com/) \#webapp - "Online Mind Mapping"
+
+[Whimsical](https://whimsical.com/) \#webapp - "Communicate visually at the speed of thought."
 
 [yEd](https://www.yworks.com/products/yed) \#software - "yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams. Create diagrams manually, or import your external data for analysis. Our automatic layout algorithms arrange even large data sets with just the press of a button."
 
