@@ -31,6 +31,7 @@
 * [Humane Tech](humane-tech.md)
 * [Infotainment](infotainment.md)
 * [Minimalism](minimalism.md)
+* [Personal Privacy & Security](personal-privacy-and-security.md)
 * [Productivity](productivity/README.md)
   * [Attention Management](productivity/attention-management.md)
   * [Audio for Focus](productivity/audio-for-focus.md)
