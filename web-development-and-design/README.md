@@ -118,6 +118,14 @@
 
 [Zapier](https://zapier.com/) - "Connect Your Apps and Automate Workflows"
 
+## Participatory Web
+
+[Beaker](https://beakerbrowser.com/) - "A browser for the next-generation Web. Beaker is an experimental browser for exploring and building the peer-to-peer Web."
+
+[Glitch](https://glitch.com/) - "Glitch is the friendly community where everyone can discover and create the best stuff on the web."
+
+[neocities](https://neocities.org/) - "Create your own free website. Unlimited creativity, zero ads."
+
 ## Placeholder Content
 
 [Cupcake Ipsum](http://www.cupcakeipsum.com/#/paragraphs/5/length/long/with_love/true/start_with_cupcake/false/seed/5a49403db7af57f6ec84b789da160450f96d8dd3b775ec955eaaabd84c99e587)  - "How about using auto-generated text that will actually make people love your project even more? Pretty sweet, right?"

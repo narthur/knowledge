@@ -26,6 +26,18 @@
 
 [Spend More Time Alone](http://www.calnewport.com/blog/2017/09/24/spend-more-time-alone/) \#article - by Cal Newport. "The right way to define “solitude” is as a subjective state in which you’re isolated from input from other minds. ... Regular doses of solitude are crucial for the effective and resilient functioning of your brain."
 
+## Decentralization
+
+[Beaker](https://beakerbrowser.com/) - "A browser for the next-generation Web. Beaker is an experimental browser for exploring and building the peer-to-peer Web."
+
+[Dat Protocol](https://www.datprotocol.com/) - "Dat is a new p2p hypermedia protocol. It provides public-key-addressed file archives which can be synced securely and browsed on-demand."
+
+[Dat Protocol Foundation](https://dat.foundation/) - "Supporting the adoption and development of The Dat Protocol."
+
+[Decentralised system - Wikipedia](https://en.wikipedia.org/wiki/Decentralised_system) \#article - "A **decentralised system** in [systems theory](https://en.wikipedia.org/wiki/Systems_theory) is a system in which lower level components operate on local information to accomplish global goals. The global pattern of behaviour is an [emergent property](https://en.wikipedia.org/wiki/Emergent_property) of dynamical mechanisms that act upon local components, such as indirect communication, rather than the result of a central ordering influence of a [centralised system](https://en.wikipedia.org/wiki/Centralised_system)."
+
+[Imagine This: A Web Without Servers - Tara Vancil - JSConf EU 2018 - YouTube](https://www.youtube.com/watch?v=rJ_WvfF3FN8&feature=youtu.be) \#video - "The Web was envisioned as an open platform for publishing and sharing information, but that vision has been lost: most people will never publish independently on the Web. What went wrong?"
+
 ## Online Video
 
 [DF Tube \(Distraction Free for YouTube™\) - Chrome Web Store](https://chrome.google.com/webstore/detail/df-tube-distraction-free/mjdepdfccjgcndkmemponafgioodelna) - "Allow yourself to focus while using YouTube™ for work, recreation or education."

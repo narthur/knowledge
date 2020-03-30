@@ -6,6 +6,8 @@
 
 [Buffer](https://buffer.com/) - "Plan, collaborate, and publish thumb-stopping content that drives meaningful engagement and growth for your brand."
 
+[Buzzsprout](https://www.buzzsprout.com/) - "Podcast hosting and a whole lot more." [API](https://github.com/Buzzsprout/buzzsprout-api)
+
 [ClickFunnels](https://www.clickfunnels.com/) - "ClickFunnels Gives You EVERYTHING You Need To Market, Sell, and Deliver Your Products and Services Online! \(Without Having To Hire or Rely On A Tech Team!\)"
 
 [ClickFunnels Review Video Alert\| Don't Buy ClickFunnels- Top 5 Reasons](https://www.youtube.com/watch?v=tQ79nb7raYo) \#video - "I have a love - hate relationship with this software provider, but this honest ClickFunnels Review will help you decide if this software is right for you. If Your considering CF, then you need to watch this honest ClickFunnels review video for 2017 before you buy it."

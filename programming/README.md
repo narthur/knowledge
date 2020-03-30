@@ -30,6 +30,8 @@ Think Bayes: Bayesian Statistics in Python \#book
 
 [Paper is dead, long live Paper Programming](https://www.sacrideo.us/paper-is-dead-long-live-paper-programming/) \#article - "It should come as no surprise to anyone who reads this blog that I love to program "by hand." I happen to practice a degree of ascetical programming practices, and I believe that they help me to more deeply internalize and understand problems, ultimately delivering higher quality solutions. One of the ways that I do this is the use of paper programming."
 
+[Sentry](https://sentry.io/welcome/) - "Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time."
+
 “Show a man a program and frustrate him for a day. Teach a man to program and you frustrate him for a lifetime” \(via [phi's forum profile](https://forum.beeminder.com/u/phi/summary)\).
 
 [WakaTime ](https://wakatime.com/)- "The developer dashboard. Open source editor plugins for metrics about your programming."
@@ -125,6 +127,10 @@ Read by Refactoring [part 1](https://bambielli.com/posts/2016-08-21-read-by-refa
 [ATT&CK AWS Matrix](https://attack.mitre.org/matrices/enterprise/cloud/aws/) - "Below are the tactics and technique representing the MITRE ATT&CK Matrix™ for Enterprise covering cloud-based techniques. The Matrix contains information for the AWS platform."
 
 [ATT&CK Enterprise Matrix](https://attack.mitre.org/matrices/enterprise/) - "Below are the tactics and technique representing the MITRE ATT&CK Matrix™ for Enterprise. The Matrix contains information for the following platforms: [Windows](https://attack.mitre.org/matrices/enterprise/windows), [macOS](https://attack.mitre.org/matrices/enterprise/macos), [Linux](https://attack.mitre.org/matrices/enterprise/linux), [AWS](https://attack.mitre.org/matrices/enterprise/cloud/aws), [GCP](https://attack.mitre.org/matrices/enterprise/cloud/gcp), [Azure](https://attack.mitre.org/matrices/enterprise/cloud/azure), [Azure AD](https://attack.mitre.org/matrices/enterprise/cloud/azuread), [Office 365](https://attack.mitre.org/matrices/enterprise/cloud/office365), [SaaS](https://attack.mitre.org/matrices/enterprise/cloud/saas)."
+
+[STRIDE \(security\)](https://en.wikipedia.org/wiki/STRIDE_%28security%29) \#article - Wikipedia. "**STRIDE** is a model of threats developed by Praerit Garg and [Loren Kohnfelder](https://en.wikipedia.org/wiki/Loren_Kohnfelder) at [Microsoft](https://en.wikipedia.org/wiki/Microsoft)[\[1\]](https://en.wikipedia.org/wiki/STRIDE_%28security%29#cite_note-1) for identifying [computer security](https://en.wikipedia.org/wiki/Computer_security) [threats](https://en.wikipedia.org/wiki/Threat_%28computer%29).[\[2\]](https://en.wikipedia.org/wiki/STRIDE_%28security%29#cite_note-2) It provides a [mnemonic](https://en.wikipedia.org/wiki/Mnemonic) for security threats in six categories.[\[3\]](https://en.wikipedia.org/wiki/STRIDE_%28security%29#cite_note-3)"
+
+[Threat model](https://en.wikipedia.org/wiki/Threat_model) \#article - Wikipedia. "**Threat modeling** is a process by which potential threats, such as [structural vulnerabilities](https://en.wikipedia.org/wiki/Structural_vulnerability_%28computing%29) or the absence of appropriate safeguards, can be identified, enumerated, and mitigations can be prioritized. The purpose of threat modeling is to provide defenders with a systematic analysis of what controls or defenses need to be included, given the nature of the system, the probable attacker's profile, the most likely attack vectors, and the assets most desired by an attacker. Threat modeling answers questions like “Where am I most vulnerable to attack?”, “What are the most relevant threats?”, and “What do I need to do to safeguard against these threats?”."
 
 ## State Machines & Statecharts
 

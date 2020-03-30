@@ -34,8 +34,6 @@
 
 [How to speak so that people want to listen \| Julian Treasure](https://youtu.be/eIho2S0ZahI) \#video - “Have you ever felt like you're talking, but nobody is listening? Here's Julian Treasure to help you fix that. As the sound expert demonstrates some useful vocal exercises and shares tips on how to speak with empathy, he offers his vision for a sonorous world of listening and understanding.”
 
-[How Trolls on Reddit Try to Manipulate You \(Disinformation & How We Beat It\)](https://www.youtube.com/watch?v=soYkEqDp760&feature=youtu.be) \#video - "This series is my attempt to shore up society's defenses against the massive disinformation war currently being waged against us. We're on the battlefield whether we like it or not." [Playlist](https://www.youtube.com/playlist?list=PLjHf9jaFs8XVAQpJLdNNyA8tzhXzhpZHu).
-
 [How Your Friends Can Affect Your Opinions](https://youtu.be/yBqAt8psYBA) \#video - “The people around you have a lot more to do with how you think than you might realize.”
 
 [iDramaLab](https://idrama.science/) - "The iDRAMA Lab is an international group of researchers interested in a variety of modern computing and socio-technical concerns. Collectively, we have published work ranging from genomic privacy, to cryptography and Web security, to distributed systems, and even video games. More recently, we have worked on understanding and mitigating modern socio-technological issues such as online harassment campaigns, hate speech and political radicalization, and understanding the subtle ways in which web communities influence each other."
@@ -85,4 +83,18 @@
 [How Apple CEO Tim Cook Charmed President Donald Trump](https://invidio.us/watch?v=AG8w0TEZunE) \#video - "President Donald Trump and Tim Cook's relationship really started after Trump's election win in 2016, when the Apple CEO and several other CEOs visited the president-elect at Trump Tower. Since then, Apple has became the corporate mascot for Trump's trade war against China. And Cook put on the charm offensive to help save the tech giant's bottom line."
 
 Part way through WWDC 1997, [Steve Jobs handles an incredibly emotionally-charged attack on him personally](https://youtu.be/6iACK-LNnzM?t=3024). Starts at 50:24. \#video
+
+## Organized Manipulation
+
+[How Trolls on Reddit Try to Manipulate You \(Disinformation & How We Beat It\)](https://www.youtube.com/watch?v=soYkEqDp760&feature=youtu.be) \#video - "This series is my attempt to shore up society's defenses against the massive disinformation war currently being waged against us. We're on the battlefield whether we like it or not." [Playlist](https://www.youtube.com/playlist?list=PLjHf9jaFs8XVAQpJLdNNyA8tzhXzhpZHu).
+
+[Renee DiResta](http://www.reneediresta.com/) - "Renée DiResta is the technical research manager at [Stanford Internet Observatory](https://cyber.fsi.stanford.edu/io/content/io-landing-page-2), a cross-disciplinary program of research, teaching and policy engagement for the study of abuse in current information technologies. Renee investigates the spread of malign narratives across social networks, and assists policymakers in devising responses to the problem. Renee has studied influence operations and computational propaganda in the context of pseudoscience conspiracies, terrorist activity, and state-sponsored information warfare, and has [advised Congress](https://www.c-span.org/video/?449088-1/senate-intelligence-committee-holds-hearing-social-media-foreign-influence), the State Department, and other academic, civil society, and business organizations on the topic. At the behest of SSCI, she led one of the two research teams that produced comprehensive assessments of the [Internet Research Agency’s](http://www.reneediresta.com/ira-report-4e8d0ff684.pdf) and [GRU’s](https://cyber.fsi.stanford.edu/io/news/potemkin-pages-personas-blog) influence operations targeting the U.S. from 2014-2018."
+
+[Robotrolling 2019/3](https://www.stratcomcoe.org/robotrolling-20193) \#paper
+
+[The Web Centipede: Understanding How Web Communities Influence Each Other Through the Lens of Mainstream and Alternative News Sources](https://arxiv.org/pdf/1705.06947.pdf) \#paper
+
+[Who Let The Trolls Out? Towards Understanding State-Sponsored Trolls](https://arxiv.org/pdf/1811.03130.pdf) \#paper
+
+
 
