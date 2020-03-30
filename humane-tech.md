@@ -16,6 +16,8 @@
 
 [Humane Tech Community](https://humanetech.community/) - "We are building the Pyramids of Humane Technology. We envision a future where we have unobtrusive technology that is empowering us and that allows humans to flourish and humanity to thrive. Where the digital world is a natural extension of the real one and a reflection of ourselves."
 
+[iDramaLab](https://idrama.science/) - "The iDRAMA Lab is an international group of researchers interested in a variety of modern computing and socio-technical concerns. Collectively, we have published work ranging from genomic privacy, to cryptography and Web security, to distributed systems, and even video games. More recently, we have worked on understanding and mitigating modern socio-technological issues such as online harassment campaigns, hate speech and political radicalization, and understanding the subtle ways in which web communities influence each other."
+
 [IRL Glasses](https://www.kickstarter.com/projects/ivancash/irl-glasses-glasses-that-block-screens/faqs) - "Glasses that Block Screens." Made by [IRL Labs](https://www.irl-labs.co/).
 
 [LeftBlank.co](http://www.leftblank.co/) - "This page intentionally left blank."

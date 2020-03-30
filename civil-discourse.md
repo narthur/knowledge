@@ -34,7 +34,11 @@
 
 [How to speak so that people want to listen \| Julian Treasure](https://youtu.be/eIho2S0ZahI) \#video - “Have you ever felt like you're talking, but nobody is listening? Here's Julian Treasure to help you fix that. As the sound expert demonstrates some useful vocal exercises and shares tips on how to speak with empathy, he offers his vision for a sonorous world of listening and understanding.”
 
+[How Trolls on Reddit Try to Manipulate You \(Disinformation & How We Beat It\)](https://www.youtube.com/watch?v=soYkEqDp760&feature=youtu.be) \#video - "This series is my attempt to shore up society's defenses against the massive disinformation war currently being waged against us. We're on the battlefield whether we like it or not." [Playlist](https://www.youtube.com/playlist?list=PLjHf9jaFs8XVAQpJLdNNyA8tzhXzhpZHu).
+
 [How Your Friends Can Affect Your Opinions](https://youtu.be/yBqAt8psYBA) \#video - “The people around you have a lot more to do with how you think than you might realize.”
+
+[iDramaLab](https://idrama.science/) - "The iDRAMA Lab is an international group of researchers interested in a variety of modern computing and socio-technical concerns. Collectively, we have published work ranging from genomic privacy, to cryptography and Web security, to distributed systems, and even video games. More recently, we have worked on understanding and mitigating modern socio-technological issues such as online harassment campaigns, hate speech and political radicalization, and understanding the subtle ways in which web communities influence each other."
 
 [I grew up in the Westboro Baptist Church. Here's why I left \| Megan Phelps-Roper](https://www.youtube.com/watch?v=bVV2Zk88beY&list=PLOGi5-fAu8bFBu6hFFeZ1qWJdJUXAOhZG) \#video
 
