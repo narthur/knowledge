@@ -66,5 +66,7 @@
 
 ## Testing Legacy Code
 
+[Testing Legacy Code Elliotte by Rusty Harold](https://www.youtube.com/watch?v=cjxXv0eifhY&t=1680s) \#video - "You've been bitten by the testing bug, are thoroughly test infected. Excellent! You're undoubtedly producing more robust, less buggy software faster and at lower cost. Sadly, it wasn't always this way. You're saddled with a large legacy of untested code. Test first development is not an option. Nonetheless unit testing, JUnit, and test driven development can still dramatically improve your maintenance tasks. Learn strategies for retrofitting test frameworks onto existing code, and developing a test suite for code that never had one before."
+
 
 
