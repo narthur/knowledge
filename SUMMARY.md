@@ -87,6 +87,7 @@
   * [Integrated Development Environments](programming/integrated-development-environments.md)
   * [Knoxville Scene](programming/knoxville-scene.md)
   * [Paradigms](programming/paradigms.md)
+  * [Refactoring](programming/refactoring.md)
   * [Testing](programming/testing.md)
 * [Technology History](technology-history/README.md)
   * [People](technology-history/people.md)
