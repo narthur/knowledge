@@ -14,6 +14,8 @@
 
 [Working From Home](https://mikemcquaid.com/2014/11/23/working-from-home/) \#article - "Now that remote working is becoming more widely available various guides keep popping up about all the things you must ensure you always/never do if you want to work from home successfully. I tend to nod along with about half of each article and strongly disagree with the other half. With that caveat; here are the things I’ve found that help me work from home successfully"
 
+[Working from Home: How to Set Up Your Workspace](https://www.youtube.com/watch?v=tMTxikrSe8g&feature=youtu.be) \#video - "This week we're starting a whole series of videos on how to effectively work \(and learn\) from home. In this initial video, we'll go through what it takes to set up at great workspace that enables you to focus easily and detach once the workday is over."
+
 ## Ergonomics
 
 {% embed url="https://www.youtube.com/watch?v=F8\_ME4VwTiw" %}
