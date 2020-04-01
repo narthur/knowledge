@@ -34,11 +34,15 @@
 
 [TrueWill](https://github.com/TrueWill)/[tzientist](https://github.com/TrueWill/tzientist) - "Scientist-like library for Node.js in TypeScript"
 
-[https://github.com/ziyasal/scientist.js](https://github.com/ziyasal/scientist.js)  
-[https://github.com/trello/scientist](https://github.com/trello/scientist)  
-[https://github.com/daylerees/scientist](https://github.com/daylerees/scientist)  
-[https://github.com/joealcorn/laboratory](https://github.com/joealcorn/laboratory)  
-[https://github.com/github/scientist](https://github.com/github/scientist)
+[https://github.com/ziyasal/scientist.js](https://github.com/ziyasal/scientist.js) - JavaScript
+
+[https://github.com/trello/scientist](https://github.com/trello/scientist) - Node.js
+
+[https://github.com/daylerees/scientist](https://github.com/daylerees/scientist) - PHP
+
+[https://github.com/joealcorn/laboratory](https://github.com/joealcorn/laboratory) - Python
+
+[https://github.com/github/scientist](https://github.com/github/scientist) - Ruby
 
 ## **Property-based Testing**
 
