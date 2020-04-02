@@ -48,8 +48,6 @@
   * [Investing](personal-finance/investing.md)
 * [Psychology](psychology.md)
 * [Publishing](publishing.md)
-* [Purity](purity/README.md)
-  * [Techniques](purity/techniques.md)
 * [Quantified Self](quantified-self.md)
 * [Rationality](rationality.md)
 * [Religion](religion/README.md)
