@@ -72,6 +72,8 @@
 
 [Effective Unit Testing by Eliotte Rusty Harold](https://www.youtube.com/watch?v=fr1E9aVnBxw) \#video - "You've been bitten by the testing bug, are thoroughly test infected. Excellent! You're undoubtedly producing more robust, less buggy software faster and at lower cost. Now it’s time to think about what makes unit tests even better. We’ll discuss flakiness, debuggability, reproducibility, speed, specificity, independence, timing, and other characteristics of effective unit tests. Examples will be in Java and JUnit, but the principles apply generally to all languages and test frameworks."
 
+[gregmalcolm/python\_koans](https://github.com/gregmalcolm/python_koans) - "As well as being a great way to learn some Python, it is also a good way to get a taste of Test Driven Development \(TDD\)."
+
 [Understanding TDD with Modern JavaScript](https://www.youtube.com/watch?v=oneGCBiPK_Q) \#video - "Javascript has evolved into an ecosystem with many choices and multiple paradigms of programming. In this session Roy will show how test driven development can still work and be applied to backend and frontend situations using ES2015 as well as the core concepts of TDD and why it can be helpful in your day to day job."
 
 ## Testing Legacy Code
