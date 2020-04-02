@@ -1,7 +1,5 @@
 # Testing
 
-[Effective Unit Testing by Eliotte Rusty Harold](https://www.youtube.com/watch?v=fr1E9aVnBxw) \#video - "You've been bitten by the testing bug, are thoroughly test infected. Excellent! You're undoubtedly producing more robust, less buggy software faster and at lower cost. Now it’s time to think about what makes unit tests even better. We’ll discuss flakiness, debuggability, reproducibility, speed, specificity, independence, timing, and other characteristics of effective unit tests. Examples will be in Java and JUnit, but the principles apply generally to all languages and test frameworks."
-
 [Faker](https://github.com/fzaninotto/Faker) - “Faker is a PHP library that generates fake data for you. Whether you need to bootstrap your database, create good-looking XML documents, fill-in your persistence to stress test it, or anonymize data taken from a production service, Faker is for you.” \#php
 
 [Metasyntactic variable](https://en.wikipedia.org/wiki/Metasyntactic_variable) - “A metasyntactic variable is a specific word or set of words identified as a placeholder in computer science and specifically computer programming. … Metasyntactic variables used commonly across all programming languages include foobar, foo, bar, baz, qux, quux, quuz, corge, grault, garply, waldo, fred, plugh, xyzzy, and thud.\[1\]\[3\] Wibble, wobble, wubble, and flob are also used in the UK.”
@@ -69,6 +67,12 @@
 [Inversion of Control - Fun Fun Function](https://www.youtube.com/watch?v=-kpEP4JeEdc) \#video
 
 [SUT Factory by Mark Seemann](https://blog.ploeh.dk/2009/02/13/SUTFactory/) \#article - "Maintainability, not only of your production code, but also of your test code, is important, and the DRY principle is just as applicable here."
+
+## Test-Driven Development
+
+[Effective Unit Testing by Eliotte Rusty Harold](https://www.youtube.com/watch?v=fr1E9aVnBxw) \#video - "You've been bitten by the testing bug, are thoroughly test infected. Excellent! You're undoubtedly producing more robust, less buggy software faster and at lower cost. Now it’s time to think about what makes unit tests even better. We’ll discuss flakiness, debuggability, reproducibility, speed, specificity, independence, timing, and other characteristics of effective unit tests. Examples will be in Java and JUnit, but the principles apply generally to all languages and test frameworks."
+
+[Understanding TDD with Modern JavaScript](https://www.youtube.com/watch?v=oneGCBiPK_Q) \#video - "Javascript has evolved into an ecosystem with many choices and multiple paradigms of programming. In this session Roy will show how test driven development can still work and be applied to backend and frontend situations using ES2015 as well as the core concepts of TDD and why it can be helpful in your day to day job."
 
 ## Testing Legacy Code
 
