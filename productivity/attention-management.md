@@ -28,6 +28,8 @@
 
 [Cal Newport - on Deep Work](https://www.youtube.com/watch?v=V4gFLCKEQvU&feature=youtu.be) \#video \#podcast - "Cal Newport author of Deep Work talks about how to concentrate intently on cognitively demanding tasks without distractions. Cal explains how we can use different methods to develop this deep work skill in order to become our most productive selves."
 
+[Deep Work by Cal Newport](https://www.samuelthomasdavies.com/book-summaries/business/deep-work/) \#article - Book summary.
+
 [Deep Habits: Three Tips for Taming Undecidable Tasks](http://www.calnewport.com/blog/2014/12/24/deep-habits-three-tips-for-taming-undecidable-tasks/) \#article - " In a recent blog post[ I introduced the notion of _undecidable tasks_](http://calnewport.com/blog/2014/11/30/on-undecidable-tasks-or-how-alan-turing-can-help-you-earn-a-promotion/) — a particularly important type of work that’s not well covered by standard productivity advice."
 
 [Optimize Interview: Deep Work with Cal Newport](https://www.youtube.com/watch?v=S9K4_3BZz8s&feature=youtu.be) \#video \#podcast
