@@ -1,32 +1,8 @@
-# Creativity
-
-[My Video Went Viral. Here's Why](https://www.youtube.com/watch?v=fHsa9DqmId8&feature=youtu.be) \#video - "My hypothesis is that the algorithm, rather than viewer preference, drives views on the site. As the algorithm shifts, various YouTubers experience burnout \(as what used to work no longer works\) and right now click-through rate is the key metric. So clickable titles and thumbnails are the only way to get a lot of impressions and hence views - they are the only way to go viral. This leads me to wonder which audiences will become most prevalent on the site and if there will even be a place for educational content. In the long-term, hopefully YouTube is able to measure satisfaction through surveys and other metrics to ensure an optimal experience for everyone on the site."
-
-## Business
-
-[The dark side of crowdfunding](https://www.youtube.com/watch?v=HJhQTxTUIH0) \#video - "Crowdfunding gives gadget makers the power to launch their own companies, but sometimes their dream dies not long after launch. In this episode of In the Making, reporter Ashley Carman looks at how crowdfunding platforms Kickstarter and Indiegogo are changing their business to prevent creators from never shipping their product."
-
-[Gumroad](https://gumroad.com/) - "Gumroad helps creators do more of what they love. We have sent over $195M to artists, designers, educators, writers, influencers and more."
-
-[Liberapay](https://liberapay.com/) - "Liberapay is a recurrent donations platform. We help you fund the creators and projects you appreciate."
-
-[Patreon](https://www.patreon.com/) - "CREATE ON YOUR OWN TERMS. Start a membership business to develop a direct relationship with your biggest fans and generate predictable, recurring revenue from your creative work."
-
-[Thankful](https://getthankful.io) - "Support the creators that you love using cryptocurrency"
-
-## Publishing
-
-[Anchor](https://anchor.fm/) - "Anchor is an all-in-one platform where you can create, distribute, and monetize your podcast from any device, for free."
-
-[How to use emoji, accents, and symbols on your Mac](https://support.apple.com/en-us/HT201586) \#article - "macOS includes features that make it easy to find and type special characters like emoji and currency symbols."
-
-[Megaphone](https://megaphone.fm/megaphone-publisher) - "A simple, powerful way to podcast. The smartest tools to publish, monetize, and measure your podcast business."
-
-## Writing
+# Writing
 
 [How to Use Writing to Sharpen Your Thinking \| Tim Ferriss](https://www.youtube.com/watch?v=65U5byDZ55M) \#video - "Tim Ferriss on how writing can sharpen and improve your thinking."
 
-### Blogging
+## Blogging
 
 [ghost](https://ghost.org/pricing/) - "Fiercely independent, professional publishing." Starts at $29 / month billed annually.
 
@@ -34,9 +10,9 @@
 
 [write.as](https://write.as/) - "A place for focused writing." Freemium.
 
-### Software
+## Software
 
-[750 Words](https://750words.com/) \#webapp - "I've long been inspired by an idea I first learned about in _The Artist's Way_ called morning pages. Morning pages are three pages of writing done every day, typically encouraged to be in "long hand", typically done in the morning, that can be about anything and everything that comes into your head. It's about getting it all out of your head, and is not supposed to be edited or censored in any way. The idea is that if you can get in the habit of writing three pages a day, that it will help clear your mind and get the ideas flowing for the rest of the day. Unlike many of the other exercises in that book, I found that this one actually worked and was really really useful."
+[750 Words](https://750words.com/) \#webapp - "I've long been inspired by an idea I first learned about in _The Artist's Way_ called morning pages. Morning pages are three pages of writing done every day, typically encouraged to be in "long hand", typically done in the morning, that can be about anything and everything that comes into your head. It's about getting it all out of your head, and is not supposed to be edited or censored in any way. The idea is that if you can get in the habit of writing three pages a day, that it will help clear your mind and get the ideas flowing for the rest of the day. Unlike many of the other exercises in that book, I found that this one actually worked and was really really useful." $5 / month.
 
 [Abricotine](http://abricotine.brrd.fr/) \#software - "Abricotine is an open-source markdown editor built for desktop." Linux, MacOS, Windows.
 
