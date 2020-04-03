@@ -36,6 +36,8 @@
 
 ### Software
 
+[750 Words](https://750words.com/) \#webapp - "I've long been inspired by an idea I first learned about in _The Artist's Way_ called morning pages. Morning pages are three pages of writing done every day, typically encouraged to be in "long hand", typically done in the morning, that can be about anything and everything that comes into your head. It's about getting it all out of your head, and is not supposed to be edited or censored in any way. The idea is that if you can get in the habit of writing three pages a day, that it will help clear your mind and get the ideas flowing for the rest of the day. Unlike many of the other exercises in that book, I found that this one actually worked and was really really useful."
+
 [Abricotine](http://abricotine.brrd.fr/) \#software - "Abricotine is an open-source markdown editor built for desktop." Linux, MacOS, Windows.
 
 [Bear](https://bear.app/) \#software - "Bear is a beautiful, flexible writing app for crafting notes and prose." MacOS and iOS.
