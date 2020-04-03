@@ -44,6 +44,8 @@
 
 [Byword](https://bywordapp.com/) \#sofware - MacOS and iOS. "Markdown app for writing in plain text efficiently. Available for Mac, iPhone and iPad."
 
+[Calmly Writer](https://www.calmlywriter.com/) \#webapp - "Calmly Writer is an editor designed to focus on what you want to tell, with a simple, unobtrusive and ease-to-use user interface."
+
 [Cold Turkey Writer](https://getcoldturkey.com/writer/) - "The magic of typewriting, for your computer. Writer transforms your computer into a typewriter, which forces you to do nothing but write." [Freemium](https://getcoldturkey.com/writer/pricing/).
 
 [Fighter's Block](https://cerey.github.io/fighters-block/) \#webapp - "Fighter's Block is a writing app that exploits [conditioning](https://en.wikipedia.org/wiki/Operant_conditioning) to overcome writer's block and sheer laziness. Rewards for writing and punishments for stopping are wrapped in a battle system inspired by turn-based RPGs."
@@ -93,4 +95,6 @@
 [Written? Kitten!](http://writtenkitten.co/) \#webapp - Rewards writing with pictures of kittens.
 
 [ZenPen](https://zenpen.io/) \#webapp - "A minimalist writing zone, where you can block out all distractions and get to what's important. The writing!"
+
+[ZenWriter](https://www.beenokle.com/zenwriterapp?AFFILIATE=6732&__c=1) \#software - $17.50 one-time per platform. "Focused full-screen writing application for Windows and Mac."
 
