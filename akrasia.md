@@ -34,6 +34,8 @@
 
 [Beeminder](https://www.beeminder.com/home) \#webapp - "Your goals can be anything quantifiable — weight, pushups, minutes spent on Facebook, points on Duolingo. Answer with your number when Beeminder asks — or connect a device/app below to auto-report — and we'll show your progress and a Yellow Brick Road to follow to stay on track. If you go off track, you pledge money to stay on the road the next time. If you go off track again, we charge you."
 
+[Nifty trick for “days I did this other goal” goals](https://forum.beeminder.com/t/nifty-trick-for-days-i-did-this-other-goal-goals/1175) \#thread - "I made a new IFTTT recipe. If a datapoint is added to weight\_loss, add a datapoint of 1 to weigh\_days. Then, go into weigh\_days, turn it into a custom goal, and set the aggregation to “binary”. This means that no matter how many times I weigh in in one day, the day will have a value of 1 if I add data, and a value of 0 if I do not–and it’s all completely automatic!"
+
 [Stream Deck](https://www.elgato.com/en/gaming/stream-deck) - Physical dashboard that could perhaps be set up for posting data points to Beeminder.
 
 ## Procrastination

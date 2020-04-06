@@ -36,6 +36,8 @@ Gusto
 
 [ChooseFI](https://www.choosefi.com/) \#podcast \#blog - "Earn More, Spend Less, Enjoy The Journey"
 
+[Family Man Retires at 39 – Extreme Early Retirement \| FIRE](https://www.youtube.com/watch?v=8yNsKxbq0Ak&feature=youtu.be) \#video - "Tim Stobbs is married with two children, and he retired from his career at 39 years old.  How did he do it?!  In this video we ask him about the lifestyle changes he and his family made in order to reduce their spending, increase their savings, and invest enough money so they could afford to quit their jobs and live off the interest from their investments."
+
 [Mr. Money Mustache](http://www.mrmoneymustache.com/) \#blog
 
 [Playing with Fire](https://www.playingwithfire.co/) \#documentary

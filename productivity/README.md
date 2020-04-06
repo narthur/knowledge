@@ -5,26 +5,6 @@
 > more strength is needed,  
 >     but skill will bring success”** \(Ecclesiastes 10:10, NIV\).
 
-Tools and services which currently make up my systems:
-
-* TaskWarrior
-* Beeminder
-* SimpleNote
-* WorkFlowy
-* Google Drive
-* AirTable
-* TagTime
-* Custom python scripts
-* GitBook
-
-Tools I've used in the past:
-
-* Habitica
-* Todoist
-* Things
-
-## Links
-
 [8,760 Hours](https://drive.google.com/file/d/0B2PaeRjVqAN7MngxTXFPQkpLVjg/view) \#pdf - "How to get the most out of the next year"
 
 [Baronfig](https://www.baronfig.com/) - "Tools for Thinking." Notebooks, pens, bags, etc.
@@ -42,6 +22,8 @@ Tools I've used in the past:
 [How Minimalism Can Make You More Productive](https://www.youtube.com/watch?v=CttGNGjwp6A&feature=youtu.be) \#video - "One of the biggest benefits I’ve received from living a life with less, has been that I’ve been able to create more. In this video I break down five ways that I've applied minimalism to my work life."
 
 [How to Get Motivated: A Guide for Defeating Procrastination](https://alexvermeer.com/getmotivated/) \#article - "I created a flowchart, to be printed in colour and posted somewhere visible, to help me _actually use_ the anti-procrastination advice I so desperately need!"
+
+[I Resolve Not To Resolve; Or, The Anti-Resolution Resolution](https://blog.beeminder.com/should/) \#article - "IF I say “I/we should do X” THEN I take some immediate action that gets me slightly closer to X happening."
 
 \_\_[_The Motivation Hacker_](http://www.nickwinter.net/the-motivation-hacker) \#book - "_The Motivation Hacker_ shows you how to summon extreme amounts of motivation to accomplish anything you can think of. From precommitment to rejection therapy, this is your field guide to getting yourself to want to do everything you always wanted to want to do."
 
@@ -61,7 +43,7 @@ Tools I've used in the past:
 
 [warner/magic-wormhole](https://github.com/warner/magic-wormhole) - "get things from one computer to another, safely"
 
-### Diagramming
+## Diagramming
 
 [The Brain](https://www.thebrain.com/) - "Intelligent note-taking. Non-linear file management. Ideas and relationships visualized."
 
@@ -71,11 +53,11 @@ Tools I've used in the past:
 
 [yEd](https://www.yworks.com/products/yed) \#software - "yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams. Create diagrams manually, or import your external data for analysis. Our automatic layout algorithms arrange even large data sets with just the press of a button."
 
-### Self-Care
+## Self-Care
 
 ![https://twitter.com/buttpoems/status/1213296913006465025?s=09](../.gitbook/assets/enz_hb-u0aeucfx.jpg)
 
-### Sources
+## Sources
 
 [Alex Vermeer](https://alexvermeer.com/blog/) \#blog - "I drink coffee, climb rocks, play go, and read books. I research and use tools for that improve my thinking, productivity, and life in general. I strive to reduce friction in my life, keep things minimal, and simplify. Sometimes I write."
 

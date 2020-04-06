@@ -34,6 +34,8 @@
 
 [Kiip](https://www.kiip.me/) - "Kiip is an in-app mobile advertising platform that uses moments to create meaningful customer interactions and generate highly targeted, custom audiences."
 
+[Magic Personal Assistant for CEOs](https://getmagic.com/) - "Get a 24/7 team of remote workers to help you get things done."
+
 [MakerPad](https://www.makerpad.co/) - "You don't need to know how to code. Makerpad is the best no-code platform for professionals & creators."
 
 [MicroConf](https://www.microconf.com/) - "The World's Biggest Conference For the World's Smallest Self-Funded Software Companies"

@@ -1,6 +1,8 @@
 # Communication
 
-[https://www.admonymous.co/](https://www.admonymous.co/)
+[Admonymous](https://www.admonymous.co/) - "Leave anonymous admonition and admiration for your friends and coworkers."
+
+[Nuclino](https://www.nuclino.com/) \#webapp - "Empower your team with a collective brain. A lightweight and collaborative wiki for all your team's knowledge, docs, and notes."
 
 [Slack Is Not Where 'Deep Work' Happens](https://blog.nuclino.com/slack-is-not-where-deep-work-happens?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) \#article
 
