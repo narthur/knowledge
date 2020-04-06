@@ -34,6 +34,8 @@
 
 [Beeminder](https://www.beeminder.com/home) \#webapp - "Your goals can be anything quantifiable — weight, pushups, minutes spent on Facebook, points on Duolingo. Answer with your number when Beeminder asks — or connect a device/app below to auto-report — and we'll show your progress and a Yellow Brick Road to follow to stay on track. If you go off track, you pledge money to stay on the road the next time. If you go off track again, we charge you."
 
+[Stream Deck](https://www.elgato.com/en/gaming/stream-deck) - Physical dashboard that could perhaps be set up for posting data points to Beeminder.
+
 ## Procrastination
 
 [Academic Procrastination in Mathematics: Causes, Dangers and Implications of Counselling for Effective Learning](https://files.eric.ed.gov/fulltext/EJ1066019.pdf) \#article \#paper
