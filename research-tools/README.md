@@ -2,8 +2,6 @@
 
 [BookStack](https://www.bookstackapp.com) - "Simple & Free Wiki Software. BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information."
 
-[Commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) \#article - Wikipedia. “**Commonplace books** \(or **commonplaces**\) are a way to compile [knowledge](https://en.wikipedia.org/wiki/Knowledge), usually by writing information into [books](https://en.wikipedia.org/wiki/Book). They have been kept from antiquity, and were kept particularly during the [Renaissance](https://en.wikipedia.org/wiki/Renaissance) and in the nineteenth century. Such books are essentially [scrapbooks](https://en.wikipedia.org/wiki/Scrapbooking) filled with items of every kind: recipes, quotes, letters, poems, tables of weights and measures, proverbs, prayers, legal formulas. Commonplaces are used by readers, writers, students, and scholars as an aid for remembering useful concepts or facts. Each one is unique to its creator’s particular interests but they almost always include passages found in other texts, sometimes accompanied by the compiler’s responses. They became significant in [Early Modern Europe](https://en.wikipedia.org/wiki/Early_Modern_Europe).”
-
 [Diigo](https://www.diigo.com/) - "Save and tag your online resources for easy access anytime, anywhere"
 
 [Frase](https://frase.io/?ref=producthunt) - "The AI Layer for your Content. For anyone creating content on a regular basis, Frase helps you research faster so you can focus on creativity."
