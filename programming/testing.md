@@ -20,6 +20,10 @@
 
 [ApprovalTests.Python](https://github.com/approvals/ApprovalTests.Python) - "ApprovalTests for python"
 
+## **Integration Testing**
+
+[cypress](https://www.cypress.io/) - JavaScript. "The web has evolved. Finally, testing has too. Fast, easy and reliable testing for anything that runs in a browser."
+
 ## **Mutation Testing**
 
 [Infection](https://infection.github.io/) - \#php

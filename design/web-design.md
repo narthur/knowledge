@@ -28,6 +28,8 @@
 
 [Inclusive Components](https://inclusive-components.design/)  - "A blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece."
 
+[Material Design](https://material.io/) - "Build beautiful products, faster. Material is a design system – backed by open-source code – that helps teams build high-quality digital experiences."
+
 [The Media Object, A Bunch of Ways](https://css-tricks.com/media-object-bunch-ways/) \#article - "The Media Object pattern is: image thingy on the left, heading and text on the right."
 
 [Mobbin](https://mobbin.design/) - “Latest Mobile Design Patterns”

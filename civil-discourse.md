@@ -1,5 +1,7 @@
 # Civil Discourse
 
+![XKCD \#2247 : Weird Hill](.gitbook/assets/weird_hill.png)
+
 [200 dropped wallets- the 20 MOST and LEAST HONEST cities](https://www.youtube.com/watch?v=jnL7sJYblGY) \#video - “I lost my wallet and someone didn't return it. Revenge is a dish best served... with data.”
 
 [3 lessons of revolutionary love in a time of rage](https://www.ted.com/talks/valarie_kaur_3_lessons_of_revolutionary_love_in_a_time_of_rage) \#video - “What's the antidote to rising nationalism, polarization and hate? In this inspiring, poetic talk, Valarie Kaur asks us to reclaim love as a revolutionary act. As she journeys from the birthing room to tragic sites of bloodshed, Kaur shows us how the choice to love can be a force for justice.”
@@ -70,9 +72,9 @@
 
 [Megan McArdle on Internet Shaming and Online Mobs](http://www.econtalk.org/archives/2017/10/megan_mcardle_o.html) \#podcast \#audio - “Author and journalist Megan McArdle of Bloomberg View talks with EconTalk host Russ Roberts about how the internet has allowed a new kind of shaming via social media and how episodes of bad behavior live on because Google's memory is very, very good. McArdle discusses the implications this new reality has on how we behave at work and how people protect and maintain their reputations in a world where nothing is forgotten and seemingly little is forgiven.” \#econtalk \#russrobert
 
-[Why You Can't Win an Internet Argument](https://youtu.be/YWKUhZJp7uw) \#video - “One of the internet's favorite pastimes is arguing, but very few of those arguments ever actually go anywhere. It can be frustrating to watch, but scientists have some ideas on why things play out the way they do.”
+\_\_[_Why Are We Yelling?_](https://busterbenson.com/whyareweyelling/) \#book - "Learn the life-changing art of productive disagreement."
 
-![XKCD \#2247 : Weird Hill](.gitbook/assets/weird_hill.png)
+[Why You Can't Win an Internet Argument](https://youtu.be/YWKUhZJp7uw) \#video - “One of the internet's favorite pastimes is arguing, but very few of those arguments ever actually go anywhere. It can be frustrating to watch, but scientists have some ideas on why things play out the way they do.”
 
 ## Case Studies
 

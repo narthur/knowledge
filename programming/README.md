@@ -144,6 +144,8 @@ StackOverflow
 
 [DevTube](https://dev.tube/)
 
+[if/else](https://ifelsepodcast.com/) \#podcast - "A career in technology is full of choices. We’re here to help you make smart ones. In each episode, we meet a software developer who needs to make an if/else choice. From important technical decisions to sticky career challenges, we cover the hard and soft skills you need for a sustainable and rewarding career in tech… at any stage of your career. Hosted by Mayuko Inoue, if/else is an original podcast from CTO.ai, the makers of The Ops Platform."
+
 [Martin Fowler](https://martinfowler.com/) - "Software development is a young profession, and we are still learning the techniques and building the tools to do it effectively. I've been involved in this activity for over three decades and in the last two I've been writing on this website about patterns and practices that make it easier to build useful software. The site began as a place to put my own writing, but I also use it to publish articles by my colleagues."
 
 [Robert Heaton](https://robertheaton.com) \#blog
@@ -151,6 +153,8 @@ StackOverflow
 Robert Martin \#article - [Blog](http://blog.cleancoder.com/). "**Robert Cecil Martin**, colloquially known as "Uncle Bob",[\[2\]](https://en.wikipedia.org/wiki/Robert_C._Martin#cite_note-rcm-informit-2) is an American [software engineer](https://en.wikipedia.org/wiki/Software_engineer) and instructor. He is best known for being one of the authors of the [Agile Manifesto](https://en.wikipedia.org/wiki/Agile_Manifesto)[\[3\]](https://en.wikipedia.org/wiki/Robert_C._Martin#cite_note-rcm-laplante-3)[\[4\]](https://en.wikipedia.org/wiki/Robert_C._Martin#cite_note-rcm-manifesto-4) and for developing several software design principles. He was also the editor-in-chief of [C++ Report](https://en.wikipedia.org/wiki/C%2B%2B_Report) magazine and served as the first chairman of the Agile Alliance" \([Wikipedia](https://en.wikipedia.org/wiki/Robert_C._Martin)\).
 
 [Software Engineering Daily](https://softwareengineeringdaily.com/) \#podcast - "The World Through the Lens of Software"
+
+[Syntax](https://syntax.fm/) \#podcast - "A Tasty Treats Podcast for Web Developers."
 
 [ThoughtWorks Insights](https://www.thoughtworks.com/insights) \#blog
 
