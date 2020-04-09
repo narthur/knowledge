@@ -47,6 +47,8 @@
 
 [The Brain](https://www.thebrain.com/) - "Intelligent note-taking. Non-linear file management. Ideas and relationships visualized."
 
+[Excalidraw](https://excalidraw.com/) \#webapp - "Virtual whiteboard for sketching hand-drawn like diagrams." [GitHub](https://github.com/excalidraw/excalidraw).
+
 [MindMeister](https://www.mindmeister.com/) \#webapp - "Online Mind Mapping"
 
 [Whimsical](https://whimsical.com/) \#webapp - "Communicate visually at the speed of thought."

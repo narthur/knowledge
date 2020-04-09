@@ -196,6 +196,8 @@ VeggieIpsum
 
 [Mastery Games](https://mastery.games/)
 
+[Modern Web](https://www.thisdot.co/modern-web) \#podcast - "An interview-based podcast, featuring different web development leaders every month. Learn from trailblazers in the global community."
+
 [Traversy Media](https://www.youtube.com/user/TechGuyWeb/featured) \#channel - "Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more"
 
 [web.dev](https://web.dev/) - "Let's build the future of the web. Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev."
