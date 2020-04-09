@@ -41,6 +41,8 @@
 
 [Postman](https://www.getpostman.com/) \#software - “Postman Makes API Development Simple. Developers use Postman to build modern software for the API-first world.”
 
+\_\_[_Web API Design_](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) \#book - "This e-book is a collection of design practices that we have developed in collaboration with some of the leading API teams around the world, as they craft their API strategy through a design workshop that we provide at Apigee."
+
 ## GraphQL
 
 [Apollo GraphQL](https://www.apollographql.com/docs/react/) - "**Apollo Client** is a complete state management library for JavaScript apps. Simply write a GraphQL query, and Apollo Client will take care of requesting and caching your data, as well as updating your UI."
