@@ -51,3 +51,11 @@
 
 [graphql-docs](https://github.com/mhallin/graphql-docs) - "Dynamically generated documentation explorer for [GraphQL](http://graphql.org/) schemas. It aims to provide a better overview of a schema than [GraphiQL](https://github.com/graphql/graphiql), but without querying features."
 
+## OpenAPI
+
+[Better API Design with OpenAPI \(Cloud Next '18\)](https://www.youtube.com/watch?v=uBs6dfUgxcI) \#video - "OpenAPI is a vendor neutral, portable, open specification for designing, describing, and deploying APIs. It enables you to describe APIs in a manner consumable by humans and apps. Learn why OpenAPI is useful throughout the API lifecycle, from brainstorming to consumption."
+
+[OpenAPI](https://www.openapis.org/) - "The OpenAPI Specification: a broadly adopted industry standard for describing modern APIs."
+
+[Swagger](https://swagger.io/) - "Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset. Find out how Swagger can help you design and document your APIs at scale."
+
