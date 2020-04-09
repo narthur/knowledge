@@ -55,7 +55,7 @@
 
 [Better API Design with OpenAPI \(Cloud Next '18\)](https://www.youtube.com/watch?v=uBs6dfUgxcI) \#video - "OpenAPI is a vendor neutral, portable, open specification for designing, describing, and deploying APIs. It enables you to describe APIs in a manner consumable by humans and apps. Learn why OpenAPI is useful throughout the API lifecycle, from brainstorming to consumption."
 
-[OpenAPI](https://www.openapis.org/) - "The OpenAPI Specification: a broadly adopted industry standard for describing modern APIs."
+[OpenAPI](https://www.openapis.org/) - "The OpenAPI Specification: a broadly adopted industry standard for describing modern APIs." [GitHub](https://github.com/oai).
 
 [Swagger](https://swagger.io/) - "Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset. Find out how Swagger can help you design and document your APIs at scale."
 
