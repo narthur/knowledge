@@ -104,6 +104,8 @@ StackOverflow
 
 [GOTO 2016 • The Error of Our Ways • Kevlin Henney](https://www.youtube.com/watch?v=IiGXq3yY70o) \#video - "What happens when things break? What happens when software fails? We regard it as a normal and personal inconvenience when apps crash or servers become unavailable, but what are the implications beyond the individual user?"
 
+[GOTO 2018 • The Do's and Don'ts of Error Handling • Joe Armstrong](https://www.youtube.com/watch?v=TTM_b7EJg5E) \#video - "Handling errors in programs is tricky. We want to write systems that work reasonable well even if there are errors in the code. This is possible, and the results have been used in production systems for many years. This talk outlines the do's and don'ts of error handling. Things you should do if you want to write fault tolerant code, and things you should not do."
+
 [Sentry](https://sentry.io/welcome/) - "Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time."
 
 ## Security
