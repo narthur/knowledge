@@ -30,8 +30,6 @@ Think Bayes: Bayesian Statistics in Python \#book
 
 [Paper is dead, long live Paper Programming](https://www.sacrideo.us/paper-is-dead-long-live-paper-programming/) \#article - "It should come as no surprise to anyone who reads this blog that I love to program "by hand." I happen to practice a degree of ascetical programming practices, and I believe that they help me to more deeply internalize and understand problems, ultimately delivering higher quality solutions. One of the ways that I do this is the use of paper programming."
 
-[Sentry](https://sentry.io/welcome/) - "Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time."
-
 “Show a man a program and frustrate him for a day. Teach a man to program and you frustrate him for a lifetime” \(via [phi's forum profile](https://forum.beeminder.com/u/phi/summary)\).
 
 [WakaTime ](https://wakatime.com/)- "The developer dashboard. Open source editor plugins for metrics about your programming."
@@ -101,6 +99,12 @@ Project Euler
 StackOverflow
 
 [The Ultimate Code Kata](https://blog.codinghorror.com/the-ultimate-code-kata/) \#article - "Effortful study means constantly tackling problems at the very edge of your ability. Stuff you may have a high probability of failing at. Unless you're [failing some of the time](http://www.codinghorror.com/blog/archives/000300.html), you're probably not growing professionally. You have to seek out those challenges and push yourself beyond your comfort limit." \#deep\_work
+
+## Error Handling
+
+[GOTO 2016 • The Error of Our Ways • Kevlin Henney](https://www.youtube.com/watch?v=IiGXq3yY70o) \#video - "What happens when things break? What happens when software fails? We regard it as a normal and personal inconvenience when apps crash or servers become unavailable, but what are the implications beyond the individual user?"
+
+[Sentry](https://sentry.io/welcome/) - "Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time."
 
 ## Security
 
