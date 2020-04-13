@@ -96,6 +96,7 @@
   * [APIs](web-development-and-design/apis.md)
   * [Content Management Systems](web-development-and-design/content-management-systems.md)
   * [CSS](web-development-and-design/css.md)
+  * [Frameworks](web-development-and-design/frameworks.md)
   * [Libraries](web-development-and-design/libraries.md)
   * [Performance](web-development-and-design/performance.md)
   * [Serverless](web-development-and-design/serverless.md)

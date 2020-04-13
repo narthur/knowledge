@@ -53,6 +53,10 @@
 
 [graphql-docs](https://github.com/mhallin/graphql-docs) - "Dynamically generated documentation explorer for [GraphQL](http://graphql.org/) schemas. It aims to provide a better overview of a schema than [GraphiQL](https://github.com/graphql/graphiql), but without querying features."
 
+[Lessons from 4 Years of GraphQL](https://www.youtube.com/watch?v=zVNrqo9XGOs&list=WL&index=3&t=0s) \#video - "GraphQL has been in use at Facebook for over four years and evolved a lot before it was open sourced. During that time we learned a lot about what works and why, and derived a series of best practices. Hopefully our best practices and lessons learned are relevant not only to your use of GraphQL, but how you design and build all sorts of software."
+
+[Thinking in Graphs](https://graphql.org/learn/thinking-in-graphs/) \#article - "Graphs are powerful tools for modeling many real-world phenomena because they resemble our natural mental models and verbal descriptions of the underlying process. With GraphQL, you model your business domain as a graph by defining a schema; within your schema, you define different types of nodes and how they connect/relate to one another. On the client, this creates a pattern similar to Object-Oriented Programming: types that reference other types. On the server, since GraphQL only defines the interface, you have the freedom to use it with any backend \(new or legacy!\)."
+
 ## OpenAPI
 
 [Better API Design with OpenAPI \(Cloud Next '18\)](https://www.youtube.com/watch?v=uBs6dfUgxcI) \#video - "OpenAPI is a vendor neutral, portable, open specification for designing, describing, and deploying APIs. It enables you to describe APIs in a manner consumable by humans and apps. Learn why OpenAPI is useful throughout the API lifecycle, from brainstorming to consumption."

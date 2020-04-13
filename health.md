@@ -8,6 +8,8 @@
 
 [OpenNotes](https://www.opennotes.org/) - "OpenNotes is the international movement that’s making health care more transparent. It urges doctors, nurses, therapists, and others to invite patients to read the notes they write to describe a visit. We call these opennotes."
 
+[Peloton](https://www.onepeloton.com/app?utm_source=Iterable&utm_medium=email&utm_campaign=newsletter_4.9) - "Peloton uses technology and design to connect the world through fitness, empowering people to be the best version of themselves anywhere, anytime."
+
 [The Top 10 Benefits of Regular Exercise](https://www.healthline.com/nutrition/10-benefits-of-exercise) \#article - "Being active has been shown to have many health benefits, both physically and mentally." Healthline.
 
 [Zwift](https://zwift.com/) - "SERIOUS TRAINING MADE FUN. The at home training app connecting cyclists around the world."

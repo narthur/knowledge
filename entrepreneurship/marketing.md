@@ -14,6 +14,10 @@
 
 [Free landing page templates for startups.](https://cruip.com/)
 
+[Growth Bites](https://www.indiehackers.com/growth-bites) - "tasty tips to help you grow"
+
+[Growth Lessons](https://growthlessons.co/) - "Real-life lessons from founders who have grown their business or community."
+
 [Meta Tags](https://metatags.io/) \#webapp - "With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!"
 
 [Ontraport](https://ontraport.com/) - "All your marketing tools in one place. Complete your campaigns with all your promotional pieces—from emails to pages and pop-up forms—which you can seamlessly create and connect right inside of Ontraport."
@@ -25,4 +29,6 @@
 [Sales for Founders](https://salesforfounders.com/) - "You get access to the sales knowledge I had to spend _years of pain_ learning the hard way. And then refined into super effective, actionable lessons... over years coaching hundreds of founders just like you."
 
 [TinyLetter](https://tinyletter.com/) - "Email for people with something to say." Free.
+
+[Zero to Marketing](https://zerotomarketing.com/) - "Want to grow a profitable website? Learn how to get better at marketing with one email a week. Every week I pick a new online project and write a 5-minute-read case study with actionable tips on how I'd grow it."
 

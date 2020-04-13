@@ -47,6 +47,7 @@ Rank potential topics based on criteria
 * GoodReads
 * [The Great Courses](https://www.thegreatcoursesplus.com/)
 * Lynda.com
+* [MasterClass](https://www.masterclass.com/?utm_source=Iterable&utm_medium=email&utm_campaign=newsletter_4.9)
 * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
 * [Project Gutenberg](http://www.gutenberg.org) - "Project Gutenberg is a library of over 60,000 free eBooks. Choose among free epub and Kindle eBooks, download them or read them online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for enjoyment and education."
 * [SkillShare](https://www.skillshare.com/) - "Thousands of classes to fuel your creativity and career."

@@ -22,5 +22,7 @@ Read by Refactoring [part 1](https://bambielli.com/posts/2016-08-21-read-by-refa
 
 [Testing Legacy Code Elliotte by Rusty Harold](https://www.youtube.com/watch?v=cjxXv0eifhY) \#video - "You've been bitten by the testing bug, are thoroughly test infected. Excellent! You're undoubtedly producing more robust, less buggy software faster and at lower cost. Sadly, it wasn't always this way. You're saddled with a large legacy of untested code. Test first development is not an option. Nonetheless unit testing, JUnit, and test driven development can still dramatically improve your maintenance tasks. Learn strategies for retrofitting test frameworks onto existing code, and developing a test suite for code that never had one before."
 
+[Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) \#article - Joel Spolsky. Never rewrite from scratch.
+
 [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) \#book
 

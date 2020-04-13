@@ -74,3 +74,11 @@
 
 [Siempo](http://www.getsiempo.com/) \#app - Android launcher. "Use your tech, not the other way around. Let’s build a healthier relationship with our devices. Siempo puts you back in control of your apps and protects you from overuse."
 
+## Social Networking
+
+[Fabriq](https://www.ourfabriq.com/?utm_source=Iterable&utm_medium=email&utm_campaign=newsletter_4.9) \#app - "Get Intentional About Your Relationships"
+
+[Houseparty](https://houseparty.com/?utm_source=Iterable&utm_medium=email&utm_campaign=newsletter_4.9) - "Houseparty is a face to face social network."
+
+[Marco Polo](https://www.marcopolo.me/?utm_source=Iterable&utm_medium=email&utm_campaign=newsletter_4.9) \#app - "Unlike social media, there is no wasted time, no social comparisons and no likes! Connect with the most important people in your life, not the entire world."
+

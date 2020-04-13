@@ -36,6 +36,8 @@ Think Bayes: Bayesian Statistics in Python \#book
 
 [Why My Teenage Code Was Terrible: Sorting Algorithms and Big O Notation](https://invidio.us/watch?v=RGuJga2Gl_k) \#video - "When I was a teenager, I wrote some terrible code. Here's why." \#algorithms
 
+[Yagni](https://www.martinfowler.com/bliki/Yagni.html) \#article - "Yagni originally is an acronym that stands for "You Aren't Gonna Need It". It is a mantra from [ExtremeProgramming](https://www.martinfowler.com/bliki/ExtremeProgramming.html) that's often used generally in agile software teams. It's a statement that some capability we presume our software needs in the future should not be built now because "you aren't gonna need it"."
+
 ## Abstract Syntax Trees
 
 [Abstract syntax tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree) \#article - Wikipedia. "In [computer science](https://en.wikipedia.org/wiki/Computer_science), an **abstract syntax tree** \(**AST**\), or just **syntax tree**, is a [tree](https://en.wikipedia.org/wiki/Directed_tree) representation of the [abstract syntactic](https://en.wikipedia.org/wiki/Abstract_syntax) structure of [source code](https://en.wikipedia.org/wiki/Source_code) written in a [programming language](https://en.wikipedia.org/wiki/Programming_language). Each node of the tree denotes a construct occurring in the source code."
@@ -78,6 +80,8 @@ Google Cloud Platform
 
 ## Continuous Integration
 
+[AWS CodePipeline](https://aws.amazon.com/codepipeline/) - "AWS CodePipeline is a fully managed [continuous delivery](https://aws.amazon.com/devops/continuous-delivery/) service that helps you automate your release pipelines for fast and reliable application and infrastructure updates. CodePipeline automates the build, test, and deploy phases of your release process every time there is a code change, based on the release model you define. This enables you to rapidly and reliably deliver features and updates. You can easily integrate AWS CodePipeline with third-party services such as GitHub or with your own custom plugin. With AWS CodePipeline, you only pay for what you use. There are no upfront fees or long-term commitments."
+
 [CONTINUOUS INTEGRATION](https://www.thoughtworks.com/continuous-integration) - "Continuous Integration \(CI\) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early. ❡ By integrating regularly, you can detect errors quickly, and locate them more easily."
 
 [Continuous Integration - What's the point? - Continuous Integration P1 - Fun Fun Function](https://www.youtube.com/watch?v=ymPOI4gWQFY) \#video - "Continuous Integration is when a software development team has a habit of doing _multiple merges per day_ and have an _automated verification system_ that checks those merges for problems. Our team does this in order to waste less time hunting down problems in _monster merges_."
@@ -107,6 +111,12 @@ StackOverflow
 [GOTO 2018 • The Do's and Don'ts of Error Handling • Joe Armstrong](https://www.youtube.com/watch?v=TTM_b7EJg5E) \#video - "Handling errors in programs is tricky. We want to write systems that work reasonable well even if there are errors in the code. This is possible, and the results have been used in production systems for many years. This talk outlines the do's and don'ts of error handling. Things you should do if you want to write fault tolerant code, and things you should not do."
 
 [Sentry](https://sentry.io/welcome/) - "Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time."
+
+## Feature Flags
+
+[FeatureFlags.io](https://featureflags.io/) - "The Hub for Feature Flag Driven Development"
+
+[LaunchDarkly](https://launchdarkly.com/) - "Fast and reliable feature management for the modern enterprise."
 
 ## Security
 

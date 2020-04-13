@@ -16,6 +16,8 @@
 
 [Focus Time Manager](https://masterbuilders.io/focus) \#software - "The best pomodoro time manager for professionals"
 
+[Tocks](https://blog.beeminder.com/tocks/) \#article - "If you’re reading the Beeminder blog there’s a 95% chance you know about the [Pomodoro Technique](http://en.wikipedia.org/wiki/Pomodoro_Technique). The idea is to decide a task, do focused work on it for 25 minutes, and then get up and take a 5-minute break. Rinse and repeat."
+
 [TomatoTimer](https://tomato-timer.com/)
 
 [Tomighty](http://tomighty.org/) \#software - "A free desktop timer for the Pomodoro Technique®" 👍
