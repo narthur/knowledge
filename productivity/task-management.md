@@ -43,6 +43,14 @@
 
 [Simple Scanning - The Rules](http://markforster.squarespace.com/blog/2017/12/2/simple-scanning-the-rules.html) \#article - "Up to now I’ve never written any formal rules for Simple Scanning preferring to describe it as “going round and round the list, doing tasks which stand out”."
 
+## Prioritizing
+
+[7 Ways to Identify your Most Important Task](https://medium.com/@refinedliz/7-ways-to-identify-your-most-important-task-9e165ebb3535) \#article - "It’s one of the most consistent and repeatedly given productivity advice here on Medium: start your day with your most important task \(MIT\). It’s easy to know why: If you get your MIT done first thing in the morning, you’ve already won the day, no matter what comes later. But if you start your day unfocused, you are a lot less likely to get your important task done at all."
+
+[HOW TO PRIORITISE YOUR WORK & REDUCE STRESS AT WORK \| Aj&Smart](https://www.youtube.com/watch?v=ZHI-vCSX0Uo) \#video
+
+[Tim Ferriss - 3 strategies for prioritization - Insights for Entrepreneurs - Amazon](https://www.youtube.com/watch?v=4T29mz6ymWM) \#video
+
 ## Sources
 
 [Mark Forster](http://markforster.squarespace.com/) \#blog
