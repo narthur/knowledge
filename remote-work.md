@@ -4,7 +4,7 @@
 
 [The \#1 Office Perk? Natural Light](https://hbr.org/2018/09/the-1-office-perk-natural-light?utm_medium=social&utm_campaign=hbr&utm_source=twitter) \#article - "The news headlines about what perks or elements of office design make for a great employee experience seem to be dominated by fads — think treadmill desks, nap pods, and “bring your dog to work day” for starters."
 
-[A Simple Guide to Working / Learning From Home: HOW TO ADJUST](https://www.youtube.com/watch?v=61wdjr6gWpw) \#video - "Making the transition to working or learning from home? Welcome! Here are some research-based strategies for making it easier. These strategies are especially important for neurodiverse brains, but they're helpful for all brains. Please share! "
+[A Simple Guide to Working / Learning From Home: HOW TO ADJUST](https://www.youtube.com/watch?v=61wdjr6gWpw) \#video - "Making the transition to working or learning from home? Welcome! Here are some research-based strategies for making it easier. These strategies are especially important for neurodiverse brains, but they're helpful for all brains. Please share!"
 
 [Getting Remote Critique Right](https://medium.com/building-creative-market/getting-remote-critique-right-fc458577a8f4) \#article - “Remote work brings with it some challenges that need careful pruning to create a successful and happy team. One of the first things that comes to mind is critique, a daunting task when in the same room as people, let alone hundreds or thousands of miles away from one another.”
 
