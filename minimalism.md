@@ -10,6 +10,8 @@
 
 [She tried minimalism for a week.](https://www.youtube.com/watch?v=kgMtMUDL51M&feature=youtu.be) \#video
 
+[Why do People Like Minimalism?](https://www.youtube.com/watch?v=HtDGXIzF-_Y) \#video - ""
+
 ## Sources
 
 [Cal Newport](http://www.calnewport.com/blog/) \#blog - "I'm a [computer science professor](http://people.cs.georgetown.edu/~cnewport/) who writes about the intersection of technology and society. I’m particularly interested in the impact of new technologies on our ability to perform productive work and lead satisfying lives. If you’re new to my writing, a good place to start is the [about page](http://calnewport.com/about/). You can access over a decade's worth of posts in the [blog archive](http://calnewport.com/blog/archive/)."
