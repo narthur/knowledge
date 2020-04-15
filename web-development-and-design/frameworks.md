@@ -15,10 +15,21 @@
 
 ## React
 
-{% embed url="https://github.com/oayres/react-ssr" %}
+[Expo](https://expo.io/) - "With Expo tools, services, and React, you can build, deploy, and quickly iterate on native Android, iOS, and web apps from the same JavaScript codebase."
 
-{% embed url="https://preactjs.com/" %}
+[Next.js](https://nextjs.org/) - "The React Framework"
 
- [https://react-next.com/](https://react-next.com/)  
-[https://nextjs.org/](https://nextjs.org/)
+[oayres/react-ssr](https://github.com/oayres/react-ssr) - "Seamless server-side rendering of React apps"
+
+[Preact](https://preactjs.com/) - "Fast 3kB alternative to React with the same modern API."
+
+[React Next](https://react-next.com/) \#conference
+
+## Vue
+
+[Nuxt.js](https://nuxtjs.org/) - "Build your next Vue.js application with confidence using NuxtJS. An open source framework making web development simple and powerful."
+
+[Vue.js](https://vuejs.org/) - "The Progressive JavaScript Framework"
+
+
 

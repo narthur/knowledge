@@ -63,5 +63,7 @@
 
 [OpenAPI](https://www.openapis.org/) - "The OpenAPI Specification: a broadly adopted industry standard for describing modern APIs." [GitHub](https://github.com/oai).
 
+[Stoplight](https://stoplight.io/) - "The API Design Management Platform powering the world's leading API first companies."
+
 [Swagger](https://swagger.io/) - "Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset. Find out how Swagger can help you design and document your APIs at scale."
 
