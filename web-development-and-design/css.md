@@ -50,6 +50,14 @@
 
 ## Grid
 
+[Auto-Sizing Columns in CSS Grid: \`auto-fill\` vs \`auto-fit\` \| CSS-Tricks](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/) \#article - "One of the most powerful and convenient CSS Grid features is that, in addition to explicit column sizing, we have the option to repeat-to-fill columns in a Grid, and then auto-place items in them. More specifically, our ability to specify how many columns we want in the grid and then letting the browser handle the responsiveness of those columns for us, showing fewer columns on smaller viewport sizes, and more columns as the screen estate allows for more, without needing to write a single media query to dictate this responsive behavior."
+
+[A Complete Guide to Grid \| CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) - "CSS Grid Layout is the most powerful layout system available in CSS. It is a 2-dimensional system, meaning it can handle both columns and rows, unlike [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) which is largely a 1-dimensional system. You work with Grid Layout by applying CSS rules both to a parent element \(which becomes the Grid Container\) and to that element’s children \(which become Grid Items\)."
+
+[CSS Grid.](https://cssgrid.io/) \#course - "LEARN CSS GRID WITH WES BOS IN 25 PRETTY GOOD VIDEOS"
+
+[CSS Grid: Moving From CSS Frameworks To CSS Grid \(2018 and beyond\) - YouTube](https://www.youtube.com/watch?v=paMmgo4MhQ8) \#video - "For the first time since its inception, CSS now has a real two-dimensional layout tool in the CSS Grid specification. We’ve had to resort to using floats, inline blocks and most recently, Flexbox. Because using these for layout is essentially a hack, we’re often tempted to resort to grid frameworks like those provided by Foundation and Bootstrap."
+
 [Why CSS grid-area is the best property for laying out content](https://www.youtube.com/watch?v=duH4DLq5yoo) \#video - "CSS Grid is amazing, and grid-area just make it so much better. When grid first launched I loved the idea of grid areas, but didn't get fully on board as it seemed like a little too much work... but once you start actually using them on a regular basis, you realize that while the initial setup in slightly longer, in the long run you can save a boat load of time!"
 
 ## Resets
