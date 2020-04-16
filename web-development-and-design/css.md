@@ -86,3 +86,5 @@ Sass
 
 [Kevin Powell](https://www.youtube.com/user/KepowOb/featured) \#channel - [Personal website](https://www.kevinpowell.co/). "Helping you learn how to make the web, and make it look good while you're at it. ❡ With a new video every Wednesday, I'll be bringing you How Tos and Tutorials, and well as simple tips and tricks. I'm mostly looking to help people who are new to the world of web development."
 
+[Wes Bos](https://wesbos.com/) - "I create awesome web sites and web applications. Hire me to build you a website, teach you to code or speak at your event."
+
