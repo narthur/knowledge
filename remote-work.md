@@ -6,6 +6,8 @@
 
 [A Simple Guide to Working / Learning From Home: HOW TO ADJUST](https://www.youtube.com/watch?v=61wdjr6gWpw) \#video - "Making the transition to working or learning from home? Welcome! Here are some research-based strategies for making it easier. These strategies are especially important for neurodiverse brains, but they're helpful for all brains. Please share!"
 
+[Clever tricks to improve video conference communication](https://www.youtube.com/watch?v=6To3Rt4w3ys) \#video
+
 [Getting Remote Critique Right](https://medium.com/building-creative-market/getting-remote-critique-right-fc458577a8f4) \#article - “Remote work brings with it some challenges that need careful pruning to create a successful and happy team. One of the first things that comes to mind is critique, a daunting task when in the same room as people, let alone hundreds or thousands of miles away from one another.”
 
 [Nomad List](https://nomadlist.com/) - "[Nomad List](https://nomadlist.com/help) is a database of 2,327+ cities in the world analyzing 1,889,930+ data points every second to help you choose where to go next — and when you arrive, it connects you to 100,000+ 🌍 nomads there."
