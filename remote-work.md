@@ -6,10 +6,6 @@
 
 [A Simple Guide to Working / Learning From Home: HOW TO ADJUST](https://www.youtube.com/watch?v=61wdjr6gWpw) \#video - "Making the transition to working or learning from home? Welcome! Here are some research-based strategies for making it easier. These strategies are especially important for neurodiverse brains, but they're helpful for all brains. Please share!"
 
-[Clever tricks to improve video conference communication](https://www.youtube.com/watch?v=6To3Rt4w3ys) \#video
-
-[Getting Remote Critique Right](https://medium.com/building-creative-market/getting-remote-critique-right-fc458577a8f4) \#article - “Remote work brings with it some challenges that need careful pruning to create a successful and happy team. One of the first things that comes to mind is critique, a daunting task when in the same room as people, let alone hundreds or thousands of miles away from one another.”
-
 [Nomad List](https://nomadlist.com/) - "[Nomad List](https://nomadlist.com/help) is a database of 2,327+ cities in the world analyzing 1,889,930+ data points every second to help you choose where to go next — and when you arrive, it connects you to 100,000+ 🌍 nomads there."
 
 [Top 10 Work from Home Productivity Tips \(and How to Not Go Crazy!\)](https://www.youtube.com/watch?v=PLBYYdg0sfs&feature=youtu.be) \#video - "Work from home or remotely now? With over 12 years of experience working from home \(after getting laid off in 2008 during a similar world crisis\), I wanted to film this video to help you if you're having to work from home or remotely for the first time, especially if you know you'll be doing this for a while."
@@ -19,6 +15,12 @@
 [Working From Home](https://mikemcquaid.com/2014/11/23/working-from-home/) \#article - "Now that remote working is becoming more widely available various guides keep popping up about all the things you must ensure you always/never do if you want to work from home successfully. I tend to nod along with about half of each article and strongly disagree with the other half. With that caveat; here are the things I’ve found that help me work from home successfully"
 
 [Working from Home: How to Set Up Your Workspace](https://www.youtube.com/watch?v=tMTxikrSe8g&feature=youtu.be) \#video - "This week we're starting a whole series of videos on how to effectively work \(and learn\) from home. In this initial video, we'll go through what it takes to set up at great workspace that enables you to focus easily and detach once the workday is over."
+
+## Communication
+
+[Clever tricks to improve video conference communication](https://www.youtube.com/watch?v=6To3Rt4w3ys) \#video
+
+[Getting Remote Critique Right](https://medium.com/building-creative-market/getting-remote-critique-right-fc458577a8f4) \#article - “Remote work brings with it some challenges that need careful pruning to create a successful and happy team. One of the first things that comes to mind is critique, a daunting task when in the same room as people, let alone hundreds or thousands of miles away from one another.”
 
 ## Co-Working
 
