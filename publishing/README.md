@@ -2,11 +2,7 @@
 
 [My Video Went Viral. Here's Why](https://www.youtube.com/watch?v=fHsa9DqmId8&feature=youtu.be) \#video - "My hypothesis is that the algorithm, rather than viewer preference, drives views on the site. As the algorithm shifts, various YouTubers experience burnout \(as what used to work no longer works\) and right now click-through rate is the key metric. So clickable titles and thumbnails are the only way to get a lot of impressions and hence views - they are the only way to go viral. This leads me to wonder which audiences will become most prevalent on the site and if there will even be a place for educational content. In the long-term, hopefully YouTube is able to measure satisfaction through surveys and other metrics to ensure an optimal experience for everyone on the site."
 
-## Business of Creativity
-
-[Cinnamon](https://www.cinnamon.video/) - "With groundbreaking technologies we are able to pay creators fairly while you watch their content... without ads!"
-
-[Coil](https://coil.com/) - "Experience web monetized content in your browser while supporting sites you love in real time."
+## Business
 
 [The dark side of crowdfunding](https://www.youtube.com/watch?v=HJhQTxTUIH0) \#video - "Crowdfunding gives gadget makers the power to launch their own companies, but sometimes their dream dies not long after launch. In this episode of In the Making, reporter Ashley Carman looks at how crowdfunding platforms Kickstarter and Indiegogo are changing their business to prevent creators from never shipping their product."
 

@@ -6,6 +6,8 @@
 
 [Great developers are raised, not hired](https://sizovs.net/2019/04/10/the-best-developers-are-raised-not-hired/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) \#article - "By building mentoring capacity at work, you can hire newcomers, broken toys, impostors and turn them into the loyal, high-quality workforce. Shifting focus from assessing to mentoring can simplify your interviewing process. Instead of trying to predict future performance by asking tough questions and sending candidate through nine circles of hell, you can hire candidates with a growth mindset and grow them."
 
+[MentorCruise](https://mentorcruise.com/) - "Your trusted source to find highly-vetted mentors & industry professionals to move your career ahead."
+
 [Olmo](https://olmo.io/) - "Get connected to the right people. Just ask Olmo. Access to opportunities for career advancement and professional growth relies heavily on connections. Olmo is the first personalized networking concierge dedicated to connecting you to the right people. Stop chasing leads and focus instead on building relationships."
 
 [Why Not Us? Full Length Documentary](https://www.bing.com/videos/search?q=roadtrip+nation+original&&view=detail&mid=1CE8BE498BB283D627FB1CE8BE498BB283D627FB&&FORM=VRDGAR) \#video \#documentary - By Roadtrip Nation. Four kids with rough backgrounds take a trip across the nation as they struggle to build a new life.
