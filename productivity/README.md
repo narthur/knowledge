@@ -13,8 +13,6 @@
 
 [Contexts](https://contexts.co/) \#software - "Switch between application windows effortlessly — with Fast Search, a better Command-Tab, a Sidebar or even a quick gesture. Includes fantastic features for multiple spaces & multiple displays."
 
-[Digital Minimalism - with Dr. Cal Newport](https://www.stitcher.com/podcast/paula-pant-and-j-money/money-103/e/58555559?refid=asa&autoplay=true) \#podcast - "Cal Newport created a philosophy called digital minimalism, which is idea of reducing your digital life down to only the most important core essentials. Remove the apps from your phone, then slowly re-introduce only the ones that are the most useful and beneficial. Take control of your smartphone, rather than letting it control you."
-
 [Flowstate](http://hailoverman.com/flowstate) - "Flowstate is guided by a simple philosophy: flow, then react. It is the first writing tool to emphasize the distinction between writing and editing. Unlike other writing programs, Flowstate features a sacred space for initial creation, with rigid laws enlisted to unleash a person's thoughts, feelings, and ideas like water."
 
 [Fluid](https://fluidapp.com/) \#software - $5. "Fluid lets you create a Real Mac App \(or "Fluid App"\) out of any website or web application, effectively turning your favorite web apps into OS X desktop apps."
@@ -55,6 +53,16 @@
 
 [yEd](https://www.yworks.com/products/yed) \#software - "yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams. Create diagrams manually, or import your external data for analysis. Our automatic layout algorithms arrange even large data sets with just the press of a button."
 
+## Energy Management
+
+[100 time, energy, and attention hacks to be more productive](https://alifeofproductivity.com/100-time-energy-attention-hacks-will-make-productive/) \#article - "**Toward the end of my year of productivity, I realized that every single article I wrote for A Year of Productivity could be classified into one \(or more\) of three categories**: how to better manage your **time**, how to better manage your **energy**, and how to better manage your **attention**."
+
+## Momentum
+
+[How to Boost Productivity Through Building Momentum](https://www.lifehack.org/articles/productivity/how-boost-productivity-through-building-momentum.html) \#article - "Momentum has a profound effect on willpower and productivity. Negative momentum can hurt your productivity tremendously and positive momentum can help your productivity tremendously. This article will describe how to stop negative momentum, how to build positive momentum, and how to sustain it."
+
+[Morning Momentum: The \#1 Factor That Makes Or Breaks My Productivity](https://fityourself.club/morning-momentum-the-1-factor-that-makes-or-breaks-my-productivity-7bf160535eb8) \#article - "Of all the things that can boost emotions, motivation, and perceptions during a workday, the single most important is making progress in meaningful work. And: The more frequently people experience that sense of progress, the more likely they are to be creatively productive in the long run."
+
 ## Self-Care
 
 ![https://twitter.com/buttpoems/status/1213296913006465025?s=09](../.gitbook/assets/enz_hb-u0aeucfx.jpg)
@@ -62,6 +70,8 @@
 ## Sources
 
 [Alex Vermeer](https://alexvermeer.com/blog/) \#blog - "I drink coffee, climb rocks, play go, and read books. I research and use tools for that improve my thinking, productivity, and life in general. I strive to reduce friction in my life, keep things minimal, and simplify. Sometimes I write."
+
+[A Life of Productivity](https://alifeofproductivity.com/) \#blog - "There is nothing I’m obsessed about more than becoming more productive, besides helping other people become more productive. This site exists solely for that purpose—that’s why you won’t find any ads or sponsorships on here \(apart from the occasional annoying newsletter popup!\)"
 
 [AlternativeTo](https://alternativeto.net/) - "Reviews, comments and recommendations."
 

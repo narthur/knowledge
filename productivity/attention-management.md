@@ -1,6 +1,10 @@
 # Attention Management
 
+[100 time, energy, and attention hacks to be more productive](https://alifeofproductivity.com/100-time-energy-attention-hacks-will-make-productive/) \#article - "**Toward the end of my year of productivity, I realized that every single article I wrote for A Year of Productivity could be classified into one \(or more\) of three categories**: how to better manage your **time**, how to better manage your **energy**, and how to better manage your **attention**."
+
 [Bunch](https://brettterpstra.com/projects/bunch/) \#software - "A Batch Application Launcher for your Dock"
+
+[Digital Minimalism - with Dr. Cal Newport](https://www.stitcher.com/podcast/paula-pant-and-j-money/money-103/e/58555559?refid=asa&autoplay=true) \#podcast - "Cal Newport created a philosophy called digital minimalism, which is idea of reducing your digital life down to only the most important core essentials. Remove the apps from your phone, then slowly re-introduce only the ones that are the most useful and beneficial. Take control of your smartphone, rather than letting it control you."
 
 [Focus](https://heyfocus.com/) \#software - "Reclaim your productivity by blocking distracting sites and applications, like Facebook and Fortnite. Stay on task and in flow to accomplish your best work!"
 

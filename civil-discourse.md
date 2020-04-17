@@ -50,6 +50,8 @@
 * Make the argument.
   * Don’t assume your position is self-evident.
 
+[I'm Listening.....](https://www.youtube.com/watch?v=-RzvDpf2h8U&feature=youtu.be) \#video
+
 [I WILL TALK WITH ANYONE…](https://visitsteve.com/made/talkwithanyone/) \#article - “I set up this table near other individuals and organizations tabling for political, religious and other causes. When people approach I offer to talk to them about whatever they would like.” See also: [HOW TO TALK WITH ANYONE](https://visitsteve.com/made/how-to-talk-to-anyone/)
 
 [Keep Your Identity Small](http://www.paulgraham.com/identity.html) \#article - "I think what religion and politics have in common is that they become part of people's identity, and people can never have a fruitful argument about something that's part of their identity. By definition they're partisan."

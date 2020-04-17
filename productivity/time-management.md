@@ -1,5 +1,7 @@
 # Time Management
 
+[100 time, energy, and attention hacks to be more productive](https://alifeofproductivity.com/100-time-energy-attention-hacks-will-make-productive/) \#article - "**Toward the end of my year of productivity, I realized that every single article I wrote for A Year of Productivity could be classified into one \(or more\) of three categories**: how to better manage your **time**, how to better manage your **energy**, and how to better manage your **attention**."
+
 [Deep Habits: The Importance of Planning Every Minute of Your Work Day](http://www.calnewport.com/blog/2013/12/21/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/) \#article - "I call this planning method _time blocking_. I take time blocking seriously, dedicating ten to twenty minutes every evening to building my schedule for the next day. During this planning process I consult my task lists and calendars, as well as my weekly and quarterly planning notes. My goal is to make sure progress is being made on the right things at the right  pace for the relevant deadlines."
 
 [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) \#article - "There are two types of schedule, which I'll call the manager's schedule and the maker's schedule."

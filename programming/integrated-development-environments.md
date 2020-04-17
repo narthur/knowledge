@@ -2,6 +2,8 @@
 
 [Atom](https://atom.io/) \#software - "A hackable text editor for the 21st Century"
 
+[CodeSandbox](https://codesandbox.io/) \#webapp - "An instant IDE and prototyping tool for rapid web development."
+
 [CodeTasty](https://codetasty.com/) \#webapp - "Modern, smart & extensible cloud IDE. CodeTasty is powerful IDE in the cloud with additional features only a cloud application can give you."
 
 [Insomnia](https://insomnia.rest/) - "Debug APIs like a human, not a robot. Finally, a REST client you'll love"

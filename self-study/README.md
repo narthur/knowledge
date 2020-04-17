@@ -67,3 +67,5 @@ Rank potential topics based on criteria
 
 [Programming Pearls](https://www.goodreads.com/book/show/52084.Programming_Pearls) \#book
 
+[The Feynman Technique - YouTube](https://www.youtube.com/watch?v=tkm0TNFzIeg&feature=youtu.be) \#video
+
