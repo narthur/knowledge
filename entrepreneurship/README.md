@@ -2,6 +2,8 @@
 
 [1Kprojects](https://1kprojects.com/) - "Neglected side projects for less than $1000. 1Kprojects is a curated marketplace where makers sell their abandoned projects for less than $1000."
 
+[5 Tips For A Better Side Hustle](https://www.youtube.com/watch?v=U1IvJClaqNI) \#video - "These days, it seems like everyone is making money on the side. Side hustles like ride-sharing, room rentals, and selling witty cross stitch patterns are a common occurrence. BUT, is every side hustle worth the time dedicated to them?"
+
 [ClientSuccess](https://www.clientsuccess.com/) - "We help you retain and grow your existing customer base. Customer success software that helps you build relationships that last."
 
 [Company of One, the podcast](https://ofone.co/company-of-one-podcast/) \#podcast - "Company of One is a podcast that explores what happens when businesses challenge the traditional idea that bigger is always better. What if we break from the idea that growth in revenue, customers and employees is always the byproduct of success and focus instead on what it means to create richer and more fulfilling careers and businesses that don’t require exponential growth in all directions at all times?"
