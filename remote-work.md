@@ -8,7 +8,7 @@
 
 [Nomad List](https://nomadlist.com/) - "[Nomad List](https://nomadlist.com/help) is a database of 2,327+ cities in the world analyzing 1,889,930+ data points every second to help you choose where to go next — and when you arrive, it connects you to 100,000+ 🌍 nomads there."
 
-[The Fullstack Shack - Office Tour](https://www.youtube.com/watch?v=HPOq3QJz_7s) \#video
+[The Fullstack Shack - Office Tour](https://www.youtube.com/watch?v=HPOq3QJz_7s) \#video - Tool shed turned into office space.
 
 [Top 10 Work from Home Productivity Tips \(and How to Not Go Crazy!\)](https://www.youtube.com/watch?v=PLBYYdg0sfs&feature=youtu.be) \#video - "Work from home or remotely now? With over 12 years of experience working from home \(after getting laid off in 2008 during a similar world crisis\), I wanted to film this video to help you if you're having to work from home or remotely for the first time, especially if you know you'll be doing this for a while."
 
