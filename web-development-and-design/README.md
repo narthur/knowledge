@@ -166,6 +166,8 @@ VeggieIpsum
 
 [Facebook Open Source](https://opensource.facebook.com/) - "Building community through open source technology"
 
+FunFunFunction \#channel -  [funfun.chat](http://funfun.chat/).
+
 [Jake Archibald wrote...](https://jakearchibald.com/) \#blog - "Hello, I’m Jake and that is my face. I’m a developer advocate for Google Chrome."
 
 [Kevin Powell](https://www.youtube.com/user/KepowOb/featured) \#channel - "Helping you learn how to make the web, and make it look good while you're at it. ❡ With a new video every Wednesday, I'll be bringing you How Tos and Tutorials, and well as simple tips and tricks. I'm mostly looking to help people who are new to the world of web development."

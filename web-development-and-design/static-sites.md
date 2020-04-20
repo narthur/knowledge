@@ -2,15 +2,17 @@
 
 [christian-fei/Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) - "A JavaScript library to add search functionality to any Jekyll blog."
 
+[Forestry](https://forestry.io/) - “A static CMS that commits”
+
 [Lunr](https://lunrjs.com/) - "Designed to be small, yet full featured, Lunr enables you to provide a great search experience without the need for external, server-side, search services."
+
+[Netlify CMS](https://www.netlifycms.org/) - “Open source content management for your Git workflow”
 
 [Pingy](https://pin.gy/) - “All Your Sites In Your Menu Bar … Pingy gives web designers a simple and complete UI for creating, sharing, and deploying websites. … It includes everything you need to go from concept to prototype to deployment. And best of all, no command line required.”
 
 [Pingy CLI](https://pin.gy/cli/) - “The Simple Frontend Build Tool … Pingy CLI works with Sass, Less, Stylus, Jade, Pug, Markdown, EJS, Bublé, LiveScript, Babel & Coffeescript with more coming soon.”
 
-[Forestry](https://forestry.io/) - “A static CMS that commits”
-
-[Netlify CMS](https://www.netlifycms.org/) - “Open source content management for your Git workflow”
+[unified](https://opencollective.com/unified) - "Building a bridge between formats"
 
 ### **Generators**
 
@@ -26,6 +28,8 @@
 [Metalsmith](http://www.metalsmith.io/) - “An extremely simple, pluggable static site generator.”
 
 [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - “A curated list of static web site generators.”
+
+[Sculpin](https://sculpin.io/) - "Sculpin is a **static site generator** written in **PHP**. It converts **Markdown files**, **Twig templates** and standard HTML into a **static HTML site** that can be **easily deployed**." [GitHub](https://github.com/sculpin/sculpin).
 
 [StaticGen](https://www.staticgen.com/) - “A List of Static Site Generators for JAMstack Sites”
 
