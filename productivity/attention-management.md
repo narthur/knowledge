@@ -24,6 +24,8 @@
 
 [SelfControl](https://selfcontrolapp.com/) \#software - "A free Mac application to help you avoid distracting websites."
 
+[Why it's so Hard to Focus](https://www.youtube.com/watch?v=XT46R7Ii4zY) \#video - "In this video, I go over why focusing is hard."
+
 [Workspace](https://workspaceproapp.com/) \#software - "Launch/close a bunch of macOS apps just in 1 click!"
 
 [Workspaces](https://www.apptorium.com/workspaces) \#software - "Meet your personal project assistant!"
