@@ -22,3 +22,9 @@
 
 [r/financialindependence](https://www.reddit.com/r/financialindependence/) - "This is a place for people who are or want to become Financially Independent \(FI\), which means not having to work for money. Financial Independence is closely related to the concept of Early Retirement/Retiring Early \(RE\) - quitting your job/career and pursuing other activities with your time. At its core, FI/RE is about maximizing your savings rate \(through less spending and/or higher income\) to achieve FI and have the freedom to RE as fast as possible."
 
+## Sources
+
+[The FI Show](https://thefishow.com/) \#podcast - "The FI Show is a podcast dedicated to financial independence, personal development and life optimization. Join Cody and Justin for a fun, informative show packed with actionable tips from our guests!"
+
+[Mr. Money Mustache](https://www.mrmoneymustache.com/) \#blog - "Mr Money Mustache is a thirtysomething\* retiree who now writes about how we can all live a frugal yet Badass life of leisure."
+
