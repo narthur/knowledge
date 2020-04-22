@@ -158,6 +158,8 @@ VeggieIpsum
 
 ## Sources
 
+[Chris Biscardi](https://www.christopherbiscardi.com/) - "I'm an independent consultant that works with startups built on OSS. Here I write about JAMStack, Serverless, MDX, and more. This site is built with ESModules, Snowpack, and MDX."
+
 [Conferences](https://conferences.css-tricks.com/) - "... related to Front-End Design & Development"
 
 [CSS-Tricks](https://css-tricks.com/) - "CSS-Tricks is created, written by, and maintained by [Chris Coyier](https://chriscoyier.net/) and [a team](https://css-tricks.com/about/) of swell people. It is built on WordPress and powered up by [Jetpack](https://css-tricks.com/jetpack/). It is made possible through [sponsorships](https://css-tricks.com/advertising/) from products and services we like."

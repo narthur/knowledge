@@ -4,8 +4,6 @@
 
 [Contentful](https://www.contentful.com/) - Headless CMS. "You don't need another CMS. You need a better way to manage content — unified, structured, and ready to deploy to any digital channel. Finally, something editors and developers can agree on."
 
-[headlessCMS](https://headlesscms.org/) - "A List of Content Management Systems for Jamstack Sites"
-
 [Known](https://withknown.com/) - "A collaborative social publishing engine. Known allows any number of users to post to a shared site with blog posts, status updates, photographs, and more. Its robust open source framework can be used to build fully-fledged community sites, or a blog for a single user. It's up to you."
 
 [Movable Type](https://www.movabletype.com/) - From [Wikipedia](https://en.wikipedia.org/wiki/Movable_Type): "**Movable Type** is a [weblog publishing system](https://en.wikipedia.org/wiki/Blog_software) developed by the company [Six Apart](https://en.wikipedia.org/wiki/Six_Apart). It was publicly announced on September 3, 2001;[\[3\]](https://en.wikipedia.org/wiki/Movable_Type#cite_note-3) version 1.0 was publicly released on October 8, 2001.[\[4\]](https://en.wikipedia.org/wiki/Movable_Type#cite_note-4)"
@@ -21,6 +19,14 @@
 [Wix](https://www.wix.com/html5bing/hiker-create-wix?utm_source=bing&utm_campaign=MS_Wix_NEW%5Ewix_English-x&experiment_id=wix%5Ebe%5E79783360752420%5Ewix&msclkid=3a0379c916c81b23bf6f251d6566e9ec&utm_medium=cpc) - "The Leader in Website Creation"
 
 [write.as](https://write.as/) - "Minimalist, privacy-focused, writing and publishing platform."
+
+## Headless Solutions
+
+[Contentful](https://www.contentful.com/) - "The content platform to create digital experiences. A content platform is everything a CMS isn’t. Control all of your content from a single hub. Publish to any digital channel. Integrate anything with our industry-leading app framework. See ya, CMS."
+
+[headlessCMS](https://headlesscms.org/) - "A List of Content Management Systems for Jamstack Sites"
+
+[Tipe](https://tipe.io/) - "Content is data. Treat it right. **Tipe is the Content Delivery Service that fits every app and works the way you write"**
 
 ## WordPress
 

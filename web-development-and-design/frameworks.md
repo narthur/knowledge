@@ -27,6 +27,8 @@
 
 ## Vue
 
+[Element](https://element.eleme.io/#/en-US) - "Element, a Vue 2.0 based component library for developers, designers and product managers"
+
 [Nuxt.js](https://nuxtjs.org/) - "Build your next Vue.js application with confidence using NuxtJS. An open source framework making web development simple and powerful."
 
 [Vue.js](https://vuejs.org/) - "The Progressive JavaScript Framework"

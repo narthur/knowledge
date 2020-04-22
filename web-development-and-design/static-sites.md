@@ -25,6 +25,8 @@
 * [Gatsby-image plugin](https://www.gatsbyjs.org/packages/gatsby-image/)
 * [Features](https://www.gatsbyjs.org/features/)
 
+[Middleman](https://middlemanapp.com/) - "Build static websites with an easy-to-use framework. Middleman is a static site generator using all the shortcuts and tools in modern web development."
+
 [Metalsmith](http://www.metalsmith.io/) - “An extremely simple, pluggable static site generator.”
 
 [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - “A curated list of static web site generators.”
