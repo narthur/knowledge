@@ -2,8 +2,6 @@
 
 [10x engineers](https://twitter.com/skirani/status/1149302828420067328) \#thread - "Founders if you ever come across this rare breed of engineers, grab them. If you have a 10x engineer as part of your first few engineers, you increase the odds of your startup success significantly." [Article in case thread is taken down](https://www.7pace.com/blog/10x-engineers).
 
-[Amplitude](https://amplitude.com/) \#webapp - Product intelligence. "See how Amplitude helps you use customer data to build great product experiences that convert and retain users."
-
 Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference \#book
 
 Think Bayes: Bayesian Statistics in Python \#book

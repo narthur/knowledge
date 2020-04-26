@@ -4,8 +4,6 @@
 
 [Loom](https://www.loom.com/) - "Say it with video. Loom is the most effective way to get your message across, no matter where you work."
 
-[Miro](https://miro.com/) \#webapp - "The online collaborative whiteboard platform to bring teams together, anytime, anywhere."
-
 [Nuclino](https://www.nuclino.com/) \#webapp - "Empower your team with a collective brain. A lightweight and collaborative wiki for all your team's knowledge, docs, and notes."
 
 [Slack Is Not Where 'Deep Work' Happens](https://blog.nuclino.com/slack-is-not-where-deep-work-happens?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) \#article

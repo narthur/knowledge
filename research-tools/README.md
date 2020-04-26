@@ -6,13 +6,19 @@
 
 [Copy Cat - Quick Copy Title and URL - Chrome Web Store](https://chrome.google.com/webstore/detail/copy-cat-quick-copy-title/andlmjmbnlaamloflnelcafcnkiplhkc?authuser=0) - Chrome extension.
 
-[Diigo](https://www.diigo.com/) - "Save and tag your online resources for easy access anytime, anywhere"
-
 [Frase](https://frase.io/?ref=producthunt) - "The AI Layer for your Content. For anyone creating content on a regular basis, Frase helps you research faster so you can focus on creativity."
 
-[Golden](https://golden.com/?ref=producthunt) - "The intelligent, open knowledge base. Explore the world's first self-constructing knowledge database built by artificial and human intelligence." Wikipedia competitor.
-
 [Lab Notes: My Closed-Loop Research System](http://www.calnewport.com/blog/2011/06/23/lab-notes-my-closed-loop-research-system/) \#article - by Cal Newport. "Now that I’m a month away from starting [my new position at Georgetown](http://calnewport.com/blog/2011/06/01/quick-hits-my-move-to-georgetown-live-interview-and-experiments-with-forced-batching/), I’ve arrived at a relatively stable research strategy. I assume it will evolve as I gain more experience as a professor, and I’m somewhat nervous that the more experienced among you will scoff at my naivety, but it’s a starting point — a way to start my new position with a _proactive_ \(not reactive\) mindset."
+
+[Public Books Database](https://www.publicbooks.org/public-books-database/) - "With university classrooms and libraries shuttered because of the COVID-19 crisis, scholars are facing disruptions not only in their teaching lives but also in their ability to access research materials. In response, many academic presses have made hundreds of their titles freely accessible online. The Public Books Database aims to catalog such resources in a single location and to highlight titles of particular interest. We’ll be updating the [list](https://www.publicbooks.org/public-books-database/#list) regularly as additional materials are made available."
+
+[Refind](https://refind.com/) - "Every day we’ll pick the 10 most relevant links from around the web for you." [Explanation](https://relevance.community/).
+
+[WolframAlpha](https://www.wolframalpha.com/) - "Compute expert-level answers using Wolfram's breakthrough algorithms, knowledgebase and AI technology"
+
+## Collection
+
+[Diigo](https://www.diigo.com/) - "Save and tag your online resources for easy access anytime, anywhere"
 
 [Memex](https://getmemex.com/) - "Bookmarking for the power users of the web"
 
@@ -22,9 +28,9 @@
 
 [Polar](https://getpolarized.io/#pricing) - "A **powerful** document manager for web pages, textbooks, PDFs, and anything you want to read."
 
-[Public Books Database](https://www.publicbooks.org/public-books-database/) - "With university classrooms and libraries shuttered because of the COVID-19 crisis, scholars are facing disruptions not only in their teaching lives but also in their ability to access research materials. In response, many academic presses have made hundreds of their titles freely accessible online. The Public Books Database aims to catalog such resources in a single location and to highlight titles of particular interest. We’ll be updating the [list](https://www.publicbooks.org/public-books-database/#list) regularly as additional materials are made available."
+## Publishing
 
-[Refind](https://refind.com/) - "Every day we’ll pick the 10 most relevant links from around the web for you." [Explanation](https://relevance.community/).
+[Golden](https://golden.com/?ref=producthunt) - "The intelligent, open knowledge base. Explore the world's first self-constructing knowledge database built by artificial and human intelligence." Wikipedia competitor.
 
-[WolframAlpha](https://www.wolframalpha.com/) - "Compute expert-level answers using Wolfram's breakthrough algorithms, knowledgebase and AI technology"
+[Hostnotion](https://hostnotion.co/) - "Host Notion on your domain"
 
