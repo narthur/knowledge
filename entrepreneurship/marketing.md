@@ -12,8 +12,6 @@
 
 [ClickFunnels Review Video Alert\| Don't Buy ClickFunnels- Top 5 Reasons](https://www.youtube.com/watch?v=tQ79nb7raYo) \#video - "I have a love - hate relationship with this software provider, but this honest ClickFunnels Review will help you decide if this software is right for you. If Your considering CF, then you need to watch this honest ClickFunnels review video for 2017 before you buy it."
 
-[customer.io](https://customer.io/) - "With Customer.io, send targeted emails, push notifications, and SMS to lower churn, create stronger relationships, and drive subscriptions."
-
 [Free landing page templates for startups.](https://cruip.com/)
 
 [Growth Bites](https://www.indiehackers.com/growth-bites) - "tasty tips to help you grow"

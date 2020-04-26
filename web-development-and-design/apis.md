@@ -1,6 +1,6 @@
 # APIs
 
-[Algolia](https://www.algolia.com/) - "Algolia’s search-as-a-service and full suite of APIs allow teams to easily develop tailored, fast Search and Discovery experiences that delight and convert."
+[FileStack](https://www.filestack.com/) - “The \#1 API for File Uploads, Image Transformations, and Content Delivery”
 
 [Httpstat.us](https://httpstat.us) - “This is a super simple service for generating different HTTP codes. It's useful for testing how your own scripts deal with varying responses.” Also supports simulating delays / timeouts / sleeping.
 
@@ -21,12 +21,6 @@
 [Stream](https://getstream.io/) - “Stream is an API for building scalable news feeds and activity streams.” Free up to three million updates.
 
 Newsapi.org
-
-## Media
-
-[Cloudinary](https://cloudinary.com/) - "Use Cloudinary to efficiently manage, optimize, and deliver images, videos and other media across every device and channel."
-
-[FileStack](https://www.filestack.com/) - “The \#1 API for File Uploads, Image Transformations, and Content Delivery”
 
 ## Payments
 
