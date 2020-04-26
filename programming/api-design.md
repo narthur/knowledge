@@ -45,7 +45,7 @@
 
 ## GraphQL
 
-[Apollo GraphQL](https://www.apollographql.com/docs/react/) - "**Apollo Client** is a complete state management library for JavaScript apps. Simply write a GraphQL query, and Apollo Client will take care of requesting and caching your data, as well as updating your UI."
+[Apollo GraphQL](https://www.apollographql.com/docs/react/) - "Simplify app development by combining APIs, databases, and microservices into a single data graph that you can query with GraphQL"
 
 [Graphene-Python](https://graphene-python.org/) - "Graphene-Python is a library for building GraphQL APIs in Python easily, its main goal is to provide a simple but extendable API for making developers' lives easier."
 
