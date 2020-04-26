@@ -42,18 +42,6 @@
 
 [Xkcd: Self-Driving Issues](https://www.xkcd.com/) \#comic
 
-## Conversational Interfaces
-
-[Google Duplex: An AI System for Accomplishing Real-World Tasks Over the Phone](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html) \#article - “Today we announce Google Duplex, a new technology for conducting natural conversations to carry out “real world” tasks over the phone. The technology is directed towards completing specific tasks, such as scheduling certain types of appointments. For such tasks, the system makes the conversational experience as natural as possible, allowing people to speak normally, like they would to another person, without having to adapt to a machine.”
-
-[Google’s Duplex Assistant phone call blew my mind!](https://www.youtube.com/watch?v=ijwHj2HaOT0) \#video - “An experimental technology called Duplex may change the way you talk to your Google Assistant. It sounds pretty ordinary, but it's anything but.”
-
-[Human or bot? Google Duplex scares me](https://www.cnet.com/news/google-duplex-assistant-bot-deception-scary-ethics-question/) \#article - “In this age of disinformation, where fake news thrives and the public has trust issues with technology, Google designed a machine that can deceive humans.”
-
-[Let's Talk About Google Duplex!](https://www.youtube.com/watch?v=USXoINPEhoA) \#video - “Google Assistant making real phone calls?! Artificial intelligence is taking crazy steps forward. How far will it go?”
-
-[Rasa](https://rasa.com/) - "Build contextual assistants that really help customers. Rasa is the only serious choice for building mission-critical AI assistants."
-
 ## Dangers
 
 [AI "Stop Button" Problem - Computerphile](https://www.youtube.com/watch?v=3TYT1QfdfsM&list=PLIilwIraDV2L3QailjC91OkRaIioM0DYv&index=10) \#video - "How do you implement an on/off switch on a General Artificial Intelligence? Rob Miles explains the perils."
