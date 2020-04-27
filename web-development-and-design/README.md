@@ -30,12 +30,6 @@
 
 [xwp/pwa-wp](https://github.com/xwp/pwa-wp) - "WordPress feature plugin to bring Progressive Web Apps \(PWA\) to Core"
 
-## Analytics
-
-[FullStory](https://www.fullstory.com/) - "FullStory tells you everything you need to know about your digital experience."
-
-Google Analytics
-
 ## Browsers
 
 [Blockstack](https://blockstack.org/) - “Blockstack is a new internet for decentralized apps where users own their data. A browser is all that’s needed to get started.”
@@ -80,29 +74,21 @@ Google Analytics
 
 [Sender Score](https://senderscore.org/) - "Know your sender reputation. Know how to improve it."
 
-## GDPR
-
-[The GDPR Checklist](https://gdprchecklist.io/) - "Achieving GDPR Compliance shouldn't feel like a struggle. This is a basic checklist you can use to harden your GDPR compliancy."
-
-[GDPR Tracker](https://gdprtracker.io/) - "Track the GDPR compliance of **+100** cloud services and subprocessors."
-
 ## No Code Movement
 
 [Boundless Labs](https://www.boundlesslabs.com/)
 
 [Bubble](https://bubble.is/)
 
-[Glide](https://www.glideapps.com/)
-
 [MakerPad](https://www.makerpad.co/) - "Makerpad is the no-code platform you need to create tools for your work. From professionals to creators, you can view tutorials, develop skills, browse jobs and build tools. Learning to build can be a gateway into coding."
+
+[Glide](https://www.glideapps.com/)
 
 [MemberSpace](https://www.memberspace.com/)
 
 [MemberStack](https://www.memberstack.io/)
 
 [No Code Conf](https://webflow.com/nocodeconf) - "Celebrating the future of visual development — and the makers behind the movement."
-
-[Retool](https://retool.com/?utm_source=sedaily&utm_medium=podcast&utm_campaign=q1_sponsorship) - "Retool cuts the time it takes to build internal tools in half so you can focus on what matters"
 
 [Webflow](https://webflow.com/)
 
@@ -139,8 +125,6 @@ VeggieIpsum
 [Workbox](https://developers.google.com/web/tools/workbox/)
 
 ## Security
-
-[Data Breaches](https://databreach.es/) - "Bringing transparency to a fast-changing connected world and helping to build a privacy-aware society."
 
 [Links to cross-origin destinations are unsafe](https://developers.google.com/web/tools/lighthouse/audits/noopener?utm_source=lighthouse&utm_medium=extension) \#article - "The other page can access your `window` object with the `window.opener` property. This exposes an [attack surface](https://en.wikipedia.org/wiki/Attack_surface) because the other page can potentially redirect your page to a malicious URL. See [About rel=noopener](https://mathiasbynens.github.io/rel-noopener/)."
 
