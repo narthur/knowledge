@@ -4,11 +4,19 @@
 
 [The \#1 Office Perk? Natural Light](https://hbr.org/2018/09/the-1-office-perk-natural-light?utm_medium=social&utm_campaign=hbr&utm_source=twitter) \#article - "The news headlines about what perks or elements of office design make for a great employee experience seem to be dominated by fads — think treadmill desks, nap pods, and “bring your dog to work day” for starters."
 
+[A Simple Guide to Working / Learning From Home: HOW TO ADJUST](https://www.youtube.com/watch?v=61wdjr6gWpw) \#video - "Making the transition to working or learning from home? Welcome! Here are some research-based strategies for making it easier. These strategies are especially important for neurodiverse brains, but they're helpful for all brains. Please share!"
+
 [Nomad List](https://nomadlist.com/) - "[Nomad List](https://nomadlist.com/help) is a database of 2,327+ cities in the world analyzing 1,889,930+ data points every second to help you choose where to go next — and when you arrive, it connects you to 100,000+ 🌍 nomads there."
 
 [The Fullstack Shack - Office Tour](https://www.youtube.com/watch?v=HPOq3QJz_7s) \#video - Tool shed turned into office space.
 
-[We Work Remotely](https://weworkremotely.com/) - "We Work Remotely is the **largest remote work community in the world.** With over 2.5M monthly visitors, WWR is the \#1 destination to find and list incredible remote jobs."
+[Top 10 Work from Home Productivity Tips \(and How to Not Go Crazy!\)](https://www.youtube.com/watch?v=PLBYYdg0sfs&feature=youtu.be) \#video - "Work from home or remotely now? With over 12 years of experience working from home \(after getting laid off in 2008 during a similar world crisis\), I wanted to film this video to help you if you're having to work from home or remotely for the first time, especially if you know you'll be doing this for a while."
+
+[Work From Home Productivity: The Hard Data on Remote Work](https://blog.rescuetime.com/work-from-home-productivity-data) \#article - “With the spread of coronavirus forcing thousands of people to work from home for the first time, there are more opinions than ever about how to work from home. But at RescueTime, we’re in a unique position to see the true impact in real-time.”
+
+[Working From Home](https://mikemcquaid.com/2014/11/23/working-from-home/) \#article - "Now that remote working is becoming more widely available various guides keep popping up about all the things you must ensure you always/never do if you want to work from home successfully. I tend to nod along with about half of each article and strongly disagree with the other half. With that caveat; here are the things I’ve found that help me work from home successfully"
+
+[Working from Home: How to Set Up Your Workspace](https://www.youtube.com/watch?v=tMTxikrSe8g&feature=youtu.be) \#video - "This week we're starting a whole series of videos on how to effectively work \(and learn\) from home. In this initial video, we'll go through what it takes to set up at great workspace that enables you to focus easily and detach once the workday is over."
 
 ## Communication
 
@@ -45,20 +53,4 @@
 [5 Ways You're Sitting Wrong at Your Desk - Computer Desk Setup Ergonomics](https://www.bing.com/videos/search?q=ergonomic+desk+setup&&view=detail&mid=7D0E85E0859519FC14927D0E85E0859519FC1492&&FORM=VRDGAR) \#video
 
 [Ergonomics: How to Set Up a Computer Workstation](https://www.bing.com/videos/search?q=ergonomic+desk+setup&&view=detail&mid=4DE3152A962C79E6C25A4DE3152A962C79E6C25A&rvsmid=7D0E85E0859519FC14927D0E85E0859519FC1492&FORM=VDQVAP) \#video
-
-## Productivity
-
-[6 Work From Home Rules From Someone Who's Done It For Years](https://www.youtube.com/watch?v=jBsXlzl3eo0&feature=youtu.be) \#video - "In this episode, Chelsea walks us through the steps that help her work better from home, taken from her experience as a WFH freelancer, to a sometimes-remote business owner, back to working almost entirely from home."
-
-[A Simple Guide to Working / Learning From Home: HOW TO ADJUST](https://www.youtube.com/watch?v=61wdjr6gWpw) \#video - "Making the transition to working or learning from home? Welcome! Here are some research-based strategies for making it easier. These strategies are especially important for neurodiverse brains, but they're helpful for all brains. Please share!"
-
-[Top 10 Work from Home Productivity Tips \(and How to Not Go Crazy!\)](https://www.youtube.com/watch?v=PLBYYdg0sfs&feature=youtu.be) \#video - "Work from home or remotely now? With over 12 years of experience working from home \(after getting laid off in 2008 during a similar world crisis\), I wanted to film this video to help you if you're having to work from home or remotely for the first time, especially if you know you'll be doing this for a while."
-
-[Work From Home Productivity: The Hard Data on Remote Work](https://blog.rescuetime.com/work-from-home-productivity-data) \#article - “With the spread of coronavirus forcing thousands of people to work from home for the first time, there are more opinions than ever about how to work from home. But at RescueTime, we’re in a unique position to see the true impact in real-time.”
-
-[Working From Home](https://mikemcquaid.com/2014/11/23/working-from-home/) \#article - "Now that remote working is becoming more widely available various guides keep popping up about all the things you must ensure you always/never do if you want to work from home successfully. I tend to nod along with about half of each article and strongly disagree with the other half. With that caveat; here are the things I’ve found that help me work from home successfully"
-
-[Working from Home: How to Set Up Your Workspace](https://www.youtube.com/watch?v=tMTxikrSe8g&feature=youtu.be) \#video - "This week we're starting a whole series of videos on how to effectively work \(and learn\) from home. In this initial video, we'll go through what it takes to set up at great workspace that enables you to focus easily and detach once the workday is over."
-
-[Working From Home: How to Stay Focused](https://www.youtube.com/watch?v=AgIggrkBFcU&feature=youtu.be) \#video - "When you work from home, you work near all your favorite distractions - your personal computer, game consoles, family, favorite snacks, and more. Plus, home just often doesn't feel like a good "work" spot. It can be hard to get started."
 
