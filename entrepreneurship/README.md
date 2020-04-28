@@ -66,6 +66,8 @@
 * Get mentorship.
 * Wait until you have a solid strategy for customer acquisition that is working before you quit your job to go full-time with your side project.
 
+[Yogababble](https://www.profgalloway.com/yogababble) \#article - "The boards of Theranos and WeWork included [former and future](https://www.businessinsider.com/theranos-former-board-members-henry-kissinger-george-shultz-james-mattis-2019-3) Secretaries of Defense, Supreme Allied Commanders, and billionaire CEOs of iconic firms. These individuals can assess geopolitical markers, troop movements, and business trends better than anybody on the planet, maybe in history. But put a young woman from Stanford in a black turtleneck, or a guy with great hair, in the same room, and these global leaders couldn't recognize blatant fraud."
+
 ## Finance
 
 [Can I Deduct That As A Business Expense?](https://www.forbes.com/sites/brianthompson1/2019/03/17/can-i-deduct-that-as-a-business-expense/#39639ab66a15) \#article - "I work with many business owners and by far, the most commonly asked question I get is, “Can I deduct that as a business expense?” As with all good tax law questions, it depends on a lot of factors — the type of expense, the type of business that you have and whether you can verify the purpose behind the expenses."

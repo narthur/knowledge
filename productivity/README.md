@@ -9,6 +9,8 @@
 
 [Baronfig](https://www.baronfig.com/) - "Tools for Thinking." Notebooks, pens, bags, etc.
 
+[Checkvist](https://checkvist.com/) \#webapp - "Outline. Organize. Simplify. Peace of mind and control over tasks, to-dos, writing, and planning projects"
+
 [clarissalittler/productive-while-mentally-ill](https://github.com/clarissalittler/productive-while-mentally-ill) \#book - "Repo for a short book on dealing with chronic mental illness while still trying to Get Things Done."
 
 [Contexts](https://contexts.co/) \#software - "Switch between application windows effortlessly — with Fast Search, a better Command-Tab, a Sidebar or even a quick gesture. Includes fantastic features for multiple spaces & multiple displays."

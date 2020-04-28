@@ -10,8 +10,6 @@
 
 [FocusMe](https://focusme.com/) \#app \#software - "Break free from distractions, Unleash your productivity. FocusMe is the most powerful App and Website Blocker for Windows, Mac & Android. Our Android app is free!" Coupon code: MAY20
 
-[The Focus Toolkit - Thomas Frank](https://thomasjfrank.com/focus-toolkit/) - "Need to focus? Here’s a toolbox full of resources that will help you do it successfully."
-
 [Forest](https://www.forestapp.cc/) \#app - "Stay focused, be present"
 
 [Hocus Focus](http://hocusfoc.us/) \#software - "Hocus Focus automatically hides application windows that have been inactive for a certain period of time, leaving only the applications you’re using visible. It’s a great way to keep your screens clutter free and your mind focused on the task at hand."
