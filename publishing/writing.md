@@ -4,17 +4,11 @@
 
 ## Blogging
 
-[Canvas](https://cnvs.io/?ref=producthunt) - "Sometimes creating a blog is easier said than done. With Canvas, it's just easier. Simple installation, the freedom to make it look how you want, and a familiar editing environment keeps you focused on what Canvas is really good at: Publishing."
-
-[Earnestly](https://ernestly.co/) - "Independent short-form blogging in plain-text for building in public. Share each step of your startup journey with bite-sized posts of **1200 characters or less**."
-
 [ghost](https://ghost.org/pricing/) - "Fiercely independent, professional publishing." Starts at $29 / month billed annually.
 
 [Telegraph](https://telegra.ph/) - Anonymous online publishing.
 
 [write.as](https://write.as/) - "A place for focused writing." Freemium.
-
-[write freely](https://writefreely.org/) - "An open source platform for building a writing space on the web."
 
 ## Software
 

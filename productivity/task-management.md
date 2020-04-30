@@ -18,6 +18,8 @@
 
 [OmniFocus](https://www.omnigroup.com/omnifocus)
 
+[The PARA Method: A Universal System for Organizing Digital Information](https://fortelabs.co/blog/para/) \#article - "Imagine for a moment the perfect organizational system. One that supported and enhanced the work you do, telling you exactly where to put a piece of information, and exactly where to find it when you needed it."
+
 [TickTick](https://www.ticktick.com/) \#software - "Join millions of people to capture ideas, organize life, and do something creative everyday."
 
 [Whimsical](https://whimsical.com/) \#webapp - "Communicate visually at the speed of thought."
