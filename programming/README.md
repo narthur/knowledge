@@ -2,6 +2,8 @@
 
 [10x engineers](https://twitter.com/skirani/status/1149302828420067328) \#thread - "Founders if you ever come across this rare breed of engineers, grab them. If you have a 10x engineer as part of your first few engineers, you increase the odds of your startup success significantly." [Article in case thread is taken down](https://www.7pace.com/blog/10x-engineers).
 
+[Amplitude](https://amplitude.com/) \#webapp - Product intelligence. "See how Amplitude helps you use customer data to build great product experiences that convert and retain users."
+
 Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference \#book
 
 Think Bayes: Bayesian Statistics in Python \#book
@@ -77,6 +79,13 @@ Google Cloud Platform
 [Spectrum](https://spectrum.chat/) - "Spectrum makes it easy to grow safe, successful online communities that are built to last." Has a lot of developer communities.
 
 [WIP](https://wip.chat/?page=4) - "We are a community of makers"
+
+## Continuous Deployment
+
+{% embed url="https://youtu.be/LNLKZ4Rvk8w" %}
+
+[Continuous deployment with CircleCI](https://circleci.com/integrations/deployment/) - "Automate deployments with  
+CircleCI orbs A fast, out-of-the-box solution for integrating with AWS Lambda, GCP, Kubernetes, and other deployment services."
 
 ## Continuous Integration
 
