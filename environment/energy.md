@@ -8,6 +8,8 @@
 
 [The fight to rethink \(and reinvent\) nuclear power](https://www.youtube.com/watch?v=poPLSgbSO6k&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video - "New nuclear energy technology has come a long way - but can we get over our fears?"
 
+[How Offshore Oil Rigs Work](https://www.youtube.com/watch?v=ABIkWS_YavM) \#video
+
 [Oil and gas companies are facing major technological disruption](https://www.youtube.com/watch?v=AJ38SiVOD78&list=PLIilwIraDV2JwXZ5bQ500pxPe0PyL3m7L&index=2) \#video - "Pressure to reduce carbon emissions is putting the future of fossil fuel giants in jeopardy. Their survival plans involve carbon storage and floating wind farms. Meanwhile, one small German village is showing how large companies aren't always essential."
 
 [Thorium - The Future of Energy?](https://www.youtube.com/watch?v=U1lIfFcxVuY&feature=youtu.be) \#video - "There's been a lot of talk about Thorium lately, but what's it all about? Will it be the future of energy?"
