@@ -32,8 +32,6 @@ Notion
 
 [Polar](https://getpolarized.io/#pricing) - "A **powerful** document manager for web pages, textbooks, PDFs, and anything you want to read."
 
-[Roam](https://roamresearch.com/) \#webapp - "A note-taking tool for networked thought. As easy to use as a document. As powerful as a graph database. Roam helps you organize your research for the long haul."
-
 ## Publishing
 
 [Golden](https://golden.com/?ref=producthunt) - "The intelligent, open knowledge base. Explore the world's first self-constructing knowledge database built by artificial and human intelligence." Wikipedia competitor.

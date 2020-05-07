@@ -6,6 +6,8 @@
 
 [Drafts](https://getdrafts.com/) - "Where Text Starts." Mac and iOS.
 
+[Joplin](https://joplinapp.org/) - "**Joplin** is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes are searchable, can be copied, tagged and modified either from the applications directly or from your own text editor. The notes are in [Markdown format](https://joplinapp.org/#markdown)."
+
 [Roam Research](https://roamresearch.com/) \#webapp - "A note-taking tool for networked thought. As easy to use as a document. As powerful as a graph database. Roam helps you organize your research for the long haul."
 
 [Tyke](https://tyke.app/) \#software - "A little bit of scratch paper 📝 that lives on your Mac menu bar."
