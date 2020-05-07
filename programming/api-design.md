@@ -45,13 +45,15 @@
 
 ## GraphQL
 
-[Apollo GraphQL](https://www.apollographql.com/docs/react/) - "**Apollo Client** is a complete state management library for JavaScript apps. Simply write a GraphQL query, and Apollo Client will take care of requesting and caching your data, as well as updating your UI."
+[Apollo GraphQL](https://www.apollographql.com/docs/react/) - "Simplify app development by combining APIs, databases, and microservices into a single data graph that you can query with GraphQL"
 
 [Graphene-Python](https://graphene-python.org/) - "Graphene-Python is a library for building GraphQL APIs in Python easily, its main goal is to provide a simple but extendable API for making developers' lives easier."
 
 [GraphiQL](https://github.com/graphql/graphiql) - "GraphiQL is the reference implementation of this monorepo, GraphQL IDE, an official project under the GraphQL Foundation. The code uses the permissive MIT license."
 
 [graphql-docs](https://github.com/mhallin/graphql-docs) - "Dynamically generated documentation explorer for [GraphQL](http://graphql.org/) schemas. It aims to provide a better overview of a schema than [GraphiQL](https://github.com/graphql/graphiql), but without querying features."
+
+[GraphQL Essential Training](https://www.lynda.com/GraphQL-tutorials/GraphQL-Essential-Training/614315-2.html) \#course - Lynda.com. "GraphQL—a query language for APIs that was originally built by Facebook—makes it easier for you to get the data you actually need from a query. In this course, learn how to get started with GraphQL. Instructor Emmanuel Henri walks through how to set up GraphQL, explores the GraphQL schema, and goes over the basic types and fields. He also shows how to set up persistence—including how to use SQL and Mongo DB with GraphQL; covers how to add new items with mutations; and shares how to leverage some advanced features in your queries"
 
 [Lessons from 4 Years of GraphQL](https://www.youtube.com/watch?v=zVNrqo9XGOs&list=WL&index=3&t=0s) \#video - "GraphQL has been in use at Facebook for over four years and evolved a lot before it was open sourced. During that time we learned a lot about what works and why, and derived a series of best practices. Hopefully our best practices and lessons learned are relevant not only to your use of GraphQL, but how you design and build all sorts of software."
 
