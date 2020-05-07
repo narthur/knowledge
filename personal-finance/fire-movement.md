@@ -10,6 +10,8 @@
 
 [ChooseFI Local Groups](https://www.choosefi.com/local-groups/) - "The [local groups portal](https://apps.choosefi.com/local-groups/) has a list of all [geographic group listings](https://apps.choosefi.com/local-groups/) as well as the [interest & employment cohort groups](https://apps.choosefi.com/local-groups/cohorts/)."
 
+[ChooseFI: Start Page](https://www.choosefi.com/start-page/) - "Whether your preferred way to learn and take action is by listening, watching, or reading, there is no better time to start building towards FI – and there is no better team to help you get there than the ChooseFI community."
+
 [Family Man Retires at 39 – Extreme Early Retirement \| FIRE](https://www.youtube.com/watch?v=8yNsKxbq0Ak&feature=youtu.be) \#video - "Tim Stobbs is married with two children, and he retired from his career at 39 years old.  How did he do it?!  In this video we ask him about the lifestyle changes he and his family made in order to reduce their spending, increase their savings, and invest enough money so they could afford to quit their jobs and live off the interest from their investments."
 
 [Playing with Fire](https://www.playingwithfire.co/) \#documentary

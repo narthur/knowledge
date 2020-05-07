@@ -2,8 +2,6 @@
 
 [10x engineers](https://twitter.com/skirani/status/1149302828420067328) \#thread - "Founders if you ever come across this rare breed of engineers, grab them. If you have a 10x engineer as part of your first few engineers, you increase the odds of your startup success significantly." [Article in case thread is taken down](https://www.7pace.com/blog/10x-engineers).
 
-[Amplitude](https://amplitude.com/) \#webapp - Product intelligence. "See how Amplitude helps you use customer data to build great product experiences that convert and retain users."
-
 Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference \#book
 
 Think Bayes: Bayesian Statistics in Python \#book
@@ -53,6 +51,12 @@ Think Bayes: Bayesian Statistics in Python \#book
 [Python AST module](https://docs.python.org/3/library/ast.html) - "The [`ast`](https://docs.python.org/3/library/ast.html#module-ast) module helps Python applications to process trees of the Python abstract syntax grammar. The abstract syntax itself might change with each Python release; this module helps to find out programmatically what the current grammar looks like."
 
 [recast](https://github.com/benjamn/recast) \#software - "Recast exposes two essential interfaces, one for parsing JavaScript code \(`require("recast").parse`\) and the other for reprinting modified syntax trees \(`require("recast").print`\)."
+
+## Analytics
+
+[Amplitude](https://amplitude.com/) \#webapp - Product intelligence. "See how Amplitude helps you use customer data to build great product experiences that convert and retain users."
+
+[Chartio](https://chartio.com/) - "Create powerful dashboards from your company’s data and quickly discover insights with Chartio."
 
 ## API Design
 

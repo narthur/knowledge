@@ -6,7 +6,7 @@
 
 [Clubhouse](https://clubhouse.io/) \#webapp - "Clubhouse is the first project management platform for software development that brings everyone on every team together to build better products."
 
-[Coda](https://coda.io/welcome) \#webapp - “It’s a new day  for docs. For years, your team has been split  across spreadsheets, docs, and apps. It’s time to bring us back together.”
+[Coda](https://coda.io/welcome) - "Coda begins with a blinking cursor and grows as big as your team’s ambition. We’ve seen Coda docs do everything from run weekly meetings to launch products. What will you Coda?"
 
 [Dimer](https://dimerapp.com) - “Simplest way to publish docs. Dimer generates a clean and beautiful documentation website from Markdown.” $15 / site / month.
 

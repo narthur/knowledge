@@ -4,13 +4,11 @@
 
 [BrowserStack: Free Testing on Microsoft Edge](https://www.browserstack.com/test-on-microsoft-edge-browser#) - "Until now, developers have been relying on virtual machines or PC’s with Windows 10 to test their products and websites on Microsoft Edge. To provide an easier way to test, Microsoft and BrowserStack are partnering to give developers a cloud-based infrastructure to instantly test and ship great experiences on Microsoft Edge."
 
-[Grimlin.js](https://github.com/marmelab/gremlins.js) - "Monkey testing library for web apps and Node.js"
-
 [Lighthouse Chrome extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - "Lighthouse is an open-source, automated tool for improving the performance, quality, and correctness of your web apps. When auditing a page, Lighthouse runs a barrage of tests against the page, and then generates a report on how well the page did. From here you can use the failing tests as indicators on what you can do to improve your app."
 
 [Microsoft Edge virtual machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) - "Test Microsoft Edge \(EdgeHTML\) and versions of IE8 through IE11 using free virtual machines you download and manage locally."
 
-[ngrok](https://ngrok.com/) - "Spend more time programming. One command for an instant, secure URL to your localhost server through any NAT or firewall."
+[Grimlin.js](https://github.com/marmelab/gremlins.js) - "Monkey testing library for web apps and Node.js"
 
 ## **Property-based Testing**
 

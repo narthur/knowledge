@@ -18,9 +18,13 @@
 
 [iDramaLab](https://idrama.science/) - "The iDRAMA Lab is an international group of researchers interested in a variety of modern computing and socio-technical concerns. Collectively, we have published work ranging from genomic privacy, to cryptography and Web security, to distributed systems, and even video games. More recently, we have worked on understanding and mitigating modern socio-technological issues such as online harassment campaigns, hate speech and political radicalization, and understanding the subtle ways in which web communities influence each other."
 
+[Intention](https://www.getintention.com/) \#extension - Chrome & Firefox. "Build the habit of focus. **Intention pauses distractions so you can scroll less and do more."**
+
 [IRL Glasses](https://www.kickstarter.com/projects/ivancash/irl-glasses-glasses-that-block-screens/faqs) - "Glasses that Block Screens." Made by [IRL Labs](https://www.irl-labs.co/).
 
 [LeftBlank.co](http://www.leftblank.co/) - "This page intentionally left blank."
+
+[Pi-hole](https://pi-hole.net/) - "A black hole for Internet advertisements"
 
 [Pomy](https://vanejung.com/pomy/) \#software - "Focus timer app for your eye health"
 
