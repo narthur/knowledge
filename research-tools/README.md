@@ -2,6 +2,8 @@
 
 [BookStack](https://www.bookstackapp.com) - "Simple & Free Wiki Software. BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information."
 
+[Building a Second Brain](https://www.buildingasecondbrain.com/) \#course - "Do you consume tons of interesting information, but feel like it’s not leading to meaningful results in your life? Discover how having a Second Brain is helping people around the world save their best ideas, organize their learning, and dramatically expand their creative output"
+
 [Copy Cat - Quick Copy Title and URL - Chrome Web Store](https://chrome.google.com/webstore/detail/copy-cat-quick-copy-title/andlmjmbnlaamloflnelcafcnkiplhkc?authuser=0) - Chrome extension.
 
 [Frase](https://frase.io/?ref=producthunt) - "The AI Layer for your Content. For anyone creating content on a regular basis, Frase helps you research faster so you can focus on creativity."
@@ -31,6 +33,8 @@ Notion
 [Pocket](https://getpocket.com/) \#webapp - "Save content from everywhere. Save articles, videos and stories from any publication, page or app. Curate your own space filled with everything you can’t wait to learn."
 
 [Polar](https://getpolarized.io/#pricing) - "A **powerful** document manager for web pages, textbooks, PDFs, and anything you want to read."
+
+[Roam](https://roamresearch.com/) \#webapp - "A note-taking tool for networked thought. As easy to use as a document. As powerful as a graph database. Roam helps you organize your research for the long haul."
 
 ## Publishing
 
