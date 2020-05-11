@@ -6,6 +6,8 @@
 
 [CodeTasty](https://codetasty.com/) \#webapp - "Modern, smart & extensible cloud IDE. CodeTasty is powerful IDE in the cloud with additional features only a cloud application can give you."
 
+[GitHub Codespaces](https://github.com/features/codespaces) - "Your instant dev environment. **Get the full Visual Studio Code experience without leaving GitHub."**
+
 [Insomnia](https://insomnia.rest/) - "Debug APIs like a human, not a robot. Finally, a REST client you'll love"
 
 [IntelliJ IDEA](https://www.jetbrains.com/idea/) - "**IntelliJ IDEA** is an [integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment) \(IDE\) written in [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29) for developing computer software. It is developed by [JetBrains](https://en.wikipedia.org/wiki/JetBrains) \(formerly known as IntelliJ\), and is available as an [Apache 2 Licensed](https://en.wikipedia.org/wiki/Apache_2_License) community edition,[\[4\]](https://en.wikipedia.org/wiki/IntelliJ_IDEA#cite_note-4) and in a [proprietary](https://en.wikipedia.org/wiki/Proprietary_software) commercial edition. Both can be used for commercial development[\[5\]](https://en.wikipedia.org/wiki/IntelliJ_IDEA#cite_note-5)" \([Wikipedia](https://en.wikipedia.org/wiki/IntelliJ_IDEA)\).

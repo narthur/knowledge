@@ -1,7 +1,5 @@
 # Attention Management
 
-[3 Ways to Trick Your Brain Into Doing Hard Work](https://www.youtube.com/watch?v=o22pjf9obA0&t=328s) \#video - "Sometimes, you sit down with the best of intentions and... nothing gets done. Like Eddie Morra at the beginning of Limitless, you put in the time, stay in the room, and yet the inspiration refuses to strike. Other times, you just intend to jot something down and end up getting a ton of work done almost by accident. But it's not actually an accident; you've just successfully tricked your brain into working. In this video, I'll share three ways you can successfully pull off this trick."
-
 [100 time, energy, and attention hacks to be more productive](https://alifeofproductivity.com/100-time-energy-attention-hacks-will-make-productive/) \#article - "**Toward the end of my year of productivity, I realized that every single article I wrote for A Year of Productivity could be classified into one \(or more\) of three categories**: how to better manage your **time**, how to better manage your **energy**, and how to better manage your **attention**."
 
 [Bunch](https://brettterpstra.com/projects/bunch/) \#software - "A Batch Application Launcher for your Dock"
@@ -11,8 +9,6 @@
 [Focus](https://heyfocus.com/) \#software - "Reclaim your productivity by blocking distracting sites and applications, like Facebook and Fortnite. Stay on task and in flow to accomplish your best work!"
 
 [FocusMe](https://focusme.com/) \#app \#software - "Break free from distractions, Unleash your productivity. FocusMe is the most powerful App and Website Blocker for Windows, Mac & Android. Our Android app is free!" Coupon code: MAY20
-
-[The Focus Toolkit - Thomas Frank](https://thomasjfrank.com/focus-toolkit/) - "Need to focus? Here’s a toolbox full of resources that will help you do it successfully."
 
 [Forest](https://www.forestapp.cc/) \#app - "Stay focused, be present"
 
