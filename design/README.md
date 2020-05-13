@@ -44,6 +44,11 @@
 
 [Icons8](https://icons8.com/) - "FREE DESIGN RESOURCES AND SOFTWARE." Icons, photos, vectors, music. 👍
 
+[JoyPixels® - The freemium emoji company. Emoji font licensing since 2014.](https://www.joypixels.com/)
+
+ [https://openmoji.org/](https://openmoji.org/)  
+[https://twemoji.twitter.com/](https://twemoji.twitter.com/)
+
 ### Illustrations
 
 [Icons8](https://icons8.com/) - "FREE DESIGN RESOURCES AND SOFTWARE." Icons, photos, vectors, music. 👍

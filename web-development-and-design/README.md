@@ -176,3 +176,5 @@ FunFunFunction \#channel -  [funfun.chat](http://funfun.chat/).
 
 [web.dev](https://web.dev/) - "Let's build the future of the web. Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev."
 
+[https://emmawedekind.com/](https://emmawedekind.com/)
+

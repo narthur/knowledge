@@ -8,6 +8,8 @@ Think Bayes: Bayesian Statistics in Python \#book
 
 [Biggest Challenge You'll Face Learning to Code \(Plus How to Overcome It!\)](https://www.youtube.com/watch?v=B-sh_ncnDUE) \#video - "Learning any new skill is challenging and I've definitely noticed a recurring theme that most everybody faces: how to stay motivated when progress seems to be non-existent \(also know as the intermediate plateau\). There's is no easy answer or magic pill but I definitely laid out a few pieces of advice of how to overcome it."
 
+[Convention over configuration - Wikipedia](https://en.wikipedia.org/wiki/Convention_over_configuration)
+
 [Database normalization](https://en.wikipedia.org/wiki/Database_normalization) \#article - Wikipedia. "**Database normalization** is the process of structuring a [relational database](https://en.wikipedia.org/wiki/Relational_database) in accordance with a series of so-called [normal forms](https://en.wikipedia.org/wiki/Database_normalization#Normal_forms) in order to reduce [data redundancy](https://en.wikipedia.org/wiki/Data_redundancy) and improve [data integrity](https://en.wikipedia.org/wiki/Data_integrity). It was first proposed by [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd) as part of his [relational model](https://en.wikipedia.org/wiki/Relational_model)."
 
 [FOSSA](https://fossa.com/) - "Scalable, end-to-end management for third-party code, license compliance and vulnerabilities."
