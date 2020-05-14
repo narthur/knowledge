@@ -26,5 +26,9 @@
 
 [The FI Show](https://thefishow.com/) \#podcast - "The FI Show is a podcast dedicated to financial independence, personal development and life optimization. Join Cody and Justin for a fun, informative show packed with actionable tips from our guests!"
 
+[Frugalwoods](https://www.frugalwoods.com/) \#blog - "Financial independence and simple living"
+
+[Mad Fientist](https://www.madfientist.com/) \#blog - "The Science of Financial Independence"
+
 [Mr. Money Mustache](https://www.mrmoneymustache.com/) \#blog - "Mr Money Mustache is a thirtysomething\* retiree who now writes about how we can all live a frugal yet Badass life of leisure."
 
