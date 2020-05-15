@@ -12,5 +12,9 @@
 
 ## Growth Mindset
 
+Carol Dweck
+
+[The Pygmalion Effect](https://www.youtube.com/watch?v=4aN5TbGW5JA&feature=youtu.be) - "The Pygmalion Effect is the phenomenon whereby higher expectations lead to higher performance. The Pygmalion effect is also known as the Rosenthal Experiment, named after a research of Robert Rosenthal at Harvard."
+
 [Rise: 20 Years of Kelly Clark](https://www.youtube.com/watch?v=m7Q22F8mXuQ) \#video - "One of the winningest athletes of all time, the story of Kelly Clark’s snowboarding career is nothing short of mind-blowing. Between the Olympics, the Burton US Open, X Games - if it involved a podium in snowboarding, chances are Kelly has stood atop it."
 

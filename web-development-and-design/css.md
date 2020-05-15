@@ -42,9 +42,11 @@
 
 [What No One Told You About Z-Index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/) \#article - "The problem with z-index is that very few people understand how it really works. It’s not complicated, but it if you’ve never taken the time to read its specification, there are almost certainly crucial aspects that you’re completely unaware of."
 
-## Frameworks
+## Frameworks & Libraries
 
 [Bootstrap](https://getbootstrap.com/) - “Build responsive, mobile-first projects on the web with the world’s most popular front-end component library. Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.”
+
+[Family.scss](https://lukyvj.github.io/family.scss/) - "**Family.scss** is a set of **26** smart Sass mixins which will help you to manage the style of `:nth-child`’ified elements, in an easy and classy way."
 
 [tailwindcss](https://tailwindcss.com/) - "A utility-first CSS framework for rapidly building custom designs. Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override."
 

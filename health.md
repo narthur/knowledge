@@ -14,6 +14,8 @@
 
 [The Top 10 Benefits of Regular Exercise](https://www.healthline.com/nutrition/10-benefits-of-exercise) \#article - "Being active has been shown to have many health benefits, both physically and mentally." Healthline.
 
+[Welltory](https://welltory.com/) - "Measure your stress and energy levels with your smartphone"
+
 [Zwift](https://zwift.com/) - "SERIOUS TRAINING MADE FUN. The at home training app connecting cyclists around the world."
 
 ## Sleep
