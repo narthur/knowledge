@@ -27,7 +27,7 @@
 
 \_\_[_The Motivation Hacker_](http://www.nickwinter.net/the-motivation-hacker) \#book - "_The Motivation Hacker_ shows you how to summon extreme amounts of motivation to accomplish anything you can think of. From precommitment to rejection therapy, this is your field guide to getting yourself to want to do everything you always wanted to want to do."
 
-[Numi](https://numi.io) \#software - "Beautiful calculator app for Mac"
+[Numi](https://numi.io) \#software - "Beautiful calculator app for Mac." [Alternatives](https://alternativeto.net/software/numi/)
 
 "Plans are nothing; planning is everything" \(Dwight D. Eisenhower; [via BrainyQuote](https://www.brainyquote.com/quotes/dwight_d_eisenhower_149111)\).
 
@@ -56,6 +56,8 @@
 [yEd](https://www.yworks.com/products/yed) \#software - "yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams. Create diagrams manually, or import your external data for analysis. Our automatic layout algorithms arrange even large data sets with just the press of a button."
 
 ## Energy Management
+
+[3 habits for better work-life balance](https://www.youtube.com/watch?v=ctdUGVmEvfo&feature=youtu.be) \#video - "How can you achieve work/life balance? Well, typically the most effective method is to find and enlist the services of an all-powerful genie and just wish for it. It's not like it's against the rules!"
 
 [100 time, energy, and attention hacks to be more productive](https://alifeofproductivity.com/100-time-energy-attention-hacks-will-make-productive/) \#article - "**Toward the end of my year of productivity, I realized that every single article I wrote for A Year of Productivity could be classified into one \(or more\) of three categories**: how to better manage your **time**, how to better manage your **energy**, and how to better manage your **attention**."
 

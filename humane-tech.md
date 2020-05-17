@@ -68,6 +68,8 @@
 
 [Forest](https://www.forestapp.cc/) \#app - "Stay focused, be present"
 
+[Indistractable Launcher](https://play.google.com/store/apps/details?id=com.indistractablelauncher.android&hl=en_US) \#app - "The minimalist launcher \(Early Access\)"
+
 [The Light Phone](https://www.thelightphone.com/) - "A phone is a tool, and it should serve you as the user, not the other way around. The Light Phone II is a phone that actually respects you."
 
 [Mudita Pure](https://mudita.com/products/pure/) - "Modern take on a classic phone. Enjoy no distractions, an eye-friendly E Ink display, long battery life, ultralow SAR value and the features you need."

@@ -59,6 +59,12 @@ console.log(found);
 
 [Writing Maintainable and Readable Javascript: Design Patterns](https://www.javascriptjanuary.com/blog/writing-maintainable-and-readable-javascript-design-patterns) \#article - “Over the lifespan of Javascript, many design patterns have been made and tested by a large number of developers using javascript. In this article, we would explain the common design patterns used by javascript developers.”
 
+## TypeScript
+
+[TypeScript: Typed JavaScript at Any Scale.](https://www.typescriptlang.org/)
+
+[Typing Destructured Object Parameters in TypeScript](https://mariusschulz.com/blog/typing-destructured-object-parameters-in-typescript) \#article
+
 ## Sources
 
 [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) \#channel - "I’m Mattias Petter Johansson, mpj for short. I’ve been a full-time programmer for about ten years. Among others, I've worked for Absolut Vodka, Blackberry and Spotify."

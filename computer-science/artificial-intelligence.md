@@ -120,6 +120,8 @@ Main video: [How Machines Learn](https://www.youtube.com/watch?v=R9OHn5ZF4Uo) \#
 
 [Silicon Brain: 1,000,000 ARM cores - Computerphile](https://www.youtube.com/watch?v=2e06C-yUwlc&list=PLIilwIraDV2L3QailjC91OkRaIioM0DYv&index=2) \#video
 
+[Solving Rubik’s Cube with a Robot Hand](https://www.youtube.com/watch?v=x4O8pojMF0w&feature=youtu.be) \#video - "We’ve trained a pair of neural networks to solve the Rubik’s Cube with a human-like robot hand."
+
 [This 19-year-old can keep astronauts safe from space junk](https://www.youtube.com/watch?v=vAjvQp69SS8) \#video - “Space debris is a growing threat to space exploration.” She’s training a neural net to track space debris and make changing orbit predictions.
 
 [Why Is Deep Learning Hot Right Now?](https://www.youtube.com/watch?v=1G0e-mR9a4k&list=PLIilwIraDV2L3QailjC91OkRaIioM0DYv&index=2) \#video - “Deep learning is the fastest-growing field in artificial intelligence \(AI\), helping computers make sense of infinite amounts of data in the form of images, sound, and text. Using multiple levels of neural networks, computers now have the capacity to see, learn, and react to complex situations as well or better than humans. Today’s deep learning solutions rely almost exclusively on NVIDIA GPU-accelerated computing to train and speed up challenging applications such as image, handwriting, and voice identification.”
