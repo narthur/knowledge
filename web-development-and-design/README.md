@@ -16,8 +16,6 @@
 
 [Landbot.io](https://landbot.io/) - "Hey! 👋 My name is Landbot and I transform websites into Conversational Experiences."
 
-[Microservices Foundations](https://www.lynda.com/Developer-tutorials/Microservices-Foundations/647664-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3amicroservices%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) \#course - "Microservices is a major architectural pattern in the software industry, and having an overview of what this architecture is-and what it isn't-is critical as a starting point to evaluating this model. This course covers the basic concepts of microservices, to help you determine if this architectural model is the right fit for you and your team. Instructor Frank Moley kicks off the course by briefly discussing how microservices fit into the history of software architecture, and going into some of the other notable patterns that have emerged in recent years. Frank then helps to familiarize you with some core concepts of microservices, including bounded contexts and the API layer. He also goes over some of the more advanced areas of the architecture, as well as the importance of embracing a DevOps culture should you choose to move to microservices."
-
 [MX Lookup](https://mxtoolbox.com/) - "This test will list MX records for a domain in priority order. The MX lookup is done directly against the domain's authoritative name server, so changes to MX Records should show up instantly. You can click [Diagnostics](https://mxtoolbox.com/diagnostic.aspx) , which will connect to the mail server, verify reverse DNS records, perform a simple Open Relay check and measure response time performance. You may also check each MX record \(IP Address\) against 105 DNS based [blacklists](https://mxtoolbox.com/blacklists.aspx) . \(Commonly called RBLs, DNSBLs\)"
 
 [neocities](https://neocities.org) - "Create your own free website. Unlimited creativity, zero ads. Neocities is a social network of 251,600 web sites that are bringing back the lost individual creativity of the web. We offer free static web hosting and tools that allow you to create your own web site. Join us!"
@@ -85,6 +83,12 @@ Google Analytics
 [The GDPR Checklist](https://gdprchecklist.io/) - "Achieving GDPR Compliance shouldn't feel like a struggle. This is a basic checklist you can use to harden your GDPR compliancy."
 
 [GDPR Tracker](https://gdprtracker.io/) - "Track the GDPR compliance of **+100** cloud services and subprocessors."
+
+## Microservices
+
+[Microservices Foundations](https://www.lynda.com/Developer-tutorials/Microservices-Foundations/647664-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3amicroservices%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) \#course - "Microservices is a major architectural pattern in the software industry, and having an overview of what this architecture is-and what it isn't-is critical as a starting point to evaluating this model. This course covers the basic concepts of microservices, to help you determine if this architectural model is the right fit for you and your team. Instructor Frank Moley kicks off the course by briefly discussing how microservices fit into the history of software architecture, and going into some of the other notable patterns that have emerged in recent years. Frank then helps to familiarize you with some core concepts of microservices, including bounded contexts and the API layer. He also goes over some of the more advanced areas of the architecture, as well as the importance of embracing a DevOps culture should you choose to move to microservices."
+
+[Microservices: How To Build Systems That Survive - YouTube](https://www.youtube.com/watch?v=rNQR1HqfEl0) \#video - "In order to build software systems that survive, the development teams should embrace change, understand that system is an asset and code is a liability."
 
 ## Participatory Web
 
