@@ -18,9 +18,11 @@
 
 [r/financialindependence](https://www.reddit.com/r/financialindependence/) - "This is a place for people who are or want to become Financially Independent \(FI\), which means not having to work for money. Financial Independence is closely related to the concept of Early Retirement/Retiring Early \(RE\) - quitting your job/career and pursuing other activities with your time. At its core, FI/RE is about maximizing your savings rate \(through less spending and/or higher income\) to achieve FI and have the freedom to RE as fast as possible."
 
+[Why you should think about financial independence and mini-retirements \| Lacey Filipich \| TEDxUWA](https://www.youtube.com/watch?v=XSHNDyinZSQ&feature=youtu.be) \#video - "'Time poor' is the catch-cry of our era, and yet end-of-life retirement means we have an average of two decades of feeling time rich to look forward to… when we’re old. In this talk, Lacey shares how combining financial independence and mini-retirements is one way to bring that time rich feeling into our youth.  Lacey Filipich started her entrepreneurial journey with a hair wrap stall at 10 years old. Today, she is the co-founder and director of two successful businesses; Money School and Maker Kids Club."
+
 ## Sources
 
-[1500 Days to Freedom](https://www.1500days.com/) \#blog
+[1500 Days to Freedom](https://www.1500days.com/) \#blog - "I’m a family guy living in Colorado with my wife and two young children. I studied biology and chemistry in college, but somehow turned into a software developer. I’m ~~39~~ 41 and my goal is to retire in 1500 days at the age of 43."
 
 [ChooseFI](https://www.choosefi.com/) \#podcast \#blog - "Earn More, Spend Less, Enjoy The Journey"
 

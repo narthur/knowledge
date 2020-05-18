@@ -16,10 +16,6 @@ Gusto
 
 [Simple](https://www.simple.com/) - "Bank, budget and earn 25x the national average."
 
-[Two Dollar Eats](https://twodollareats.com/) - "Love your taste buds and your wallet! At Two Dollar Eats, our main goal is to save you money. We strive to provide you recipes that cost about $2 per serving, allowing you to eat delicious food while not breaking the bank!"
-
-[Why you should think about financial independence and mini-retirements \| Lacey Filipich \| TEDxUWA](https://www.youtube.com/watch?v=XSHNDyinZSQ&feature=youtu.be) \#video - "'Time poor' is the catch-cry of our era, and yet end-of-life retirement means we have an average of two decades of feeling time rich to look forward to… when we’re old. In this talk, Lacey shares how combining financial independence and mini-retirements is one way to bring that time rich feeling into our youth.  Lacey Filipich started her entrepreneurial journey with a hair wrap stall at 10 years old. Today, she is the co-founder and director of two successful businesses; Money School and Maker Kids Club."
-
 ## Budgeting
 
 [PocketSmith](https://www.pocketsmith.com/) - "PocketSmith is personal finance software with cash flow forecasts. Understand your money and its potential. Start saving today."
@@ -29,6 +25,10 @@ Gusto
 [You Need a Budget](https://www.youneedabudget.com/) \#webapp - "You Need A Budget is award-winning software and a proven method—that works." [Forum](https://support.youneedabudget.com/). [Reddit](https://www.reddit.com/r/ynab/).
 
 \_\_[_You Need a Budget_](https://www.youneedabudget.com/book-order-now/) by Jesse Mecham
+
+## Frugality
+
+[Two Dollar Eats](https://twodollareats.com/) - "Love your taste buds and your wallet! At Two Dollar Eats, our main goal is to save you money. We strive to provide you recipes that cost about $2 per serving, allowing you to eat delicious food while not breaking the bank!"
 
 ## Insurance
 
@@ -40,10 +40,15 @@ Gusto
 
 ## Sources
 
-* [Dave Ramsey](https://www.daveramsey.com/)
-* [Mr. Money Mustache](http://www.mrmoneymustache.com/)
-* [NerdWallet](https://www.nerdwallet.com/?trk=nw_gn_4.0)
-* [Saving the Crumbs](https://www.savingthecrumbs.com/)
-* [The Simple Dollar](https://www.thesimpledollar.com/)
-* [You Need a Budget blog](https://www.youneedabudget.com/blog/)
+[Cait Flanders](https://caitflanders.com/) \#blog - "Hi friend! My name is Cait. I’m an author, podcaster, and traveller from a beautiful island in British Columbia, Canada. For the past nine years, you could say I’ve been on a journey of less. Less debt. Less clutter. Less consumerism. Less alcohol \(ok, _no_ alcohol\). Less time online/on my phone. Less consumption overall. I wrote a self-help memoir that documents some of what I have experienced and discovered. [_The Year of Less_](https://caitflanders.com/the-year-of-less/) __came out in January 2018 and became a Wall Street Journal bestseller."
+
+[Dave Ramsey](https://www.daveramsey.com/)
+
+[NerdWallet](https://www.nerdwallet.com/?trk=nw_gn_4.0)
+
+[Saving the Crumbs](https://www.savingthecrumbs.com/)
+
+[The Simple Dollar](https://www.thesimpledollar.com/)
+
+[You Need a Budget blog](https://www.youneedabudget.com/blog/)
 
