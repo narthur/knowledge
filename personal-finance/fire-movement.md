@@ -26,9 +26,15 @@
 
 [ChooseFI](https://www.choosefi.com/) \#podcast \#blog - "Earn More, Spend Less, Enjoy The Journey"
 
+[Early Retirement Extreme](http://earlyretirementextreme.com/) \#blog - "ERE is a [set of principles](http://earlyretirementextreme.com/wiki/index.php?title=What_is_ERE%3F#Philosophy) that are based on a [systems theoretic](https://en.wikipedia.org/wiki/Systems_theory) approach to “lifestyle design” allowing each individual to create their own robust strategy to a flexible lifestyle that is resilient to economic downturns and which meets all needs and reasonable wants while minimizing ongoing costs and effort."
+
+[Early Retirement Now](https://earlyretirementnow.com/) \#blog - "In the large spectrum of existing Early Retirement blogs, where is our niche? We hope that people will enjoy our views on everything financial. Sometimes we read other blogs and we have something intelligent and new to say, but by posting in the comments section, not many people will get to see it. We like to create a permanent record, share our views with a hopefully larger audience and get feedback and suggestions for our journey to Early Retirement."
+
 [The FI Show](https://thefishow.com/) \#podcast - "The FI Show is a podcast dedicated to financial independence, personal development and life optimization. Join Cody and Justin for a fun, informative show packed with actionable tips from our guests!"
 
 [Frugalwoods](https://www.frugalwoods.com/) \#blog - "Financial independence and simple living"
+
+[Go Curry Cracker!](https://www.gocurrycracker.com/) \#blog - "We are Jeremy and Winnie. Together we are Go Curry Cracker, a [rallying cry](https://gocurrycracker.com/so-uhh-what-does-go-curry-cracker-mean-anyway/) we earned on our honeymoon hiking trip. This blog shares our journey."
 
 [Mad Fientist](https://www.madfientist.com/) \#blog - "The Science of Financial Independence"
 
