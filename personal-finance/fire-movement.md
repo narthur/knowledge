@@ -26,6 +26,8 @@
 
 [ChooseFI](https://www.choosefi.com/) \#podcast \#blog - "Earn More, Spend Less, Enjoy The Journey"
 
+[Dollar After Dollar](http://www.dollarafterdollar.com/) \#blog \#podcast
+
 [Early Retirement Extreme](http://earlyretirementextreme.com/) \#blog - "ERE is a [set of principles](http://earlyretirementextreme.com/wiki/index.php?title=What_is_ERE%3F#Philosophy) that are based on a [systems theoretic](https://en.wikipedia.org/wiki/Systems_theory) approach to “lifestyle design” allowing each individual to create their own robust strategy to a flexible lifestyle that is resilient to economic downturns and which meets all needs and reasonable wants while minimizing ongoing costs and effort."
 
 [Early Retirement Now](https://earlyretirementnow.com/) \#blog - "In the large spectrum of existing Early Retirement blogs, where is our niche? We hope that people will enjoy our views on everything financial. Sometimes we read other blogs and we have something intelligent and new to say, but by posting in the comments section, not many people will get to see it. We like to create a permanent record, share our views with a hopefully larger audience and get feedback and suggestions for our journey to Early Retirement."
