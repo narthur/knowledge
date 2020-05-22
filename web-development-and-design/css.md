@@ -48,6 +48,8 @@
 
 [Family.scss](https://lukyvj.github.io/family.scss/) - "**Family.scss** is a set of **26** smart Sass mixins which will help you to manage the style of `:nth-child`’ified elements, in an easy and classy way."
 
+[new.css](https://newcss.net/) - "new.css is a classless CSS framework to write modern websites using only HTML. It's **~4.5kb."**
+
 [tailwindcss](https://tailwindcss.com/) - "A utility-first CSS framework for rapidly building custom designs. Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override."
 
 ## Grid

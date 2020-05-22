@@ -14,11 +14,15 @@
 
 [Family Man Retires at 39 – Extreme Early Retirement \| FIRE](https://www.youtube.com/watch?v=8yNsKxbq0Ak&feature=youtu.be) \#video - "Tim Stobbs is married with two children, and he retired from his career at 39 years old.  How did he do it?!  In this video we ask him about the lifestyle changes he and his family made in order to reduce their spending, increase their savings, and invest enough money so they could afford to quit their jobs and live off the interest from their investments."
 
+[OnTrajectory](https://www.ontrajectory.com/) - "Chart your course to financial independence. Test your assumptions with OnTrajectory’s advanced financial planning software. Try it free for 14 days"
+
 [Playing with Fire](https://www.playingwithfire.co/) \#documentary
 
 [r/financialindependence](https://www.reddit.com/r/financialindependence/) - "This is a place for people who are or want to become Financially Independent \(FI\), which means not having to work for money. Financial Independence is closely related to the concept of Early Retirement/Retiring Early \(RE\) - quitting your job/career and pursuing other activities with your time. At its core, FI/RE is about maximizing your savings rate \(through less spending and/or higher income\) to achieve FI and have the freedom to RE as fast as possible."
 
 [Why you should think about financial independence and mini-retirements \| Lacey Filipich \| TEDxUWA](https://www.youtube.com/watch?v=XSHNDyinZSQ&feature=youtu.be) \#video - "'Time poor' is the catch-cry of our era, and yet end-of-life retirement means we have an average of two decades of feeling time rich to look forward to… when we’re old. In this talk, Lacey shares how combining financial independence and mini-retirements is one way to bring that time rich feeling into our youth.  Lacey Filipich started her entrepreneurial journey with a hair wrap stall at 10 years old. Today, she is the co-founder and director of two successful businesses; Money School and Maker Kids Club."
+
+[You want to know our savings rate? Which one?](https://earlyretirementnow.com/2017/04/05/savings-rate/) \#article - "Last week, I read a [nice post on Chief Mom Officer](https://chiefmomofficer.org/2017/03/27/why-your-savings-rate-is-meaningless/) on the challenges of calculating savings rates. Right around that time I was also revisiting our 2017 budget and the projections of how much we are going to save this year. This is the last full calendar year before our planned retirement in early 2018 and it’s imperative that we stay on track and keep a high savings rate on the home stretch. But how high is our savings rate? Is there even a generally accepted way of calculating a savings rate? What are some of the pitfalls? We were surprised about how easy it is to mess up a calculation as seemingly trivial as the savings rate."
 
 ## Sources
 
@@ -41,4 +45,8 @@
 [Mad Fientist](https://www.madfientist.com/) \#blog - "The Science of Financial Independence"
 
 [Mr. Money Mustache](https://www.mrmoneymustache.com/) \#blog - "Mr Money Mustache is a thirtysomething\* retiree who now writes about how we can all live a frugal yet Badass life of leisure."
+
+[Physician on FIRE](https://www.physicianonfire.com/) \#blog - "[Physician on FIRE](https://www.physicianonfire.com/) is a personal finance website created to inform and inspire both physicians and our patients with insightful writing from a physician who has attained financial independence and the ability to retire early. The site has a triple aim to leave visitors enlightened, educated, and entertained."
+
+[The Retirement Manifesto](https://www.theretirementmanifesto.com/blog/) \#blog - "Welcome to The Retirement Manifesto, a canvas for **“Helping People Achieve A Great Retirement”!**  I focus on practical Financial Independence and Retirement Planning issues for folks within ten years of retirement.  If you’re new to the site, I’d encourage you to read [**“The Ultimate Retirement Planning Guide”**](http://www.theretirementmanifesto.com/the-ultimate-retirement-planning-guide/), a compilation of my best work, organized by stages in your journey to retirement."
 

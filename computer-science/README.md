@@ -12,6 +12,8 @@
 
 ## Quantum Computing
 
+[GOTO 2019 • Introduction to Quantum Computing • Jessica Pointing](https://www.youtube.com/watch?v=z1RnYo0nYGM) \#video - "Certain types of problems can take billions of years to solve on our current conventional computers. Quantum computers, however, can solve these types of problems in just seconds. Because of their ‘quantum power’, quantum computers have the potential to impact many fields, such as machine learning, medicine, and energy systems."
+
 [How Quantum Computers Could Change the World](https://www.youtube.com/watch?v=kEJBxotcxRw&feature=youtu.be) \#video - "In this video we'll take a look at quantum computers and they promise they hold for the future."
 
 [PHYSICISTS ARE BEWITCHED BY TWISTED GRAPHENE'S 'MAGIC ANGLE'](https://www.wired.com/story/twisted-bilayer-graphene/) \#article - "Jarillo-Herrero has never been a slacker, but his activity has jumped several levels since his dramatic announcement in March 2018 that his lab at MIT had found superconductivity in twisted bilayer graphene—a one-atom-thick sheet of carbon crystal dropped on another one, and then rotated to leave the two layers slightly askew."

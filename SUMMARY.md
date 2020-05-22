@@ -32,6 +32,7 @@
 * [Health](health.md)
 * [Humane Tech](humane-tech.md)
 * [Infotainment](infotainment.md)
+* [Linguistics](linguistics.md)
 * [Minimalism](minimalism.md)
 * [Personal Finance](personal-finance/README.md)
   * [FIRE Movement](personal-finance/fire-movement.md)

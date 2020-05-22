@@ -25,6 +25,8 @@ console.log(found);
 
 [Best of JavaScript](https://bestofjs.org/) - "The best of JavaScript, HTML and CSS"
 
+[Blitz.js](https://blitzjs.com/) - "Rails-like framework for monolithic, full-stack React apps — built on Next.js"
+
 [BundlePhobia](https://bundlephobia.com/) \#webapp - "find the cost of adding a npm package to your bundle"
 
 [Creating a regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) \#article - "Regular expressions are patterns used to match character combinations in strings. In JavaScript, regular expressions are also objects. These patterns are used with the exec and test methods of RegExp, and with the match, replace, search, and split methods of String. This chapter describes JavaScript regular expressions."
