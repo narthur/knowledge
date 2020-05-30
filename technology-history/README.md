@@ -1,5 +1,11 @@
 # Technology History
 
+[Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) \#article - Wikipedia. "**Aaron Hillel Swartz** \(November 8, 1986 – January 11, 2013\) was an American [computer programmer](https://en.wikipedia.org/wiki/Computer_programmer), entrepreneur, writer, political organizer, and Internet [hacktivist](https://en.wikipedia.org/wiki/Hacktivism). He was involved in the development of the [web feed](https://en.wikipedia.org/wiki/Web_feed) format [RSS](https://en.wikipedia.org/wiki/RSS),[\[3\]](https://en.wikipedia.org/wiki/Aaron_Swartz#cite_note-harvmag-3) the [Markdown](https://en.wikipedia.org/wiki/Markdown) publishing format,[\[4\]](https://en.wikipedia.org/wiki/Aaron_Swartz#cite_note-markdown-swartz-4) the organization [Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons),[\[5\]](https://en.wikipedia.org/wiki/Aaron_Swartz#cite_note-5) and the website framework web.py,[\[6\]](https://en.wikipedia.org/wiki/Aaron_Swartz#cite_note-grehan-6) and was a co-founder of the [social news](https://en.wikipedia.org/wiki/Social_news) site [Reddit](https://en.wikipedia.org/wiki/Reddit). He was given the title of co-founder by [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator) owner [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_%28programmer%29) after the formation of Not a Bug, Inc. \(a merger of Swartz's project Infogami and Reddit, a company run by [Alexis Ohanian](https://en.wikipedia.org/wiki/Alexis_Ohanian) and [Steve Huffman](https://en.wikipedia.org/wiki/Steve_Huffman)\)."
+
+[The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4&list=PLIilwIraDV2J8hueIWIwvkT3NvfuSChe7&index=3&t=11s) \#video - "The history of JavaScript over the last 25 years. How did a simple scripting language for Netscape evolve into the world's most widely used programming language?"
+
+## Apple
+
 [Apple’s Secret iPhone Launch Team: The Event That Began It All](https://www.youtube.com/watch?v=xxBc1c3uAJw) \#video - "As Tim Cook and Apple launch the iPhone 8 and the iPhone X, the story of Steve Jobs’ original vision is told through exclusive interviews with former Apple executives Scott Forstall, Tony Fadell and Greg Christie. Together they made up the secret Project Purple team and created one of the best-selling products ever."
 
 [Apple's Twiggy Disks](http://www.brouhaha.com/~eric/retrocomputing/lisa/twiggy.html) \#article - "In the early '80s, Apple fell victim to a serious case of NIH Syndrome \(Not Invented Here\), and decided to manufacture their own disk drives. Not content to be industry compatible, instead they designed what they believed to be leading-edge drives: the Twiggy floppy drive and the Widget hard drive."
@@ -11,6 +17,4 @@
 [Macintosh clone](https://en.wikipedia.org/wiki/Macintosh_clone) \#article - Wikipedia
 
 [Rhapsody \(operating system\)](https://en.wikipedia.org/wiki/Rhapsody_%28operating_system%29) \#article - Wikipedia. "**Rhapsody** was the code name given to [Apple Computer](https://en.wikipedia.org/wiki/Apple_Inc.)'s next-generation [operating system](https://en.wikipedia.org/wiki/Operating_system) during the period of its development between Apple's purchase of [NeXT](https://en.wikipedia.org/wiki/NeXT) in late 1996 and the announcement of [Mac OS X](https://en.wikipedia.org/wiki/MacOS) \(now called "macOS"\) in 1998."
-
-[The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4&list=PLIilwIraDV2J8hueIWIwvkT3NvfuSChe7&index=3&t=11s) \#video - "The history of JavaScript over the last 25 years. How did a simple scripting language for Netscape evolve into the world's most widely used programming language?"
 

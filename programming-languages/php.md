@@ -115,7 +115,9 @@ function array_map_recursive($callback, $array)
       </td>
     </tr>
   </tbody>
-</table>## Links
+</table>
+
+## Links
 
 [Slim](https://www.slimframework.com/) - "Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs."
 
