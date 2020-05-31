@@ -6,8 +6,6 @@
 
 [Mental Models: The Best Way to Make Intelligent Decisions \(109 Models Explained\)](https://fs.blog/mental-models/) \#article - "Mental models are how we understand the world. Not only do they shape what we think and how we understand but they shape the connections and opportunities that we see. Mental models are how we simplify complexity, why we consider some things more relevant than others, and how we reason."
 
-[Pocket Biases](https://pocket-biases.glideapp.io/?ref=producthunt) - "Every cognitive bias in your pocket."
-
 [The Signal and the Noise: Why So Many Predictions Fail - But Some Don't by Nate Silver \| Goodreads](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise?from_search=true&qid=MEEN6mCMC4&rank=1) \#book - "Drawing on his own groundbreaking work, Silver examines the world of prediction, investigating how we can distinguish a true signal from a universe of noisy data. Most predictions fail, often at great cost to society, because most of us have a poor understanding of probability and uncertainty. Both experts and laypeople mistake more confident predictions for more accurate ones. But overconfidence is often the reason for failure. If our appreciation of uncertainty improves, our predictions can get better too. This is the "prediction paradox": The more humility we have about our ability to make predictions, the more successful we can be in planning for the future."
 
 [Spurious Correlations](https://www.tylervigen.com/spurious-correlations)

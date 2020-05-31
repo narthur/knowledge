@@ -55,6 +55,7 @@
   * [Experience Sampling Method](quantified-self/experience-sampling-method.md)
 * [Rationality](rationality/README.md)
   * [Bayes' Theorem](rationality/bayes-theorem.md)
+  * [Cognitive Biases](rationality/cognitive-biases.md)
 * [Religion](religion/README.md)
   * [Adventism](religion/adventism.md)
 * [Remote Work](remote-work.md)
