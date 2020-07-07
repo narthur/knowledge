@@ -25,6 +25,14 @@
 
 [React Next](https://react-next.com/) \#conference
 
+### Hooks
+
+[Deep dive: How do React hooks really work?](https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/) \#article - "[Hooks](https://reactjs.org/hooks) are a fundamentally simpler way to encapsulate stateful behavior and side effects in user interfaces. They were [first introduced in React](https://www.youtube.com/watch?v=dpw9EHDh2bM) and have been broadly embraced by other frameworks like [Vue](https://css-tricks.com/what-hooks-mean-for-vue/), [Svelte](https://twitter.com/Rich_Harris/status/1093260097558581250), and even adapted for [general functional JS](https://github.com/getify/TNG-Hooks). However, their functional design requires a good understanding of closures in JavaScript."
+
+[Getting Closure on Hooks \(JSConf Edition\)](https://www.swyx.io/speaking/react-hooks/) \#video - "The design of React Hooks requires a good understanding of closures in JavaScript. In this talk, we’ll reintroduce closures by building a tiny clone of React! This will serve two purposes – to demonstrate the effective use of closures, and to show how you can build a Hooks clone in just 29 lines of readable JS. Finally, we arrive at how you get Custom Hooks and the Rules of Hooks out of this incredible mental model!"
+
+[Introducing Hooks](https://reactjs.org/docs/hooks-intro.html) \#article - "_Hooks_ are a new addition in React 16.8. They let you use state and other React features without writing a class."
+
 ## Vue
 
 [Element](https://element.eleme.io/#/en-US) - "Element, a Vue 2.0 based component library for developers, designers and product managers"
