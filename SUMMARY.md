@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Akrasia](akrasia.md)
+* [Akrasia](akrasia/README.md)
+  * [Beeminder](akrasia/beeminder.md)
+  * [Procrastination](akrasia/procrastination.md)
 * [American Sign Language](american-sign-language.md)
 * [Art](art.md)
 * [Career](career.md)
