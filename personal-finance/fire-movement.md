@@ -4,6 +4,8 @@
 
 [Bogleheads Local Chapters - General Info and Chapter List](https://www.bogleheads.org/forum/viewtopic.php?f=9&t=778) \#thread - "Here's the Chapter List. You can also see the full list with locations on [Google Maps](https://www.google.com/maps/d/viewer?mid=1KX-WSvjOwmi1fLocIrz5wHiBB7s&ll=-8.928487062665516%2C-37.328274392187495&z=2) Please [PM Mel](http://www.bogleheads.org/forum/ucp.php?i=pm&mode=compose&u=25) with any corrections so we can keep this current."
 
+[Camp Mustache](http://campmustache.com/) - "Meet like-minded badasses and learn about financial independence, in a relaxed outdoorsy environment"
+
 [Can You Really Retire in Your 30s?](https://www.youtube.com/watch?v=8si7cqw9wm0&feature=youtu.be) \#video
 
 [ChooseFI - Eastern Tennessee](https://www.facebook.com/groups/ChooseFIEasternTennessee/) - "ChooseFI East Tennessee is a group that serves the audience of the ChooseFI Radio Podcast as well as the greater FI \(Financial Independence\) community in East Tennessee \(including Blount County, Knox County, Sevier County, Loudon County and surrounding counties\). Some members will be just beginning their journey down the path to FI and some may be further along. The goal is to share the journey."
