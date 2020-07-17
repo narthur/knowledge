@@ -54,3 +54,5 @@
 
 [The Retirement Manifesto](https://www.theretirementmanifesto.com/blog/) \#blog - "Welcome to The Retirement Manifesto, a canvas for **“Helping People Achieve A Great Retirement”!**  I focus on practical Financial Independence and Retirement Planning issues for folks within ten years of retirement.  If you’re new to the site, I’d encourage you to read [**“The Ultimate Retirement Planning Guide”**](http://www.theretirementmanifesto.com/the-ultimate-retirement-planning-guide/), a compilation of my best work, organized by stages in your journey to retirement."
 
+[Wealthy Accountant](https://wealthyaccountant.com/) \#blog - ChooseFI interviewed him. "Oh, and [Mr. Money Mustache](http://www.mrmoneymustache.com/) is my client. If not for Pete, this blog would not exist."
+
