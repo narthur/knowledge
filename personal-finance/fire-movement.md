@@ -36,9 +36,13 @@
 
 [Early Retirement Now](https://earlyretirementnow.com/) \#blog - "In the large spectrum of existing Early Retirement blogs, where is our niche? We hope that people will enjoy our views on everything financial. Sometimes we read other blogs and we have something intelligent and new to say, but by posting in the comments section, not many people will get to see it. We like to create a permanent record, share our views with a hopefully larger audience and get feedback and suggestions for our journey to Early Retirement."
 
+[Fiery Millennials](https://www.fierymillennials.com/) \#blog - "I'm a 29 year old on the path to Financial Independence. I saved up $200,000 before trying my hand at being an online influencer/entrepreneur. When that didn't work out, I went back to work in Corporate America. This is my story."
+
 [The FI Show](https://thefishow.com/) \#podcast - "The FI Show is a podcast dedicated to financial independence, personal development and life optimization. Join Cody and Justin for a fun, informative show packed with actionable tips from our guests!"
 
 [Frugalwoods](https://www.frugalwoods.com/) \#blog - "Financial independence and simple living"
+
+[Get Rich Slowly](https://www.getrichslowly.org/) \#blog - "Hi, I’m J.D. Roth. I started Get Rich Slowly in 2006 to share what I learned as I dug out of debt. Today, I’ve reached early retirement. I’m here to show you how to master your money — and your life."
 
 [Go Curry Cracker!](https://www.gocurrycracker.com/) \#blog - "We are Jeremy and Winnie. Together we are Go Curry Cracker, a [rallying cry](https://gocurrycracker.com/so-uhh-what-does-go-curry-cracker-mean-anyway/) we earned on our honeymoon hiking trip. This blog shares our journey."
 
