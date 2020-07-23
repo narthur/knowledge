@@ -28,8 +28,6 @@
 
 [Pure CSS Parallax Websites](https://keithclark.co.uk/articles/pure-css-parallax-websites/) \#article - "This article demonstrates how to use CSS transforms, perspective and some scaling trickery to create a pure CSS parallax scrolling website." 👍Be careful, though. Applying `perspective` to a root element [breaks fixed positioning](https://stackoverflow.com/questions/26386038/why-does-perspective-changes-fixed-position-in-css) by establishes a new stacking context.
 
-[Purgecss](https://www.purgecss.com/) - "[Purgecss](https://github.com/FullHuman/purgecss) is a tool to remove unused CSS. It can be used as part of your development workflow. Purgecss comes with a JavaScript API, a CLI, and plugins for popular build tools."
-
 [Quantity Queries for CSS](http://alistapart.com/article/quantity-queries-for-css) \#article - “This is your guide to creating style breakpoints for quantities of HTML elements, much as you already do with @media queries for viewport dimensions. I’m not pointing at some blurry specification in the distance or a twinkle in an implementer’s eye. We’re going to do this today, with CSS that’s already available.”
 
 [The stacking context](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context) \#article - "The **stacking context** is a three-dimensional conceptualization of HTML elements along imaginary z-axis relative to the user, who is assumed to be facing the viewport or the webpage. HTML elements occupy this space in priority order based on element attributes."
@@ -79,6 +77,8 @@
 Less
 
 [PostCSS](https://postcss.org/) - "A tool for transforming CSS with JavaScript"
+
+[Purgecss](https://www.purgecss.com/) - "[Purgecss](https://github.com/FullHuman/purgecss) is a tool to remove unused CSS. It can be used as part of your development workflow. Purgecss comes with a JavaScript API, a CLI, and plugins for popular build tools."
 
 [Revisiting the rendering tier](https://www.theguardian.com/info/2019/apr/04/revisiting-the-rendering-tier) \#article - "From 62,783 lines of Sass to CSS-in-JS. Introducing the new server rendering layer for theguardian.com"
 
