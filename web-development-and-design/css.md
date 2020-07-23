@@ -76,9 +76,13 @@
 
 ## Transformation
 
+[Autoprefixer](https://github.com/postcss/autoprefixer) - "[PostCSS](https://github.com/postcss/postcss) plugin to parse CSS and add vendor prefixes to CSS rules using values from [Can I Use](https://caniuse.com/). It is [recommended](https://developers.google.com/web/tools/setup/setup-buildtools#dont_trip_up_with_vendor_prefixes) by Google and used in Twitter and Alibaba."
+
 Less
 
 [PostCSS](https://postcss.org/) - "A tool for transforming CSS with JavaScript"
+
+[-prefix-free](https://github.com/LeaVerou/prefixfree) - "A script that lets you use only unprefixed CSS properties everywhere. It works behind the scenes, adding the current browser’s prefix to any CSS code, only when it’s needed."
 
 [Purgecss](https://www.purgecss.com/) - "[Purgecss](https://github.com/FullHuman/purgecss) is a tool to remove unused CSS. It can be used as part of your development workflow. Purgecss comes with a JavaScript API, a CLI, and plugins for popular build tools."
 
