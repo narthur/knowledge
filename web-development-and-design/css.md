@@ -1,5 +1,7 @@
 # CSS
 
+[Awesome CSS](https://github.com/awesome-css-group/awesome-css) - "A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS."
+
 [Clippy](http://bennettfeely.com/clippy/) \#webapp - “CSS clip-path maker”
 
 [Conditions for CSS Variables](http://kizu.ru/en/fun/conditions-for-css-variables/) \#article - “So, what we need is a way to use a sin­gle CSS vari­able for set­ting dif­fer­ent CSS prop­er­ties to dif­fer­ent val­ues, but not based di­rectly on this vari­able \(that is — those val­ues shouldn't be cal­cu­lated from our vari­able\). We need con­di­tions.” Using CSS variables as booleans.
