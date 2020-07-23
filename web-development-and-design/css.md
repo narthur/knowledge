@@ -4,6 +4,8 @@
 
 [Clippy](http://bennettfeely.com/clippy/) \#webapp - “CSS clip-path maker”
 
+[Compass](http://compass-style.org/) - "**Compass** is an open-source _CSS Authoring Framework_."
+
 [Conditions for CSS Variables](http://kizu.ru/en/fun/conditions-for-css-variables/) \#article - “So, what we need is a way to use a sin­gle CSS vari­able for set­ting dif­fer­ent CSS prop­er­ties to dif­fer­ent val­ues, but not based di­rectly on this vari­able \(that is — those val­ues shouldn't be cal­cu­lated from our vari­able\). We need con­di­tions.” Using CSS variables as booleans.
 
 [CSS Before and After pseudo elements explained - part two: the content property](https://www.youtube.com/watch?v=xoRbkm8XgfQ) \#video - "The before and after CSS pseudo elements are great, and they have the content property which a lot of people don't really know how powerful it actually is, so in this video I show you some fun things you can do with it, from a markupless tool tip to a quick dive into CSS counters, which are awesome!"
