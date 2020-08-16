@@ -10,9 +10,9 @@
 
 [The Bad Show](https://www.wnycstudios.org/story/bad-show) \#podcast - Radiolab. “With all of the black-and-white moralizing in our world today, we decided to bring back an old show about the little bit of bad that's in all of us...and the little bit of really, really bad that's in some of us."
 
-[A conservative's plea: Let's work together \| Arthur Brooks](https://youtu.be/87AEeLpodnE) \#video - “Conservatives and liberals both believe that they alone are motivated by love while their opponents are motivated by hate. How can we solve problems with so much polarization? In this talk, social scientist Arthur Brooks shares ideas for what we can each do as individuals to break the gridlock. "We might just be able to take the ghastly holy war of ideology that we're suffering under and turn it into a competition of ideas," he says.”
+[Change A View](https://www.changeaview.com/cav/posts) - "Discuss Differently. Change A View aims to improve the world’s discussions. Enter with a mindset for conversation, not debate."
 
-[The Doctor's Speech \| The Zygon Inversion \| Doctor Who](https://www.youtube.com/watch?v=BJP9o4BEziI) \#video - "With Kate and Bonnie poised over the big red button, truth or consequences, can the Doctor convince them to sit down and talk instead?"
+[A conservative's plea: Let's work together \| Arthur Brooks](https://youtu.be/87AEeLpodnE) \#video - “Conservatives and liberals both believe that they alone are motivated by love while their opponents are motivated by hate. How can we solve problems with so much polarization? In this talk, social scientist Arthur Brooks shares ideas for what we can each do as individuals to break the gridlock. "We might just be able to take the ghastly holy war of ideology that we're suffering under and turn it into a competition of ideas," he says.”
 
 [Drag Racing Against Cops](https://www.youtube.com/watch?v=z7cuSp-Vhqw) \#video
 
@@ -30,7 +30,13 @@
 
 [How To Disagree With The Church w/ Ty Gibson](http://castbox.fm/episode/How-To-Disagree-With-The-Church-w%2F-Ty-Gibson-id1096875-id63165496?utm_campaign=a_share_ep&utm_medium=dlink&utm_source=a_share&country=us) \#podcast - Stuff Adventists Should Know
 
+[How To Speak Up For Yourself](https://www.ted.com/talks/adam_galinsky_how_to_speak_up_for_yourself?rid=HhBuVXNNDEzX&utm_source=recommendation&utm_medium=email&utm_campaign=explore&utm_term=watchNow) \#video - “Speaking up is hard to do, even when you know you should. Learn how to assert yourself, navigate tricky social situations and expand your personal power with sage guidance from social psychologist Adam Galinsky.”
+
 [How much does a video weigh?](https://www.ted.com/talks/how_much_does_a_video_weigh#t-440297) \#video - “What color is a mirror? How much does a video weigh? Michael Stevens, creator of the popular educational YouTube channel Vsauce, spends his day asking quirky questions like these. In this talk he shows how asking the right -- seemingly silly -- questions can make incredibly effective lessons.”
+
+[How to speak so that people want to listen \| Julian Treasure](https://youtu.be/eIho2S0ZahI) \#video - “Have you ever felt like you're talking, but nobody is listening? Here's Julian Treasure to help you fix that. As the sound expert demonstrates some useful vocal exercises and shares tips on how to speak with empathy, he offers his vision for a sonorous world of listening and understanding.”
+
+[How Your Friends Can Affect Your Opinions](https://youtu.be/yBqAt8psYBA) \#video - “The people around you have a lot more to do with how you think than you might realize.”
 
 [iDramaLab](https://idrama.science/) - "The iDRAMA Lab is an international group of researchers interested in a variety of modern computing and socio-technical concerns. Collectively, we have published work ranging from genomic privacy, to cryptography and Web security, to distributed systems, and even video games. More recently, we have worked on understanding and mitigating modern socio-technological issues such as online harassment campaigns, hate speech and political radicalization, and understanding the subtle ways in which web communities influence each other."
 
@@ -54,6 +60,8 @@
 
 [A Republican mayor's plan to replace partisanship with policy \| G.T. Bynum](https://youtu.be/CiLn-GrcuEs) \#video - “Conventional wisdom says that to win an election, you need to play to your constituencies' basest, most divisive instincts. But as a candidate for mayor of Tulsa, Oklahoma, G.T. Bynum decided to skip the smear campaigns, tell voters what he wanted to accomplish and give them ways to measure his success -- and it led him to win the election. In a hopeful, funny talk, Bynum shares how he's tackling his city's most pressing issues and says that we need to set aside philosophical disagreements and focus on the aspirations that unite us.”
 
+[Rhetological Fallacies](https://informationisbeautiful.net/visualizations/rhetological-fallacies/) - “Errors and manipulation of rhetoric and logical thinking. The word ‘rhetological’ is made up. A munge of two things: rhetorical techniques and logical fallacies. Both are used heavily by institutional powers – governments, religions, political parties – across the entire spectrum to sway opinion, confuse and obfuscate. And, unfortunately, we internalise them, like bad habits, into our own decision-making and mental processes.”
+
 [The science of analyzing conversations, second by second \| Elizabeth Stokoe \| TEDxBermuda](https://youtu.be/MtOG5PK8xDA) \#video - "Prof. Elizabeth Stokoe takes a run on what she terms the “conversational racetrack”—the daily race to understand each other when we speak—and explains how to avoid  hurdles that trip us up and cause conflict."
 
 [TED’s secret to great public speaking](https://www.ted.com/talks/chris_anderson_teds_secret_to_great_public_speaking) \#video - “There's no single formula for a great talk, but there is a secret ingredient that all the best ones have in common. TED curator Chris Anderson shares this secret -- along with four ways to make it work for you. Do you have what it takes to share an idea worth spreading?”
@@ -67,16 +75,6 @@
 [Megan McArdle on Internet Shaming and Online Mobs](http://www.econtalk.org/archives/2017/10/megan_mcardle_o.html) \#podcast \#audio - “Author and journalist Megan McArdle of Bloomberg View talks with EconTalk host Russ Roberts about how the internet has allowed a new kind of shaming via social media and how episodes of bad behavior live on because Google's memory is very, very good. McArdle discusses the implications this new reality has on how we behave at work and how people protect and maintain their reputations in a world where nothing is forgotten and seemingly little is forgiven.” \#econtalk \#russrobert
 
 \_\_[_Why Are We Yelling?_](https://busterbenson.com/whyareweyelling/) \#book - "Learn the life-changing art of productive disagreement."
-
-## Argument and Persuasion
-
-[How to speak so that people want to listen \| Julian Treasure](https://youtu.be/eIho2S0ZahI) \#video - “Have you ever felt like you're talking, but nobody is listening? Here's Julian Treasure to help you fix that. As the sound expert demonstrates some useful vocal exercises and shares tips on how to speak with empathy, he offers his vision for a sonorous world of listening and understanding.”
-
-[How To Speak Up For Yourself](https://www.ted.com/talks/adam_galinsky_how_to_speak_up_for_yourself?rid=HhBuVXNNDEzX&utm_source=recommendation&utm_medium=email&utm_campaign=explore&utm_term=watchNow) \#video - “Speaking up is hard to do, even when you know you should. Learn how to assert yourself, navigate tricky social situations and expand your personal power with sage guidance from social psychologist Adam Galinsky.”
-
-[How Your Friends Can Affect Your Opinions](https://youtu.be/yBqAt8psYBA) \#video - “The people around you have a lot more to do with how you think than you might realize.”
-
-[Rhetological Fallacies](https://informationisbeautiful.net/visualizations/rhetological-fallacies/) - “Errors and manipulation of rhetoric and logical thinking. The word ‘rhetological’ is made up. A munge of two things: rhetorical techniques and logical fallacies. Both are used heavily by institutional powers – governments, religions, political parties – across the entire spectrum to sway opinion, confuse and obfuscate. And, unfortunately, we internalise them, like bad habits, into our own decision-making and mental processes.”
 
 [Why You Can't Win an Internet Argument](https://youtu.be/YWKUhZJp7uw) \#video - “One of the internet's favorite pastimes is arguing, but very few of those arguments ever actually go anywhere. It can be frustrating to watch, but scientists have some ideas on why things play out the way they do.”
 
@@ -101,12 +99,6 @@ Part way through WWDC 1997, [Steve Jobs handles an incredibly emotionally-charge
 [The Web Centipede: Understanding How Web Communities Influence Each Other Through the Lens of Mainstream and Alternative News Sources](https://arxiv.org/pdf/1705.06947.pdf) \#paper
 
 [Who Let The Trolls Out? Towards Understanding State-Sponsored Trolls](https://arxiv.org/pdf/1811.03130.pdf) \#paper
-
-## Trolling
-
-[Charles Murray vs Milo, and the "good faith" principle](https://www.youtube.com/watch?v=3ub73hWrORo) \#video - "I explain why I think the "good faith" principle implies that we should give people like Charles Murray, but not Milo, a platform to share their ideas. \(Not saying Milo should be legally banned from speaking, just that we shouldn't be going out of our way to give him opportunities to speak.\) I also argue that the "good faith" principle is inherently subjective and that this doesn't negate its importance."
-
-[The Psychology of Trolling](https://www.youtube.com/watch?v=5gqHTlBp6iY) \#video - "As denizens of the internet, most of us are familiar with the trolls. In this episode of SciShow, learn a little about how social scientists think trolls came to be, and how online communities are figuring it all out."
 
 
 
