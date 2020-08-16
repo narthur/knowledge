@@ -102,5 +102,11 @@ Part way through WWDC 1997, [Steve Jobs handles an incredibly emotionally-charge
 
 [Who Let The Trolls Out? Towards Understanding State-Sponsored Trolls](https://arxiv.org/pdf/1811.03130.pdf) \#paper
 
+## Trolling
+
+[Charles Murray vs Milo, and the "good faith" principle](https://www.youtube.com/watch?v=3ub73hWrORo) \#video - "I explain why I think the "good faith" principle implies that we should give people like Charles Murray, but not Milo, a platform to share their ideas. \(Not saying Milo should be legally banned from speaking, just that we shouldn't be going out of our way to give him opportunities to speak.\) I also argue that the "good faith" principle is inherently subjective and that this doesn't negate its importance."
+
+[The Psychology of Trolling](https://www.youtube.com/watch?v=5gqHTlBp6iY) \#video - "As denizens of the internet, most of us are familiar with the trolls. In this episode of SciShow, learn a little about how social scientists think trolls came to be, and how online communities are figuring it all out."
+
 
 
