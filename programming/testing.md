@@ -78,6 +78,8 @@
 
 [gregmalcolm/python\_koans](https://github.com/gregmalcolm/python_koans) - "As well as being a great way to learn some Python, it is also a good way to get a taste of Test Driven Development \(TDD\)."
 
+[Test-driven development with Haskell](https://github.com/erohkohl/haskell-tdd) - "This project contains my custom workflow for test-driven development in Haskell and serves as documentation for me."
+
 [Understanding TDD with Modern JavaScript](https://www.youtube.com/watch?v=oneGCBiPK_Q) \#video - "Javascript has evolved into an ecosystem with many choices and multiple paradigms of programming. In this session Roy will show how test driven development can still work and be applied to backend and frontend situations using ES2015 as well as the core concepts of TDD and why it can be helpful in your day to day job."
 
 ## Testing Legacy Code
