@@ -10,6 +10,8 @@
 
 [ghost](https://ghost.org/pricing/) - "Fiercely independent, professional publishing." Starts at $29 / month billed annually.
 
+[Hashnode](https://hashnode.com/) - "Everything you need to start blogging as a developer!"
+
 [Telegraph](https://telegra.ph/) - Anonymous online publishing.
 
 [write.as](https://write.as/) - "A place for focused writing." Freemium.
