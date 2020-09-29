@@ -1,11 +1,12 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Akrasia](akrasia/README.md)
-  * [Beeminder](akrasia/beeminder.md)
-  * [Procrastination](akrasia/procrastination.md)
 * [American Sign Language](american-sign-language.md)
 * [Art](art.md)
+* [Behavior Change](behavior-change/README.md)
+  * [Akrasia](behavior-change/akrasia/README.md)
+    * [Beeminder](behavior-change/akrasia/beeminder.md)
+    * [Procrastination](behavior-change/akrasia/procrastination.md)
 * [Career](career.md)
 * [Civil Discourse](civil-discourse.md)
 * [Communication](communication.md)

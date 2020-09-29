@@ -10,6 +10,8 @@ Betterment
 
 [Investor.gov](https://www.investor.gov/) - "It's a great first step toward protecting your money. Learn about an investment professional's background, registration status, and more."
 
+[JL Collins Stock Series](https://jlcollinsnh.com/stock-series/) \#article - Series of articles highly recommended by ChooseFI and others.
+
 [Republic Note](https://republic.co/note) - "Meet the Note — a digital token by Republic, rewarding you for growing the startup ecosystem."
 
 [SoFi](https://www.sofi.com/invest/active-dr/?dclid=CNSZ0Ij2k-MCFURQwQodoPEIwg) - "Make your first trade or your next trade with active investing. Master the market as you do-it-yourself—for free."
