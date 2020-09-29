@@ -71,6 +71,14 @@
 
 ![https://twitter.com/buttpoems/status/1213296913006465025?s=09](../.gitbook/assets/enz_hb-u0aeucfx.jpg)
 
+## Structured Data
+
+[AirTable](https://airtable.com/)
+
+[Google Tables](https://tables.area120.google.com/u/0/about#/) - "Tables helps teams easily track & automate tasks, enabling them to save time and work smarter."
+
+[monday.com](https://monday.com/) - "Highly effective teams choose monday.com to manage their work"
+
 ## Sources
 
 [Alex Vermeer](https://alexvermeer.com/blog/) \#blog - "I drink coffee, climb rocks, play go, and read books. I research and use tools for that improve my thinking, productivity, and life in general. I strive to reduce friction in my life, keep things minimal, and simplify. Sometimes I write."
