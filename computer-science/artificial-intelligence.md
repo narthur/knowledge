@@ -94,6 +94,12 @@
 
 [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) \#article - “This post presents WaveNet, a deep generative model of raw audio waveforms. We show that WaveNets are able to generate speech which mimics any human voice and which sounds more natural than the best existing Text-to-Speech systems, reducing the gap with human performance by over 50%.”
 
+## Development
+
+[The Coding Train: revisiting ml5.js!](https://www.youtube.com/watch?v=yzOW08JHL1U) \#video - "Revisiting ml5.js!"
+
+[ml5.js](https://ml5js.org/) - "Friendly Machine Learning for the Web. A neighborly approach to creating and exploring artificial intelligence in the browser."
+
 ## Neural Networks
 
 [Deep Dream \(Google\) - Computerphile](https://www.youtube.com/watch?v=BsSmBPmPeYQ&list=PLIilwIraDV2L3QailjC91OkRaIioM0DYv&index=2) \#video - “Surreal images created by Google's Deep Dream code flooded the internet in 2015 but how does deep dream do it? Image analyst Dr Mike Pound.”
