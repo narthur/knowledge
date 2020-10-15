@@ -4,6 +4,8 @@
 
 [How Do You Evaluate Your Own Predictions?](https://commoncog.com/blog/how-do-you-evaluate-your-own-predictions/) \#article - "This post provides a comprehensive summary of the technique that Tetlock and Gardner presents in _Superforecasting_. It is divided into two parts: part one \(this week\) is about the rules and evaluation criterion that GJP uses to evaluate forecasters. I've presented this in the context of an interested practitioner; I'm assuming you might want to improve forecasting decisions in your own life, but you don't have the time to implement a rigorous forecasting tournament in your organisation."
 
+[How Good Are FiveThirtyEight Forecasts?](https://projects.fivethirtyeight.com/checking-our-work/) \#article - "Forecasts have always been a core part of FiveThirtyEight’s mission. They force us \(and you\) to think about the world probabilistically, rather than in absolutes. And making predictions, whether we’re modeling a candidate’s chance of being elected or a team’s odds of making the playoffs, improves our understanding of the world by testing our knowledge of how it works — what makes a team or a candidate win."
+
 [Is Most Published Research Wrong?](https://www.youtube.com/watch?v=42QuXLucH3Q) \#video - "Mounting evidence suggests a lot of published research is false."
 
 [Mental Models: The Best Way to Make Intelligent Decisions \(109 Models Explained\)](https://fs.blog/mental-models/) \#article - "Mental models are how we understand the world. Not only do they shape what we think and how we understand but they shape the connections and opportunities that we see. Mental models are how we simplify complexity, why we consider some things more relevant than others, and how we reason."
