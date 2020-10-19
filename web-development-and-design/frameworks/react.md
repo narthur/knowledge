@@ -24,3 +24,19 @@
 
 [Run useEffect Only Once](https://css-tricks.com/run-useeffect-only-once/) \#article - "The trick is that `useEffect` takes a second parameter."
 
+## Testing Library
+
+[Cheatsheet](https://testing-library.com/docs/react-testing-library/cheatsheet) \#article - "A short guide to all the exported functions in `React Testing Library`"
+
+[Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library) \#article - "Some mistakes I frequently see people making with React Testing Library."
+
+[eslint-plugin-jest-dom](https://github.com/testing-library/eslint-plugin-jest-dom) - "ESLint plugin to follow best practices and anticipate common mistakes when writing tests with jest-dom."
+
+[eslint-plugin-testing-library](https://github.com/testing-library/eslint-plugin-testing-library) - "ESLint plugin to follow best practices and anticipate common mistakes when writing tests with Testing Library"
+
+[How To Do the Basics in React Testing Library](https://medium.com/better-programming/how-to-do-the-basics-in-react-testing-library-c52cdb3a7726) \#article - "A few months ago I was hired to be the tester of a [React](https://reactjs.org/) website. The problem? I had little experience with React, and to follow the test documentation from React, from [Enzyme](https://airbnb.io/enzyme/) and React Testing Library was quite complicated. So after I understood all of this, I decided to make this tutorial."
+
+[React Testing Library](https://testing-library.com/docs/react-testing-library/intro) - "[`React Testing Library`](https://github.com/testing-library/react-testing-library) builds on top of `DOM Testing Library` by adding APIs for working with React components."
+
+[Which query should I use?](https://testing-library.com/docs/guide-which-query) \#article - "Based on [the Guiding Principles](https://testing-library.com/docs/guiding-principles), your test should resemble how users interact with your code \(component, page, etc.\) as much as possible."
+
