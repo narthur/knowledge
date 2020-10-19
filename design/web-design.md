@@ -36,6 +36,10 @@
 
 [UI Patterns](http://ui-patterns.com/) - “User Interface Design patterns are recurring solutions that solve common design problems. Design patterns are standard reference points for the experienced user interface designer.”
 
+## Design Systems
+
+[Naming Tokens in Design Systems](https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676) \#article - "Design tokens have provided a visual foundation of many design systems since [Salesforce pioneered the concept in 2014](https://medium.com/salesforce-ux/living-design-system-3ab1f2280ef7). I wrote an [impassioned article on design tokens in 2016](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421), and my energy on the topic continues to grow. As systems of visual style spread across a widening landscape of components, platforms and outputs, design tokens — and their names — are increasingly important."
+
 ## Sketch App
 
 [Open .ai in Sketch](https://blog.nocturnalmonkey.com/open-ai-in-sketch/) \#article - "Today I was sent an Illustrator \(.ai\) file from a client which I needed to use to output a .svg file. The only problem is I don't have Illustrator so I had to go searching for a solution."
