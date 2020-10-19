@@ -95,6 +95,8 @@
 
 ## Placeholders
 
+[BlurHash](https://github.com/woltapp/blurhash) - "BlurHash is a compact representation of a placeholder for an image. Does your designer cry every time you load their beautifully designed screen, and it is full of empty boxes because all the images have not loaded yet? Does your database engineer cry when you want to solve this by trying to cram little thumbnail images into your data to show as placeholders? BlurHash will solve your problems!"
+
 [Holder.js](http://holderjs.com/) - “Holder renders image placeholders entirely in browser. Placeholders can have custom colors, fonts, resizing behavior, and rendering engine \(Canvas/SVG\).”
 
 [Holder on cdnjs](https://cdnjs.com/libraries/holder)[Transparent Image \#151](https://github.com/imsky/holder/issues/151) - “this is now implemented. you can set foreground or background to an rgba color, so a transparent placeholder can be created like this: holder.js/300x200?bg=rgba\(0,0,0,0.0\)”
