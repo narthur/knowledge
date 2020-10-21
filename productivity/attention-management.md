@@ -1,5 +1,7 @@
 # Attention Management
 
+{% embed url="https://www.youtube.com/watch?v=acBixR\_JRuM&feature=emb\_title" %}
+
 [3 Ways to Trick Your Brain Into Doing Hard Work](https://www.youtube.com/watch?v=o22pjf9obA0&t=328s) \#video - "Sometimes, you sit down with the best of intentions and... nothing gets done. Like Eddie Morra at the beginning of Limitless, you put in the time, stay in the room, and yet the inspiration refuses to strike. Other times, you just intend to jot something down and end up getting a ton of work done almost by accident. But it's not actually an accident; you've just successfully tricked your brain into working. In this video, I'll share three ways you can successfully pull off this trick."
 
 [100 time, energy, and attention hacks to be more productive](https://alifeofproductivity.com/100-time-energy-attention-hacks-will-make-productive/) \#article - "**Toward the end of my year of productivity, I realized that every single article I wrote for A Year of Productivity could be classified into one \(or more\) of three categories**: how to better manage your **time**, how to better manage your **energy**, and how to better manage your **attention**."
