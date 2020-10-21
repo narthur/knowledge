@@ -87,6 +87,7 @@
   * [UI Design](self-study/ui-design.md)
   * [Web Animation](self-study/web-animation.md)
 * [Software Development](programming/README.md)
+  * [Self-Care](programming/self-care.md)
   * [API Design](programming/api-design.md)
   * [Collaboration](programming/collaboration.md)
   * [Command Line](programming/command-line.md)
