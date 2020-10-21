@@ -14,7 +14,9 @@
 
 [https://blog.trello.com/hermit-habits-remote-work](https://blog.trello.com/hermit-habits-remote-work) 
 
-## **Alternative Programming Techniques**
+## Alternative Programming Techniques
+
+[An Autobiography of a Blind Programmer](https://www.parhamdoustdar.com/2016/03/27/autobiography-blind-programmer/) ****\#article - "A question I get asked a lot is, being completely blind, how do I program? I have provided an answer to this question in some places. For example, I have answered [How does a visually impaired computer programmer program?](http://qr.ae/RzO7cb) on Quora. I have also talked about this in [part one](https://www.livecoding.tv/parham90/videos/z8MoB-how-do-blind-engineers-write-and-debug-code) and [part two](https://www.livecoding.tv/parham90/videos/nD1Er-how-do-blind-engineers-write-and-debug-code-2) of my interview on LiveCoding.tv. However, this is a more in-depth look at my life, and the events that have shaped my current career and choices. More of an autobiography, if you will. So, if you are curious, give me your hand, and allow the blind to guide the sighted."
 
 [Hands-Free Coding](https://joshwcomeau.com/accessibility/hands-free-coding/) \#article - "After many failed attempts at solving the problem with physiotherapy, ergonomics, and prescription medications, I've found a solution that allows me to be productive without risking further nerve damage. I now work almost exclusively using a microphone and an eye-tracker."
 
