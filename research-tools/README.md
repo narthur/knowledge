@@ -12,15 +12,21 @@
 
 [Public Books Database](https://www.publicbooks.org/public-books-database/) - "With university classrooms and libraries shuttered because of the COVID-19 crisis, scholars are facing disruptions not only in their teaching lives but also in their ability to access research materials. In response, many academic presses have made hundreds of their titles freely accessible online. The Public Books Database aims to catalog such resources in a single location and to highlight titles of particular interest. We’ll be updating the [list](https://www.publicbooks.org/public-books-database/#list) regularly as additional materials are made available."
 
-[Refind](https://refind.com/) - "Every day we’ll pick the 10 most relevant links from around the web for you." [Explanation](https://relevance.community/).
-
 [WolframAlpha](https://www.wolframalpha.com/) - "Compute expert-level answers using Wolfram's breakthrough algorithms, knowledgebase and AI technology"
+
+## Discovery
+
+[DEVONagent](https://www.devontechnologies.com/apps/devonagent) \#software - "Give your research a boost with the smartest search assistant for the Mac. DEVONagent searches multiple sources and frees you from manually sorting the wheat from the chaff. With its scheduled searches it even keeps you updated on what's going on in the world."
+
+[Refind](https://refind.com/) - "Every day we’ll pick the 10 most relevant links from around the web for you." [Explanation](https://relevance.community/).
 
 ## Collection
 
 [Coda](https://coda.io/welcome) - "Coda begins with a blinking cursor and grows as big as your team’s ambition. We’ve seen Coda docs do everything from run weekly meetings to launch products. What will you Coda?"
 
 [Commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) \#article - Wikipedia. “**Commonplace books** \(or **commonplaces**\) are a way to compile [knowledge](https://en.wikipedia.org/wiki/Knowledge), usually by writing information into [books](https://en.wikipedia.org/wiki/Book). They have been kept from antiquity, and were kept particularly during the [Renaissance](https://en.wikipedia.org/wiki/Renaissance) and in the nineteenth century. Such books are essentially [scrapbooks](https://en.wikipedia.org/wiki/Scrapbooking) filled with items of every kind: recipes, quotes, letters, poems, tables of weights and measures, proverbs, prayers, legal formulas. Commonplaces are used by readers, writers, students, and scholars as an aid for remembering useful concepts or facts. Each one is unique to its creator’s particular interests but they almost always include passages found in other texts, sometimes accompanied by the compiler’s responses. They became significant in [Early Modern Europe](https://en.wikipedia.org/wiki/Early_Modern_Europe).”
+
+[DEVONthink](https://www.devontechnologies.com/apps/devonthink) \#software - "Focus on your work and let DEVONthink remember all the details. Collect, organize, edit and annotate documents of any kind. Have them automatically analyzed, connected, and filed. Sync them between your Mac, iPhone, and iPad." Highly recommended by the author of [_Where Good Ideas Come From_](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from?from_search=true&from_srp=true&qid=LBNJGbLTWR&rank=1)_,_ Steven Johnson. He says the app finds connections between pieces of research based on word frequencies and word neighborhoods that a normal search engine wouldn't find. He'll draft a paragraph, put it into the app, and the app finds all his research that might be related. He then looks at the connections with those notes, and soon has a large number of pieces of information forming a new idea that he may not have initially thought of.
 
 [Diigo](https://www.diigo.com/) - "Save and tag your online resources for easy access anytime, anywhere"
 
@@ -33,6 +39,14 @@ Notion
 [Pocket](https://getpocket.com/) \#webapp - "Save content from everywhere. Save articles, videos and stories from any publication, page or app. Curate your own space filled with everything you can’t wait to learn."
 
 [Polar](https://getpolarized.io/#pricing) - "A **powerful** document manager for web pages, textbooks, PDFs, and anything you want to read."
+
+[Roam](https://roamresearch.com/) \#webapp - "A note-taking tool for networked thought. As easy to use as a document. As powerful as a graph database. Roam helps you organize your research for the long haul."
+
+## Processing
+
+[DEVONsphere](https://www.devontechnologies.com/apps/devonsphere) \#software - "Whatever you're working on, DEVONsphere always keeps data ready that might be useful to you in this very moment — that Numbers documents buried deep inside DEVONthink, the email message you've already archived, or the web page you've visited months ago. Get inspired, follow yet untrodden paths, create something new."
+
+[DEVONthink](https://www.devontechnologies.com/apps/devonthink) \#software - "Focus on your work and let DEVONthink remember all the details. Collect, organize, edit and annotate documents of any kind. Have them automatically analyzed, connected, and filed. Sync them between your Mac, iPhone, and iPad." Highly recommended by the author of [_Where Good Ideas Come From_](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from?from_search=true&from_srp=true&qid=LBNJGbLTWR&rank=1)_,_ Steven Johnson. He says the app finds connections between pieces of research based on word frequencies and word neighborhoods that a normal search engine wouldn't find. He'll draft a paragraph, put it into the app, and the app finds all his research that might be related. He then looks at the connections with those notes, and soon has a large number of pieces of information forming a new idea that he may not have initially thought of.
 
 [Roam](https://roamresearch.com/) \#webapp - "A note-taking tool for networked thought. As easy to use as a document. As powerful as a graph database. Roam helps you organize your research for the long haul."
 
