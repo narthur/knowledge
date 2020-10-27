@@ -24,6 +24,8 @@
 
 [Why you shouldn't try to "'change your mind"](https://www.youtube.com/watch?v=d6PgCN7ySGQ) \#video - "In which I describe how I've changed my mind about the usefulness of "changing one's mind""
 
+[Why you think you're right -- even if you're wrong \| Julia Galef](https://www.youtube.com/watch?v=w4RLfVxTGH4) \#video - "Perspective is everything, especially when it comes to examining your beliefs. Are you a soldier, prone to defending your viewpoint at all costs — or a scout, spurred by curiosity? Julia Galef examines the motivations behind these two mindsets and how they shape the way we interpret information, interweaved with a compelling history lesson from 19th-century France. When your steadfast opinions are tested, Galef asks: "What do you most yearn for? Do you yearn to defend your own beliefs or do you yearn to see the world as clearly as you possibly can?""
+
 ## Sources
 
 [Farnam Street](https://fs.blog/) - "**Farnam Street** \(FS\) helps you master the best of what other people have already figured out. Together we will develop the [mental models](https://fs.blog/mental-models/) to understand how the world works, make better decisions, and live a more meaningful life."
