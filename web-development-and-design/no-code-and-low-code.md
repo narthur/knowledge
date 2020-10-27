@@ -1,10 +1,10 @@
 # No Code & Low Code
 
-[Boundless Labs](https://www.boundlesslabs.com/)
+[Boundless Labs](https://www.boundlesslabs.com/) - "Boundless lets you build the web site of your dreams. No code required."
 
-[Bubble](https://bubble.is/)
+[Bubble](https://bubble.is/) \#webapp - "Bubble is the most powerful platform that empowers you to build and run web applications without code."
 
-[Glide](https://www.glideapps.com/)
+[Glide](https://www.glideapps.com/) - "Create an app from a Google Sheet in five minutes, for free."
 
 [MakerPad](https://www.makerpad.co/) - "Makerpad is the no-code platform you need to create tools for your work. From professionals to creators, you can view tutorials, develop skills, browse jobs and build tools. Learning to build can be a gateway into coding."
 
