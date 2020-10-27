@@ -1,5 +1,7 @@
 # Rationality
 
+{% embed url="https://www.youtube.com/watch?v=w4RLfVxTGH4" caption="https://www.youtube.com/watch?v=w4RLfVxTGH4" %}
+
 [Charles Murray vs Milo, and the "good faith" principle](https://www.youtube.com/watch?v=3ub73hWrORo) \#video - "I explain why I think the "good faith" principle implies that we should give people like Charles Murray, but not Milo, a platform to share their ideas. \(Not saying Milo should be legally banned from speaking, just that we shouldn't be going out of our way to give him opportunities to speak.\) I also argue that the "good faith" principle is inherently subjective and that this doesn't negate its importance."
 
 [An Honest Liar](https://www.hoopladigital.com/title/13408321) \#documentary - "The incredible true story of the renowned magician turned skeptic and exposer of frauds and hoaxes, James "The Amazing" Randi." \#skepticism
@@ -23,8 +25,6 @@
 [What is "rationality"?](https://www.youtube.com/watch?v=iloTS0wU9qM) \#video - "What do people mean by rationality? Julia Galef from [http://measureofdoubt.com](https://www.youtube.com/redirect?q=http%3A%2F%2Fmeasureofdoubt.com&event=video_description&redir_token=ZBkUYD34unP50bTY51VM03qzqp18MTU5MDkyNjgxNEAxNTkwODQwNDE0&v=iloTS0wU9qM) discusses the various ways understand word rationality and how different meanings relate to each other."
 
 [Why you shouldn't try to "'change your mind"](https://www.youtube.com/watch?v=d6PgCN7ySGQ) \#video - "In which I describe how I've changed my mind about the usefulness of "changing one's mind""
-
-[Why you think you're right -- even if you're wrong \| Julia Galef](https://www.youtube.com/watch?v=w4RLfVxTGH4) \#video - "Perspective is everything, especially when it comes to examining your beliefs. Are you a soldier, prone to defending your viewpoint at all costs — or a scout, spurred by curiosity? Julia Galef examines the motivations behind these two mindsets and how they shape the way we interpret information, interweaved with a compelling history lesson from 19th-century France. When your steadfast opinions are tested, Galef asks: "What do you most yearn for? Do you yearn to defend your own beliefs or do you yearn to see the world as clearly as you possibly can?""
 
 ## Sources
 
