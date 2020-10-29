@@ -12,8 +12,6 @@
 
 [Overpopulation – The Human Explosion Explained](https://www.youtube.com/watch?v=QsBT5EQt348&list=PLIilwIraDV2JwXZ5bQ500pxPe0PyL3m7L&index=2) \#video - "In a very short amount of time the human population exploded and is still growing very fast. Will this lead to the end of our civilization?"
 
-[The Power of Incentives - How Games Help Us Examine Our World - Extra Credits](https://www.youtube.com/watch?v=HqcLghafPXY&list=PLIilwIraDV2JwXZ5bQ500pxPe0PyL3m7L&index=2) \#video - "Games are uniquely suited as a medium to teach us about how our world works. By emulating incentive systems and allowing the player to explore and make their own mistakes, games can change people's minds - in some cases, better than a sermon or lecture on the subject could. As a medium, games can both comment on our society and help us recognize faulty systems all around us."
-
 [Real Value \| Economics Documentary with Dan Ariely \| Sustainability \| Social Entrepreneurship](https://www.youtube.com/watch?v=ez3CWXQrgVo&list=PLIilwIraDV2JwXZ5bQ500pxPe0PyL3m7L&index=2) \#video - "Documentary \| Documentaries \| Real Value \| Award winning economics documentary about how social entrepreneurs are using business to create value beyond profit."
 
 [The Venus Project And The Resource-Based Economy \| Answers With Joe](https://www.youtube.com/watch?v=nYodgWapmgc&list=PLIilwIraDV2JwXZ5bQ500pxPe0PyL3m7L&index=2) \#video - "Jacques Fresco started The Venus Project as a way to spread the word about the Resource Based Economy, an idea for a society beyond money. But is it feasible? And how would it work?"
@@ -41,6 +39,12 @@
 [The Rise of the Machines – Why Automation is Different this Time](https://www.youtube.com/watch?v=WSKi8HfcxEk&list=PLIilwIraDV2JwXZ5bQ500pxPe0PyL3m7L&index=2) \#video - "Automation in the Information Age is different."
 
 [What would happen if we upload our brains to computers? \| Robin Hanson](https://www.youtube.com/watch?v=Urk3xn7l3AM&list=PLIilwIraDV2JwXZ5bQ500pxPe0PyL3m7L&index=2) \#video - "Meet the "ems" -- machines that emulate human brains and can think, feel and work just like the brains they're copied from. Economist and social scientist Robin Hanson describes a possible future when ems take over the global economy, running on superfast computers and copying themselves to multitask, leaving humans with only one choice: to retire, forever. Glimpse a strange future as Hanson describes what could happen if robots ruled the earth."
+
+## Behavioral Economics
+
+[The Power of Incentives - How Games Help Us Examine Our World - Extra Credits](https://www.youtube.com/watch?v=HqcLghafPXY&list=PLIilwIraDV2JwXZ5bQ500pxPe0PyL3m7L&index=2) \#video - "Games are uniquely suited as a medium to teach us about how our world works. By emulating incentive systems and allowing the player to explore and make their own mistakes, games can change people's minds - in some cases, better than a sermon or lecture on the subject could. As a medium, games can both comment on our society and help us recognize faulty systems all around us."
+
+[Prize-linked savings account](https://en.wikipedia.org/wiki/Prize-linked_savings_account) \#article - Wikipedia. "Prize-linked savings is the concept of using the chance to win a prize to incentivize personal savings. A **prize-linked savings account** or **PLSA** \(also called a **lottery-linked deposit account**\) is a [savings account](https://en.wikipedia.org/wiki/Savings_account) where some of the [interest](https://en.wikipedia.org/wiki/Interest) payment on [bank deposits](https://en.wikipedia.org/wiki/Bank_deposit) or marketing dollars are distributed as prizes based on chance. They are attractive to consumers as they function both as a sweepstakes or game of chance \(as there is a chance of a large prize\) and as savings \(the deposit is never lost, unlike normal lotteries\) vehicle. PLSAs are similar to [lottery bonds](https://en.wikipedia.org/wiki/Lottery_Bond) except they are offered by banks, [credit unions](https://en.wikipedia.org/wiki/Credit_union), prepaid card companies, and FinTechs, and can be held for a period of time determined by the consumer. Sometimes the returns are in-kind prizes rather than cash."
 
 ## Blockchain
 
