@@ -40,3 +40,5 @@
 
 [Healthline](https://www.healthline.com/) - Seems to be good about sharing sources and fact checking their articles.
 
+[The Nuance](https://elemental.medium.com/the-nuance/home) \#blog - "**The Nuance** is a weekly column that offers a deep and researched look at the latest science and expert insights on a buzzed-about health topic. Your life, sourced by science."
+
