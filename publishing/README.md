@@ -1,5 +1,9 @@
 # Creativity
 
+[Copying](https://matthewstrom.com/writing/copying/?ref=sidebar) \#book - by [Matthew Ström](https://matthewstrom.com/). "\(is the way design works.\) This is a very short book about copying. Its contents, unless otherwise noted, are licensed under [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) \(more on that in a bit\). You can download, copy, remix, excerpt, change, and repost it however you see fit."
+
+[Descript](https://www.descript.com/) - "Descript is a collaborative audio/video editor that works like a doc. It includes transcription, a screen recorder, publishing, full multitrack editing, and some mind-bendingly useful AI tools." [Promo](https://www.youtube.com/watch?v=Bl9wqNe5J8U&feature=emb_logo&utm_content=143586584&utm_medium=social&utm_source=twitter&hss_channel=tw-14260608).
+
 [My Video Went Viral. Here's Why](https://www.youtube.com/watch?v=fHsa9DqmId8&feature=youtu.be) \#video - "My hypothesis is that the algorithm, rather than viewer preference, drives views on the site. As the algorithm shifts, various YouTubers experience burnout \(as what used to work no longer works\) and right now click-through rate is the key metric. So clickable titles and thumbnails are the only way to get a lot of impressions and hence views - they are the only way to go viral. This leads me to wonder which audiences will become most prevalent on the site and if there will even be a place for educational content. In the long-term, hopefully YouTube is able to measure satisfaction through surveys and other metrics to ensure an optimal experience for everyone on the site."
 
 ## Business of Creativity
