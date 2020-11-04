@@ -1,5 +1,7 @@
 # Self-Care
 
+{% embed url="https://www.youtube.com/watch?v=o7f4VIJs5F4" %}
+
 [Care Cards](https://carecards.io/) - “A set of tips to keep you afloat. Care Cards are a set of kind thoughts and helpful little activities to keep you on top of your mental wellbeing.”
 
 [How Sitting All Day Is Damaging Your Body and How You Can Counteract It](https://lifehacker.com/5879536/how-sitting-all-day-is-damaging-your-body-and-how-you-can-counteract-it) \#article - “Do you sit in an office chair or on your couch for more than six hours a day? Then here are some disturbing facts: Your risk of heart disease has increased by up to 64 percent. You're shaving off seven years of quality life. You're also more at risk for certain types of cancer. Simply put, sitting is killing you. That's the bad news. The good news: It's easy to counteract no matter how lazy you are.” Get up and walk around once an hour.
