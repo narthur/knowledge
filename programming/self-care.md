@@ -1,6 +1,6 @@
 # Self-Care
 
-{% embed url="https://www.youtube.com/watch?v=o7f4VIJs5F4" %}
+{% embed url="https://www.youtube.com/watch?v=o7f4VIJs5F4" caption="https://www.youtube.com/watch?v=o7f4VIJs5F4" %}
 
 [Care Cards](https://carecards.io/) - “A set of tips to keep you afloat. Care Cards are a set of kind thoughts and helpful little activities to keep you on top of your mental wellbeing.”
 
