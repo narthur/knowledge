@@ -52,6 +52,8 @@
 * Use artificial tears to refresh your eyes when they feel dry. Consider using a humidifier.
 * If a screen is much brighter than the surrounding light, your eyes have to work harder to see. Adjust your room lighting and try increasing the contrast on your screen to reduce eye strain.
 
+[Eyestrain](https://www.mayoclinic.org/diseases-conditions/eyestrain/symptoms-causes/syc-20372397) \#article - Mayo Clinic. "Extended use of computers and other digital devices is one of the most common causes of eyestrain. The American Optometric Association calls this computer vision syndrome, or digital eyestrain. People who look at screens two or more hours in a row every day have the greatest risk of this condition."
+
 [How Does the 20-20-20 Rule Prevent Eye Strain?](https://www.healthline.com/health/eye-health/20-20-20-rule) \#article - “If you find yourself gazing at screens all day, your eye doctor may have mentioned this rule to you. Basically, every 20 minutes spent using a screen, you should try to look away at something that is 20 feet away from you for a total of 20 seconds.”
 
 [How to cure eye strain headaches – 10 tips](http://vkool.com/how-to-cure-eye-strain/) \#article - “Eye strain is a popular health issue in the nowadays life. It can occur due to several of different reasons. Some common causes are reading in insufficient light for a long time without breaking or relaxing, staring at digital devices for long stretches of time, sleep lack, excess or less exposure to bright light, incorrect vision prescription, allergies, and some other kinds of eye issues.”
