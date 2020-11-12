@@ -84,10 +84,6 @@ Google Analytics
 
 [GDPR Tracker](https://gdprtracker.io/) - "Track the GDPR compliance of **+100** cloud services and subprocessors."
 
-## GraphQL
-
-[Relay: Mutations](https://relay.dev/docs/en/mutations) \#article
-
 ## Microservices
 
 [Microservices Foundations](https://www.lynda.com/Developer-tutorials/Microservices-Foundations/647664-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3amicroservices%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) \#course - "Microservices is a major architectural pattern in the software industry, and having an overview of what this architecture is-and what it isn't-is critical as a starting point to evaluating this model. This course covers the basic concepts of microservices, to help you determine if this architectural model is the right fit for you and your team. Instructor Frank Moley kicks off the course by briefly discussing how microservices fit into the history of software architecture, and going into some of the other notable patterns that have emerged in recent years. Frank then helps to familiarize you with some core concepts of microservices, including bounded contexts and the API layer. He also goes over some of the more advanced areas of the architecture, as well as the importance of embracing a DevOps culture should you choose to move to microservices."

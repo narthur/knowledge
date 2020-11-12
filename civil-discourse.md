@@ -12,6 +12,8 @@
 
 [A conservative's plea: Let's work together \| Arthur Brooks](https://youtu.be/87AEeLpodnE) \#video - “Conservatives and liberals both believe that they alone are motivated by love while their opponents are motivated by hate. How can we solve problems with so much polarization? In this talk, social scientist Arthur Brooks shares ideas for what we can each do as individuals to break the gridlock. "We might just be able to take the ghastly holy war of ideology that we're suffering under and turn it into a competition of ideas," he says.”
 
+[Consider.it](https://consider.it/) - "Consider.it creates CIVIL AND ORGANIZED ONLINE DIALOGUE by visually summarizing what your community thinks and why"
+
 [The Doctor's Speech \| The Zygon Inversion \| Doctor Who](https://www.youtube.com/watch?v=BJP9o4BEziI) \#video - "With Kate and Bonnie poised over the big red button, truth or consequences, can the Doctor convince them to sit down and talk instead?"
 
 [Drag Racing Against Cops](https://www.youtube.com/watch?v=z7cuSp-Vhqw) \#video
