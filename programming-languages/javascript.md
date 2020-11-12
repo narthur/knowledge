@@ -43,8 +43,6 @@ console.log(found);
 
 [React Native](https://reactnative.dev/) - "Learn once, write anywhere."
 
-[RxJS](https://rxjs.dev/guide/overview) - "RxJS is a library for composing asynchronous and event-based programs by using observable sequences. It provides one core type, the [Observable](https://rxjs.dev/guide/observable), satellite types \(Observer, Schedulers, Subjects\) and operators inspired by [Array\#extras](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.6) \(map, filter, reduce, every, etc\) to allow handling asynchronous events as collections."
-
 [StateOfJS](https://stateofjs.com/) - Yearly surveys on the JavaScript ecosystem
 
 [The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4&list=PLIilwIraDV2J8hueIWIwvkT3NvfuSChe7&index=3&t=11s) \#video - "The history of JavaScript over the last 25 years. How did a simple scripting language for Netscape evolve into the world's most widely used programming language?"
