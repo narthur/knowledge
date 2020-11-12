@@ -1,5 +1,7 @@
 # React
 
+[Anatomy of a React application: optimistic updates](https://medium.com/guidesmiths-dev/anatomy-of-a-react-application-optimistic-updates-e4a3318665c7) \#article - "Web applications often require interaction with APIs in order to retrieve and update data. Server-side rendering can greatly reduce the time required to fetch data on the initial page load. Once the application is loaded on the browser though, additional API calls will involve further network calls which could potentially be slow and flaky, making your application sluggish. This is especially true when on mobile connections."
+
 [Expo](https://expo.io/) - "With Expo tools, services, and React, you can build, deploy, and quickly iterate on native Android, iOS, and web apps from the same JavaScript codebase."
 
 [Next.js](https://nextjs.org/) - "The React Framework"
@@ -9,6 +11,14 @@
 [Preact](https://preactjs.com/) - "Fast 3kB alternative to React with the same modern API."
 
 [React Next](https://react-next.com/) \#conference
+
+[Understanding the React useReducer Hook](https://alligator.io/react/usereducer/#:~:text=%20Understanding%20the%20React%20useReducer%20Hook%20%201,Context%20API%20or%20whatever%20means%20you...%20More%20) \#article - "If you are at all [familiar with reducers](https://alligator.io/redux/redux-intro/#whats-a-reducer), you should have a good understanding of what React’s _useReducer_ hook does. Plain and simple, it allows functional components in React access to reducer functions from your state management. If you are not familiar with reducers, read this [Reducers Introduction](https://redux.js.org/basics/reducers) first."
+
+## Global State
+
+[Context](https://reactjs.org/docs/context.html) \#article - "Context provides a way to pass data through the component tree without having to pass props down manually at every level."
+
+[React Context vs Redux - Who wins?](https://www.youtube.com/watch?v=OvM4hIxrqAw) \#video - "Is the React Conext API a good replacement for Redux? And how would you switch? Here's an example project and some reasons on why \(not to\) switch!"
 
 ## Hooks
 
@@ -23,6 +33,22 @@
 [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html) \#article - "_Hooks_ are a new addition in React 16.8. They let you use state and other React features without writing a class."
 
 [Run useEffect Only Once](https://css-tricks.com/run-useeffect-only-once/) \#article - "The trick is that `useEffect` takes a second parameter."
+
+## React Query
+
+[All About React Query \(with Tanner Linsley\) — Learn With Jason](https://www.youtube.com/watch?v=DocXo3gqGdI) \#video - "There‘s a lot of buzz about React Query and how much it can simplify your development workflow. In this episode, we’ll learn all about it from the [\#TanStack](https://www.youtube.com/results?search_query=%23TanStack) creator himself!"
+
+[React Query](https://react-query.tanstack.com/) - "Performant and powerful data synchronization for React. Fetch, cache and update data in your React and React Native applications all without touching any "global state"."
+
+[React Query - Essentials](https://learn.tanstack.com/) \#course - $150. "The official and exclusive guide to mastering server-state in your applications, straight from the original creator and maintainer of the library."
+
+[React Query: Guides & Concepts: Optimistic Updates](https://react-query.tanstack.com/docs/guides/optimistic-updates) \#article - "When you optimistically update your state before performing a mutation, there is a non-zero chance that the mutation will fail. In most cases, you can just trigger a refetch for your optimistic queries to revert them to their true server state. In some circumstances though, refetching may not work correctly and the mutation error could represent some type of server issue that won't make it possible to refetch. In this event, you can instead choose to rollback your update."
+
+## SWR
+
+[Mutate the data without key at first \#403](https://github.com/vercel/swr/issues/403) - "Hey, I have hard time figuring out how to deal with usage of SWR and revalidation when key for request is not there from the beginning."
+
+[SWR](https://swr.vercel.app/) - "React Hooks library for data fetching"
 
 ## Testing Library
 
