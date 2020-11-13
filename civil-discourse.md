@@ -8,9 +8,13 @@
 
 [Argue with me, please](https://uxdesign.cc/argue-with-me-please-f8a8541982c4?ref=webdesignernews.com) \#article - “Friendly discourse is at the core of great of product design and UX. How can we get over our fears and use it as a tool?”
 
+[The Art of Conflict Management: Achieving Solutions for Life, Work, and Beyond](https://www.audible.com/pd/The-Art-of-Conflict-Management-Achieving-Solutions-for-Life-Work-and-Beyond-Audiobook/B00DIEGPTA?qid=1605276948&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=C05TVHNMWH4HRBGRP933) \#course - Audio course. "In 24 lectures brimming with practical tips, tools, and techniques everyone can use to better manage conflict in his or her professional and personal lives, gain the essential skills of conflict management. As presented by Professor Dues, these lectures will show you how to effectively deal with conflicts of all kinds, using the "win-win" model that has dominated the field for the past six decades."
+
 [The Bad Show](https://www.wnycstudios.org/story/bad-show) \#podcast - Radiolab. “With all of the black-and-white moralizing in our world today, we decided to bring back an old show about the little bit of bad that's in all of us...and the little bit of really, really bad that's in some of us."
 
 [A conservative's plea: Let's work together \| Arthur Brooks](https://youtu.be/87AEeLpodnE) \#video - “Conservatives and liberals both believe that they alone are motivated by love while their opponents are motivated by hate. How can we solve problems with so much polarization? In this talk, social scientist Arthur Brooks shares ideas for what we can each do as individuals to break the gridlock. "We might just be able to take the ghastly holy war of ideology that we're suffering under and turn it into a competition of ideas," he says.”
+
+[Consider.it](https://consider.it/) - "Consider.it creates CIVIL AND ORGANIZED ONLINE DIALOGUE by visually summarizing what your community thinks and why"
 
 [The Doctor's Speech \| The Zygon Inversion \| Doctor Who](https://www.youtube.com/watch?v=BJP9o4BEziI) \#video - "With Kate and Bonnie poised over the big red button, truth or consequences, can the Doctor convince them to sit down and talk instead?"
 
