@@ -24,7 +24,7 @@
 
 [Pi-hole](https://pi-hole.net/) - "A black hole for Internet advertisements"
 
-[Pomy](https://vanejung.com/pomy/) \#software - "Focus timer app for your eye health"
+[Pomy](https://vanejung.com/pomy/) \#software - "Focus timer app for your eye health." Mac and Windows.
 
 [Spend More Time Alone](http://www.calnewport.com/blog/2017/09/24/spend-more-time-alone/) \#article - by Cal Newport. "The right way to define “solitude” is as a subjective state in which you’re isolated from input from other minds. ... Regular doses of solitude are crucial for the effective and resilient functioning of your brain."
 
