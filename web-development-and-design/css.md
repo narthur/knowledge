@@ -34,6 +34,8 @@
 
 [Quantity Queries for CSS](http://alistapart.com/article/quantity-queries-for-css) \#article - “This is your guide to creating style breakpoints for quantities of HTML elements, much as you already do with @media queries for viewport dimensions. I’m not pointing at some blurry specification in the distance or a twinkle in an implementer’s eye. We’re going to do this today, with CSS that’s already available.”
 
+[The Raven Technique: One Step Closer to Container Queries](https://css-tricks.com/the-raven-technique-one-step-closer-to-container-queries/) \#article - "For the millionth time: [We need container queries](https://css-tricks.com/lets-not-forget-about-container-queries/) in CSS! And guess what, it looks like [we’re heading in that direction](https://groups.google.com/a/chromium.org/g/blink-dev/c/u1AKdrXhPGI/m/wrJb-unhAgAJ)."
+
 [The stacking context](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context) \#article - "The **stacking context** is a three-dimensional conceptualization of HTML elements along imaginary z-axis relative to the user, who is assumed to be facing the viewport or the webpage. HTML elements occupy this space in priority order based on element attributes."
 
 [Understanding CSS Layout And The Block Formatting Context](https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/) \#article - By Rachel Andrew. “There are a few concepts in CSS layout that can really enhance your CSS game once you understand them. This article is about the Block Formatting Context \(BFC\). You may never have heard of this term, but if you have ever made a layout with CSS, you probably know what it is. Understanding what a BFC is, why it works, and how to create one is useful and can help you to understand how layout works in CSS.” 👍
@@ -65,6 +67,32 @@
 [CSS Grid: Moving From CSS Frameworks To CSS Grid \(2018 and beyond\) - YouTube](https://www.youtube.com/watch?v=paMmgo4MhQ8) \#video - "For the first time since its inception, CSS now has a real two-dimensional layout tool in the CSS Grid specification. We’ve had to resort to using floats, inline blocks and most recently, Flexbox. Because using these for layout is essentially a hack, we’re often tempted to resort to grid frameworks like those provided by Foundation and Bootstrap."
 
 [Why CSS grid-area is the best property for laying out content](https://www.youtube.com/watch?v=duH4DLq5yoo) \#video - "CSS Grid is amazing, and grid-area just make it so much better. When grid first launched I loved the idea of grid areas, but didn't get fully on board as it seemed like a little too much work... but once you start actually using them on a regular basis, you realize that while the initial setup in slightly longer, in the long run you can save a boat load of time!"
+
+## Performance
+
+### Articles
+
+[CSS performance revisited: selectors, bloat and expensive styles](https://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles/) \(February 2014\)
+
+[CSS Selectors: Should You Optimize Them To Perform Better?](http://vanseodesign.com/css/css-selector-performance/) \(October 2011\)
+
+[Writing efficient CSS](http://mdn.beonex.com/en/CSS/Writing_Efficient_CSS.html#How_the_style_system_matches_rules) \(April 2000\)
+
+[Reflows & Repaints: CSS Performance Making Your Javascript Slow?](http://www.stubbornella.org/content/2009/03/27/reflows-repaints-css-performance-making-your-javascript-slow/) \(March 2009\)
+
+### Q&A
+
+[CSS selector performance](https://stackoverflow.com/questions/9420269/css-selector-performance) \(February 2012\)
+
+[Best practice/performance between descendent and direct descendent selectors](https://stackoverflow.com/questions/23718823/best-practice-performance-between-descendent-and-direct-descendent-selectors) \(May 2014\)
+
+[Is there a difference in performance between the child and descendant selectors?](https://stackoverflow.com/questions/34695477/is-there-a-difference-in-performance-between-the-child-and-descendant-selectors) \(January 2016\)
+
+### Tools
+
+[benfrain/css-performance-tests](https://github.com/benfrain/css-performance-tests)
+
+[BEM 101](https://css-tricks.com/bem-101/) - BEM might allow us to have flatter CSS files, meaning less traversing of the tree to ensure selectors match.
 
 ## Resets
 

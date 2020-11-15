@@ -1,6 +1,6 @@
 # Humane Tech
 
-![https://www.savagechickens.com/2018/03/ice-cream-fever.html](.gitbook/assets/chickennficecream.jpg)
+![https://www.savagechickens.com/2018/03/ice-cream-fever.html](../.gitbook/assets/chickennficecream.jpg)
 
 [Center for Humane Technology](https://humanetech.com/) - "Our mission is to reverse human downgrading by inspiring a new race to the top and realigning technology with humanity."
 
@@ -11,8 +11,6 @@
 [f.lux](https://justgetflux.com/) \#software - "f.lux ... makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day."
 
 [HOW I REPLACED FACEBOOK WITH "NICEBOOK"](https://elgan.com/blog/how-i-replaced-facebook-with-google-photos) \#article - "I’m replacing Facebook with a single shared folder in Google Photos I’m calling “Nicebook” — it’s all the nice features of Facebook, without the exploitative, racist, disinformation, censoring, advertising and other not-so-nice features of Facebook."
-
-[How to Prevent the Internet From Taking Over Your Life: Digital Minimalism 06](https://www.youtube.com/watch?v=jEps2fnwL-0&feature=youtu.be) \#video - "It's way too easy now to let the internet be a part of every aspect of our lives. This was starting to have a really negative effect on me, so I decided to do something about it."
 
 [Humane Tech Community](https://humanetech.community/) - "We are building the Pyramids of Humane Technology. We envision a future where we have unobtrusive technology that is empowering us and that allows humans to flourish and humanity to thrive. Where the digital world is a natural extension of the real one and a reflection of ourselves."
 
@@ -42,6 +40,14 @@
 
 [Imagine This: A Web Without Servers - Tara Vancil - JSConf EU 2018 - YouTube](https://www.youtube.com/watch?v=rJ_WvfF3FN8&feature=youtu.be) \#video - "The Web was envisioned as an open platform for publishing and sharing information, but that vision has been lost: most people will never publish independently on the Web. What went wrong?"
 
+## Internet Surfing
+
+{% embed url="https://www.youtube.com/watch?v=ve37Bg4-hPc" caption="https://www.youtube.com/watch?v=ve37Bg4-hPc" %}
+
+[How to Prevent the Internet From Taking Over Your Life: Digital Minimalism 06](https://www.youtube.com/watch?v=jEps2fnwL-0&feature=youtu.be) \#video - "It's way too easy now to let the internet be a part of every aspect of our lives. This was starting to have a really negative effect on me, so I decided to do something about it."
+
+[r/nosurf](https://www.reddit.com/r/nosurf/) - "NoSurf is a community of people who are focused on becoming more productive and wasting less time mindlessly surfing the internet. [https://nosurf.org/](https://nosurf.org/)." [Wiki](https://www.reddit.com/r/nosurf/wiki/index). [Website](https://nosurf.net/).
+
 ## Online Video
 
 [DF Tube \(Distraction Free for YouTube™\) - Chrome Web Store](https://chrome.google.com/webstore/detail/df-tube-distraction-free/mjdepdfccjgcndkmemponafgioodelna) - "Allow yourself to focus while using YouTube™ for work, recreation or education."
@@ -55,30 +61,6 @@
 [PeerTube](https://peertube.cpy.re/) \#webapp
 
 [SkyTube](https://skytube-app.com/) \#app - "An open-source YouTube™ app for Android™."
-
-## Phone Usage
-
-[Before Launcher](https://play.google.com/store/apps/details?id=com.beforesoft.launcher) \#app - "Before Launcher helps us live in real life, and keeps our smartphone smart." \#android
-
-[Daywise](https://getdaywise.com/) \#app - "Pick a schedule. Get notifications at those times. People who get notifications at set times are less stressed, calmer and more productive."
-
-[Desert Island](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.desertisland) \#app - "Desert Island helps you find focus, by challenging you to go a day with only your essential apps. Simply pick the apps that are most important to you, then give it a go for 24 hours."
-
-[Envelope ](https://play.google.com/store/apps/details?id=com.specialprojects.experiments.envelopecall)\#app - "An experimental app which temporarily transforms your phone into a simpler, calmer device. Currently supports Pixel 3a." [Printable PDF envelope](https://s3-eu-west-1.amazonaws.com/media.designersfriend.co.uk/sps/media/uploads/misc/downloads/google-unplugged-envelope-instructions.pdf). [GitHub](https://github.com/specialprojects-experiments/envelope).
-
-[Forest](https://www.forestapp.cc/) \#app - "Stay focused, be present"
-
-[Indistractable Launcher](https://play.google.com/store/apps/details?id=com.indistractablelauncher.android&hl=en_US) \#app - "The minimalist launcher \(Early Access\)"
-
-[The Light Phone](https://www.thelightphone.com/) - "A phone is a tool, and it should serve you as the user, not the other way around. The Light Phone II is a phone that actually respects you."
-
-[Mudita Pure](https://mudita.com/products/pure/) - "Modern take on a classic phone. Enjoy no distractions, an eye-friendly E Ink display, long battery life, ultralow SAR value and the features you need."
-
-[OFFTIME ](https://play.google.com/store/apps/details?id=co.offtime.kit&hl=en_US)\#app - "OFFTIME lets you track and **customize your connectivity \(and limit phone usage\) so you can do the things that matter**. **Unplug**, **digital detox** and **focus** on your work, have **quality time** without distractions with the people you care about, or simply enjoy some peace of mind."
-
-[Punkt MP01 Phone](https://www.punkt.ch/en/products/mp01-mobile-phone/) - "Distracted? Focus. Sometimes it’s good to take a break"
-
-[Siempo](http://www.getsiempo.com/) \#app - Android launcher. "Use your tech, not the other way around. Let’s build a healthier relationship with our devices. Siempo puts you back in control of your apps and protects you from overuse."
 
 ## Social Networking
 
