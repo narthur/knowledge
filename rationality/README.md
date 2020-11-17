@@ -10,6 +10,8 @@
 
 [How Good Are FiveThirtyEight Forecasts?](https://projects.fivethirtyeight.com/checking-our-work/) \#article - "Forecasts have always been a core part of FiveThirtyEight’s mission. They force us \(and you\) to think about the world probabilistically, rather than in absolutes. And making predictions, whether we’re modeling a candidate’s chance of being elected or a team’s odds of making the playoffs, improves our understanding of the world by testing our knowledge of how it works — what makes a team or a candidate win."
 
+[In Defense of Polling](https://nickyoder.com/in-defense-of-polling/) \#article - November 7, 2020. "How I earned $50,000 on election night using polling data and some Python code."
+
 [Is Most Published Research Wrong?](https://www.youtube.com/watch?v=42QuXLucH3Q) \#video - "Mounting evidence suggests a lot of published research is false."
 
 [Mental Models: The Best Way to Make Intelligent Decisions \(109 Models Explained\)](https://fs.blog/mental-models/) \#article - "Mental models are how we understand the world. Not only do they shape what we think and how we understand but they shape the connections and opportunities that we see. Mental models are how we simplify complexity, why we consider some things more relevant than others, and how we reason."
