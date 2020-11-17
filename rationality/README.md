@@ -36,3 +36,7 @@
 
 [LessWrong](https://www.lesswrong.com/) \#blog - "_LessWrong_ is a community blog devoted to the art of human rationality."
 
+[Slate Star Codex](https://slatestarcodex.com/)
+
+[Slate Star Codex](https://www.reddit.com/r/slatestarcodex/) on Reddit
+
