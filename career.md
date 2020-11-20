@@ -6,6 +6,10 @@
 
 [Great developers are raised, not hired](https://sizovs.net/2019/04/10/the-best-developers-are-raised-not-hired/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) \#article - "By building mentoring capacity at work, you can hire newcomers, broken toys, impostors and turn them into the loyal, high-quality workforce. Shifting focus from assessing to mentoring can simplify your interviewing process. Instead of trying to predict future performance by asking tough questions and sending candidate through nine circles of hell, you can hire candidates with a growth mindset and grow them."
 
+[Jack Butcher on Twitter: "Publishing your ideas as you have them is dollar cost averaging for your reputation." / Twitter](https://twitter.com/jackbutcher/status/1329852224479113218) \#tweet - \#thread
+
+[Lab Notes: My Closed-Loop Research System - Study Hacks - Cal Newport](https://www.calnewport.com/blog/2011/06/23/lab-notes-my-closed-loop-research-system/) \#article - "The best way to understand my research system is as a three-level pyramid \(illustrated at the top of this post\)." His iterative method of gathering, processing, and applying research in bite-sized experiments designed to get feedback.
+
 [Lunchclub](https://lunchclub.ai/) - "Smart introductions to relevant people. Curated 1:1 professional connections."
 
 [MentorCruise](https://mentorcruise.com/) - "Your trusted source to find highly-vetted mentors & industry professionals to move your career ahead."
