@@ -18,7 +18,7 @@
 
 [PredictionBook](https://predictionbook.com/) - "Rather than just recording **what** you think will happen, PredictionBook allows you to record just how sure you are that it will happen. You can distinguish between those things you think will probably occur, and those things you're really really sure will occur. If you're properly calibrated, you'll be able to see that about 60% of the things you're 60% sure will happen, do happen, and 90% of the things you're 90% sure will happen, do happen."
 
-[Siqi Chen on Twitter: "This may be the strongest optical illusion I’ve ever seen. https://t.co/J8fCqbQUJ1" / Twitter](https://twitter.com/blader/status/1330631848842588161)
+{% embed url="https://twitter.com/blader/status/1330631848842588161" caption="https://twitter.com/blader/status/1330631848842588161" %}
 
 [The Signal and the Noise: Why So Many Predictions Fail - But Some Don't by Nate Silver \| Goodreads](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise?from_search=true&qid=MEEN6mCMC4&rank=1) \#book - "Drawing on his own groundbreaking work, Silver examines the world of prediction, investigating how we can distinguish a true signal from a universe of noisy data. Most predictions fail, often at great cost to society, because most of us have a poor understanding of probability and uncertainty. Both experts and laypeople mistake more confident predictions for more accurate ones. But overconfidence is often the reason for failure. If our appreciation of uncertainty improves, our predictions can get better too. This is the "prediction paradox": The more humility we have about our ability to make predictions, the more successful we can be in planning for the future."
 
