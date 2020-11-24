@@ -110,3 +110,5 @@
 
 [Windownaut](http://www.binarybakery.com/aprod/windownaut.html) - "Tame your app windows."
 
+![https://www.deviantart.com/smigliano/art/Put-Down-the-Duckie-623974442](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d45d598-7036-49ce-ac45-b09e587d6b24/dabhxre-c67a353f-940d-4cc9-9ca8-e0af7139058c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNGQ0NWQ1OTgtNzAzNi00OWNlLWFjNDUtYjA5ZTU4N2Q2YjI0XC9kYWJoeHJlLWM2N2EzNTNmLTk0MGQtNGNjOS05Y2E4LWUwYWY3MTM5MDU4Yy5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.7K-04G2UtwWT3eRIdlhh3XnLeadEAkjQ9fX3xqOxJEo)
+
