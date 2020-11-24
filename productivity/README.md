@@ -23,6 +23,8 @@
 
 [How to Get Motivated: A Guide for Defeating Procrastination](https://alexvermeer.com/getmotivated/) \#article - "I created a flowchart, to be printed in colour and posted somewhere visible, to help me _actually use_ the anti-procrastination advice I so desperately need!"
 
+[Identity-Based Habits: How to Actually Stick to Your Goals This Year](https://jamesclear.com/identity-based-habits) \#article
+
 [I Resolve Not To Resolve; Or, The Anti-Resolution Resolution](https://blog.beeminder.com/should/) \#article - "IF I say “I/we should do X” THEN I take some immediate action that gets me slightly closer to X happening."
 
 \_\_[_The Motivation Hacker_](http://www.nickwinter.net/the-motivation-hacker) \#book - "_The Motivation Hacker_ shows you how to summon extreme amounts of motivation to accomplish anything you can think of. From precommitment to rejection therapy, this is your field guide to getting yourself to want to do everything you always wanted to want to do."
@@ -88,6 +90,8 @@
 [AlternativeTo](https://alternativeto.net/) - "Reviews, comments and recommendations."
 
 [Cal Newport](http://www.calnewport.com/blog/) \#blog - "I'm a [computer science professor](http://people.cs.georgetown.edu/~cnewport/) who writes about the intersection of technology and society. I’m particularly interested in the impact of new technologies on our ability to perform productive work and lead satisfying lives. If you’re new to my writing, a good place to start is the [about page](http://calnewport.com/about/). You can access over a decade's worth of posts in the [blog archive](http://calnewport.com/blog/archive/)."
+
+[James Clear](https://jamesclear.com/) - "I’ve been writing at JamesClear.com since 2012. I’m the author of the _New York Times_ bestseller, [Atomic Habits](https://atomichabits.com/), which has sold more than 1 million copies worldwide. I'm also known for my popular 3-2-1 newsletter, which is sent out each week. [Click here to learn more and sign up](https://jamesclear.com/3-2-1)."
 
 [Matt D'Avella](https://mattdavella.com/) - "Hi, my name’s Matt D’Avella. I’m a [filmmaker](http://minimalismfilm.com/), [YouTuber](http://youtube.com/mattdavella) & [podcaster](http://groundupshow.com/) that explores what it means to live a good life."
 
