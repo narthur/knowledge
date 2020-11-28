@@ -54,3 +54,5 @@
 
 [Cal Newport](http://www.calnewport.com/blog/) \#blog
 
+![https://twitter.com/\_faizmemon\_/status/1332420796506017792](.gitbook/assets/image.png)
+

@@ -4,6 +4,8 @@
 
 [3 Ways to Trick Your Brain Into Doing Hard Work](https://www.youtube.com/watch?v=o22pjf9obA0&t=328s) \#video - "Sometimes, you sit down with the best of intentions and... nothing gets done. Like Eddie Morra at the beginning of Limitless, you put in the time, stay in the room, and yet the inspiration refuses to strike. Other times, you just intend to jot something down and end up getting a ton of work done almost by accident. But it's not actually an accident; you've just successfully tricked your brain into working. In this video, I'll share three ways you can successfully pull off this trick."
 
+[The 5 Whys](https://www.youtube.com/watch?v=dkuNImX8Jdo) \#video - "In this video from our "Strategic Thinking" module, Eric Reis, entrepreneur-in-residence at Harvard Business School, gives us advice on asking the right questions to discover the managerial and leadership issues behind technical problems: The 5 Whys."
+
 [100 time, energy, and attention hacks to be more productive](https://alifeofproductivity.com/100-time-energy-attention-hacks-will-make-productive/) \#article - "**Toward the end of my year of productivity, I realized that every single article I wrote for A Year of Productivity could be classified into one \(or more\) of three categories**: how to better manage your **time**, how to better manage your **energy**, and how to better manage your **attention**."
 
 [Bunch](https://brettterpstra.com/projects/bunch/) \#software - "A Batch Application Launcher for your Dock"
@@ -107,4 +109,6 @@
 [Window Manager for Mac](https://www.cisdem.com/window-manager-mac.html) - "Split Screen Mac Like You Can in Windows"
 
 [Windownaut](http://www.binarybakery.com/aprod/windownaut.html) - "Tame your app windows."
+
+![https://www.deviantart.com/smigliano/art/Put-Down-the-Duckie-623974442](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d45d598-7036-49ce-ac45-b09e587d6b24/dabhxre-c67a353f-940d-4cc9-9ca8-e0af7139058c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNGQ0NWQ1OTgtNzAzNi00OWNlLWFjNDUtYjA5ZTU4N2Q2YjI0XC9kYWJoeHJlLWM2N2EzNTNmLTk0MGQtNGNjOS05Y2E4LWUwYWY3MTM5MDU4Yy5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.7K-04G2UtwWT3eRIdlhh3XnLeadEAkjQ9fX3xqOxJEo)
 
