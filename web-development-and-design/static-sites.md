@@ -14,7 +14,7 @@
 
 [unified](https://opencollective.com/unified) - "Building a bridge between formats"
 
-### **Generators**
+## **Generators**
 
 [Couscous](http://couscous.io/) - “Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.”
 
@@ -37,7 +37,7 @@
 
 [Static Site Generators](https://staticsitegenerators.net/) - “The definitive listing of Static Site Generators — all 458 of them!”
 
-### **Hosting & Deployment**
+## **Hosting & Deployment**
 
 [b-long/awesome-static-hosting-and-cms](https://github.com/b-long/awesome-static-hosting-and-cms) - “A collection of awesome static hosting providers, content management systems, and curated articles.”
 
@@ -49,7 +49,7 @@
 
 * [Integrating with CircleCI](https://surge.sh/help/integrating-with-circleci) \#article - “Continuous Deployment services like CircleCI make it possible to run publish your project on Surge each time you push to a GitHub repository.”
 
-### **Services & APIs**
+## **Services & APIs**
 
 [agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - “A curated list of awesome static websites services”
 

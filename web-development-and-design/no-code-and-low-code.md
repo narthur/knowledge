@@ -18,6 +18,8 @@
 
 [Retool](https://retool.com/?utm_source=sedaily&utm_medium=podcast&utm_campaign=q1_sponsorship) - "Retool cuts the time it takes to build internal tools in half so you can focus on what matters"
 
+[Stacker](https://stacker.app/) - "Turn your spreadsheets into applications. Stacker lets you create the digital tools you need to engage your customers, partners and company, all powered by the data in your Airtable or Google Sheets."
+
 [Webflow](https://webflow.com/)
 
 [Zapier](https://zapier.com/) - "Connect Your Apps and Automate Workflows"

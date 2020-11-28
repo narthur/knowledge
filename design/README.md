@@ -51,6 +51,8 @@
 
 ### Illustrations
 
+[Blush](https://blush.design/) - "Tell your story with illustrations. Easily create and customize stunning illustrations with collections made by artists across the globe. Try it, it’s kind of fun."
+
 [Icons8](https://icons8.com/) - "FREE DESIGN RESOURCES AND SOFTWARE." Icons, photos, vectors, music. 👍
 
 [OSLO](https://craftwork.design/oslo-illustrations/) - "Awesome illustrations for your next landing"
