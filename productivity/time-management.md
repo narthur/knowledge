@@ -14,6 +14,8 @@
 
 ## Pomodoro Technique
 
+[Be Focused](https://apps.apple.com/de/app/be-focused-focus-timer/id973130201?l=en) \#app - iOS. "Staying on task seems is a real challenge for our screen-bound generation. The Be Focused lets you get things done by breaking up individual tasks among discrete intervals, separated by short breaks. It’s a surprisingly effective way to retain motivation and focus. Create tasks, configure breaks and track your progress throughout the day, week or custom period." [Recommended with reservations on the Beeminder forum.](https://forum.beeminder.com/t/the-surprisingly-large-impact-of-deciding-beforehand/5029/18?u=narthur)
+
 [devon/eggscellent](https://github.com/devon/eggscellent) - "Pomodoro app for mac"
 
 [Focus Booster](https://www.focusboosterapp.com/) \#software - "Simple pomodoro timer. Powerful productivity boost. Stop procrastinating, focus consistently and track your time. Using focus booster you will achieve more, understand how you use your time and feel satisfied knowing you are productive."
