@@ -18,6 +18,8 @@
 
 "Educate yourself about everything about business. Get that broad, universal perspective first. It doesn’t take very long" \(Josh Kaufman, author of The Personal MBA, via IndieHackers\).
 
+[Engines of Growth: What Your Startup Needs to Know](https://brandcave.co/blog/engines-of-growth/#:~:text=The%20concept%20of%20the%20engines%20of%20growth%20is,engine%2C%20the%20viral%20engine%20and%20the%20paid%20engine.) \#article - "The concept of the engines of growth is the product of Eric Ries, author of The Lean Startup. The engines are metrics that can help you figure out how to create sustainable growth based on customer use of your product or service. There are three engines: the sticky engine, the viral engine and the paid engine. Each engine brings a different trajectory for growth and a different kind of growth. It is a good idea to focus on just one of these engines or you will have a hard time knowing what is working and what isn’t for your startup. Which of the three engines of growth is right for you?"
+
 [Eventual Millionaire](https://eventualmillionaire.com/) \#podcast - "Each week I interview a new business success story \(who became a net worth millionaire through their business\) to give you the inside scoop to get to your million faster and easier!"
 
 [FindCollabs](https://findcollabs.com/) - "Find collaborators. Build projects. FindCollabs is a place to build projects with other people."
