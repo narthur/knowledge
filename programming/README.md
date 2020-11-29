@@ -179,6 +179,8 @@ StackOverflow
 
 [if/else](https://ifelsepodcast.com/) \#podcast - "A career in technology is full of choices. We’re here to help you make smart ones. In each episode, we meet a software developer who needs to make an if/else choice. From important technical decisions to sticky career challenges, we cover the hard and soft skills you need for a sustainable and rewarding career in tech… at any stage of your career. Hosted by Mayuko Inoue, if/else is an original podcast from CTO.ai, the makers of The Ops Platform."
 
+[GitNews](https://git.news/) - "Trending repositories from GitHub, HackerNews & Reddit"
+
 [Martin Fowler](https://martinfowler.com/) - "Software development is a young profession, and we are still learning the techniques and building the tools to do it effectively. I've been involved in this activity for over three decades and in the last two I've been writing on this website about patterns and practices that make it easier to build useful software. The site began as a place to put my own writing, but I also use it to publish articles by my colleagues."
 
 [Robert Heaton](https://robertheaton.com) \#blog
@@ -190,6 +192,8 @@ Robert Martin \#article - [Blog](http://blog.cleancoder.com/). "**Robert Cecil M
 [Syntax](https://syntax.fm/) \#podcast - "A Tasty Treats Podcast for Web Developers."
 
 [ThoughtWorks Insights](https://www.thoughtworks.com/insights) \#blog
+
+[zudochkin](https://github.com/zudochkin)/[awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - "A curated list of awesome newsletters."
 
 
 

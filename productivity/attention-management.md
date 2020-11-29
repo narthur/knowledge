@@ -16,8 +16,6 @@
 
 [FocusMe](https://focusme.com/) \#app \#software - "Break free from distractions, Unleash your productivity. FocusMe is the most powerful App and Website Blocker for Windows, Mac & Android. Our Android app is free!" Coupon code: MAY20
 
-{% embed url="https://twitter.com/therealcliffyb/status/1326649103938428930/photo/1" %}
-
 [The Focus Toolkit - Thomas Frank](https://thomasjfrank.com/focus-toolkit/) - "Need to focus? Here’s a toolbox full of resources that will help you do it successfully."
 
 [Forest](https://www.forestapp.cc/) \#app - "Stay focused, be present"
