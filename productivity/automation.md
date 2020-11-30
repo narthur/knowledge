@@ -20,6 +20,8 @@ Android Automate
 
 [Do Something When Third Party Notification Text Changes](https://forum.joaoapps.com/index.php?resources/do-something-when-third-party-notification-text-changes.125/) \#article - "Learn how to make something happen when a text in a notification changes."
 
+[MacroDroid](http://macrodroid.com/) \#app - Android. "Automation for everyone. Make your phone truly smart with the easiest to use automation app on Android."
+
 [Plug-Ins and 3rd Party Tools](http://tasker.wikidot.com/plug-ins-and-3rd-party)
 
 [r/tasker](https://www.reddit.com/r/tasker)

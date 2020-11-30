@@ -4,6 +4,8 @@
 
 [Benchmark](https://www.benchmarkemail.com) - “Powerful and Simple Email Marketing. Simple enough for your intern. Design to impress the creative team. Bigger sales to thrill the boss.” \#email
 
+[Blogging for Devs](https://bloggingfordevs.com/?ref=producthunt) \#course - "Learn to grow your blog as a developer without an existing audience. Get the free email course and newsletter for developers, makers, managers, and technical founders growing their reach through blogging"
+
 [Buffer](https://buffer.com/) - "Plan, collaborate, and publish thumb-stopping content that drives meaningful engagement and growth for your brand."
 
 [Buzzsprout](https://www.buzzsprout.com/) - "Podcast hosting and a whole lot more." [API](https://github.com/Buzzsprout/buzzsprout-api)
@@ -30,7 +32,19 @@
 
 [Sales for Founders](https://salesforfounders.com/) - "You get access to the sales knowledge I had to spend _years of pain_ learning the hard way. And then refined into super effective, actionable lessons... over years coaching hundreds of founders just like you."
 
-[TinyLetter](https://tinyletter.com/) - "Email for people with something to say." Free.
-
 [Zero to Marketing](https://zerotomarketing.com/) - "Want to grow a profitable website? Learn how to get better at marketing with one email a week. Every week I pick a new online project and write a 5-minute-read case study with actionable tips on how I'd grow it."
+
+## Newsletter Publishing
+
+[MailChimp](https://mailchimp.com/) - "Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way."
+
+[Mailtrain](https://mailtrain.org/) - "Self Hosted Newsletter App Built on Top of Nodemailer"
+
+[publicate](https://publicate.it/ref/103877) - "Create Beautiful Newsletter Templates with Our Drag & Drop Email Builder"
+
+[Sendy](https://sendy.co/) - "Send newsletters, 100x cheaper"
+
+[stripo](https://stripo.email/?fpr=alt-to) - "Create professional pure HTML code according to advanced email templates coding experiences and responsive better engagement rate for emails opened on mobile email templates fast time reducing for every new email creation by optimizing processes and automation without any HTML skills"
+
+[TinyLetter](https://tinyletter.com/) - By MailChimp. "Email for people with something to say." Free. 🔥
 
