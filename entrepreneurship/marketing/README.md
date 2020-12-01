@@ -1,14 +1,6 @@
 # Marketing
 
-[Anchor](https://anchor.fm/) - "The easiest way to make a podcast. Everything you need, 100% free."
-
-[Benchmark](https://www.benchmarkemail.com) - “Powerful and Simple Email Marketing. Simple enough for your intern. Design to impress the creative team. Bigger sales to thrill the boss.” \#email
-
-[Blogging for Devs](https://bloggingfordevs.com/?ref=producthunt) \#course - "Learn to grow your blog as a developer without an existing audience. Get the free email course and newsletter for developers, makers, managers, and technical founders growing their reach through blogging"
-
 [Buffer](https://buffer.com/) - "Plan, collaborate, and publish thumb-stopping content that drives meaningful engagement and growth for your brand."
-
-[Buzzsprout](https://www.buzzsprout.com/) - "Podcast hosting and a whole lot more." [API](https://github.com/Buzzsprout/buzzsprout-api)
 
 [ClickFunnels](https://www.clickfunnels.com/) - "ClickFunnels Gives You EVERYTHING You Need To Market, Sell, and Deliver Your Products and Services Online! \(Without Having To Hire or Rely On A Tech Team!\)"
 
@@ -22,6 +14,8 @@
 
 [Growth Lessons](https://growthlessons.co/) - "Real-life lessons from founders who have grown their business or community."
 
+[Known](https://withknown.com/) - "A collaborative social publishing engine. Known allows any number of users to post to a shared site with blog posts, status updates, photographs, and more. Its robust open source framework can be used to build fully-fledged community sites, or a blog for a single user. It's up to you."
+
 [Meta Tags](https://metatags.io/) \#webapp - "With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!"
 
 [Ontraport](https://ontraport.com/) - "All your marketing tools in one place. Complete your campaigns with all your promotional pieces—from emails to pages and pop-up forms—which you can seamlessly create and connect right inside of Ontraport."
@@ -34,17 +28,21 @@
 
 [Zero to Marketing](https://zerotomarketing.com/) - "Want to grow a profitable website? Learn how to get better at marketing with one email a week. Every week I pick a new online project and write a 5-minute-read case study with actionable tips on how I'd grow it."
 
-## Newsletter Publishing
+## Blogging
 
-[MailChimp](https://mailchimp.com/) - "Mailchimp helps small businesses do big things, with the right tools and guidance every step of the way."
+[Blogging for Devs](https://bloggingfordevs.com/?ref=producthunt) \#course - "Learn to grow your blog as a developer without an existing audience. Get the free email course and newsletter for developers, makers, managers, and technical founders growing their reach through blogging" 
 
-[Mailtrain](https://mailtrain.org/) - "Self Hosted Newsletter App Built on Top of Nodemailer"
+[Pillowfort](https://www.pillowfort.social/users/sign_in) - "Pillowfort.social is a new blogging platform where fans and creators alike can share their work, create a community of their own, and do so in a positive and safe environment. Pillowfort aims to be a sort of hybrid of your favorite blogging websites-- keeping the strengths of these platforms while compensating for their shortcomings."
 
-[publicate](https://publicate.it/ref/103877) - "Create Beautiful Newsletter Templates with Our Drag & Drop Email Builder"
+[Telescope](https://telescope.ac/) - "Telescope is a minimal, simple, and fast publishing platform with a focus on privacy. It's like Medium, but without all the bullshit."
 
-[Sendy](https://sendy.co/) - "Send newsletters, 100x cheaper"
+[Teletype](https://teletype.in/) - "Teletype lets you focus on one thing: your stories. Whatever the format, it styles everything to look gorgeous across all screens. Effortless and intuitive creative workflow makes Teletype the perfect stage for your stories."
 
-[stripo](https://stripo.email/?fpr=alt-to) - "Create professional pure HTML code according to advanced email templates coding experiences and responsive better engagement rate for emails opened on mobile email templates fast time reducing for every new email creation by optimizing processes and automation without any HTML skills"
+[WriteFreely](https://writefreely.org/) - "An open source platform for building a writing space on the web."
 
-[TinyLetter](https://tinyletter.com/) - By MailChimp. "Email for people with something to say." Free. 🔥
+## Podcasting
+
+[Anchor](https://anchor.fm/) - "The easiest way to make a podcast. Everything you need, 100% free."
+
+[Buzzsprout](https://www.buzzsprout.com/) - "Podcast hosting and a whole lot more." [API](https://github.com/Buzzsprout/buzzsprout-api)
 

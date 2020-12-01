@@ -40,6 +40,18 @@ Rank potential topics based on criteria
   * Book summaries
   * Final project
 
+## Tools
+
+[Anki](https://apps.ankiweb.net/) - "Powerful, intelligent flash cards. Remembering things just became much easier."
+
+GitBook
+
+Notion
+
+[RemNote ](https://www.remnote.io/)- "Organize your thinking. Master your craft. Grow your knowledge."
+
+Roam
+
 ## Sources
 
 * [A Book Apart](https://abookapart.com/)

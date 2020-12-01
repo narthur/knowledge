@@ -64,20 +64,6 @@ Google Analytics
 
 [Postman](https://www.getpostman.com/) \#software - "Simplifies API Development. Get easy, API-First solutions with the industry's only complete API Development Environment."
 
-## Email
-
-[Repl.it](https://repl.it/) \#webapp - "Stop wasting time setting up a development environment. Repl.it gives you an instant IDE to learn, build, collaborate, and host all in one place."
-
-[mailgun/transactional-email-templates](https://github.com/mailgun/transactional-email-templates) - "Transactional HTML emails often get neglected. **Styling HTML email is painful**. Tables, inline CSS, unsupported CSS, desktop clients, web clients, mobile clients, various devices, various providers. ❡ We’ve tried to remove some of the pain for you and open-sourced a collection of common templates for transactional email."
-
-[MailPoet](https://www.mailpoet.com/) - "Better Email for WordPress-Powered Websites. Send beautiful emails that reach inboxes every time, and create loyal subscribers."
-
-[MailTester](https://www.mail-tester.com/) - "Test the Spammyness of your Emails"
-
-[Return Path](https://returnpath.com/) - "AT RETURN PATH, WE KNOW EMAIL. We're experts in deliverability and driving email ROI."
-
-[Sender Score](https://senderscore.org/) - "Know your sender reputation. Know how to improve it."
-
 ## GDPR
 
 [The GDPR Checklist](https://gdprchecklist.io/) - "Achieving GDPR Compliance shouldn't feel like a struggle. This is a basic checklist you can use to harden your GDPR compliancy."
