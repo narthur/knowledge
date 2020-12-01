@@ -10,6 +10,14 @@
 
 [Matrix](https://matrix.org/) - "An open network for secure, decentralized communication"
 
+## Hardware Hacking
+
+Arduino
+
+[ClockworkPi](https://www.clockworkpi.com/devterm) - "ClockworkPi v3.14 integrates up to 12 interfaces in the ultra-small size of 95x77mm, ensuring sufficient connectivity for your work and entertainment. Following an easy-to-upgrade modular design of CPU and memory,  clockworkPi v3.14 allows you to freely choose a suitable "Core" for various application scenarios."
+
+Raspberry Pi
+
 ## Quantum Computing
 
 [GOTO 2019 • Introduction to Quantum Computing • Jessica Pointing](https://www.youtube.com/watch?v=z1RnYo0nYGM) \#video - "Certain types of problems can take billions of years to solve on our current conventional computers. Quantum computers, however, can solve these types of problems in just seconds. Because of their ‘quantum power’, quantum computers have the potential to impact many fields, such as machine learning, medicine, and energy systems."
