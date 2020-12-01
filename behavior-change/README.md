@@ -1,5 +1,7 @@
 # Behavior Change
 
+[Thirteen Virtues](http://www.thirteenvirtues.com/) - "In 1726, at the age of 20, Benjamin Franklin created a system to develop his character. In his autobiography, Franklin listed his thirteen virtues..."
+
 ## Habits
 
 [Atomic Habits Cheatsheet](https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf) \#pdf
