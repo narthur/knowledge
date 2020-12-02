@@ -34,9 +34,13 @@
 
 [Pillowfort](https://www.pillowfort.social/users/sign_in) - "Pillowfort.social is a new blogging platform where fans and creators alike can share their work, create a community of their own, and do so in a positive and safe environment. Pillowfort aims to be a sort of hybrid of your favorite blogging websites-- keeping the strengths of these platforms while compensating for their shortcomings."
 
+[Submit.as](https://submit.as/) - "Simple writing submissions for your web publication."
+
 [Telescope](https://telescope.ac/) - "Telescope is a minimal, simple, and fast publishing platform with a focus on privacy. It's like Medium, but without all the bullshit."
 
 [Teletype](https://teletype.in/) - "Teletype lets you focus on one thing: your stories. Whatever the format, it styles everything to look gorgeous across all screens. Effortless and intuitive creative workflow makes Teletype the perfect stage for your stories."
+
+[Write.as](https://write.as/) - "A place for focused writing"
 
 [WriteFreely](https://writefreely.org/) - "An open source platform for building a writing space on the web."
 
