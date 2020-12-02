@@ -4,8 +4,6 @@
 
 [The Five Minute Journal](https://www.intelligentchange.com/products/the-five-minute-journal) \#book \#app - "Elevate yourself. Be happier. Improve relationships. Shift your mind to state of optimism. You could be the next amongst thousands of others to hone your ability to focus on the good in life. The Five Minute Journal’s approachable and structured exercises will lead you down a path toward an enhanced version of the person you already are."
 
-{% embed url="https://twitter.com/DrSMiT24/status/1333771618598850562" %}
-
 [How boredom can lead to your most brilliant ideas \| Manoush Zomorodi](https://www.youtube.com/watch?v=c73Q8oQmwzo&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video - "Do you sometimes have your most creative ideas while folding laundry, washing dishes or doing nothing in particular? It's because when your body goes on autopilot, your brain gets busy forming new neural connections that connect ideas and solve problems. Learn to love being bored as Manoush Zomorodi explains the connection between spacing out and creativity."
 
 [The Scarcity Trap: Why We Keep Digging When We're Stuck In A Hole](https://www.npr.org/2017/03/20/520587241/the-scarcity-trap-why-we-keep-digging-when-were-stuck-in-a-hole) \#podcast - "Have you ever noticed that when something important is missing in your life, your brain can only seem to focus on that missing thing?"
