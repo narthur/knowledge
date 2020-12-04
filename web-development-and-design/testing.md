@@ -12,6 +12,8 @@
 
 [ngrok](https://ngrok.com/) - "Spend more time programming. One command for an instant, secure URL to your localhost server through any NAT or firewall."
 
+[nock](https://github.com/nock/nock#how-does-it-work) - "HTTP server mocking and expectations library for Node.js"
+
 [The Pragmatic Front End Tester](https://www.youtube.com/watch?v=pfJdNiDOJ-A) \#video - "Testing the front end shouldn't be that hard! There are ways to achieve a healthy testing strategy for our front-end applications."
 
 ## **Property-based Testing**
