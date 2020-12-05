@@ -60,6 +60,8 @@ Google Analytics
 
 [Codepen](https://codepen.io/#) \#webapp - “👋 CodePen is a social development environment. At it's heart, it allows you to write code in the browser, and see the results of it as you build. A useful and liberating tool for developers of any skill, and particularly empowering for people learning to code. We focus primarily on front-end languages like HTML, CSS, JavaScript, and preprocessing syntaxes that turn into those things.”
 
+[CodeSandbox](https://codesandbox.io/?from-app=1) \#webapp - "Quickly prototype ideas with code. Free, instant, collaborative sandboxes for rapid web development."
+
 [Glitch](https://glitch.com/) - "Glitch is the friendly community where everyone can discover and create the best stuff on the web."
 
 [Postman](https://www.getpostman.com/) \#software - "Simplifies API Development. Get easy, API-First solutions with the industry's only complete API Development Environment."
@@ -155,6 +157,8 @@ VeggieIpsum
 [CSS-Tricks](https://css-tricks.com/) - "CSS-Tricks is created, written by, and maintained by [Chris Coyier](https://chriscoyier.net/) and [a team](https://css-tricks.com/about/) of swell people. It is built on WordPress and powered up by [Jetpack](https://css-tricks.com/jetpack/). It is made possible through [sponsorships](https://css-tricks.com/advertising/) from products and services we like."
 
 [Dave Rupert](https://daverupert.com/) - "I'm Dave Rupert, lead developer at [Paravel](http://paravelinc.com/), co-host of [ShopTalk](https://shoptalkshow.com/), dad, and Aarakocran bard."
+
+[Dev.to](https://dev.to/)  - "DEV is a community of software developers getting together to help one another out. The software industry relies on collaboration and networked learning. We provide a place for that to happen."
 
 [Facebook Open Source](https://opensource.facebook.com/) - "Building community through open source technology"
 
