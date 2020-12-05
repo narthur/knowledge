@@ -22,6 +22,8 @@
 
 [TickTick](https://www.ticktick.com/) \#software - "Join millions of people to capture ideas, organize life, and do something creative everyday."
 
+[Timecap](https://timecap.app/) \#app - "The only productivity app you will ever need. Get stuff done and reach your goals faster. Timecap is a unique habit tracker that tracks time-based, count-based, and simply completable activities and habits." Android and iOS.
+
 [Whimsical](https://whimsical.com/) \#webapp - "Communicate visually at the speed of thought."
 
 ## Autofocus
