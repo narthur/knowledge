@@ -34,8 +34,6 @@
 
 [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html) \#article - "_Hooks_ are a new addition in React 16.8. They let you use state and other React features without writing a class."
 
-[react-hooks-testing-library](https://react-hooks-testing-library.com/) - "Simple and complete React hooks testing utilities that encourage good testing practices."
-
 [Run useEffect Only Once](https://css-tricks.com/run-useeffect-only-once/) \#article - "The trick is that `useEffect` takes a second parameter."
 
 ## React Query
