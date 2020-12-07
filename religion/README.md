@@ -10,5 +10,7 @@
 
 [Pro Church Tools](https://prochurchtools.com/) - "WE'RE HELPING CHURCHES NAVIGATE THE BIGGEST COMMUNICATION SHIFT IN 500 YEARS. You and I are living through the single biggest change since the printing press - and it’s just getting started." [Invidious](https://www.invidio.us/channel/UCjamZs-IMPsvu9uNzP9v8RA).
 
+[Unitarian Universalist Association](https://www.uua.org/) - [Seven Principles](https://www.uua.org/beliefs/what-we-believe/principles)
+
 [Vatican City Explained](https://www.youtube.com/watch?v=OPHRIjI3hXs&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H&index=2) \#video
 

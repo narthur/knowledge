@@ -64,6 +64,8 @@
 
 ## Social Networking
 
+[Calm Twitter](https://chrome.google.com/webstore/detail/calm-twitter/cknklikacoaeledfaldmhabmldkldocj/related) \#extension - Chrome. "This extension hides trending information from twitter timelines to make your mind calm."
+
 [Fabriq](https://www.ourfabriq.com/?utm_source=Iterable&utm_medium=email&utm_campaign=newsletter_4.9) \#app - "Get Intentional About Your Relationships"
 
 [Houseparty](https://houseparty.com/?utm_source=Iterable&utm_medium=email&utm_campaign=newsletter_4.9) - "Houseparty is a face to face social network."

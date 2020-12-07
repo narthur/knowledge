@@ -1,6 +1,6 @@
 # Refactoring
 
-![](https://www.basson.at/images/blog/dilbert-rewrite.gif)
+![https://www.basson.at/images/blog/dilbert-rewrite.gif](https://www.basson.at/images/blog/dilbert-rewrite.gif)
 
 [Approval Tests](https://app.gitbook.com/@narthur/s/knowledge/programming/testing) - Internal link. See subheading.
 
