@@ -4,6 +4,8 @@
 
 [The Distraction Economy](https://www.youtube.com/watch?v=iYYuiWP0IpA&list=PLIilwIraDV2JwXZ5bQ500pxPe0PyL3m7L&index=2) \#video - "The development of technology has, over centuries, freed up more and more of our time making possible non-survival-related pursuits like art and science. Now it's gotten to a point where there is so much 'free time' that demand for distraction supports 24 hour news sites and YouTube channels. I'm proposing that following our impulses into constant distraction may not be the best way to spend our time. It may prey on weak points of our psychology that evolved hundreds of thousands of years ago and it may make us think less effectively. Now consider I'm making this argument in a YouTube video you may be using to waste your time. I know, how meta."
 
+[The Economics of LEGO](https://www.youtube.com/watch?v=zsHXFEOV83g) \#video
+
 [How Science is Taking the Luck out of Gambling - with Adam Kucharski](https://www.youtube.com/watch?v=658xlubwnDc&list=PLIilwIraDV2JwXZ5bQ500pxPe0PyL3m7L&index=2) \#video - "From the statisticians forecasting sports scores to the intelligent bots beating human poker players, Adam Kucharski traces the scientific origins of the world's best gambling strategies."
 
 [How The Stock Exchange Works \(For Dummies\)](https://www.youtube.com/watch?v=F3QpgXBtDeo&list=PLIilwIraDV2JwXZ5bQ500pxPe0PyL3m7L&index=2) \#video - "Everyday in the news we hear about the stock exchange, stocks and money moving around the globe. Still, a lot of people don't have an idea why we have stock markets at all, because the topic is usually very dry. We made a short video about the basics of the stock exchanges. With robots. Robots are kewl!"

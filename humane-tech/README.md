@@ -28,8 +28,6 @@
 
 [Spend More Time Alone](http://www.calnewport.com/blog/2017/09/24/spend-more-time-alone/) \#article - by Cal Newport. "The right way to define “solitude” is as a subjective state in which you’re isolated from input from other minds. ... Regular doses of solitude are crucial for the effective and resilient functioning of your brain."
 
-[Why The Web Is Such A Mess](https://www.youtube.com/watch?v=OFRjZtYs3wY) \#video - "Tim Berners-Lee envisioned a "universal information system". What went wrong?"
-
 ## Decentralization
 
 [Beaker](https://beakerbrowser.com/) - "A browser for the next-generation Web. Beaker is an experimental browser for exploring and building the peer-to-peer Web."
@@ -65,8 +63,6 @@
 [SkyTube](https://skytube-app.com/) \#app - "An open-source YouTube™ app for Android™."
 
 ## Social Networking
-
-[Calm Twitter](https://chrome.google.com/webstore/detail/calm-twitter/cknklikacoaeledfaldmhabmldkldocj/related) \#extension - Chrome. "This extension hides trending information from twitter timelines to make your mind calm."
 
 [Fabriq](https://www.ourfabriq.com/?utm_source=Iterable&utm_medium=email&utm_campaign=newsletter_4.9) \#app - "Get Intentional About Your Relationships"
 
