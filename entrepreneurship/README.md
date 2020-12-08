@@ -56,6 +56,8 @@
 
 [Stripe Atlas](https://stripe.com/atlas) - "The best way to start an internet business. Starting a company can be needlessly complicated—lengthy paperwork, bank visits, legal complexity, numerous fees, and non-obvious decisions about what services to use. We built Stripe Atlas to make this easy: a tool to handle everything involved in establishing an internet business. It’s available to entrepreneurs everywhere."
 
+[Wobaka](https://wobaka.com/?ref=pixels) - "Wobaka is the all-in-one CRM and sales automation tool that makes it easy to manage contacts, share emails and automate outreach, without losing your mind."
+
 [Your Whole Goal Is to Not Quit - Courtland Allen of Indie Hackers](https://www.youtube.com/watch?v=HR4nKgDnPHs) \#video  - Takeaways: 
 
 * Be in it for the long haul. 
