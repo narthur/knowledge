@@ -4,6 +4,8 @@
 
 [The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4&list=PLIilwIraDV2J8hueIWIwvkT3NvfuSChe7&index=3&t=11s) \#video - "The history of JavaScript over the last 25 years. How did a simple scripting language for Netscape evolve into the world's most widely used programming language?"
 
+[Windows 95 in your browser](https://win95.ajf.me/) - "Fancy a blast from the past? Curious about the Microsoft Windows release that introduced such familiar concepts as the Desktop, Start Menu, Taskbar and Notifications Area? Well, now thanks to the wonders of [Emscripten and DOSBox](https://github.com/dreamlayers/em-dosbox), and modern JavaScript runtimes, you can try it out in your browser."
+
 ## Apple
 
 [Apple Pippin](https://en.wikipedia.org/wiki/Apple_Pippin) \#article - Wikipedia. "The **Apple Pippin** is a defunct open multimedia technology [platform](https://en.wikipedia.org/wiki/Computing_platform),[\[1\]](https://en.wikipedia.org/wiki/Apple_Pippin#cite_note-faq-1) designed by [Apple Computer](https://en.wikipedia.org/wiki/Apple_Inc.), and marketed as **PiPP!N**. According to Apple, Pippin was directed at the home market as "an integral part of the consumer audiovisual, stereo, and television environment."[\[1\]](https://en.wikipedia.org/wiki/Apple_Pippin#cite_note-faq-1)"

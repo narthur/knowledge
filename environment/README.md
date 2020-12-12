@@ -44,6 +44,16 @@
 
 [Why humans are so bad at thinking about climate change](https://www.youtube.com/watch?v=DkZ7BJQupVA&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video - "The biggest problem for the climate change fight isn’t technology – it’s human psychology."
 
+## Transportation
+
+[Electric Planes Are Here!](https://www.youtube.com/watch?v=Kb3OmhO7_ao&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video
+
+[The high cost of free parking](https://www.youtube.com/watch?v=Akm7ik-H_7U&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video - "Hidden parking rules hurt our cities. Will Chilton and Paul Mackie of Mobility Lab explain."
+
+[What if... we all drove electric vehicles?](https://www.youtube.com/watch?v=9gRS7PK6TP0&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video - "Transport is a large contributor to New Zealand’s greenhouse gas emissions and most of these emissions are from light passenger vehicles. If we all drove electric vehicles, powered with renewable energy, we could reduce New Zealand’s greenhouse gas emissions significantly. However today most New Zealanders drive internal combustion engine cars and not all of our electricity generation is from renewable sources, which raises questions around whether we could convert our vehicle fleet to electric vehicles and whether this will actually reduce greenhouse gas emissions. On the other side of the argument, electric vehicles are readily available today. They’re becoming more affordable, and New Zealand has plenty of wind and geothermal renewable generation planned. This talk will look at the history of electric vehicles and their technology, and consider the impact on our electricity power system if we all drove electric vehicles. It will also touch on the environmental impacts for New Zealand and other countries from converting to electric vehicles, first-hand experience of owning an electric vehicle, and the need for skills and training in New Zealand to cope with the rise of new technologies in the electricity sector, which includes electric vehicles."
+
+[Why Norway is full of Teslas](https://www.youtube.com/watch?v=zSjYra7cYqY&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video - "Oslo is the Tesla capital of the world."
+
 ## Waste
 
 [Food waste is the world's dumbest problem](https://www.youtube.com/watch?v=6RlxySFrkIM&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video - "Eat your peas! It’s the easiest way to fight climate change."
