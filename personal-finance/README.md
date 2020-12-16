@@ -38,8 +38,6 @@ Gusto
 
 ## Frugality
 
-[Insulation: first the body, then the home](https://www.lowtechmagazine.com/2011/02/body-insulation-thermal-underwear.html) \#article - "You could fill a library with reports and books describing the importance of energy-efficient heating systems and home insulation. However, not a word has been said or written about the energy savings potential of clothing, even though there has been a lot of progress in this area too. Modern thermal underclothing offers the possibility to turn the thermostat much lower without sacrificing comfort or sex appeal. The potential energy savings are huge; the costs are almost nil."
-
 [Living well on the trailing edge of Luxury](https://www.mrmoneymustache.com/2011/04/29/living-well-on-the-trailing-edge-of-luxury/) \#article - Mr. Money Mustache. "Because of this exponential change, our world is awash in almost-new consumer products. The hottest ones are in the stores, and the hottest ones from just a few months ago are abandoned in people’s drawers and garages. You almost NEVER need to buy anything new, because you can have an almost-new item for 25-50% of the cost out of one of these drawers. People are so accustomed to buying new things, that they are willing to almost give away their used things even when they are barely used."
 
 [The MMM Show - Episode 5 - Why Gas Is Really $42 Per Gallon!](https://www.youtube.com/watch?v=m6t1Xk-yJIc) \#video - "Should you move closer to work even if it means higher rent \(or house prices?\)"

@@ -106,6 +106,7 @@
 * [Web Development](web-development-and-design/README.md)
   * [Accessibility & Usability](web-development-and-design/accessibility-and-usability.md)
   * [APIs](web-development-and-design/apis.md)
+  * [Browsers](web-development-and-design/browsers.md)
   * [Content Management Systems](web-development-and-design/content-management-systems.md)
   * [CSS](web-development-and-design/css.md)
   * [Email](web-development-and-design/email.md)
