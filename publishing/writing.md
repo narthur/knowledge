@@ -2,11 +2,15 @@
 
 [How to Use Writing to Sharpen Your Thinking \| Tim Ferriss](https://www.youtube.com/watch?v=65U5byDZ55M) \#video - "Tim Ferriss on how writing can sharpen and improve your thinking."
 
+[NaNoWriMo](https://nanowrimo.org/) - "Writing a novel alone can be difficult, even for seasoned writers. NaNoWriMo helps you track your progress, set milestones, connect with other writers in a vast community, and participate in events that are designed to make sure you finish your novel. Oh, and best of all, it’s free!"
+
 ## Blogging
 
 [Canvas](https://cnvs.io/?ref=producthunt) - "Sometimes creating a blog is easier said than done. With Canvas, it's just easier. Simple installation, the freedom to make it look how you want, and a familiar editing environment keeps you focused on what Canvas is really good at: Publishing."
 
 [Earnestly](https://ernestly.co/) - "Independent short-form blogging in plain-text for building in public. Share each step of your startup journey with bite-sized posts of **1200 characters or less**."
+
+[Essay.dev](https://essay.dev/) - "Essay.dev is a blogging service by [OneGraph](https://onegraph.com/) that lets you publish your own blog by creating an issue on GitHub."
 
 [ghost](https://ghost.org/pricing/) - "Fiercely independent, professional publishing." Starts at $29 / month billed annually.
 

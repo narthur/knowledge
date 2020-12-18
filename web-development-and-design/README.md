@@ -34,6 +34,20 @@
 
 Google Analytics
 
+## Browsers
+
+[Blockstack](https://blockstack.org/) - “Blockstack is a new internet for decentralized apps where users own their data. A browser is all that’s needed to get started.”
+
+[Brave](https://brave.com/) \#software - “Browse faster by blocking ads and trackers that violate your privacy and cost you time and money.”
+
+[BrowserStack](https://www.browserstack.com/) - "App & Browser Testing Made Easy. Give your users a seamless experience by testing on 2000+ real devices and browsers. Don't compromise with emulators and simulators."
+
+[BrowserStack: Free Testing on Microsoft Edge](https://www.browserstack.com/test-on-microsoft-edge-browser#) - "Until now, developers have been relying on virtual machines or PC’s with Windows 10 to test their products and websites on Microsoft Edge. To provide an easier way to test, Microsoft and BrowserStack are partnering to give developers a cloud-based infrastructure to instantly test and ship great experiences on Microsoft Edge."
+
+[Microsoft Edge virtual machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) - "Test Microsoft Edge \(EdgeHTML\) and versions of IE8 through IE11 using free virtual machines you download and manage locally."
+
+[WebKit](https://webkit.org/) \#software - “WebKit is the web browser engine used by Safari, Mail, App Store, and many other apps on macOS, iOS, and Linux.”
+
 ## Checklists
 
 [18F Accessibility Guide Checklist](https://accessibility.18f.gov/checklist/) - “This checklist helps developers identify potential accessibility issues affecting their websites or applications.”
@@ -159,8 +173,6 @@ FunFunFunction \#channel -  [funfun.chat](http://funfun.chat/).
 [Mastery Games](https://mastery.games/)
 
 [Modern Web](https://www.thisdot.co/modern-web) \#podcast - "An interview-based podcast, featuring different web development leaders every month. Learn from trailblazers in the global community."
-
-[Sara Soueidan](https://www.sarasoueidan.com/) - "Hi, I’m Sara. I’m an independent UI engineer & conference speaker specializing in responsive Web design, modern CSS, progressive enhancement, and accessibility. I’m a [SuperFriend](https://superfriendlydesign.systems/) and a team member at [codrops](https://codrops.com/). Find out more about [my work](https://www.sarasoueidan.com/work/) or [hire me](https://www.sarasoueidan.com/hire/)."
 
 [Traversy Media](https://www.youtube.com/user/TechGuyWeb/featured) \#channel - "Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more"
 
