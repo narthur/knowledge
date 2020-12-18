@@ -8,6 +8,8 @@
 
 [Earnestly](https://ernestly.co/) - "Independent short-form blogging in plain-text for building in public. Share each step of your startup journey with bite-sized posts of **1200 characters or less**."
 
+[Essay.dev](https://essay.dev/) - "Essay.dev is a blogging service by [OneGraph](https://onegraph.com/) that lets you publish your own blog by creating an issue on GitHub."
+
 [ghost](https://ghost.org/pricing/) - "Fiercely independent, professional publishing." Starts at $29 / month billed annually.
 
 [Hashnode](https://hashnode.com/) - "Everything you need to start blogging as a developer!"
