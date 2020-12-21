@@ -86,15 +86,11 @@
 
 ## Case Studies
 
-[2019 Adversarial Collaboration Winners](https://slatestarcodex.com/2020/01/13/2019-adversarial-collaboration-winners/)
-
 [Accidental Courtesy](https://accidentalcourtesy.com/) \#documentary
 
 [Dolly Parton's America](https://www.npr.org/podcasts/765024913/dolly-parton-s-america) \#podcast - "In this intensely divided moment, one of the few things everyone still seems to agree on is Dolly Parton—but why? That simple question leads to a deeply personal, historical, and musical rethinking of one of America's great icons. Join us for a 9-episode journey into the Dollyverse.Hosted by Jad Abumrad, creator of Radiolab and More Perfect.Dolly Parton's America is co-produced by WNYC Studios, home to great podcasts like Snap Judgement, Death, Sex & Money, and Nancy."
 
 [How Apple CEO Tim Cook Charmed President Donald Trump](https://invidio.us/watch?v=AG8w0TEZunE) \#video - "President Donald Trump and Tim Cook's relationship really started after Trump's election win in 2016, when the Apple CEO and several other CEOs visited the president-elect at Trump Tower. Since then, Apple has became the corporate mascot for Trump's trade war against China. And Cook put on the charm offensive to help save the tech giant's bottom line."
-
-[Pairagraph](https://www.pairagraph.com/) - "hub of discourse between pairs of notable individuals"
 
 Part way through WWDC 1997, [Steve Jobs handles an incredibly emotionally-charged attack on him personally](https://youtu.be/6iACK-LNnzM?t=3024). Starts at 50:24. \#video
 

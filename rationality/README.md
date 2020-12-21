@@ -2,6 +2,8 @@
 
 {% embed url="https://www.youtube.com/watch?v=w4RLfVxTGH4" caption="https://www.youtube.com/watch?v=w4RLfVxTGH4" %}
 
+[Center for Applied Rationality](https://rationality.org/) - "Developing clear thinking for the sake of humanity’s future"
+
 [Charles Murray vs Milo, and the "good faith" principle](https://www.youtube.com/watch?v=3ub73hWrORo) \#video - "I explain why I think the "good faith" principle implies that we should give people like Charles Murray, but not Milo, a platform to share their ideas. \(Not saying Milo should be legally banned from speaking, just that we shouldn't be going out of our way to give him opportunities to speak.\) I also argue that the "good faith" principle is inherently subjective and that this doesn't negate its importance."
 
 [An Honest Liar](https://www.hoopladigital.com/title/13408321) \#documentary - "The incredible true story of the renowned magician turned skeptic and exposer of frauds and hoaxes, James "The Amazing" Randi." \#skepticism
