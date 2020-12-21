@@ -42,9 +42,7 @@ Notion
 
 [Roam](https://roamresearch.com/) \#webapp - "A note-taking tool for networked thought. As easy to use as a document. As powerful as a graph database. Roam helps you organize your research for the long haul."
 
-## Processing 
-
-[Codex](https://www.patreon.com/codexeditor) - "Codex is a web-based operating system for knowledge workers. With Codex you can transform your notes, texts, images, videos, etc., into a multimedia knowledge graph: just highlight text and create bidirectional links, entities, relationships, attributes, events, and more. This is done from a special text editor which not only offers rich text styling but also separates the markup from the text."
+## Processing
 
 [DEVONsphere](https://www.devontechnologies.com/apps/devonsphere) \#software - "Whatever you're working on, DEVONsphere always keeps data ready that might be useful to you in this very moment — that Numbers documents buried deep inside DEVONthink, the email message you've already archived, or the web page you've visited months ago. Get inspired, follow yet untrodden paths, create something new."
 
