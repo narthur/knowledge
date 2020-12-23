@@ -10,6 +10,8 @@
 
 [The Bad Show](https://www.wnycstudios.org/story/bad-show) \#podcast - Radiolab. “With all of the black-and-white moralizing in our world today, we decided to bring back an old show about the little bit of bad that's in all of us...and the little bit of really, really bad that's in some of us."
 
+[Break the Bubble!](https://abooklikefoo.com/escape/) \#webapp - "_Break the Bubble_ allows you to find out which books you are statistically **unlikely** to read. The more narrow your reading tastes are, the more you will be challenged by the results."
+
 [A conservative's plea: Let's work together \| Arthur Brooks](https://youtu.be/87AEeLpodnE) \#video - “Conservatives and liberals both believe that they alone are motivated by love while their opponents are motivated by hate. How can we solve problems with so much polarization? In this talk, social scientist Arthur Brooks shares ideas for what we can each do as individuals to break the gridlock. "We might just be able to take the ghastly holy war of ideology that we're suffering under and turn it into a competition of ideas," he says.”
 
 [Consider.it](https://consider.it/) - "Consider.it creates CIVIL AND ORGANIZED ONLINE DIALOGUE by visually summarizing what your community thinks and why"
