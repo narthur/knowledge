@@ -22,8 +22,6 @@
 
 [SnackbarJS](http://fezvrasta.github.io/snackbarjs/) - “SnackbarJS is a lightweight and jQuery powered plugin made to work in Bootstrap style, just like the Bootstrap tooltips work.”
 
-[Tippy.js](https://atomiks.github.io/tippyjs/) - “A lightweight, vanilla JavaScript tooltip library”
-
 [Trix](https://trix-editor.org/) - “A rich text editor for everyday writing. Compose beautifully formatted text in your web application. Trix is an editor for writing messages, comments, articles, and lists—the simple documents most web apps are made of. It features a sophisticated document model, support for embedded attachments, and outputs terse and consistent HTML.”
 
 [Guess.js](https://guess-js.github.io/docs) - “Guess.js provides a collection of libraries for enabling machine-learning driven experience for the Web. Currently, the project has two main modules: Predictive prefetching for static websites. Predictive prefetching for JavaScript frameworks.”
@@ -100,6 +98,18 @@
 [Holder.js](http://holderjs.com/) - “Holder renders image placeholders entirely in browser. Placeholders can have custom colors, fonts, resizing behavior, and rendering engine \(Canvas/SVG\).”
 
 [Holder on cdnjs](https://cdnjs.com/libraries/holder)[Transparent Image \#151](https://github.com/imsky/holder/issues/151) - “this is now implemented. you can set foreground or background to an rgba color, so a transparent placeholder can be created like this: holder.js/300x200?bg=rgba\(0,0,0,0.0\)”
+
+## Tooltips
+
+[Popper](https://popper.js.org/) - "TOOLTIP & POPOVER POSITIONING ENGINE"
+
+[react-tooltip](https://github.com/wwayne/react-tooltip)
+
+[Tippy.js](https://atomiks.github.io/tippyjs/) - “A lightweight, vanilla JavaScript tooltip library." [Tippy.js for React](https://www.npmjs.com/package/@tippyjs/react).
+
+
+
+
 
 
 

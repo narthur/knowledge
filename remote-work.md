@@ -16,8 +16,6 @@
 
 [Getting Remote Critique Right](https://medium.com/building-creative-market/getting-remote-critique-right-fc458577a8f4) \#article - “Remote work brings with it some challenges that need careful pruning to create a successful and happy team. One of the first things that comes to mind is critique, a daunting task when in the same room as people, let alone hundreds or thousands of miles away from one another.”
 
-[How to Collaborate Effectively If Your Team Is Remote](https://hbr.org/2018/02/how-to-collaborate-effectively-if-your-team-is-remote?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit) \#article - HBR. "When it’s possible to be set off by a phone’s mute button, it’s safe to say that we’re living in challenging times. The digital era has ushered in a revolution in communication that’s equivalent to the one surrounding the invention of the [printing press](https://prezi.com/tzwe8klf3anb/from-gutenberg-to-the-internet-a-comparison-of-the-impact-of-gutenberg-printing-press-and-the-internet-as-media-technologies/). It’s changing how we speak — often in bullet points. And it’s affecting what we hear, as the jumble of information coming at us can lead to frequent [misunderstandings and confusion](https://hbr.org/2013/04/how-to-avoid-virtual-miscommun)."
-
 ## Co-Working
 
 [Coworker](https://www.coworker.com/) - "Find Your Perfect Coworking Space. Desks, offices & meeting rooms in 10,000+ coworking spaces with friendly communities in 164 countries"
