@@ -12,8 +12,6 @@
 
 [Life-like Gaming is Now Possible \(Thanks to A.I.\)](https://www.youtube.com/watch?v=fQlQQSsC47g&feature=youtu.be) \#video - "A.I. is making its way into gaming, with real-time ray tracing now possible, what other things does A.I. have in store?"
 
-[lllyasviel/style2paints: sketch + style = paints \(TOG2018/SIGGRAPH2018ASIA\)](https://github.com/lllyasviel/style2paints)
-
 [Machine Learning: Living in the Age of AI \| A WIRED Film](https://www.youtube.com/watch?v=ZJixNvx9BAc) \#video - "“Machine Learning: Living in the Age of AI,” examines the extraordinary ways in which people are interacting with AI today. Hobbyists and teenagers are now developing tech powered by machine learning and WIRED shows the impacts of AI on schoolchildren and farmers and senior citizens, as well as looking at the implications that rapidly accelerating technology can have. The film was directed by filmmaker Chris Cannucciari, produced by WIRED, and supported by McCann Worldgroup."
 
 [The Rise of the Machines – Why Automation is Different this Time](https://www.youtube.com/watch?v=WSKi8HfcxEk&list=PLIilwIraDV2JkPdIwldXw3jav0kNO0iO_&index=2) \#video - "Automation in the Information Age is different."

@@ -4,6 +4,8 @@
 
 [Expo](https://expo.io/) - "With Expo tools, services, and React, you can build, deploy, and quickly iterate on native Android, iOS, and web apps from the same JavaScript codebase."
 
+[Formik](https://formik.org/) - "Build forms in React, without the tears. Formik is the world's most popular open source form library for React and React Native."
+
 [Next.js](https://nextjs.org/) - "The React Framework"
 
 [oayres/react-ssr](https://github.com/oayres/react-ssr) - "Seamless server-side rendering of React apps"
@@ -33,6 +35,8 @@
 [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data) \#article - "In this tutorial, I want to show you **how to fetch data in React with Hooks** by using the [state](https://reactjs.org/docs/hooks-state.html) and [effect](https://reactjs.org/docs/hooks-effect.html) hooks. We will use the widely known [Hacker News API](https://hn.algolia.com/api) to fetch popular articles from the tech world. You will also implement your custom hook for the data fetching that can be reused anywhere in your application or published on npm as standalone node package."
 
 [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html) \#article - "_Hooks_ are a new addition in React 16.8. They let you use state and other React features without writing a class."
+
+[react-hooks-testing-library](https://react-hooks-testing-library.com/) - "Simple and complete React hooks testing utilities that encourage good testing practices."
 
 [Run useEffect Only Once](https://css-tricks.com/run-useeffect-only-once/) \#article - "The trick is that `useEffect` takes a second parameter."
 
