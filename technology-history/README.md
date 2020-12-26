@@ -22,3 +22,11 @@
 
 [Rhapsody \(operating system\)](https://en.wikipedia.org/wiki/Rhapsody_%28operating_system%29) \#article - Wikipedia. "**Rhapsody** was the code name given to [Apple Computer](https://en.wikipedia.org/wiki/Apple_Inc.)'s next-generation [operating system](https://en.wikipedia.org/wiki/Operating_system) during the period of its development between Apple's purchase of [NeXT](https://en.wikipedia.org/wiki/NeXT) in late 1996 and the announcement of [Mac OS X](https://en.wikipedia.org/wiki/MacOS) \(now called "macOS"\) in 1998."
 
+## Microsoft
+
+[SkiFree](https://en.wikipedia.org/wiki/SkiFree) \#article - Wikipedia. "**SkiFree** is a single-player [skiing](https://en.wikipedia.org/wiki/Skiing) computer game created by Chris Pirih and released with [Microsoft Entertainment Pack 3](https://en.wikipedia.org/wiki/Microsoft_Entertainment_Pack) for [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) and [DOS](https://en.wikipedia.org/wiki/DOS) in October 1991. The player controls a skier on a mountain slope, avoiding obstacles while racing against time or performing stunts for points, depending on the game mode." [Fan site](https://ski.ihoc.net/).
+
+![And from that day on, I wore this little &apos;F&apos; key pendant everywhere I went. \(xkcd.com/667\)](https://imgs.xkcd.com/comics/skifree.png)
+
+
+
