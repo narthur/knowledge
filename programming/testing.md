@@ -2,6 +2,8 @@
 
 [Faker](https://github.com/fzaninotto/Faker) - “Faker is a PHP library that generates fake data for you. Whether you need to bootstrap your database, create good-looking XML documents, fill-in your persistence to stress test it, or anonymize data taken from a production service, Faker is for you.” \#php
 
+[Husky](https://github.com/typicode/husky) - "🐶 Git hooks made easy"
+
 [Metasyntactic variable](https://en.wikipedia.org/wiki/Metasyntactic_variable) - “A metasyntactic variable is a specific word or set of words identified as a placeholder in computer science and specifically computer programming. … Metasyntactic variables used commonly across all programming languages include foobar, foo, bar, baz, qux, quux, quuz, corge, grault, garply, waldo, fred, plugh, xyzzy, and thud.\[1\]\[3\] Wibble, wobble, wubble, and flob are also used in the UK.”
 
 [Ministry of Testing](https://www.ministryoftesting.com/) - "The biggest and most supportive global software testing community! Join the Ministry of Testing community - a great place to learn all things testing, connect with others interested in software quality, and contribute to the advancement of the software testing craft!"
