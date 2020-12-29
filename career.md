@@ -1,5 +1,7 @@
 # Career
 
+{% embed url="https://twitter.com/csallen/status/1343702445927530496" %}
+
 [Book summary: So Good They Can't Ignore You - by Cal Newport](https://sivers.org/book/SoGood) \#article - "Shockingly smart thoughts about your career. A must-read for anyone who is not loving their work, wanting to quit their job, and follow their passion, or not sure what to do next. I'm recommending this many times a week to people who email me with these kinds of questions. Best book I've ever read on the subject. See [https://commoncog.com/blog/so-good-they-cant-ignore-you/](https://commoncog.com/blog/so-good-they-cant-ignore-you/) for a better summary."
 
 [Career Development Training and Tutorials](https://www.lynda.com/Career-Development-training-tutorials/1295-0.html?previousCategory=29) - Lynda.com / LinkedIn Learning. "Whether you're trying to find a new job, get a promotion, or excel in a new career, our training can help you achieve your career development goals. Our experts offer tips on leadership, management techniques, productivity, resume writing, and more."
