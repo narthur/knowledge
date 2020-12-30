@@ -10,7 +10,7 @@
 
 [Free landing page templates for startups.](https://cruip.com/)
 
-[Growth Bites](https://www.indiehackers.com/growth-bites) - "tasty tips to help you grow"
+[Growth Bites](https://www.indiehackers.com/growth-bites) - "tasty tips to help you grow" 🔥
 
 [Growth Lessons](https://growthlessons.co/) - "Real-life lessons from founders who have grown their business or community."
 
@@ -25,6 +25,8 @@
 [PostPerk](https://postperk.com/) - "Partnerships, made easy. Instantly boost your sales by partnering with complementary brands. Even if you're short on time, team, or expertise."
 
 [Sales for Founders](https://salesforfounders.com/) - "You get access to the sales knowledge I had to spend _years of pain_ learning the hard way. And then refined into super effective, actionable lessons... over years coaching hundreds of founders just like you."
+
+[Testimonial.to](https://testimonial.to/) - "Collect video testimonials. Text testimonials look less authentic. We help you collect video testimonials from your customers so you can better promote your product."
 
 [Zero to Marketing](https://zerotomarketing.com/) - "Want to grow a profitable website? Learn how to get better at marketing with one email a week. Every week I pick a new online project and write a 5-minute-read case study with actionable tips on how I'd grow it."
 
