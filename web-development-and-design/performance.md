@@ -6,11 +6,17 @@
 
 [Falco](https://getfal.co/) - "an Open Source WebPageTest runner"
 
+GoogleChrome/[Lighthouse](https://github.com/GoogleChrome/lighthouse) - "Automated auditing, performance metrics, and best practices for the web."
+
 [ImageOptim](https://imageoptim.com/mac) \#software - "ImageOptim makes images load faster. Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality."
+
+{% embed url="https://twitter.com/csswizardry/status/1344093274982768651" %}
 
 [Links to cross-origin destinations are unsafe](https://developers.google.com/web/tools/lighthouse/audits/noopener?utm_source=lighthouse&utm_medium=extension) \#article - "When you open another page using `target="_blank"`, the other page may run on the same process as your page, unless [Site Isolation](https://developers.google.com/web/updates/2018/07/site-isolation) is enabled. If the other page is running a lot of JavaScript, your page's performance may also suffer. See [The Performance Benefits of `rel=noopener`](https://jakearchibald.com/2016/performance-benefits-of-rel-noopener/)."
 
 [The performance benefits of rel=noopener](https://jakearchibald.com/2016/performance-benefits-of-rel-noopener/) \#article - "If you have links to another origin, you should use `rel="noopener"`, especially if they open in a new tab/window."
+
+[TracerBench](https://www.tracerbench.com/) - "Controlled Performance Benchmarking Tool." Built by LinkedIn. Open source. [GitHub action](https://github.com/marketplace/actions/ember-performance-monitoring-tracerbench-compare-action).
 
 [WebPageTest](https://www.webpagetest.org/) - "Run a free website speed test from multiple locations around the globe using real browsers \(IE and Chrome\) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more. Your results will provide rich diagnostic information including resource loading waterfall charts, Page Speed optimization checks and suggestions for improvements."
 
