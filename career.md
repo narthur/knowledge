@@ -32,6 +32,8 @@
 
 [Can't get engineering interviews? Try the side door.](https://www.keyvalues.com/blog/if-you-cant-get-engineering-interviews-try-the-side-door) \#article - "If you're applying for new engineering jobs and are struggling to get your foot in the door, consider looking for other ways in."
 
+[CV](https://read.cv/) - "Mindful professional profiles"
+
 [EpicJobs](https://epicjobs.co/?ref=producthunt) - "Know who's hiring you."
 
 [FlowCV](https://flowcv.io/?ref=producthunt) - "Create a better resume. Land your dream job with a modern resume. Beautiful design, effortless editing and quick PDF download included. For free."
