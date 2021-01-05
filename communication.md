@@ -12,6 +12,8 @@
 
 [Spectrum](https://spectrum.chat/) - "Spectrum makes it easy to grow safe, successful online communities that are built to last."
 
+[TL;DV](https://tldv.io/) - "Yet another meeting? We feel you. Let's have fewer, more focused meetings. Record your meetings and tag the important moments as they happen. Empower your team to quickly catch-up on relevant meeting recordings! tl;dv works wherever your team already collaborates live and async."
+
 [Whimsical](https://whimsical.com/) \#webapp - "Communicate visually at the speed of thought."
 
 ## Email
