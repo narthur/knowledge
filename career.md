@@ -35,6 +35,8 @@
 
 [Career Development Training and Tutorials](https://www.lynda.com/Career-Development-training-tutorials/1295-0.html?previousCategory=29) - Lynda.com / LinkedIn Learning. "Whether you're trying to find a new job, get a promotion, or excel in a new career, our training can help you achieve your career development goals. Our experts offer tips on leadership, management techniques, productivity, resume writing, and more."
 
+[GOTO 2013 • Career Advice for Programmers • Trisha Gee](https://www.youtube.com/watch?v=LlAn452X4Lc) \#video - "Anyone ever give you advice on how to remain a programmer? To avoid being "promoted" into positions away from technology and code? Anyone ever tell you at school or university that you needed social skills to be a good developer? Did you know, without having had half a dozen different jobs, that all development roles are not created equal? Is it true that moving jobs a lot is a Bad Thing?"
+
 [Great developers are raised, not hired](https://sizovs.net/2019/04/10/the-best-developers-are-raised-not-hired/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) \#article - "By building mentoring capacity at work, you can hire newcomers, broken toys, impostors and turn them into the loyal, high-quality workforce. Shifting focus from assessing to mentoring can simplify your interviewing process. Instead of trying to predict future performance by asking tough questions and sending candidate through nine circles of hell, you can hire candidates with a growth mindset and grow them."
 
 [Jack Butcher on Twitter: "Publishing your ideas as you have them is dollar cost averaging for your reputation." / Twitter](https://twitter.com/jackbutcher/status/1329852224479113218) \#tweet - \#thread
