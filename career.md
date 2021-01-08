@@ -4,6 +4,20 @@
 
 [Book summary: So Good They Can't Ignore You - by Cal Newport](https://sivers.org/book/SoGood) \#article - "Shockingly smart thoughts about your career. A must-read for anyone who is not loving their work, wanting to quit their job, and follow their passion, or not sure what to do next. I'm recommending this many times a week to people who email me with these kinds of questions. Best book I've ever read on the subject. See [https://commoncog.com/blog/so-good-they-cant-ignore-you/](https://commoncog.com/blog/so-good-they-cant-ignore-you/) for a better summary."
 
+[CAREER ADVICE for JUNIOR SOFTWARE DEVELOPERS](https://www.youtube.com/watch?v=hjIlTaAMsbI) \#video - "I asked a bunch of industry-leaders and experienced software developers for their career advice for junior software developers. I got hundreds of responses. This video collates that advice and adds some of my own. So if you are just getting started, or about to begin, in your career as a software developer, here is some really valuable advice from industry experts, leaders in the field, as well as some of the people that will be hiring you, and probably managing and teaching you when you start out. I hope that you find it interesting, helpful maybe even inspiring in places."
+
+* Be willing to say you don't know.
+* Find ways to experiment in small ways so you can fail and learn quickly without causing damage.
+* Find mentors.
+* Try to get a job with a boss who will help you learn--interview your boss.
+* Value pair programming when looking for a job.
+* Join meetups and groups and programming communities.
+* Contribute to open source.
+* Obsess on the problem, not the tools.
+* Talk about the problem with other people. Think about the problem from the perspective of stakeholders and users.
+* Collaborate.
+* Write lots of code, play with it, build fun, silly things.
+
 [Career Development Training and Tutorials](https://www.lynda.com/Career-Development-training-tutorials/1295-0.html?previousCategory=29) - Lynda.com / LinkedIn Learning. "Whether you're trying to find a new job, get a promotion, or excel in a new career, our training can help you achieve your career development goals. Our experts offer tips on leadership, management techniques, productivity, resume writing, and more."
 
 [Great developers are raised, not hired](https://sizovs.net/2019/04/10/the-best-developers-are-raised-not-hired/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) \#article - "By building mentoring capacity at work, you can hire newcomers, broken toys, impostors and turn them into the loyal, high-quality workforce. Shifting focus from assessing to mentoring can simplify your interviewing process. Instead of trying to predict future performance by asking tough questions and sending candidate through nine circles of hell, you can hire candidates with a growth mindset and grow them."
