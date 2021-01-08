@@ -17,6 +17,21 @@
 * Talk about the problem with other people. Think about the problem from the perspective of stakeholders and users.
 * Collaborate.
 * Write lots of code, play with it, build fun, silly things.
+* Work through code exercises.
+* A great programmer is good at thinking and breaking problems down into small pieces.
+* Learn test-driven development.
+* Learn the fundamentals. They are always valuable and don't change, unlike tools.
+* Order of importance: Solving Problems &gt; Software Design &gt; Coding &gt; Language & Frameworks
+  * Concentrate on building skills in that order.
+* Focus on managing dependencies and minimizing coupling.
+* Be suspicious of concurrency.
+* Optimize for learning and discovery.
+  * Working iteratively helps.
+  * Always be gathering feedback.
+  * Work incrementally, building systems in modular pieces.
+  * Be empirical.
+* Optimize to manage complexity for the purpose of making systems understandable.
+  * Use modularity, cohesion, and separation of concerns.
 
 [Career Development Training and Tutorials](https://www.lynda.com/Career-Development-training-tutorials/1295-0.html?previousCategory=29) - Lynda.com / LinkedIn Learning. "Whether you're trying to find a new job, get a promotion, or excel in a new career, our training can help you achieve your career development goals. Our experts offer tips on leadership, management techniques, productivity, resume writing, and more."
 
