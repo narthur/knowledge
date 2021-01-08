@@ -10,8 +10,6 @@
 
 [The Bad Show](https://www.wnycstudios.org/story/bad-show) \#podcast - Radiolab. “With all of the black-and-white moralizing in our world today, we decided to bring back an old show about the little bit of bad that's in all of us...and the little bit of really, really bad that's in some of us."
 
-[Break the Bubble!](https://abooklikefoo.com/escape/) \#webapp - "_Break the Bubble_ allows you to find out which books you are statistically **unlikely** to read. The more narrow your reading tastes are, the more you will be challenged by the results."
-
 [A conservative's plea: Let's work together \| Arthur Brooks](https://youtu.be/87AEeLpodnE) \#video - “Conservatives and liberals both believe that they alone are motivated by love while their opponents are motivated by hate. How can we solve problems with so much polarization? In this talk, social scientist Arthur Brooks shares ideas for what we can each do as individuals to break the gridlock. "We might just be able to take the ghastly holy war of ideology that we're suffering under and turn it into a competition of ideas," he says.”
 
 [Consider.it](https://consider.it/) - "Consider.it creates CIVIL AND ORGANIZED ONLINE DIALOGUE by visually summarizing what your community thinks and why"
@@ -65,8 +63,6 @@
 [The science of analyzing conversations, second by second \| Elizabeth Stokoe \| TEDxBermuda](https://youtu.be/MtOG5PK8xDA) \#video - "Prof. Elizabeth Stokoe takes a run on what she terms the “conversational racetrack”—the daily race to understand each other when we speak—and explains how to avoid  hurdles that trip us up and cause conflict."
 
 [TED’s secret to great public speaking](https://www.ted.com/talks/chris_anderson_teds_secret_to_great_public_speaking) \#video - “There's no single formula for a great talk, but there is a secret ingredient that all the best ones have in common. TED curator Chris Anderson shares this secret -- along with four ways to make it work for you. Do you have what it takes to share an idea worth spreading?”
-
-{% embed url="https://twitter.com/brenkjm/status/1347506067954130945" %}
 
 [This is your brain on communication](https://www.ted.com/talks/uri_hasson_this_is_your_brain_on_communication#t-792892) \#video - “Neuroscientist Uri Hasson researches the basis of human communication, and experiments from his lab reveal that even across different languages, our brains show similar activity, or become "aligned," when we hear the same idea or story. This amazing neural mechanism allows us to transmit brain patterns, sharing memories and knowledge. "We can communicate because we have a common code that presents meaning," Hasson says.”
 
