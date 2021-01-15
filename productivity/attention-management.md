@@ -56,11 +56,15 @@
 
 ## Tab Management
 
+[The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg) \#extension - "A lightweight extension to reduce chrome's memory footprint. Perfect if you have a lot of tabs open at the same time. Tabs that have not been viewed after a configurable length of time will be automagically suspended in the background, freeing up the memory and CPU being consumed by that tab." \#chrome
+
 [Merge Windows](https://singleclickapps.com/merge-windows/) \#extension - "Click and merge all open windows in single one." \#chrome \#opera \#firefox 
 
 [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) \#extension - "Whenever you find yourself with too many tabs, click the OneTab icon to convert all of your tabs into a list. When you need to access the tabs again, you can either restore them individually or all at once." \#chrome
 
 [Tab Shepherd](https://chrome.google.com/webstore/detail/tab-shepherd/cfgaoapjfmfgcjdbfocfnfcgfoknlcjm) \#extension - "Automatically closes inactive tabs and makes it easy to get them back." \#chrome
+
+[Tabs Outliner](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) \#extension - "Tabs Outliner is a fusion of tabs manager, session manager and an tree like personal information organizer. It’s also embed instruments that greatly help reduce open tabs count by making possible easily annotate and close-save open windows and tabs in their original context. And what’s more important - allow then working with there saved tabs practically in the same way as with open ones, thus greatly reducing resources usage." \#chrome
 
 ## Window Management
 
