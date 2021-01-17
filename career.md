@@ -83,11 +83,15 @@
 
 [SwiftCV](https://www.swiftcv.com/?ref=producthunt) - "Build simple yet powerful web responsive resume in minutes at free of cost. The all-in-one platform powering your professional presence online. This will be the only resume that you’ll ever need."
 
+[Using \#OPENTOWORK on your public LinkedIn profile? Read this](https://reallifecareeradvice.com/opentowork-on-your-linkedin-profile/) \#article - "Don’t use \#ONO, \#OPENTOWORK or “seeking new opportunities” on your public profile. Here’s what happens if you do, and what to do instead…"
+
 ## Sources
 
 [The Balance Careers](https://www.thebalancecareers.com/) \#blog
 
 [Cal Newport](http://www.calnewport.com/blog/) \#blog
+
+[Real Life Career Advice](https://reallifecareeradvice.com/blog/) \#blog - "Get the job you deserve with our proven, practical tips and advice."
 
 ![https://twitter.com/\_faizmemon\_/status/1332420796506017792](.gitbook/assets/image.png)
 
