@@ -34,11 +34,13 @@
 
 [Diigo](https://www.diigo.com/) - "Save and tag your online resources for easy access anytime, anywhere"
 
+[GitBook](https://www.gitbook.com/) - "Document Everything! For you, your users and your team"
+
 [Memex](https://getmemex.com/) - "Bookmarking for the power users of the web"
 
 Notion
 
-[Obsidian](https://obsidian.md/) \#software - "Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files."
+[Obsidian](https://obsidian.md/) \#software - "Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files." [Obsidian Git plugin](https://github.com/denolehov/obsidian-git)
 
 [Pinboard](https://pinboard.in/) - "Pinboard is a fast, no-nonsense bookmarking site for people who value privacy and speed."
 
