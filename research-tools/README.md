@@ -14,7 +14,11 @@
 
 [WolframAlpha](https://www.wolframalpha.com/) - "Compute expert-level answers using Wolfram's breakthrough algorithms, knowledgebase and AI technology"
 
+[Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) \#article - Wikipedia. "The **zettelkasten** \(German: "slip box"\) is a [knowledge management](https://en.wikipedia.org/wiki/Knowledge_management) and [note-taking](https://en.wikipedia.org/wiki/Note-taking) method used in research and study."
+
 ## Discovery
+
+[A Book Like Foo](https://abooklikefoo.com/) \#webapp - "_A Book Like Foo_ discovers books perfectly tailored to specific tastes, selected from hundreds of thousands of titles. It learns over time, adapting to the changing tastes of readers through the years."
 
 [DEVONagent](https://www.devontechnologies.com/apps/devonagent) \#software - "Give your research a boost with the smartest search assistant for the Mac. DEVONagent searches multiple sources and frees you from manually sorting the wheat from the chaff. With its scheduled searches it even keeps you updated on what's going on in the world."
 
@@ -34,6 +38,8 @@
 
 Notion
 
+[Obsidian](https://obsidian.md/) \#software - "Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files."
+
 [Pinboard](https://pinboard.in/) - "Pinboard is a fast, no-nonsense bookmarking site for people who value privacy and speed."
 
 [Pocket](https://getpocket.com/) \#webapp - "Save content from everywhere. Save articles, videos and stories from any publication, page or app. Curate your own space filled with everything you can’t wait to learn."
@@ -42,7 +48,9 @@ Notion
 
 [Roam](https://roamresearch.com/) \#webapp - "A note-taking tool for networked thought. As easy to use as a document. As powerful as a graph database. Roam helps you organize your research for the long haul."
 
-## Processing
+## Processing 
+
+[Codex](https://www.patreon.com/codexeditor) - "Codex is a web-based operating system for knowledge workers. With Codex you can transform your notes, texts, images, videos, etc., into a multimedia knowledge graph: just highlight text and create bidirectional links, entities, relationships, attributes, events, and more. This is done from a special text editor which not only offers rich text styling but also separates the markup from the text."
 
 [DEVONsphere](https://www.devontechnologies.com/apps/devonsphere) \#software - "Whatever you're working on, DEVONsphere always keeps data ready that might be useful to you in this very moment — that Numbers documents buried deep inside DEVONthink, the email message you've already archived, or the web page you've visited months ago. Get inspired, follow yet untrodden paths, create something new."
 
