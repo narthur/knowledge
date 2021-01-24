@@ -22,11 +22,15 @@
 
 [LeftBlank.co](http://www.leftblank.co/) - "This page intentionally left blank."
 
+[Mighty](https://bemighty.com/) \#hardware - "Mighty plays music from Spotify and Amazon Music without a phone, screen, or connection."
+
 [Pi-hole](https://pi-hole.net/) - "A black hole for Internet advertisements"
 
 [Pomy](https://vanejung.com/pomy/) \#software - "Focus timer app for your eye health." Mac and Windows.
 
 [Spend More Time Alone](http://www.calnewport.com/blog/2017/09/24/spend-more-time-alone/) \#article - by Cal Newport. "The right way to define “solitude” is as a subjective state in which you’re isolated from input from other minds. ... Regular doses of solitude are crucial for the effective and resilient functioning of your brain."
+
+[Why The Web Is Such A Mess](https://www.youtube.com/watch?v=OFRjZtYs3wY) \#video - "Tim Berners-Lee envisioned a "universal information system". What went wrong?"
 
 ## Decentralization
 
@@ -56,6 +60,8 @@
 
 [Invidious](https://invidio.us/) - Alternative portal to YouTube
 
+{% embed url="https://twitter.com/stubbornella/status/1341514431751094272" %}
+
 [NewPipe](https://newpipe.schabi.org/) \#app - "the lightweight YouTube experience for Android"
 
 [PeerTube](https://peertube.cpy.re/) \#webapp
@@ -63,6 +69,8 @@
 [SkyTube](https://skytube-app.com/) \#app - "An open-source YouTube™ app for Android™."
 
 ## Social Networking
+
+[Calm Twitter](https://chrome.google.com/webstore/detail/calm-twitter/cknklikacoaeledfaldmhabmldkldocj/related) \#extension - Chrome. "This extension hides trending information from twitter timelines to make your mind calm."
 
 [Fabriq](https://www.ourfabriq.com/?utm_source=Iterable&utm_medium=email&utm_campaign=newsletter_4.9) \#app - "Get Intentional About Your Relationships"
 
