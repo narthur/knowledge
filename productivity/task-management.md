@@ -22,6 +22,8 @@
 
 [TickTick](https://www.ticktick.com/) \#software - "Join millions of people to capture ideas, organize life, and do something creative everyday."
 
+[Timecap](https://timecap.app/) \#app - "The only productivity app you will ever need. Get stuff done and reach your goals faster. Timecap is a unique habit tracker that tracks time-based, count-based, and simply completable activities and habits." Android and iOS.
+
 [Whimsical](https://whimsical.com/) \#webapp - "Communicate visually at the speed of thought."
 
 ## Autofocus
@@ -52,6 +54,18 @@
 [HOW TO PRIORITISE YOUR WORK & REDUCE STRESS AT WORK \| Aj&Smart](https://www.youtube.com/watch?v=ZHI-vCSX0Uo) \#video
 
 [Tim Ferriss - 3 strategies for prioritization - Insights for Entrepreneurs - Amazon](https://www.youtube.com/watch?v=4T29mz6ymWM) \#video
+
+## Todoist
+
+[Todoist](https://todoist.com/home) - "Organize it all with Todoist"
+
+[Todoist Beeminder integration](https://www.beeminder.com/todoist)
+
+[Todoist for Chrome](https://chrome.google.com/webstore/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakh/related) \#extension - \#chrome
+
+[Todoist for Gmail](https://chrome.google.com/webstore/detail/todoist-for-gmail/clgenfnodoocmhnlnpknojdbjjnmecff) \#extension - \#chrome
+
+[Todoist New Tab](https://chrome.google.com/webstore/detail/todoist-new-tab/dffbbheconicccgghdddjeklbneimlmf) \#extension - \#chrome
 
 ## Sources
 
