@@ -12,6 +12,8 @@
 
 [Peloton](https://www.onepeloton.com/app?utm_source=Iterable&utm_medium=email&utm_campaign=newsletter_4.9) - "Peloton uses technology and design to connect the world through fitness, empowering people to be the best version of themselves anywhere, anytime."
 
+[Spoon theory](https://en.wikipedia.org/wiki/Spoon_theory) \#article - Wikipedia. "**Spoon theory**[\[a\]](https://en.wikipedia.org/wiki/Spoon_theory#cite_note-1) is a metaphor that is used to describe the amount of mental or physical energy a person has available for daily activities and tasks. The theory was developed by Christine Miserandino as a way to express how it felt to have [lupus](https://en.wikipedia.org/wiki/Lupus). She used [spoons](https://en.wikipedia.org/wiki/Spoon) to provide a visual representation of units of energy that a person might have and how [chronic illness](https://en.wikipedia.org/wiki/Chronic_illness) forces her to plan out her days and actions in advance, so as not to run out of energy, or spoons, before the end of the day.[\[1\]](https://en.wikipedia.org/wiki/Spoon_theory#cite_note-Miserandino-2)"
+
 [The Top 10 Benefits of Regular Exercise](https://www.healthline.com/nutrition/10-benefits-of-exercise) \#article - "Being active has been shown to have many health benefits, both physically and mentally." Healthline.
 
 [Welltory](https://welltory.com/) - "Measure your stress and energy levels with your smartphone"
