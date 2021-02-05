@@ -36,6 +36,8 @@
 
 [GitBook](https://www.gitbook.com/) - "Document Everything! For you, your users and your team"
 
+[Larder](https://larder.io/) - "bookmarking for developers"
+
 [Memex](https://getmemex.com/) - "Bookmarking for the power users of the web"
 
 Notion
