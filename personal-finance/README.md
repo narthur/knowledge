@@ -8,6 +8,8 @@ description: >-
 
 [AAA Discounts](https://discounts.acg.aaa.com/deal/overview)
 
+[For Love and/or Money: Financial Autonomy in Marriage](http://messymatters.com/autonomy/) \#article - "We realize how crazy this all sounds! Nonetheless, we’re perfectly serious, and do actually pay each other to put our kids to bed and whatnot. We think we have quite clever mechanisms for deciding who does what and keeping things exquisitely fair, efficient, and resentment-free. And separate finances — i.e., financial autonomy — is a prerequisite."
+
 Gusto
 
 [My Personal Finance bookshelf on GoodReads](https://www.goodreads.com/review/list/9682365-nathan?shelf=personal-finance)
