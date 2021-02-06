@@ -38,6 +38,8 @@
 
 [What is "rationality"?](https://www.youtube.com/watch?v=iloTS0wU9qM) \#video - "What do people mean by rationality? Julia Galef from [http://measureofdoubt.com](https://www.youtube.com/redirect?q=http%3A%2F%2Fmeasureofdoubt.com&event=video_description&redir_token=ZBkUYD34unP50bTY51VM03qzqp18MTU5MDkyNjgxNEAxNTkwODQwNDE0&v=iloTS0wU9qM) discusses the various ways understand word rationality and how different meanings relate to each other."
 
+[What exactly is the "Rationality Community?"](https://www.lesswrong.com/posts/s8yvtCbbZW2S4WnhE/what-exactly-is-the-rationality-community) \#article - "I used to use the phrase "Rationality Community" to mean three different things. Now I only use it to mean two different things, which is... well, a mild improvement at least. In practice, I was lumping a lot of people together, many of whom neither wanted to get lumped together nor had much in common."
+
 [Why you shouldn't try to "'change your mind"](https://www.youtube.com/watch?v=d6PgCN7ySGQ) \#video - "In which I describe how I've changed my mind about the usefulness of "changing one's mind""
 
 ## Sources
