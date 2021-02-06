@@ -42,6 +42,8 @@
 
 ## Sources
 
+[Astral Codex Ten](https://astralcodexten.substack.com/) \#blog - "ACX started as my personal blog, Slate Star Codex. It grew out of “the rationalist community”, a mostly-online subculture of people trying to work together to figure out how to distinguish truth from falsehood using insights from probability theory, cognitive science, and AI."
+
 [Farnam Street](https://fs.blog/) - "**Farnam Street** \(FS\) helps you master the best of what other people have already figured out. Together we will develop the [mental models](https://fs.blog/mental-models/) to understand how the world works, make better decisions, and live a more meaningful life."
 
 [Julia Galef](https://en.wikipedia.org/wiki/Julia_Galef) \#article - Wikipedia. "**Julia Galef** \([/ˈɡeɪləf/](https://en.wikipedia.org/wiki/Help:IPA/English); born July 4, 1983\) is co-founder of the [Center for Applied Rationality](https://en.wikipedia.org/wiki/Center_for_Applied_Rationality).[\[1\]](https://en.wikipedia.org/wiki/Julia_Galef#cite_note-Matsakis2016-1) She is a writer and public speaker on the topics of rationality, science, technology, and design. She hosts Rationally Speaking, the official podcast of New York City Skeptics, which she has done since its inception in 2010, sharing the show with co-host and philosopher [Massimo Pigliucci](https://en.wikipedia.org/wiki/Massimo_Pigliucci) until 2015.[\[2\]](https://en.wikipedia.org/wiki/Julia_Galef#cite_note-2)[\[3\]](https://en.wikipedia.org/wiki/Julia_Galef#cite_note-3)" [YouTube](https://www.youtube.com/user/measureofdoubt)
