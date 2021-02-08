@@ -12,10 +12,6 @@
 
 [Forest](https://www.forestapp.cc/) \#app - "Stay focused, be present"
 
-[FutureMe](https://www.futureme.org/) \#webapp - "Write a letter to the future." Can be used to send your future self passwords, etc.
-
-[Genie Hands timer safe](https://www.timelockingsafe.com/) \#hardware - [Also on Amazon](https://www.amazon.com/Genie-Hand-Time-Lock-Safe/dp/B00NFIDTMK/ref=sr_1_4?dchild=1&keywords=timer+safe&qid=1612791973&sr=8-4).
-
 [GetMotivatedBuddies](https://www.getmotivatedbuddies.com/) - "You are 77.5% more likely to complete your goal with a buddy."
 
 [How To Do What You Want: Akrasia and Self-Binding](https://blog.beeminder.com/akrasia/) \#article - From the Beeminder blog. "Many of us have a problem following through on our intentions. And it’s more than just a difficulty in predicting our future desires. It’s not like “Gee, I thought I wanted to get in shape but it turned out there was always something really good on TV!” No, even in hindsight, you regret not doing what you said you wanted to do. It’s not even that you’re merely conflicted about what you want. The trade-off you made — more TV watched, still not in shape — was patently ridiculous. You somehow don’t do what you genuinely want to do."
