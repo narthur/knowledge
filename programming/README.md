@@ -8,8 +8,6 @@ Think Bayes: Bayesian Statistics in Python \#book
 
 [Biggest Challenge You'll Face Learning to Code \(Plus How to Overcome It!\)](https://www.youtube.com/watch?v=B-sh_ncnDUE) \#video - "Learning any new skill is challenging and I've definitely noticed a recurring theme that most everybody faces: how to stay motivated when progress seems to be non-existent \(also know as the intermediate plateau\). There's is no easy answer or magic pill but I definitely laid out a few pieces of advice of how to overcome it."
 
-[Bountysource](https://www.bountysource.com/) - "Support for Open Source Software. A community with 75,087 members hunting for bounties and earning rewards"
-
 [Convention over configuration - Wikipedia](https://en.wikipedia.org/wiki/Convention_over_configuration)
 
 [Database normalization](https://en.wikipedia.org/wiki/Database_normalization) \#article - Wikipedia. "**Database normalization** is the process of structuring a [relational database](https://en.wikipedia.org/wiki/Relational_database) in accordance with a series of so-called [normal forms](https://en.wikipedia.org/wiki/Database_normalization#Normal_forms) in order to reduce [data redundancy](https://en.wikipedia.org/wiki/Data_redundancy) and improve [data integrity](https://en.wikipedia.org/wiki/Data_integrity). It was first proposed by [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd) as part of his [relational model](https://en.wikipedia.org/wiki/Relational_model)."
@@ -82,6 +80,8 @@ Google Cloud Platform
 
 ## Community
 
+[Codidact](https://codidact.org/) - "The Open Source Q&A Platform." [Communities](https://codidact.com/). [Software Development community](https://software.codidact.com/).
+
 [IndieHackers](https://www.indiehackers.com/) - "Learn from the founders behind hundreds of profitable online businesses, and connect with others who are starting and growing their own companies."
 
 [Makerlog](https://getmakerlog.com/) - "The home of the maker community. Makerlog is where 4,000+ indie hackers & makers get things done together."
@@ -105,15 +105,15 @@ CircleCI orbs A fast, out-of-the-box solution for integrating with AWS Lambda, G
 
 [Continuous Integration - What's the point? - Continuous Integration P1 - Fun Fun Function](https://www.youtube.com/watch?v=ymPOI4gWQFY) \#video - "Continuous Integration is when a software development team has a habit of doing _multiple merges per day_ and have an _automated verification system_ that checks those merges for problems. Our team does this in order to waste less time hunting down problems in _monster merges_."
 
-## Deep Work
+## Deep Work / Deliberate Practice
+
+[Bountysource](https://www.bountysource.com/) - "Support for Open Source Software. A community with 75,087 members hunting for bounties and earning rewards"
 
 Build in public
 
 [CodeKata](http://codekata.com/) - "Code Kata is an attempt to bring this element of practice to software development. A kata is an exercise in karate where you repeat a form many, many times, making little improvements in each. The intent behind code kata is similar. Each is a short exercise \(perhaps 30 minutes to an hour long\). Some involve programming, and can be coded in many different ways. Some are open ended, and involve thinking about the issues behind programming. These are unlikely to have a single correct answer. I add a new kata every week or so. Invest some time in your craft and try them."
 
 [CodeWars](https://www.codewars.com/) - "Improve your skills by training with others on real code challenges"
-
-Deliberate practice
 
 [Kata \(programming\)](https://en.wikipedia.org/wiki/Kata_%28programming%29) \#article - Wikipedia.
 
@@ -122,6 +122,8 @@ Project Euler
 StackOverflow
 
 [The Ultimate Code Kata](https://blog.codinghorror.com/the-ultimate-code-kata/) \#article - "Effortful study means constantly tackling problems at the very edge of your ability. Stuff you may have a high probability of failing at. Unless you're [failing some of the time](http://www.codinghorror.com/blog/archives/000300.html), you're probably not growing professionally. You have to seek out those challenges and push yourself beyond your comfort limit." \#deep\_work
+
+Write a blog
 
 ## Error Handling
 
