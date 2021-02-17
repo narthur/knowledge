@@ -30,3 +30,13 @@
 
 [The Scratch](https://thescratchnews.com/) - Adventist news briefings. "The Scratch’s weekly Brief is broken down into two sections. First, “The Need to Know” covers this week’s main story—one story, several paragraphs, and opinions separated at the end. The second section, “The Ought to Know,” covers other stories—each paragraph is a separate story entirely. Lastly, while our content is serious, our headings are not. We like to spice up our headings with a little personality. :\)" 
 
+## People
+
+[Samuel Koranteng-Pipim](https://en.wikipedia.org/wiki/Samuel_Koranteng-Pipim#Resignation,_rape_allegations,re-baptism_and_disfellowship) \#article - Wikipedia. "**Samuel Koranteng Pipim** \(born December 10, 1957\) is a US-based [Ghanaian](https://en.wikipedia.org/wiki/Ghanaian) [author](https://en.wikipedia.org/wiki/Author), [speaker](https://en.wikipedia.org/wiki/Public_speaker), and [theologian](https://en.wikipedia.org/wiki/Theologian). Trained in engineering and systematic theology, he based his office in [Ann Arbor, Michigan](https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan), where, up until 2011, he ministered to students, faculty, and staff at the [University of Michigan](https://en.wikipedia.org/wiki/University_of_Michigan). He has authored and co-authored more than a dozen books. He has spoken around the world at events for youth, students, and young professionals. He helped begin and has sat on the Board of Directors for the [Generation of Youth for Christ](https://en.wikipedia.org/wiki/Generation_of_Youth_for_Christ) organization \(GYC\), a revival movement of [Seventh-day Adventist](https://en.wikipedia.org/wiki/Seventh-day_Adventist) youth in North America."
+
+[William Miller](https://en.wikipedia.org/wiki/William_Miller_%28preacher%29) \#article - Wikipedia. "**William Miller** \(February 15, 1782 – December 20, 1849\) was an American [Baptist](https://en.wikipedia.org/wiki/Baptists) [preacher](https://en.wikipedia.org/wiki/Preacher) who is credited with beginning the mid-19th-century North American religious movement known as [Millerism](https://en.wikipedia.org/wiki/Millerism). After his proclamation of the [Second Coming](https://en.wikipedia.org/wiki/Second_Coming) did not occur as expected in the 1840s, new heirs of his message emerged, including the [Advent Christians](https://en.wikipedia.org/wiki/Advent_Christian_Church) \(1860\), the [Seventh-day Adventists](https://en.wikipedia.org/wiki/Seventh-day_Adventist_Church) \(1863\) and other [Adventist](https://en.wikipedia.org/wiki/Adventist) movements."
+
+
+
+
+
