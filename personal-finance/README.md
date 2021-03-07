@@ -16,7 +16,9 @@ Gusto
 
 [Oxygen](https://oxygenbank.com/) - "We’re Oxygen: the fresh new bank account for free thinkers, rebels and entrepreneurs. Awarded Best Digital Banking Account\* in the US, we look after people who want to rise above. Yes, we’re looking at you."
 
-[Simple](https://www.simple.com/) - "Bank, budget and earn 25x the national average."
+## Analysis Tools
+
+
 
 ## Budgeting
 

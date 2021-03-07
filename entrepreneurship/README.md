@@ -88,6 +88,8 @@
 
 [Mercury](https://mercury.co) - "Banking built for startups. Mercury makes bank accounts that help tech companies scale.
 
+[Wave](https://www.waveapps.com/) - "Award-winning financial software designed for entrepreneurs." [Google Sheets add-on](https://support.waveapps.com/hc/en-us/articles/360020768272-Wave-Connect-Easily-import-and-export-data-with-Wave-s-Google-Sheets-add-on-).
+
 ## Management
 
 [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart's_law) \#article - "**Goodhart's law** is an [adage](https://en.wikipedia.org/wiki/Adage) named after economist [Charles Goodhart](https://en.wikipedia.org/wiki/Charles_Goodhart), which has been phrased by [Marilyn Strathern](https://en.wikipedia.org/wiki/Marilyn_Strathern) as "When a measure becomes a target, it ceases to be a good measure."[\[1\]](https://en.wikipedia.org/wiki/Goodhart's_law#cite_note-1) One way in which this can occur is individuals trying to anticipate the effect of a [policy](https://en.wikipedia.org/wiki/Policy) and then taking actions that alter its outcome.[\[2\]](https://en.wikipedia.org/wiki/Goodhart's_law#cite_note-2)"
