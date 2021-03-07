@@ -12,6 +12,10 @@
 
 [Digital Minimalism - with Dr. Cal Newport](https://www.stitcher.com/podcast/paula-pant-and-j-money/money-103/e/58555559?refid=asa&autoplay=true) \#podcast - "Cal Newport created a philosophy called digital minimalism, which is idea of reducing your digital life down to only the most important core essentials. Remove the apps from your phone, then slowly re-introduce only the ones that are the most useful and beneficial. Take control of your smartphone, rather than letting it control you."
 
+[Focus](https://heyfocus.com/) \#software - "Reclaim your productivity by blocking distracting sites and applications, like Facebook and Fortnite. Stay on task and in flow to accomplish your best work!"
+
+[FocusMe](https://focusme.com/) \#app \#software - "Break free from distractions, Unleash your productivity. FocusMe is the most powerful App and Website Blocker for Windows, Mac & Android. Our Android app is free!" Coupon code: MAY20
+
 {% embed url="https://twitter.com/therealcliffyb/status/1326649103938428930/photo/1" %}
 
 [The Focus Toolkit - Thomas Frank](https://thomasjfrank.com/focus-toolkit/) - "Need to focus? Here’s a toolbox full of resources that will help you do it successfully."
@@ -30,21 +34,13 @@
 
 [ScreenFocus](https://www.apptorium.com/screenfocus) \#software - "Working with multiple monitors made right."
 
+[SelfControl](https://selfcontrolapp.com/) \#software - "A free Mac application to help you avoid distracting websites."
+
 [Why it's so Hard to Focus](https://www.youtube.com/watch?v=XT46R7Ii4zY) \#video - "In this video, I go over why focusing is hard."
 
 [Workspace](https://workspaceproapp.com/) \#software - "Launch/close a bunch of macOS apps just in 1 click!"
 
 [Workspaces](https://www.apptorium.com/workspaces) \#software - "Meet your personal project assistant!"
-
-## Blocking Distractions
-
-[BlockSite](https://chrome.google.com/webstore/detail/blocksite-stay-focused-co/eiimnmioipafcokbfikbljfdeojpcgbh) \#extension - "Stay focused and improve productivity. Easily block any distracting or harmful website. Stop procrastination once and for all!"
-
-[Focus](https://heyfocus.com/) \#software - "Reclaim your productivity by blocking distracting sites and applications, like Facebook and Fortnite. Stay on task and in flow to accomplish your best work!"
-
-[FocusMe](https://focusme.com/) \#app \#software - "Break free from distractions, Unleash your productivity. FocusMe is the most powerful App and Website Blocker for Windows, Mac & Android. Our Android app is free!" Coupon code: MAY20
-
-[SelfControl](https://selfcontrolapp.com/) \#software - "A free Mac application to help you avoid distracting websites."
 
 ## Deep Work
 
