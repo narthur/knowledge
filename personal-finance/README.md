@@ -8,17 +8,13 @@ description: >-
 
 [AAA Discounts](https://discounts.acg.aaa.com/deal/overview)
 
-[For Love and/or Money: Financial Autonomy in Marriage](http://messymatters.com/autonomy/) \#article - "We realize how crazy this all sounds! Nonetheless, we’re perfectly serious, and do actually pay each other to put our kids to bed and whatnot. We think we have quite clever mechanisms for deciding who does what and keeping things exquisitely fair, efficient, and resentment-free. And separate finances — i.e., financial autonomy — is a prerequisite."
-
 Gusto
 
 [My Personal Finance bookshelf on GoodReads](https://www.goodreads.com/review/list/9682365-nathan?shelf=personal-finance)
 
 [Oxygen](https://oxygenbank.com/) - "We’re Oxygen: the fresh new bank account for free thinkers, rebels and entrepreneurs. Awarded Best Digital Banking Account\* in the US, we look after people who want to rise above. Yes, we’re looking at you."
 
-## Analysis Tools
-
-
+[Simple](https://www.simple.com/) - "Bank, budget and earn 25x the national average."
 
 ## Budgeting
 
@@ -41,8 +37,6 @@ Gusto
 [Top 10 reasons for having an emergency fund – debunked \(Part 1\)](https://earlyretirementnow.com/2016/09/07/debunking-emergency-funds-part1/) \#article - "In a past blog post, we pointed out that a [$0.00 emergency fund is most useful for us](http://earlyretirementnow.com/2016/05/05/emergency-fund/). Lots of visitor traffic came from both [Physician of FIRE](http://www.physicianonfire.com/sunday-best-5152016/) and [Rockstar Finance](http://rockstarfinance.com/) \(thanks for featuring us!!!\) and most comments were very supportive. Good to know that others follow a similar approach. To make the case more complete we should also look at some of the standard arguments people normally use _in favor_ of keeping a large stash of cash for emergencies."
 
 ## Frugality
-
-[Buying Foods Based on Cost Per Calorie \| The Simple Dollar](https://www.thesimpledollar.com/save-money/buying-foods-based-on-cost-per-calorie/#:~:text=You%20might%20also%20notice%20that%20eggs%20are%20cheap%2C,makes%20for%20a%20reasonable%20occasional%20breakfast%20food%2C%20too.) \#article - "Recently, I came across [this infographic](http://i.imgur.com/wV3DiTX.png) that listed a bunch of different foods, separated by category \(fruit; vegetables; fats, nuts, and seeds; fish, poultry, and eggs; whole grains; beans and tofu; red meat; and dairy\) and sorted within those categories by the cost per cup or cost per 100 calories, depending on the item. \(The truly low-calorie items, which were the vegetables and fruits, were listed by cost per cup, while the other more calorie-dense items were listed by cost per calorie.\)"
 
 [Insulation: first the body, then the home](https://www.lowtechmagazine.com/2011/02/body-insulation-thermal-underwear.html) \#article - "You could fill a library with reports and books describing the importance of energy-efficient heating systems and home insulation. However, not a word has been said or written about the energy savings potential of clothing, even though there has been a lot of progress in this area too. Modern thermal underclothing offers the possibility to turn the thermostat much lower without sacrificing comfort or sex appeal. The potential energy savings are huge; the costs are almost nil."
 

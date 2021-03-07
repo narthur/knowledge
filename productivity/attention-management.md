@@ -34,13 +34,17 @@
 
 [ScreenFocus](https://www.apptorium.com/screenfocus) \#software - "Working with multiple monitors made right."
 
-[SelfControl](https://selfcontrolapp.com/) \#software - "A free Mac application to help you avoid distracting websites."
-
 [Why it's so Hard to Focus](https://www.youtube.com/watch?v=XT46R7Ii4zY) \#video - "In this video, I go over why focusing is hard."
 
 [Workspace](https://workspaceproapp.com/) \#software - "Launch/close a bunch of macOS apps just in 1 click!"
 
 [Workspaces](https://www.apptorium.com/workspaces) \#software - "Meet your personal project assistant!"
+
+## Blocking Distractions
+
+[BlockSite](https://chrome.google.com/webstore/detail/blocksite-stay-focused-co/eiimnmioipafcokbfikbljfdeojpcgbh) \#extension - "Stay focused and improve productivity. Easily block any distracting or harmful website. Stop procrastination once and for all!"
+
+[SelfControl](https://selfcontrolapp.com/) \#software - "A free Mac application to help you avoid distracting websites."
 
 ## Deep Work
 
