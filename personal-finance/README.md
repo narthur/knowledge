@@ -18,11 +18,19 @@ Gusto
 
 ## Analysis Tools
 
+[Fentury](https://www.fentury.com/) - "Your Personal Finance Advisor. Manage all your accounts from a single place and receive pro-active advice on areas that can be improved."
 
+Mint
+
+Personal Capital
+
+[PocketSmith](https://www.pocketsmith.com/) - "PocketSmith is personal finance software with cash flow forecasts. Understand your money and its potential. Start saving today."
 
 ## Budgeting
 
 [Getting Started \#1 – What am I Supposed to Do With All This Money?](https://www.mrmoneymustache.com/2011/04/10/post-4-what-am-i-supposed-to-do-with-all-this-money/) \#article - "Your goal every two weeks or so will be to count up all this extra cash, figure how much you need for upcoming bills, and sweep the rest to somewhere useful. Somewhere that either pays you interest, or saves you money by reducing the interest that _you_ pay."
+
+[GoodBudget](https://goodbudget.com/) - "Goodbudget is a budget tracker for the modern age. Say no more to carrying paper envelopes. This virtual budget program keeps you on track with family and friends with the time-tested envelope budgeting method." [NerdWallet review](https://www.nerdwallet.com/article/finance/goodbudget-app-review).
 
 [MoneyLover](https://moneylover.me/) - "Simplest way to manage personal finances. Because money matters."
 
