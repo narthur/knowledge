@@ -87,6 +87,7 @@
 * [Log Into Life: Top 9 Tips To Fight Computer Fatigue & Protect Your Health](http://www.makeuseof.com/tag/log-into-life-top-9-tips-to-fight-computer-fatigue-protect-your-health/)
 * [Ten Ways to Defeat Brain Drain](http://lifehacker.com/318644/ten-ways-to-defeat-brain-drain)
 * [https://coderanch.com/t/544399/Fatigue-boredom-programming](https://coderanch.com/t/544399/Fatigue-boredom-programming)
+* [Average daily coding time of a developer - DEV Community](https://dev.to/sudiukil/average-daily-coding-time-of-a-developer-3f66)
 
 ## **Music, Ambiance, White Noise**
 
