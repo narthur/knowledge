@@ -1,5 +1,7 @@
 # Investing
 
+[7 best ways to invest while you’re in college](https://www.bankrate.com/investing/best-ways-to-invest-for-college-students/) \#article - "But surprisingly, college is actually one of the best opportunities to [get started in the world of investing](https://www.bankrate.com/investing/how-to-start-investing/). Even those with only a little bit of cash can begin to build a portfolio, and it can actually be an advantage because you’ll be learning how to invest – and dealing with some inevitable losses – without the risk of losing a large sum of money."
+
 Betterment
 
 [Calculate time to reach investment goals given starting balance?](https://money.stackexchange.com/questions/70313/calculate-time-to-reach-investment-goals-given-starting-balance) \#article - "Given payment size, interest rate per period, inflation rate per period, existing investment balance, and a target size of investment, how can I calculate the number of payment periods still required to reach that size of investment?"
