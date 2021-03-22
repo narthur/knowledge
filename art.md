@@ -14,6 +14,8 @@
 
 {% embed url="https://www.youtube.com/watch?v=lFb7BOI\_QFc" %}
 
+[The music theory of V A P O R W A V E](https://www.youtube.com/watch?v=QdVEez20X_s) \#video
+
 [The Utah Monolith, What It Means, Why It Matters, and Whether It's Aliens](https://www.youtube.com/watch?v=dG9A6_ijSIM) \#video - "In which John discusses a metal obelisk that stood for years unnoticed in the Utah desert before being discovered by some wildlife biologists, whereupon the monolith quickly disappeared. Also discussed: contemporary art in deserts, Gertrude Stein's essay What Are Masterpieces and Why Are There So Few of Them, and John's ongoing obsession with that one line from The Great Gatsby."
 
 ## Sources
