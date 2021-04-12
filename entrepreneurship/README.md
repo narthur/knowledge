@@ -50,8 +50,6 @@
 
 [The Other Side of Burnout](https://www.youtube.com/watch?v=zHMfmcIWXT8) \#video
 
-[Proximity Placements](https://proximityplacements.com/) - Virtual assistants. "Leading with Business Owners and Consultants in Hiring the Best People to Grow their Business with."
-
 [Ramen Profitable](http://www.paulgraham.com/ramenprofitable.html) \#article - "Ramen profitable means a startup makes just enough to pay the founders' living expenses. This is a different form of profitability than startups have traditionally aimed for. Traditional profitability means a big bet is finally paying off, whereas the main importance of ramen profitability is that it buys you time."
 
 [Stripe Atlas](https://stripe.com/atlas) - "The best way to start an internet business. Starting a company can be needlessly complicated—lengthy paperwork, bank visits, legal complexity, numerous fees, and non-obvious decisions about what services to use. We built Stripe Atlas to make this easy: a tool to handle everything involved in establishing an internet business. It’s available to entrepreneurs everywhere."
@@ -88,6 +86,14 @@
 
 [Mercury](https://mercury.co) - "Banking built for startups. Mercury makes bank accounts that help tech companies scale.
 
+[Wave](https://www.waveapps.com/) - "Award-winning financial software designed for entrepreneurs." [Google Sheets add-on](https://support.waveapps.com/hc/en-us/articles/360020768272-Wave-Connect-Easily-import-and-export-data-with-Wave-s-Google-Sheets-add-on-).
+
+## Hiring
+
+[Don’t hire top talent; hire for weaknesses.](https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/) \#article - "_Why_ are you hiring? Are you hiring to _do_ more, or are you hiring to _achieve_ more?"
+
+[Proximity Placements](https://proximityplacements.com/) - Virtual assistants. "Leading with Business Owners and Consultants in Hiring the Best People to Grow their Business with."
+
 ## Management
 
 [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart's_law) \#article - "**Goodhart's law** is an [adage](https://en.wikipedia.org/wiki/Adage) named after economist [Charles Goodhart](https://en.wikipedia.org/wiki/Charles_Goodhart), which has been phrased by [Marilyn Strathern](https://en.wikipedia.org/wiki/Marilyn_Strathern) as "When a measure becomes a target, it ceases to be a good measure."[\[1\]](https://en.wikipedia.org/wiki/Goodhart's_law#cite_note-1) One way in which this can occur is individuals trying to anticipate the effect of a [policy](https://en.wikipedia.org/wiki/Policy) and then taking actions that alter its outcome.[\[2\]](https://en.wikipedia.org/wiki/Goodhart's_law#cite_note-2)"
@@ -101,6 +107,16 @@
 [What does it mean to be an Open Startup?](https://hackernoon.com/what-does-it-mean-to-be-an-open-startup-f4446984189) \#article - "The Open Startup trend is a transparency and openness movement seemingly initiated by [Buffer](https://buffer.com/transparency), quickly adopted by [Ghost](https://ghost.org/open/), capitalised by [Baremetrics](https://demo.baremetrics.com/), and recently popularised in the Indie Maker community by [Pieter Levels](http://open-startup.com/)."
 
 [What’s exciting about the Open Startup movement?](https://blog.productdisrupt.com/whats-exciting-about-the-open-startup-movement-729aaa11b107) \#article - "To put it simply, any startup is an open startup that shares its statistics, revenue and growth stories out in the public."
+
+## Software as a Service
+
+[Evaluating Modest SaaS Business Ideas](https://greaterdanorequalto.com/evaluating-modest-saas-business-ideas/) \#article - "I'm evaluating new SaaS business ideas, and I wanted to share a little bit about exactly how I'm evaluating them."
+
+[The Modest Product Podcast](https://modprodpod.com/) - "Join hosts Dan Hulton and Steven Abadie on their journey to create Modest Products and improve their lives. What is a Modest Product? Well, it's something like an anti-unicorn... You know what? Why not just tune in and find out!"
+
+[Nodewood](https://nodewood.com/) - "Build your next SaaS web app faster. Save weeks or months of development time when you build with Nodewood - a JavaScript SaaS Starter Kit that provides an application scaffold, user authentication, subscription management, and more!"
+
+[What should I build?](https://docs.google.com/document/d/1MhhmXOJiEdR11fN910h-WZ7B88Py1YIa6iONkn3mb0w/edit#) \#article - Google doc.
 
 ## Sources
 

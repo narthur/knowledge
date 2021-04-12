@@ -18,6 +18,7 @@
 * [Design](design/README.md)
   * [Color](design/color.md)
   * [Design Process](design/design-process.md)
+  * [Stock](design/stock.md)
   * [Web Design](design/web-design.md)
 * [Economics](economics.md)
 * [Engineering](engineering.md)
