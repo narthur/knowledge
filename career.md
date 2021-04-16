@@ -41,6 +41,8 @@
 
 [Great developers are raised, not hired](https://sizovs.net/2019/04/10/the-best-developers-are-raised-not-hired/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) \#article - "By building mentoring capacity at work, you can hire newcomers, broken toys, impostors and turn them into the loyal, high-quality workforce. Shifting focus from assessing to mentoring can simplify your interviewing process. Instead of trying to predict future performance by asking tough questions and sending candidate through nine circles of hell, you can hire candidates with a growth mindset and grow them."
 
+[The Importance of Career Laddering](https://css-tricks.com/the-importance-of-career-laddering/) \#article - "Career laddering is typically a system used to show what expectations are at different levels of a role, a purpose of which is defining how one might be promoted. This can have different forms, but tends to be an internal document that states the expectations of a staff member at any given stage of their career."
+
 [Jack Butcher on Twitter: "Publishing your ideas as you have them is dollar cost averaging for your reputation." / Twitter](https://twitter.com/jackbutcher/status/1329852224479113218) \#tweet - \#thread
 
 [Lab Notes: My Closed-Loop Research System - Study Hacks - Cal Newport](https://www.calnewport.com/blog/2011/06/23/lab-notes-my-closed-loop-research-system/) \#article - "The best way to understand my research system is as a three-level pyramid \(illustrated at the top of this post\)." His iterative method of gathering, processing, and applying research in bite-sized experiments designed to get feedback.
