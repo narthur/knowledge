@@ -1,10 +1,14 @@
 # Refactoring
 
+![https://www.basson.at/images/blog/dilbert-rewrite.gif](https://www.basson.at/images/blog/dilbert-rewrite.gif)
+
 [Approval Tests](https://app.gitbook.com/@narthur/s/knowledge/programming/testing) - Internal link. See subheading.
 
 [davelosert](https://github.com/davelosert)/[clean-code-kata](https://github.com/davelosert/clean-code-kata) - "A little Kata to practice clean code"
 
 [emilybache](https://github.com/emilybache)/[GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) - "Starting code for the GildedRose Refactoring Kata in many programming languages."
+
+[How to Read Confusing Code](https://dev.tube/video/twBI5RYHcWY) \#video
 
 [Legacy Code Rocks](https://www.legacycode.rocks/) - "Menders love fixing bugs, refactoring, and testing to make software applications more stable, scalable and secure."
 
@@ -17,6 +21,8 @@ Read by Refactoring [part 1](https://bambielli.com/posts/2016-08-21-read-by-refa
 [Refactoring Guru](https://refactoring.guru/) - "**Refactoring.Guru** makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles and other smart programming topics."
 
 [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/book/show/44936.Refactoring) \#book
+
+[REWRITE! \| David Heinemeier-Hansson, Basecamp \| BoS USA 2015](https://businessofsoftware.org/2015/10/david-heinemeier-hansson-rewrite-basecamp-business-of-software-conference-video-dhh-bos2015/) \#video - "In this talk, ‘**Rewrite!**‘ at [**Business of Software Conference USA 2015**](https://businessofsoftware.org/updates/), David Heinemeier Hansson, Co-Founder, Basecamp, and Creator of Ruby on Rails explains why he disagrees and discusses his experience in rewriting the code for Basecamp, not once, but twice, with the third version of Basecamp launched this month."
 
 [Sourcegraph](https://about.sourcegraph.com/) - "Explore, navigate, and better understand all code, everywhere, faster. **Sourcegraph Universal Code Search** provides [code discovery](https://about.sourcegraph.com/product/code-discovery), [code intelligence](https://about.sourcegraph.com/product/code-intelligence), and [code change management](https://about.sourcegraph.com/product/code-change-management)."
 
