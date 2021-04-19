@@ -8,7 +8,7 @@
 
 [emilybache](https://github.com/emilybache)/[GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) - "Starting code for the GildedRose Refactoring Kata in many programming languages."
 
-[How to Read Confusing Code](https://dev.tube/video/twBI5RYHcWY) \#video
+[How to Read Confusing Code](https://dev.tube/video/twBI5RYHcWY) \#video - Most practical stuff starts 30 minutes in.
 
 [Legacy Code Rocks](https://www.legacycode.rocks/) - "Menders love fixing bugs, refactoring, and testing to make software applications more stable, scalable and secure."
 
