@@ -115,6 +115,8 @@ Build in public
 
 [CodeWars](https://www.codewars.com/) - "Improve your skills by training with others on real code challenges"
 
+[How to Read Confusing Code](https://dev.tube/video/twBI5RYHcWY) \#video - Most practical stuff starts 30 minutes in. She talks about different exercises for practicing how to read and understand confusing code. These practices could be done in a deep manner.
+
 [Kata \(programming\)](https://en.wikipedia.org/wiki/Kata_%28programming%29) \#article - Wikipedia.
 
 Project Euler
