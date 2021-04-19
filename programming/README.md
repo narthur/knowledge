@@ -183,6 +183,8 @@ Write a blog
 
 [DevTube](https://dev.tube/)
 
+[Felienne](https://www.felienne.com/) - "Hi there! I am Felienne. I am associate professor at the [Leiden Institute of Advanced Computer Science](http://liacs.leidenuniv.nl/) at [Leiden University](https://www.universiteitleiden.nl/en), where head the[ PERL group](http://perl.liacs.nl/) that researches programming education. I am fascinated by the question how we can teach all people to program. In my PhD [dissertation](http://www.felienne.com/?p=2534) I studied how we can help people working with spreadsheets better, by repurposing methods from software engineering." Author of [_The Programmer's Brain_](https://www.felienne.com/book)_._
+
 [if/else](https://ifelsepodcast.com/) \#podcast - "A career in technology is full of choices. We’re here to help you make smart ones. In each episode, we meet a software developer who needs to make an if/else choice. From important technical decisions to sticky career challenges, we cover the hard and soft skills you need for a sustainable and rewarding career in tech… at any stage of your career. Hosted by Mayuko Inoue, if/else is an original podcast from CTO.ai, the makers of The Ops Platform."
 
 [GitNews](https://git.news/) - "Trending repositories from GitHub, HackerNews & Reddit"
@@ -194,6 +196,8 @@ Write a blog
 Robert Martin \#article - [Blog](http://blog.cleancoder.com/). "**Robert Cecil Martin**, colloquially known as "Uncle Bob",[\[2\]](https://en.wikipedia.org/wiki/Robert_C._Martin#cite_note-rcm-informit-2) is an American [software engineer](https://en.wikipedia.org/wiki/Software_engineer) and instructor. He is best known for being one of the authors of the [Agile Manifesto](https://en.wikipedia.org/wiki/Agile_Manifesto)[\[3\]](https://en.wikipedia.org/wiki/Robert_C._Martin#cite_note-rcm-laplante-3)[\[4\]](https://en.wikipedia.org/wiki/Robert_C._Martin#cite_note-rcm-manifesto-4) and for developing several software design principles. He was also the editor-in-chief of [C++ Report](https://en.wikipedia.org/wiki/C%2B%2B_Report) magazine and served as the first chairman of the Agile Alliance" \([Wikipedia](https://en.wikipedia.org/wiki/Robert_C._Martin)\).
 
 [Software Engineering Daily](https://softwareengineeringdaily.com/) \#podcast - "The World Through the Lens of Software"
+
+[Software Engineering Radio](https://www.se-radio.net/) \#podcast - "Software Engineering Radio is a podcast targeted at the professional software developer. The goal is to be a lasting educational resource, not a newscast. Three to four times per month, we publish a new episode talking to experts from the software engineering world about the full range of topics that matter to professional developers."
 
 [Syntax](https://syntax.fm/) \#podcast - "A Tasty Treats Podcast for Web Developers."
 
