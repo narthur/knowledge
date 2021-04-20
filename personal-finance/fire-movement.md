@@ -8,6 +8,8 @@
 
 [Can You Really Retire in Your 30s?](https://www.youtube.com/watch?v=8si7cqw9wm0&feature=youtu.be) \#video
 
+[cFIREsim](https://www.cfiresim.com/) \#webapp - "cFIREsim stands for **C**rowdsourced **F**inancial **I**ndependence and **R**etire **E**arly **Sim**ulator."
+
 [ChooseFI - Eastern Tennessee](https://www.facebook.com/groups/ChooseFIEasternTennessee/) - "ChooseFI East Tennessee is a group that serves the audience of the ChooseFI Radio Podcast as well as the greater FI \(Financial Independence\) community in East Tennessee \(including Blount County, Knox County, Sevier County, Loudon County and surrounding counties\). Some members will be just beginning their journey down the path to FI and some may be further along. The goal is to share the journey."
 
 [ChooseFI Local Groups](https://www.choosefi.com/local-groups/) - "The [local groups portal](https://apps.choosefi.com/local-groups/) has a list of all [geographic group listings](https://apps.choosefi.com/local-groups/) as well as the [interest & employment cohort groups](https://apps.choosefi.com/local-groups/cohorts/)."
