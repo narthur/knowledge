@@ -10,6 +10,8 @@
 
 [mre](https://github.com/mre)/[awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - "Static analysis tools for all programming languages, build tools, config files and more."
 
+[The Science of Unit Testing](https://dev.tube/video/xWchfTWh2Ts) \#video
+
 [unicornity](https://github.com/unicornity)/[katas](https://github.com/unicornity/katas) - "Read short guide: [Learning Test Driven Development with TDD Katas](http://goo.gl/5NYpVI)"
 
 [Unit testing with timeouts](https://stackoverflow.com/questions/2975794/unit-testing-with-timeouts) \#article - “I am unit testing a class with a property whose value changes often, depending on communication it receives from another component. If the class does not receive any communication for 5 seconds, the property reverts to a default value. … How would you test to be sure that this property has the proper value when simulating various communication conditions?” \#q&a
