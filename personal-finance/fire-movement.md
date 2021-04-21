@@ -16,6 +16,8 @@
 
 [Family Man Retires at 39 – Extreme Early Retirement \| FIRE](https://www.youtube.com/watch?v=8yNsKxbq0Ak&feature=youtu.be) \#video - "Tim Stobbs is married with two children, and he retired from his career at 39 years old.  How did he do it?!  In this video we ask him about the lifestyle changes he and his family made in order to reduce their spending, increase their savings, and invest enough money so they could afford to quit their jobs and live off the interest from their investments."
 
+[Mad Fientist's FI Laboratory](https://lab.madfientist.com/) \#webapp - FI Tracker, Calculators, Travel Hacking
+
 [OnTrajectory](https://www.ontrajectory.com/) - "Chart your course to financial independence. Test your assumptions with OnTrajectory’s advanced financial planning software. Try it free for 14 days"
 
 [Playing with Fire](https://www.playingwithfire.co/) \#documentary
