@@ -8,8 +8,6 @@
 
 [Can You Really Retire in Your 30s?](https://www.youtube.com/watch?v=8si7cqw9wm0&feature=youtu.be) \#video
 
-[cFIREsim](https://www.cfiresim.com/) \#webapp - "cFIREsim stands for **C**rowdsourced **F**inancial **I**ndependence and **R**etire **E**arly **Sim**ulator."
-
 [ChooseFI - Eastern Tennessee](https://www.facebook.com/groups/ChooseFIEasternTennessee/) - "ChooseFI East Tennessee is a group that serves the audience of the ChooseFI Radio Podcast as well as the greater FI \(Financial Independence\) community in East Tennessee \(including Blount County, Knox County, Sevier County, Loudon County and surrounding counties\). Some members will be just beginning their journey down the path to FI and some may be further along. The goal is to share the journey."
 
 [ChooseFI Local Groups](https://www.choosefi.com/local-groups/) - "The [local groups portal](https://apps.choosefi.com/local-groups/) has a list of all [geographic group listings](https://apps.choosefi.com/local-groups/) as well as the [interest & employment cohort groups](https://apps.choosefi.com/local-groups/cohorts/)."
@@ -27,6 +25,12 @@
 [Why you should think about financial independence and mini-retirements \| Lacey Filipich \| TEDxUWA](https://www.youtube.com/watch?v=XSHNDyinZSQ&feature=youtu.be) \#video - "'Time poor' is the catch-cry of our era, and yet end-of-life retirement means we have an average of two decades of feeling time rich to look forward to… when we’re old. In this talk, Lacey shares how combining financial independence and mini-retirements is one way to bring that time rich feeling into our youth.  Lacey Filipich started her entrepreneurial journey with a hair wrap stall at 10 years old. Today, she is the co-founder and director of two successful businesses; Money School and Maker Kids Club."
 
 [You want to know our savings rate? Which one?](https://earlyretirementnow.com/2017/04/05/savings-rate/) \#article - "Last week, I read a [nice post on Chief Mom Officer](https://chiefmomofficer.org/2017/03/27/why-your-savings-rate-is-meaningless/) on the challenges of calculating savings rates. Right around that time I was also revisiting our 2017 budget and the projections of how much we are going to save this year. This is the last full calendar year before our planned retirement in early 2018 and it’s imperative that we stay on track and keep a high savings rate on the home stretch. But how high is our savings rate? Is there even a generally accepted way of calculating a savings rate? What are some of the pitfalls? We were surprised about how easy it is to mess up a calculation as seemingly trivial as the savings rate."
+
+## Investing for FIRE
+
+[cFIREsim](https://www.cfiresim.com/) \#webapp - "cFIREsim stands for **C**rowdsourced **F**inancial **I**ndependence and **R**etire **E**arly **Sim**ulator."
+
+[Traditional IRA vs. Roth IRA - The Best Choice for Early Retirement](https://www.madfientist.com/traditional-ira-vs-roth-ira/) \#article - "Traditional IRA or Roth IRA – Which one should you contribute to?"
 
 ## Sources
 
