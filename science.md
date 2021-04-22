@@ -22,3 +22,7 @@
 
 [Zooniverse](https://www.zooniverse.org/) - "People-powered research"
 
+![https://xkcd.com/701/](.gitbook/assets/image%20%281%29.png)
+
+> "You don't use science to show that you're right, you use science to become right" \(Randall Munroe, xkcd \#701 alt text\).
+

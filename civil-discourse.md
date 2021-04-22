@@ -130,7 +130,7 @@ Part way through WWDC 1997, [Steve Jobs handles an incredibly emotionally-charge
 
 [The Psychology of Trolling](https://www.youtube.com/watch?v=5gqHTlBp6iY) \#video - "As denizens of the internet, most of us are familiar with the trolls. In this episode of SciShow, learn a little about how social scientists think trolls came to be, and how online communities are figuring it all out."
 
-![https://www.savagechickens.com/2021/04/the-hermit.html](.gitbook/assets/image%20%281%29.png)
+![https://www.savagechickens.com/2021/04/the-hermit.html](.gitbook/assets/image%20%282%29.png)
 
 
 
