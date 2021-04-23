@@ -36,6 +36,8 @@ Think Bayes: Bayesian Statistics in Python \#book
 
 “Show a man a program and frustrate him for a day. Teach a man to program and you frustrate him for a lifetime” \(via [phi's forum profile](https://forum.beeminder.com/u/phi/summary)\).
 
+[SREcon20 Americas - 9 Years of Failure: How Racing Crappy Cars Made Me a Better SRE](https://dev.tube/video/OuWPyPP16ow) \#video - Great advice on running an effective site reliability team and software teams in general.
+
 [WakaTime ](https://wakatime.com/)- "The developer dashboard. Open source editor plugins for metrics about your programming."
 
 [Why My Teenage Code Was Terrible: Sorting Algorithms and Big O Notation](https://invidio.us/watch?v=RGuJga2Gl_k) \#video - "When I was a teenager, I wrote some terrible code. Here's why." \#algorithms
