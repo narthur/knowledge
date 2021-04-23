@@ -187,9 +187,11 @@ Write a blog
 
 [Felienne](https://www.felienne.com/) - "Hi there! I am Felienne. I am associate professor at the [Leiden Institute of Advanced Computer Science](http://liacs.leidenuniv.nl/) at [Leiden University](https://www.universiteitleiden.nl/en), where head the[ PERL group](http://perl.liacs.nl/) that researches programming education. I am fascinated by the question how we can teach all people to program. In my PhD [dissertation](http://www.felienne.com/?p=2534) I studied how we can help people working with spreadsheets better, by repurposing methods from software engineering." Author of [_The Programmer's Brain_](https://www.felienne.com/book)_._
 
+[GitNews](https://git.news/) - "Trending repositories from GitHub, HackerNews & Reddit"
+
 [if/else](https://ifelsepodcast.com/) \#podcast - "A career in technology is full of choices. We’re here to help you make smart ones. In each episode, we meet a software developer who needs to make an if/else choice. From important technical decisions to sticky career challenges, we cover the hard and soft skills you need for a sustainable and rewarding career in tech… at any stage of your career. Hosted by Mayuko Inoue, if/else is an original podcast from CTO.ai, the makers of The Ops Platform."
 
-[GitNews](https://git.news/) - "Trending repositories from GitHub, HackerNews & Reddit"
+[Increment](https://increment.com/) - "_Increment_ is a print and digital magazine about how teams build and operate software systems at scale. [Learn more](https://increment.com/about/)"
 
 [Martin Fowler](https://martinfowler.com/) - "Software development is a young profession, and we are still learning the techniques and building the tools to do it effectively. I've been involved in this activity for over three decades and in the last two I've been writing on this website about patterns and practices that make it easier to build useful software. The site began as a place to put my own writing, but I also use it to publish articles by my colleagues."
 

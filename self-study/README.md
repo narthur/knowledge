@@ -11,6 +11,26 @@
 * Have a public place where you publish regular updates on your progress. \(Beemind this, too!\)
 * Take and publish notes.
 
+### Incremental Reading
+
+[Incremental reading - Wikipedia](https://en.wikipedia.org/wiki/Incremental_reading)
+
+[Incremental reading - supermemo.guru](https://supermemo.guru/wiki/Incremental_reading)
+
+[A Guide to Incremental Reading for Students and Continuous Learners \| Polar](https://getpolarized.io/2020/07/09/Guide-To-Incremental-Reading-For-Students-And-Continuous-Learners.html)
+
+[Documentation \| Documentation](https://getpolarized.io/docs/incremental-reading.html)
+
+[POLAR - Read. Learn. Never Forget. \| POLAR - Read. Learn. Never Forget.](https://getpolarized.io/)
+
+[Incremental reading - SuperMemo Help](https://www.help.supermemo.org/wiki/Incremental_reading#:~:text=Incremental%20reading%3A%20Summary%201%20If%20you%20are%20serious,reading%20should%20be%20intermingled.%20...%20More%20items...%20)
+
+[SuperMemo’s Incremental Reading: Explained – Master How To Learn](https://masterhowtolearn.wordpress.com/2019/08/06/supermemos-incremental-reading-explained/)
+
+[Read, Learn, Remember](https://dendro.cloud/)
+
+[SuperMemo® - learn languages effectively \| SuperMemo.com](https://www.supermemo.com/en)
+
 ## Ranking Criteria
 
 Rank potential topics based on criteria
