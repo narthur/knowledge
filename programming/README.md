@@ -105,6 +105,8 @@ CircleCI orbs A fast, out-of-the-box solution for integrating with AWS Lambda, G
 
 [Continuous Integration - What's the point? - Continuous Integration P1 - Fun Fun Function](https://www.youtube.com/watch?v=ymPOI4gWQFY) \#video - "Continuous Integration is when a software development team has a habit of doing _multiple merges per day_ and have an _automated verification system_ that checks those merges for problems. Our team does this in order to waste less time hunting down problems in _monster merges_."
 
+[Semgrep](https://semgrep.dev/) - "Static analysis at ludicrous speed. Find bugs and enforce code standards"
+
 ## Deep Work / Deliberate Practice
 
 [Bountysource](https://www.bountysource.com/) - "Support for Open Source Software. A community with 75,087 members hunting for bounties and earning rewards"
