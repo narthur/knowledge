@@ -2,8 +2,6 @@
 
 [Admonymous](https://www.admonymous.co/) - "Leave anonymous admonition and admiration for your friends and coworkers."
 
-[Babble](https://www.lesswrong.com/posts/i42Dfoh4HtsCAfXxL/babble) \#article - "Here's a simplistic model of how this works. I try to build a coherent sentence. At each step, to pick the next word, I randomly generate words in the category \(correct part of speech, relevance\) and sound them out one by one to see which continues the sentence most coherently."
-
 [Loom](https://www.loom.com/) - "Say it with video. Loom is the most effective way to get your message across, no matter where you work."
 
 [Miro](https://miro.com/) \#webapp - "The online collaborative whiteboard platform to bring teams together, anytime, anywhere."

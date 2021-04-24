@@ -1,7 +1,5 @@
 # Creativity
 
-[Babble](https://www.lesswrong.com/posts/i42Dfoh4HtsCAfXxL/babble) \#article - "How do human beings produce knowledge? When we describe rational thought processes, we tend to think of them as essentially deterministic, deliberate, and algorithmic. After some self-examination, however, I've come to think that my process is closer to babbling many random strings and later filtering by a heuristic. I think verbally, and my process for generating knowledge is virtually indistinguishable from my process for generating speech, and also quite similar to my process for generating writing."
-
 [Copying](https://matthewstrom.com/writing/copying/?ref=sidebar) \#book - by [Matthew Ström](https://matthewstrom.com/). "\(is the way design works.\) This is a very short book about copying. Its contents, unless otherwise noted, are licensed under [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) \(more on that in a bit\). You can download, copy, remix, excerpt, change, and repost it however you see fit."
 
 [Descript](https://www.descript.com/) - "Descript is a collaborative audio/video editor that works like a doc. It includes transcription, a screen recorder, publishing, full multitrack editing, and some mind-bendingly useful AI tools." [Promo](https://www.youtube.com/watch?v=Bl9wqNe5J8U&feature=emb_logo&utm_content=143586584&utm_medium=social&utm_source=twitter&hss_channel=tw-14260608).
