@@ -19,6 +19,8 @@
 
 [Fluid](https://fluidapp.com/) \#software - $5. "Fluid lets you create a Real Mac App \(or "Fluid App"\) out of any website or web application, effectively turning your favorite web apps into OS X desktop apps."
 
+[Hours](https://cutebouncingbunnies.wordpress.com/2020/03/30/hours/) \#article - 1. Find a casual friend. 2. Every hour tell each other what you're going to work on. 3. At the end of each hour tell each other how it did. 4. Be supportive and encouraging. 5. Keep going until someone wants to stop.
+
 [How Minimalism Can Make You More Productive](https://www.youtube.com/watch?v=CttGNGjwp6A&feature=youtu.be) \#video - "One of the biggest benefits I’ve received from living a life with less, has been that I’ve been able to create more. In this video I break down five ways that I've applied minimalism to my work life."
 
 [How to Get Motivated: A Guide for Defeating Procrastination](https://alexvermeer.com/getmotivated/) \#article - "I created a flowchart, to be printed in colour and posted somewhere visible, to help me _actually use_ the anti-procrastination advice I so desperately need!"
