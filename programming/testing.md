@@ -16,6 +16,8 @@
 
 [Unit testing with timeouts](https://stackoverflow.com/questions/2975794/unit-testing-with-timeouts) \#article - “I am unit testing a class with a property whose value changes often, depending on communication it receives from another component. If the class does not receive any communication for 5 seconds, the property reverts to a default value. … How would you test to be sure that this property has the proper value when simulating various communication conditions?” \#q&a
 
+[What is Cucumber?](https://cucumber.io/docs/guides/overview/) \#article - "Cucumber reads executable specifications written in plain text and validates that the software does what those specifications say."
+
 ## **Approval Tests**
 
 [Approval Testing: Agile Testing that Scales](http://www.methodsandtools.com/archive/approvaltest.php) ****\#article - "Tests are a form of the [specification of the software](https://en.wikipedia.org/wiki/Specification_by_example). That is why, in an agile world where software never "stabilizes", tests can quickly move from being a pillar of quality to a burden and hindrance to change. Approval Testing mitigates this risk by removing the need for explicit assertions and instead managing changes to the system behaviour. Read this article to find out how it can help you 1\) create automated tests more quickly ;2\) have them test more thoroughly and 3\) have them adapt much more easily than you ever thought was possible, also when a large amount of functionality is under test."

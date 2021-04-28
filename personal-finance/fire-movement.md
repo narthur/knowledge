@@ -62,6 +62,8 @@
 
 [Mad Fientist](https://www.madfientist.com/) \#blog - "The Science of Financial Independence"
 
+[Mad Money Monster](https://madmoneymonster.com/) \#blog - "I'm Lisa Harrison - also known as Mrs. Mad Money Monster. My husband’s name is, you guessed it, Mr. Mad Money Monster. Creative, I know. We also have one Mini Monster \(for now :\)\) as well as Mad Money Cats and Mad Money Pups. Our goal is probably similar to yours - to live a rich life without spending all of our hard earned cash. Ultimately, we’re creating passive income through index fund investing and rental properties."
+
 [Mr. Money Mustache](https://www.mrmoneymustache.com/) \#blog - "Mr Money Mustache is a thirtysomething\* retiree who now writes about how we can all live a frugal yet Badass life of leisure."
 
 [Physician on FIRE](https://www.physicianonfire.com/) \#blog - "[Physician on FIRE](https://www.physicianonfire.com/) is a personal finance website created to inform and inspire both physicians and our patients with insightful writing from a physician who has attained financial independence and the ability to retire early. The site has a triple aim to leave visitors enlightened, educated, and entertained."
