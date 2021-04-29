@@ -6,7 +6,7 @@
 
 [Formik](https://formik.org/) - "Build forms in React, without the tears. Formik is the world's most popular open source form library for React and React Native."
 
-[Immer](https://immerjs.github.io/immer/docs/introduction) - "Immer \(German for: always\) is a tiny package that allows you to work with immutable state in a more convenient way. It is based on the [_copy-on-write_](https://en.wikipedia.org/wiki/Copy-on-write) mechanism." [Great video intro](https://www.youtube.com/watch?v=8kC5fHlir4E).
+[Immer](https://immerjs.github.io/immer/) - "Immer \(German for: always\) is a tiny package that allows you to work with immutable state in a more convenient way. It is based on the [_copy-on-write_](https://en.wikipedia.org/wiki/Copy-on-write) mechanism." [Great video intro](https://www.youtube.com/watch?v=8kC5fHlir4E).
 
 [Next.js](https://nextjs.org/) - "The React Framework"
 
