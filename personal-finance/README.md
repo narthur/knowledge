@@ -12,6 +12,8 @@ description: >-
 
 Gusto
 
+[Money Simulator](https://simulator.money/play) - educational game for learning about money
+
 [My Personal Finance bookshelf on GoodReads](https://www.goodreads.com/review/list/9682365-nathan?shelf=personal-finance)
 
 [Oxygen](https://oxygenbank.com/) - "We’re Oxygen: the fresh new bank account for free thinkers, rebels and entrepreneurs. Awarded Best Digital Banking Account\* in the US, we look after people who want to rise above. Yes, we’re looking at you."

@@ -55,6 +55,8 @@
 
 [MindMeister](https://www.mindmeister.com/) \#webapp - "Online Mind Mapping"
 
+[swimlanes.io](https://swimlanes.io/) \#webapp - "\*\*swimlanes.io\*\* is a simple online tool for creating \_sequence diagrams\_."
+
 [Whimsical](https://whimsical.com/) \#webapp - "Communicate visually at the speed of thought."
 
 [yEd](https://www.yworks.com/products/yed) \#software - "yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams. Create diagrams manually, or import your external data for analysis. Our automatic layout algorithms arrange even large data sets with just the press of a button."

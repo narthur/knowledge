@@ -16,5 +16,7 @@
 
 [Google Chrome](https://www.google.com/chrome/index.html) \#software - "The browser built by Google"
 
+[Mighty](https://www.mightyapp.com/) - "Make Chrome Faster. Mighty is a new browser that lets you have more tabs while taking 10x less memory. Built for speed, Mighty streams your browser from a powerful computer in the cloud."
+
 [Replay a network request in cURL](https://developers.google.com/web/updates/2015/05/replay-a-network-request-in-curl) \#article - "Resources which show up in the network panel have a context menu which allows you to Copy as cURL, this will go into your clipboard at which point you can paste it into the command line, modify if necessary and then see the response. Request headers are also included."
 
