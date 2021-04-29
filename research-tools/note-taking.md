@@ -4,6 +4,8 @@
 
 [The Brain](https://www.thebrain.com/) - "Intelligent note-taking. Non-linear file management. Ideas and relationships visualized."
 
+[Catch](https://catchnotes.app/) \#software - "Catch is a macOS app that makes recording **ideas, todos and notes** a breeze. During deep work, you need to capture ideas quickly so you don't lose them, without getting distracted from your work."
+
 [Drafts](https://getdrafts.com/) - "Where Text Starts." Mac and iOS.
 
 [Joplin](https://joplinapp.org/) - "**Joplin** is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes are searchable, can be copied, tagged and modified either from the applications directly or from your own text editor. The notes are in [Markdown format](https://joplinapp.org/#markdown)."
