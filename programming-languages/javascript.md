@@ -31,6 +31,8 @@ console.log(found);
 
 [Creating a regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) \#article - "Regular expressions are patterns used to match character combinations in strings. In JavaScript, regular expressions are also objects. These patterns are used with the exec and test methods of RegExp, and with the match, replace, search, and split methods of String. This chapter describes JavaScript regular expressions."
 
+[easy-peasy](https://github.com/ctrlplusb/easy-peasy) - "Easy Peasy is an abstraction of Redux, providing a reimagined API that focuses on **developer experience**. It allows you to **quickly** and **easily** manage your state, whilst leveraging the strong **architectural guarantees** and extensive **eco-system** that Redux has to offer."
+
 [egghead.io](https://egghead.io/) - "Learn the best JavaScript tools and frameworks from industry pros. Video tutorials for badass web developers."
 
 [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) \#playlist - "This is a collection of the videos from FunFunFunction that is specifically about functional programming in JavaScript"
@@ -48,6 +50,10 @@ console.log(found);
 [StateOfJS](https://stateofjs.com/) - Yearly surveys on the JavaScript ecosystem
 
 [The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4&list=PLIilwIraDV2J8hueIWIwvkT3NvfuSChe7&index=3&t=11s) \#video - "The history of JavaScript over the last 25 years. How did a simple scripting language for Netscape evolve into the world's most widely used programming language?"
+
+[Yup](https://github.com/jquense/yup) - "Yup is a JavaScript schema builder for value parsing and validation. Define a schema, transform a value to match, validate the shape of an existing value, or both. Yup schema are extremely expressive and allow modeling complex, interdependent validations, or value transformations."
+
+[zustand](https://github.com/pmndrs/zustand) - "A small, fast and scaleable bearbones state-management solution. Has a comfy api based on hooks, isn't boilerplatey or opinionated, but still just enough to be explicit and flux-like."
 
 ### **Design Patterns**
 

@@ -56,6 +56,8 @@
 
 [Cleave.js](https://nosir.github.io/cleave.js/?utm_source=hackernewsletter&utm_medium=email&utm_term=code) - “Format your &lt;input/&gt; content when you are typing”
 
+Formik - For React.
+
 [Select2](https://select2.org/) - “The jQuery replacement for select boxes. Select2 gives you a customizable select box with support for searching, tagging, remote data sets, infinite scrolling, and many other highly used options.”
 
 ## Identicons
