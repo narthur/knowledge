@@ -30,12 +30,6 @@
 
 [Thankful](https://getthankful.io) - "Support the creators that you love using cryptocurrency"
 
-## Play
-
-[Richard Feynman on choosing only to work on problems that he found interesting regardless of value](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html?repostindays=413) \#article - "Then I had another thought: Physics disgusts me a little bit now, but I used to _enjoy_ doing physics. Why did I enjoy it? I used to _play_ with it. I used to do whatever I felt like doing - it didn't have to do with whether it was important for the development of nuclear physics, but whether it was interesting and amusing for me to play with. When I was in high school, I'd see water running out of a faucet growing narrower, and wonder if I could figure out what determines that curve. I found it was rather easy to do. I didn't _have_ to do it; it wasn't important for the future of science; somebody else had already done it. That didn't make any difference. I'd invent things and play with things for my own entertainment."
-
-[Steve Wazniak on choosing problems to work on because they are novel and fun](https://youtu.be/PhBVRFKVGxU?t=307) \#video - Starts at 5:07.
-
 ## Publishing
 
 [Anchor](https://anchor.fm/) - "Anchor is an all-in-one platform where you can create, distribute, and monetize your podcast from any device, for free."
