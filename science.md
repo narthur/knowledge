@@ -20,8 +20,6 @@
 
 [Quanta Magazine](https://www.quantamagazine.org/) - "Illuminating basic science and math research through public service journalism."
 
-[Rationalism](https://en.wikipedia.org/wiki/Rationalism) \#article - Wikipedia. "In [philosophy](https://en.wikipedia.org/wiki/Philosophy), **rationalism** is the [epistemological](https://en.wikipedia.org/wiki/Epistemology) view that "regards [reason](https://en.wikipedia.org/wiki/Reason) as the chief source and test of knowledge"[\[1\]](https://en.wikipedia.org/wiki/Rationalism#cite_note-Encyclop%C3%A6dia_Britannica:_Rationalism-1) or "any view appealing to reason as a source of knowledge or justification".[\[2\]](https://en.wikipedia.org/wiki/Rationalism#cite_note-Lacey_286-2) More formally, rationalism is defined as a [methodology](https://en.wikipedia.org/wiki/Methodology) or a [theory](https://en.wikipedia.org/wiki/Theory) "in which the criterion of the truth is not sensory but intellectual and [deductive](https://en.wikipedia.org/wiki/Deductive)".[\[3\]](https://en.wikipedia.org/wiki/Rationalism#cite_note-Bourke_263-3)"
-
 [Worldometer](https://www.worldometers.info/) - "Worldometer is run by an international team of developers, researchers, and volunteers with the goal of making world statistics available in a thought-provoking and time relevant format to a wide audience around the world. Worldometer is owned by **Dadax**, an independent company. We have no political, governmental, or corporate affiliation."
 
 [Zooniverse](https://www.zooniverse.org/) - "People-powered research"
