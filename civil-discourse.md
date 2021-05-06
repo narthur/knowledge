@@ -38,6 +38,8 @@
 
 [How much does a video weigh?](https://www.ted.com/talks/how_much_does_a_video_weigh#t-440297) \#video - “What color is a mirror? How much does a video weigh? Michael Stevens, creator of the popular educational YouTube channel Vsauce, spends his day asking quirky questions like these. In this talk he shows how asking the right -- seemingly silly -- questions can make incredibly effective lessons.”
 
+{% embed url="https://www.youtube.com/watch?v=ft7gl4qDl3U" %}
+
 [iDramaLab](https://idrama.science/) - "The iDRAMA Lab is an international group of researchers interested in a variety of modern computing and socio-technical concerns. Collectively, we have published work ranging from genomic privacy, to cryptography and Web security, to distributed systems, and even video games. More recently, we have worked on understanding and mitigating modern socio-technological issues such as online harassment campaigns, hate speech and political radicalization, and understanding the subtle ways in which web communities influence each other."
 
 [I grew up in the Westboro Baptist Church. Here's why I left \| Megan Phelps-Roper](https://www.youtube.com/watch?v=bVV2Zk88beY&list=PLOGi5-fAu8bFBu6hFFeZ1qWJdJUXAOhZG) \#video
