@@ -18,6 +18,8 @@
 
 [Welltory](https://welltory.com/) - "Measure your stress and energy levels with your smartphone"
 
+[Zenni](https://www.zennioptical.com/) - "Ready to revolutionize the way you buy glasses? At Zenni, we believe everyone should have access to high-quality, affordable eyeglasses. With prices starting at $6.95 for single-vision prescription glasses, you don't have to limit yourself to just one pair when you order glasses online. Express all facets of your personality with our low-priced eyeglasses and sunglasses in every style, shape, and color imaginable." ChooseFI says this is the choice of the FIRE community.
+
 [Zwift](https://zwift.com/) - "SERIOUS TRAINING MADE FUN. The at home training app connecting cyclists around the world."
 
 ## Sleep
