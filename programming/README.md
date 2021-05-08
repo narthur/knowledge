@@ -1,5 +1,7 @@
 # Software Development
 
+[7 Habits I've Picked Up From Senior Software Developers](https://www.youtube.com/watch?v=zivngNtLiuY) \#video - "In this video I explain the 7 habits of successful software developers from my interactions and observations with some very skilled developers."
+
 [10x engineers](https://twitter.com/skirani/status/1149302828420067328) \#thread - "Founders if you ever come across this rare breed of engineers, grab them. If you have a 10x engineer as part of your first few engineers, you increase the odds of your startup success significantly." [Article in case thread is taken down](https://www.7pace.com/blog/10x-engineers).
 
 Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference \#book
