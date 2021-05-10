@@ -12,5 +12,3 @@ Have something I should include? [Open a ticket on GitHub](https://github.com/na
 
 [Nikita Voloboev's "Everything I Know" site](https://wiki.nikitavoloboev.xyz/) - This was the original inspiration behind this site.
 
-
-
