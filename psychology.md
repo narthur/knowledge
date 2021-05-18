@@ -12,6 +12,8 @@
 
 [Spend More Time Alone](http://www.calnewport.com/blog/2017/09/24/spend-more-time-alone/) \#article - by Cal Newport. "The right way to define “solitude” is as a subjective state in which you’re isolated from input from other minds. ... Regular doses of solitude are crucial for the effective and resilient functioning of your brain."
 
+![https://www.savagechickens.com/2021/05/i-like-meditation.html](.gitbook/assets/image%20%284%29.png)
+
 ## Growth Mindset
 
 Carol Dweck
