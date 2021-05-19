@@ -12,3 +12,5 @@
 
 [Procrastination Research Group](https://www.procrastination.ca/) - "Over the past 20 years, our exclusive focus has been on researching the breakdown in volitional action we commonly call procrastination. We seek to understand why we become our own worst enemy at times with needless, voluntary delay. Although our research and site originates at Carleton University \(Ottawa, Canada\), it represents a compilation of information and research on procrastination from all over the world." Creators of the iProcrastinate podcast.
 
+![https://www.savagechickens.com/2021/05/procrastinate.html](../../.gitbook/assets/image%20%285%29.png)
+
