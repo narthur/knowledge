@@ -68,7 +68,7 @@
 
 [SkyTube](https://skytube-app.com/) \#app - "An open-source YouTube™ app for Android™."
 
-![https://www.savagechickens.com/2021/05/interrupted.html](../.gitbook/assets/image%20%287%29.png)
+![https://www.savagechickens.com/2021/05/interrupted.html](../.gitbook/assets/image%20%288%29.png)
 
 ## Social Networking
 

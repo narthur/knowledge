@@ -46,6 +46,8 @@
 
 [SelfControl](https://selfcontrolapp.com/) \#software - "A free Mac application to help you avoid distracting websites."
 
+![https://xkcd.com/2467/](../.gitbook/assets/image%20%287%29.png)
+
 ## Deep Work
 
 [Cal Newport - on Deep Work](https://www.youtube.com/watch?v=V4gFLCKEQvU&feature=youtu.be) \#video \#podcast - "Cal Newport author of Deep Work talks about how to concentrate intently on cognitively demanding tasks without distractions. Cal explains how we can use different methods to develop this deep work skill in order to become our most productive selves."
