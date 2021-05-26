@@ -92,6 +92,8 @@
 
 [Why You Can't Win an Internet Argument](https://youtu.be/YWKUhZJp7uw) \#video - “One of the internet's favorite pastimes is arguing, but very few of those arguments ever actually go anywhere. It can be frustrating to watch, but scientists have some ideas on why things play out the way they do.”
 
+![https://www.savagechickens.com/2021/05/conflict-resolution.html](.gitbook/assets/image%20%289%29.png)
+
 ## Case Studies
 
 [2019 Adversarial Collaboration Winners](https://slatestarcodex.com/2020/01/13/2019-adversarial-collaboration-winners/)
