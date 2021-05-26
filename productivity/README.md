@@ -105,3 +105,5 @@
 
 [Tim Ferriss](http://www.timferriss.com/) - "Tim Ferriss is a start-up angel investor \(Uber, Facebook, Twitter, Alibaba, etc.\), [blogger](http://www.fourhourworkweek.com/blog), and entrepreneur. His best-known written work is [The 4-Hour Workweek](http://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307353133/ref=pd_bbs_1?ie=UTF8&s=books&qid=1203371924&sr=8-1), which had been sold into 35 languages and reached \#1 on The New York Times, BusinessWeek, and The Wall Street Journal bestseller lists.  On May 3, 2009, it celebrated its 2nd straight year on The New York Times business bestseller list since its publication on April 27, 2007."
 
+![https://www.savagechickens.com/2021/05/looking-ahead-2.html](../.gitbook/assets/image%20%2810%29.png)
+
