@@ -130,6 +130,8 @@ Part way through WWDC 1997, [Steve Jobs handles an incredibly emotionally-charge
 
 [Charles Murray vs Milo, and the "good faith" principle](https://www.youtube.com/watch?v=3ub73hWrORo) \#video - "I explain why I think the "good faith" principle implies that we should give people like Charles Murray, but not Milo, a platform to share their ideas. \(Not saying Milo should be legally banned from speaking, just that we shouldn't be going out of our way to give him opportunities to speak.\) I also argue that the "good faith" principle is inherently subjective and that this doesn't negate its importance."
 
+![https://xkcd.com/386/](.gitbook/assets/image%20%2812%29.png)
+
 [The world's greatest internet troll explains his craft](https://www.youtube.com/watch?v=us4Eti0UmDI) \#video - "Ken M. is probably the world's greatest internet troll. Is it trolling to pick the world's greatest troll? You be the judge. But this is how Ken M does it."
 
 [The Psychology of Trolling](https://www.youtube.com/watch?v=5gqHTlBp6iY) \#video - "As denizens of the internet, most of us are familiar with the trolls. In this episode of SciShow, learn a little about how social scientists think trolls came to be, and how online communities are figuring it all out."
