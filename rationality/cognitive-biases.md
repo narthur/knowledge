@@ -208,3 +208,5 @@
 
 [Zero-sum thinking - Wikipedia](https://en.wikipedia.org/wiki/Zero-sum_thinking)
 
+![https://www.savagechickens.com/2021/05/decisions-2.html](../.gitbook/assets/image%20%2811%29.png)
+
