@@ -58,3 +58,5 @@
 
 [Greentech Media](https://www.greentechmedia.com/#gs.nzgu9y) \#blog - "Greentech Media delivers market analysis, business-to-business news and conferences that inform and connect players in the global clean energy market. Our coverage extends across the clean energy industry with a focus on solar power and the electric utility market's evolution. Greentech Media's industry-leading coverage is provided by world-class journalists and a global network of expert contributors, supported by a team of analysts from our market intelligence arm, GTM Research."
 
+![https://www.savagechickens.com/2021/05/endangered-species-2.html](../.gitbook/assets/image%20%2814%29.png)
+
