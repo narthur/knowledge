@@ -215,6 +215,8 @@ Robert Martin \#article - [Blog](http://blog.cleancoder.com/). "**Robert Cecil M
 
 [zudochkin](https://github.com/zudochkin)/[awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - "A curated list of awesome newsletters."
 
+![https://xkcd.com/1822/](../.gitbook/assets/image%20%2816%29.png)
+
 
 
 

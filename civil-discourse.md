@@ -136,7 +136,7 @@ Part way through WWDC 1997, [Steve Jobs handles an incredibly emotionally-charge
 
 [The world's greatest internet troll explains his craft](https://www.youtube.com/watch?v=us4Eti0UmDI) \#video - "Ken M. is probably the world's greatest internet troll. Is it trolling to pick the world's greatest troll? You be the judge. But this is how Ken M does it."
 
-![https://xkcd.com/1432/](.gitbook/assets/image%20%2816%29.png)
+![https://xkcd.com/1432/](.gitbook/assets/image%20%2817%29.png)
 
 [The Psychology of Trolling](https://www.youtube.com/watch?v=5gqHTlBp6iY) \#video - "As denizens of the internet, most of us are familiar with the trolls. In this episode of SciShow, learn a little about how social scientists think trolls came to be, and how online communities are figuring it all out."
 
