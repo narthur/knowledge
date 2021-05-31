@@ -72,6 +72,8 @@
 
 ## Social Networking
 
+![https://www.savagechickens.com/2021/05/social-media.html](../.gitbook/assets/image%20%2815%29.png)
+
 [Calm Twitter](https://chrome.google.com/webstore/detail/calm-twitter/cknklikacoaeledfaldmhabmldkldocj/related) \#extension - Chrome. "This extension hides trending information from twitter timelines to make your mind calm."
 
 [Fabriq](https://www.ourfabriq.com/?utm_source=Iterable&utm_medium=email&utm_campaign=newsletter_4.9) \#app - "Get Intentional About Your Relationships"
