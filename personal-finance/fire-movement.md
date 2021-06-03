@@ -72,3 +72,5 @@
 
 [Wealthy Accountant](https://wealthyaccountant.com/) \#blog - ChooseFI interviewed him. "Oh, and [Mr. Money Mustache](http://www.mrmoneymustache.com/) is my client. If not for Pete, this blog would not exist."
 
+![https://www.savagechickens.com/2021/06/the-plan-3.html](../.gitbook/assets/image%20%2818%29.png)
+
