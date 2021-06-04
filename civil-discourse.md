@@ -86,6 +86,8 @@
 
 [How To Speak Up For Yourself](https://www.ted.com/talks/adam_galinsky_how_to_speak_up_for_yourself?rid=HhBuVXNNDEzX&utm_source=recommendation&utm_medium=email&utm_campaign=explore&utm_term=watchNow) \#video - “Speaking up is hard to do, even when you know you should. Learn how to assert yourself, navigate tricky social situations and expand your personal power with sage guidance from social psychologist Adam Galinsky.”
 
+![https://www.savagechickens.com/2021/06/totally-listening.html](.gitbook/assets/image%20%2818%29.png)
+
 [How Your Friends Can Affect Your Opinions](https://youtu.be/yBqAt8psYBA) \#video - “The people around you have a lot more to do with how you think than you might realize.”
 
 [Rhetological Fallacies](https://informationisbeautiful.net/visualizations/rhetological-fallacies/) - “Errors and manipulation of rhetoric and logical thinking. The word ‘rhetological’ is made up. A munge of two things: rhetorical techniques and logical fallacies. Both are used heavily by institutional powers – governments, religions, political parties – across the entire spectrum to sway opinion, confuse and obfuscate. And, unfortunately, we internalise them, like bad habits, into our own decision-making and mental processes.”
