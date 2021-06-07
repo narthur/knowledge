@@ -44,6 +44,8 @@
 
 [Xkcd: Self-Driving Issues](https://www.xkcd.com/) \#comic
 
+![https://xkcd.com/1925/](../.gitbook/assets/image%20%2820%29.png)
+
 ## Conversational Interfaces
 
 [Google Duplex: An AI System for Accomplishing Real-World Tasks Over the Phone](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html) \#article - “Today we announce Google Duplex, a new technology for conducting natural conversations to carry out “real world” tasks over the phone. The technology is directed towards completing specific tasks, such as scheduling certain types of appointments. For such tasks, the system makes the conversational experience as natural as possible, allowing people to speak normally, like they would to another person, without having to adapt to a machine.”
