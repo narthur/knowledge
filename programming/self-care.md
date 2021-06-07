@@ -89,6 +89,8 @@
 * [https://coderanch.com/t/544399/Fatigue-boredom-programming](https://coderanch.com/t/544399/Fatigue-boredom-programming)
 * [Average daily coding time of a developer - DEV Community](https://dev.to/sudiukil/average-daily-coding-time-of-a-developer-3f66)
 
+![https://www.savagechickens.com/2021/06/work-sleep.html](../.gitbook/assets/image%20%2820%29.png)
+
 ## **Music, Ambiance, White Noise**
 
 [Ambient Worlds](https://www.youtube.com/channel/UCfR8HhkbpDAwvYxrecNg4Mg) \#channel
