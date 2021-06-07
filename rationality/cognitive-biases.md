@@ -6,6 +6,8 @@
 
 [Pocket Biases](https://pocket-biases.glideapp.io/?ref=producthunt) - "Every cognitive bias in your pocket."
 
+![https://xkcd.com/2472/](../.gitbook/assets/image%20%2822%29.png)
+
 ## Singles
 
 [Anchoring \(cognitive bias\) - Wikipedia](https://en.wikipedia.org/wiki/Anchoring_%28cognitive_bias%29)
