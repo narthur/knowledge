@@ -32,6 +32,8 @@
 
 [Why The Web Is Such A Mess](https://www.youtube.com/watch?v=OFRjZtYs3wY) \#video - "Tim Berners-Lee envisioned a "universal information system". What went wrong?"
 
+![https://xkcd.com/2473/](../.gitbook/assets/image%20%2824%29.png)
+
 ## Decentralization
 
 [Beaker](https://beakerbrowser.com/) - "A browser for the next-generation Web. Beaker is an experimental browser for exploring and building the peer-to-peer Web."
@@ -69,6 +71,18 @@
 [SkyTube](https://skytube-app.com/) \#app - "An open-source YouTube™ app for Android™."
 
 ![https://www.savagechickens.com/2021/05/interrupted.html](../.gitbook/assets/image%20%288%29.png)
+
+## Privacy
+
+[The Privacy Project](https://www.nytimes.com/series/new-york-times-privacy-project) \#blog - The New York Times.
+
+[SecurityCheckli.st](https://securitycheckli.st/) - "An open source checklist of resources designed to improve your online privacy and security. Check things off to keep track as you go."
+
+## Security
+
+[LastPass](https://www.lastpass.com/) - "The best way to manage passwords. Just remember your master password and LastPass remembers the rest. See for yourself how easy password management can be."
+
+[SecurityCheckli.st](https://securitycheckli.st/) - "An open source checklist of resources designed to improve your online privacy and security. Check things off to keep track as you go."
 
 ## Social Networking
 

@@ -45,7 +45,6 @@
 * [Personal Finance](personal-finance/README.md)
   * [FIRE Movement](personal-finance/fire-movement.md)
   * [Investing](personal-finance/investing.md)
-* [Personal Privacy & Security](personal-privacy-and-security.md)
 * [Productivity](productivity/README.md)
   * [Attention Management](productivity/attention-management.md)
   * [Audio for Focus](productivity/audio-for-focus.md)
