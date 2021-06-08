@@ -6,3 +6,5 @@
 
 [The Privacy Project](https://www.nytimes.com/series/new-york-times-privacy-project) \#blog - The New York Times.
 
+![https://xkcd.com/2473/](.gitbook/assets/image%20%2823%29.png)
+
