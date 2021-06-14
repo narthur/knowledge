@@ -1,8 +1,8 @@
 # No Code & Low Code
 
-[Boundless Labs](https://www.boundlesslabs.com/) - "Boundless lets you build the web site of your dreams. No code required."
+[AppSheet](https://cloud.google.com/appsheet) - "Enable everyone in your organization to build and extend applications without coding."
 
-[Bubble](https://bubble.is/) \#webapp - "Bubble is the most powerful platform that empowers you to build and run web applications without code."
+[Bubble](https://bubble.is/) \#webapp - "Bubble is the most powerful platform that empowers you to build and run web applications without code." [Connecting to Google Sheets](https://forum.bubble.io/t/creating-a-userform-that-works-with-google-sheets-please-help/11345).
 
 [Glide](https://www.glideapps.com/) - "Create an app from a Google Sheet in five minutes, for free."
 
