@@ -66,6 +66,8 @@
 
 [How to Safely Instill Eye Drops - Mayo Clinic](https://www.youtube.com/watch?v=SnAfc6h4ax4) \#video - "Brigitte Keener, O.D., optometrist at [\#MayoClinicFL](https://www.youtube.com/results?search_query=%23MayoClinicFL), demonstrates how to safely and effectively instill eye drops for patients who have prescribed drops for treatment of ocular conditions."
 
+[Intermission](https://tryintermission.com/) \#app - "Take Direction Over Your Screen Time. Intermission helps you look away from your devices, preventing sore eyes, burnout, and Computer Vision Syndrome." I think it's $8 for lifetime.
+
 [Pomy](https://vanejung.com/pomy?ref=producthunt) \#app - “Focus timer for your eye health.” Better than Time Out.
 
 [Rubbing Your Eyes Feels Good, But It's Bad](https://healthcare.utah.edu/the-scope/shows.php?shows=0_6hkwznhf) \#podcast - “The occasional “knuckle rub” to an itching eye can feel so relieving, especially as allergy season starts. But according to Dr. Mark Mifflin, professor of ophthalmology, chronic eye itching can lead to serious, irreparable damage to your eyes. On this episode of "The Specialists" we investigate what can cause constant eye irritation–and the risks you take by rubbing your eyes too often or too hard.”
