@@ -96,3 +96,5 @@
 
 [Marco Polo](https://www.marcopolo.me/?utm_source=Iterable&utm_medium=email&utm_campaign=newsletter_4.9) \#app - "Unlike social media, there is no wasted time, no social comparisons and no likes! Connect with the most important people in your life, not the entire world."
 
+[SLOWLY](https://slowly.app/en/) \#app - "SLOWLY lets you meet pen pals from your smartphone! Match with someone that shares your passion, write a letter and collect stamps from around the world. Speak your mind – one letter at a time!"
+
