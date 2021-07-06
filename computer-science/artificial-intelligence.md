@@ -148,3 +148,7 @@ Main video: [How Machines Learn](https://www.youtube.com/watch?v=R9OHn5ZF4Uo) \#
 
 [OpenAI's MuseNet Learned to Compose Mozart, Bon Jovi and More](https://www.youtube.com/watch?v=pQA8Wzt8wdw&feature=youtu.be) \#video - "📝 The blog post on OpenAI MuseNet is available here: [https://openai.com/blog/musenet/](https://www.youtube.com/redirect?redir_token=IStCcyxBsZFkzXt3lwl_KF5kj_58MTU2MjE4Nzk4NUAxNTYyMTAxNTg1&v=pQA8Wzt8wdw&q=https%3A%2F%2Fopenai.com%2Fblog%2Fmusenet%2F&event=video_description)"
 
+## Robotics
+
+{% embed url="https://www.youtube.com/watch?v=ssZ\_8cqfBlE" %}
+
