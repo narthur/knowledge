@@ -22,7 +22,11 @@
 
 [DEVONagent](https://www.devontechnologies.com/apps/devonagent) \#software - "Give your research a boost with the smartest search assistant for the Mac. DEVONagent searches multiple sources and frees you from manually sorting the wheat from the chaff. With its scheduled searches it even keeps you updated on what's going on in the world."
 
+[Listen Notes](https://www.listennotes.com/) \#webapp - "The Best Podcast Search Engine"
+
 [Mailbrew](https://mailbrew.com/) - "Your personal daily digest. The best links you can't miss, and the best content from your favorite creators and newsletters, in a daily digest."
+
+[Podchaser](https://www.podchaser.com/) - "Your Daily Source for Podcast Discovery. Uncover the latest Podcasts, Ratings & Reviews, Guest Appearances, Curated Lists, and more!"
 
 [Refind](https://refind.com/) - "Every day we’ll pick the 10 most relevant links from around the web for you." [Explanation](https://relevance.community/).
 

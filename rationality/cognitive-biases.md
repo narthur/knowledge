@@ -108,6 +108,8 @@
 
 [Illusory truth effect - Wikipedia](https://en.wikipedia.org/wiki/Illusory_truth_effect)
 
+![https://www.savagechickens.com/2021/07/the-conspiracy.html](../.gitbook/assets/image%20%2826%29.png)
+
 [Impact bias - Wikipedia](https://en.wikipedia.org/wiki/Impact_bias)
 
 [In-group favoritism - Wikipedia](https://en.wikipedia.org/wiki/In-group_favoritism)
