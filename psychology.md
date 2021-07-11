@@ -32,3 +32,5 @@ Carol Dweck
 
 [Personal Identity: Crash Course Philosophy \#19](https://www.youtube.com/watch?v=trqDnLNRuSc) \#video - "Today Hank is building on last week’s exploration of identity to focus on personal identity. Does it in reside in your body? Is it in the collective memories of your consciousness? There are, of course, strengths and weaknesses to both of these ideas, and that’s what we’re talking about today."
 
+![https://www.savagechickens.com/2021/06/bears-and-spiders.html](.gitbook/assets/image%20%2827%29.png)
+
