@@ -12,6 +12,8 @@
 
 [Is Most Published Research Wrong?](https://www.youtube.com/watch?v=42QuXLucH3Q) \#video - "Mounting evidence suggests a lot of published research is false."
 
+![https://xkcd.com/2476/](.gitbook/assets/image%20%2828%29.png)
+
 [Jupyter](https://jupyter.org/)
 
 [Our World in Data](https://ourworldindata.org/) - "Research and data to make progress against the world’s largest problems"
