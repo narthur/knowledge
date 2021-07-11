@@ -54,6 +54,8 @@
 
 [I'm Listening.....](https://www.youtube.com/watch?v=-RzvDpf2h8U&feature=youtu.be) \#video
 
+![https://www.savagechickens.com/2021/06/move-to-the-country.html](.gitbook/assets/image%20%2833%29.png)
+
 [I WILL TALK WITH ANYONE…](https://visitsteve.com/made/talkwithanyone/) \#article - “I set up this table near other individuals and organizations tabling for political, religious and other causes. When people approach I offer to talk to them about whatever they would like.” See also: [HOW TO TALK WITH ANYONE](https://visitsteve.com/made/how-to-talk-to-anyone/)
 
 [Keep Your Identity Small](http://www.paulgraham.com/identity.html) \#article - "I think what religion and politics have in common is that they become part of people's identity, and people can never have a fruitful argument about something that's part of their identity. By definition they're partisan."
@@ -115,6 +117,8 @@ Part way through WWDC 1997, [Steve Jobs handles an incredibly emotionally-charge
 [The Art of Conflict Management: Achieving Solutions for Life, Work, and Beyond](https://www.audible.com/pd/The-Art-of-Conflict-Management-Achieving-Solutions-for-Life-Work-and-Beyond-Audiobook/B00DIEGPTA?qid=1605276948&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=C05TVHNMWH4HRBGRP933) \#course - Audio course. "In 24 lectures brimming with practical tips, tools, and techniques everyone can use to better manage conflict in his or her professional and personal lives, gain the essential skills of conflict management. As presented by Professor Dues, these lectures will show you how to effectively deal with conflicts of all kinds, using the "win-win" model that has dominated the field for the past six decades."
 
 [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations?ac=1&from_search=true&qid=Cm4eI5waED&rank=1) \#book - "When stakes are high, opinions vary, and emotions run strong, you have three choices: Avoid a crucial conversation and suffer the consequences; handle the conversation badly and suffer the consequences; or read Crucial Conversations and discover how to communicate best when it matters most. Crucial Conversations gives you the tools you need to step up to life's most difficult and important conversations, say what's on your mind, and achieve the positive resolutions you want."
+
+![](.gitbook/assets/image%20%2832%29.png)
 
 ## Organized Manipulation
 
