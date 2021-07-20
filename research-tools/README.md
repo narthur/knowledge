@@ -44,6 +44,8 @@
 
 [Larder](https://larder.io/) - "bookmarking for developers"
 
+[Innos Note](https://innos.io/?s=e) \#webapp - "We believe there should be an alternative to traditional knowledge management and content sharing, so we created Innos. Innos is designed to foster a culture of innovation, creativity, and connections. It equips curious minds with the right content creation tools to inspire and connect ideas."
+
 [Memex](https://getmemex.com/) - "Bookmarking for the power users of the web"
 
 Notion
