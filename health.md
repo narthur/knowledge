@@ -1,5 +1,7 @@
 # Health
 
+[Bearable](https://bearable.app/) \#app - "All Health Tracking in One Place. Get the full picture.  Find what works. Take control of your health."
+
 [care/of](https://takecareof.com/) - "Find the right vitamins, protein, and more, personalized just for you." Use coupon code household50 to get 50% off your first order, complements of [the Household Name podcast](https://www.businessinsider.com/household-name).
 
 [Chef Ani](https://chefani.com/) \#blog \#channel - "I am a graduate of the Natural Gourmet Institute of New York City. I love to cook and have been in the kitchen as far back as I can remember. A life-long vegetarian and now a plant-based chef, I enjoy junk food as much as the next guy, but realize that though it tastes good, it is not good for me. Have you ever heard the saying: “You are what you eat”? Well, science is telling us that this is absolutely true. The food choices we make today are super important to how we feel and operate tomorrow. Wouldn’t it be wonderful if we could come up with recipes that do both, taste delicious and make us feel wonderful? That is my quest."
@@ -21,6 +23,10 @@
 [Zenni](https://www.zennioptical.com/) - "Ready to revolutionize the way you buy glasses? At Zenni, we believe everyone should have access to high-quality, affordable eyeglasses. With prices starting at $6.95 for single-vision prescription glasses, you don't have to limit yourself to just one pair when you order glasses online. Express all facets of your personality with our low-priced eyeglasses and sunglasses in every style, shape, and color imaginable." ChooseFI says this is the choice of the FIRE community.
 
 [Zwift](https://zwift.com/) - "SERIOUS TRAINING MADE FUN. The at home training app connecting cyclists around the world."
+
+## Mental Health
+
+[Psychiatrist Breaks Down Mental Health Scenes From Movies & TV](https://www.youtube.com/watch?v=Sbp_EeBk-As) \#video - "Psychiatrist Eric Bender breaks down mental health scenes from movies and TV, including 'Joker,' 'The Undoing,' 'BoJack Horseman,' 'Rain Man,' 'As Good as it Gets,' 'Girl Interrupted,' 'Inside Out,' 'Lars and the Real Girl,' 'Silver Linings Playbook' and 'A Beautiful Mind.'"
 
 ## Sleep
 
