@@ -28,6 +28,8 @@
 
 [Psychiatrist Breaks Down Mental Health Scenes From Movies & TV](https://www.youtube.com/watch?v=Sbp_EeBk-As) \#video - "Psychiatrist Eric Bender breaks down mental health scenes from movies and TV, including 'Joker,' 'The Undoing,' 'BoJack Horseman,' 'Rain Man,' 'As Good as it Gets,' 'Girl Interrupted,' 'Inside Out,' 'Lars and the Real Girl,' 'Silver Linings Playbook' and 'A Beautiful Mind.'"
 
+[Villain Therapy: JOKER](https://www.youtube.com/watch?v=EFZA8v5WCzU&list=WL&index=1) \#video - "Arthur Fleck's swings between manic episodes and serious depression can teach us a bit about what bipolar disorder looks like in real life. Licensed therapist Jonathan Decker and filmmaker Alan Seawright take a look at the circumstances that lead Arthur Fleck to become the Joker. When you look at the ways his actions and emotions relate to bipolar disorder, and pair that with some pretty major trauma in his childhood and other circumstances in his life, we've got a really interesting character to look at from a psychological standpoint. And absolutely brilliant filmmaking that bring it to life."
+
 ## Sleep
 
 [6 Ways That Night-time Phone Use Destroys Your Sleep](https://www.psychologytoday.com/us/blog/prescriptions-life/201804/6-ways-night-time-phone-use-destroys-your-sleep) \#article - "I see many people in my medical work who are looking for [sleeping](https://www.psychologytoday.com/us/basics/sleep) pills because they can’t get a good night’s rest. [Coaching](https://www.psychologytoday.com/us/basics/coaching) clients, too, complain of trouble winding down, poor sleep and broken sleep. The first thing I target? _The phone."_
