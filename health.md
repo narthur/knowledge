@@ -28,6 +28,8 @@
 
 [Psychiatrist Breaks Down Mental Health Scenes From Movies & TV](https://www.youtube.com/watch?v=Sbp_EeBk-As) \#video - "Psychiatrist Eric Bender breaks down mental health scenes from movies and TV, including 'Joker,' 'The Undoing,' 'BoJack Horseman,' 'Rain Man,' 'As Good as it Gets,' 'Girl Interrupted,' 'Inside Out,' 'Lars and the Real Girl,' 'Silver Linings Playbook' and 'A Beautiful Mind.'"
 
+[Psychology of a Hero: TONY STARK & PTSD](https://www.youtube.com/watch?v=WabG3H-QnFw) \#video - "Why does Tony Stark have PTSD symptoms in Iron Man 3, when he came through previous adventures seemingly unscathed? Licensed therapist Jonathan Decker and filmmaker Alan Seawright break down what causes Tony's breakdown in Iron Man 3, how he gets through it, and how that relates to real life trauma or anxiety. They also talk about Tony's narcissism, problem-solving, and relationships. And how Robert Downey Jr. as Iron Man launched the Marvel franchise and changed the landscape of modern movies."
+
 [Villain Therapy: JOKER](https://www.youtube.com/watch?v=EFZA8v5WCzU&list=WL&index=1) \#video - "Arthur Fleck's swings between manic episodes and serious depression can teach us a bit about what bipolar disorder looks like in real life. Licensed therapist Jonathan Decker and filmmaker Alan Seawright take a look at the circumstances that lead Arthur Fleck to become the Joker. When you look at the ways his actions and emotions relate to bipolar disorder, and pair that with some pretty major trauma in his childhood and other circumstances in his life, we've got a really interesting character to look at from a psychological standpoint. And absolutely brilliant filmmaking that bring it to life."
 
 ## Sleep
