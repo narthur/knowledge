@@ -2,6 +2,8 @@
 
 [CNN: Understanding the Crisis](https://www.youtube.com/watch?v=_ZAlj2gu0eM&list=PLIilwIraDV2JwXZ5bQ500pxPe0PyL3m7L&index=2) \#video - "Video of Sal on CNN on October 10th discussing the credit crisis and a potential solution to it."
 
+[CPI Inflation Calculator](https://www.bls.gov/data/inflation_calculator.htm) \#webapp - Calculator by the U.S. Bureau of Labor Statistics.
+
 [The Distraction Economy](https://www.youtube.com/watch?v=iYYuiWP0IpA&list=PLIilwIraDV2JwXZ5bQ500pxPe0PyL3m7L&index=2) \#video - "The development of technology has, over centuries, freed up more and more of our time making possible non-survival-related pursuits like art and science. Now it's gotten to a point where there is so much 'free time' that demand for distraction supports 24 hour news sites and YouTube channels. I'm proposing that following our impulses into constant distraction may not be the best way to spend our time. It may prey on weak points of our psychology that evolved hundreds of thousands of years ago and it may make us think less effectively. Now consider I'm making this argument in a YouTube video you may be using to waste your time. I know, how meta."
 
 [The Economics of LEGO](https://www.youtube.com/watch?v=zsHXFEOV83g) \#video
