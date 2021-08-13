@@ -44,6 +44,8 @@
 
 [Why humans are so bad at thinking about climate change](https://www.youtube.com/watch?v=DkZ7BJQupVA&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video - "The biggest problem for the climate change fight isn’t technology – it’s human psychology."
 
+![https://xkcd.com/2500/](../.gitbook/assets/image%20%2836%29.png)
+
 ## Waste
 
 [Food waste is the world's dumbest problem](https://www.youtube.com/watch?v=6RlxySFrkIM&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video - "Eat your peas! It’s the easiest way to fight climate change."

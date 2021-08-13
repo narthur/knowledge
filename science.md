@@ -8,7 +8,7 @@
 
 [Google Scholar](https://scholar.google.com/)
 
-![https://xkcd.com/2501/](.gitbook/assets/image%20%2836%29.png)
+![https://xkcd.com/2501/](.gitbook/assets/image%20%2837%29.png)
 
 [Experiment.com](https://experiment.com/) - "Help fund the next wave of scientific research"
 
