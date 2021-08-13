@@ -18,6 +18,8 @@ Gusto
 
 [Oxygen](https://oxygenbank.com/) - "We’re Oxygen: the fresh new bank account for free thinkers, rebels and entrepreneurs. Awarded Best Digital Banking Account\* in the US, we look after people who want to rise above. Yes, we’re looking at you."
 
+![https://xkcd.com/1894/](../.gitbook/assets/image%20%2838%29.png)
+
 ## Analysis Tools
 
 [Fentury](https://www.fentury.com/) - "Your Personal Finance Advisor. Manage all your accounts from a single place and receive pro-active advice on areas that can be improved."
