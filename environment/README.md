@@ -32,6 +32,8 @@
 
 ## Climate Change
 
+{% embed url="https://www.youtube.com/watch?v=f4zul0BuO8A" %}
+
 [Carbon Dioxide Is Not the Worst Greenhouse Gas, Meet SF6](https://invidio.us/watch?v=uGpDFgTfRYU) \#video - "SF6 is a colorless, odorless, cheap and non-flammable synthetic gas that is incredibly effective at insulating material for medium- and high-voltage electrical installation. Because sulfur hexafluoride displaces the air that feeds the flames, SF6 is used to help prevent short circuits and fires in high-voltage electrical switches and circuit breakers."
 
 [Climate Change is Boring](https://www.youtube.com/watch?v=eNx9tvCrvv8&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz&index=2) \#video
