@@ -72,6 +72,8 @@ Notion
 
 Roam
 
+[Thought Saver](https://thoughtsaver.com/) - "Learn. Remember. Instantly create flashcards from anything interesting that you hear or read online. Receive quick, automated quizzes so that you never forget important ideas. Quickly discover new, fascinating and life changing ideas you've never seen before!"
+
 ## Sources
 
 * [A Book Apart](https://abookapart.com/)
