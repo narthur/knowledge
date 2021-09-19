@@ -12,6 +12,8 @@
 
 [Bayes theorem](https://www.youtube.com/watch?v=HZGCoVF3YvM) \#video - 3Blue1Brown. "Perhaps the most important formula in probability."
 
+{% embed url="https://www.youtube.com/watch?v=HZGCoVF3YvM" %}
+
 [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem) \#article - "One of the many applications of Bayes’ theorem is [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference), a particular approach to [statistical inference](https://en.wikipedia.org/wiki/Statistical_inference). When applied, the probabilities involved in Bayes’ theorem may have different [probability interpretations](https://en.wikipedia.org/wiki/Probability_interpretation). With [Bayesian probability](https://en.wikipedia.org/wiki/Bayesian_probability) interpretation, the theorem expresses how a degree of belief, expressed as a probability, should rationally change to account for the availability of related evidence. Bayesian inference is fundamental to [Bayesian statistics](https://en.wikipedia.org/wiki/Bayesian_statistics)."
 
 Crash Course
