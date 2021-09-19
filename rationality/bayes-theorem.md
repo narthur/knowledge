@@ -27,3 +27,5 @@ Crash Course
 
 [A visual guide to Bayesian thinking](https://www.youtube.com/watch?v=BrK7X_XlGB8) \#video - "I use pictures to illustrate the mechanics of "Bayes' rule," a mathematical theorem about how to update your beliefs as you encounter new evidence. Then I tell three stories from my life that show how I use Bayes' rule to improve my thinking."
 
+{% embed url="https://www.youtube.com/watch?v=R13BD8qKeTg" %}
+
