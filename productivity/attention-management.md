@@ -40,6 +40,8 @@
 
 [BlockSite](https://chrome.google.com/webstore/detail/blocksite-stay-focused-co/eiimnmioipafcokbfikbljfdeojpcgbh) \#extension - "Stay focused and improve productivity. Easily block any distracting or harmful website. Stop procrastination once and for all!"
 
+[Delay](https://chrome.google.com/webstore/detail/delay/fbhbfbladmbgakfkccbfjpbabagjcmid) \#extension - "Delay is used to break habitual browsing, by having the moment to reflect you'll decide if you want to navigate to the website."
+
 [Focus](https://heyfocus.com/) \#software - "Reclaim your productivity by blocking distracting sites and applications, like Facebook and Fortnite. Stay on task and in flow to accomplish your best work!"
 
 [FocusMe](https://focusme.com/) \#app \#software - "Break free from distractions, Unleash your productivity. FocusMe is the most powerful App and Website Blocker for Windows, Mac & Android. Our Android app is free!" Coupon code: MAY20
