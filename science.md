@@ -16,6 +16,10 @@
 
 [Is Most Published Research Wrong?](https://www.youtube.com/watch?v=42QuXLucH3Q) #video - "Mounting evidence suggests a lot of published research is false."
 
+[The janitor who changed the world of science](https://www.youtube.com/watch?v=IhgQxCVlaYQ\&list=TLPQMTIwMzIwMjIWRv7NWkjfCQ\&index=2) #video - "Since discovering the story of James Croll while researching Firmament, I knew I had to make a video about him and his remarkable life story. From his job as a janitor at a university he changed the world of science with his remarkable theory of orbital variations that became known as Milankovitch cycles. I hope that this video teaches you a few things. First that sometimes there are remarkable individuals in the history who go against the broad factors that determine progress. Second, that science communication, increasingly popular in the nineteenth century, has a very real impact on the development of science and scientists, popularising education beyond an elite core. Third, that the history of science is full of also-rans, second to the punches, and men and women who didn't quite forge the final link in understanding. Their stories are important too!"
+
+
+
 ![https://xkcd.com/2476/](<.gitbook/assets/image (28).png>)
 
 [Jupyter](https://jupyter.org)
