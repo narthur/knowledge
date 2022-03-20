@@ -30,6 +30,8 @@
 
 [Project Sunroof](https://www.google.com/get/sunroof) - "Search for your home. Discover your solar savings potential."
 
+[Solar Energy Overview](https://www.saveonenergy.com/solar-energy/) #article - "Whether you’re interested in how solar energy works, are curious about the cost of home solar panels, or need guidance finding a solar installation company, SaveOnEnergy is here to help. Read on to learn more about solar energy or use the table of contents below to jump to the topic that interests you most."
+
 [Solar Power Plants | The Next Big Thing?](https://www.youtube.com/watch?v=crAgssqpgQQ\&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz\&index=3) #video
 
 [WHY SOLAR ENERGY IS THE FUTURE!](https://www.youtube.com/watch?v=QPXaA9SeVjA\&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz\&index=2) #video
