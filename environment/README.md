@@ -10,13 +10,13 @@
 
 [How dead is the Great Barrier Reef?](https://www.youtube.com/watch?v=BO44JlAElXM\&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz\&index=2) #video - "Coral bleaching is the biggest threat to the Great Barrier Reef. But it's too early for obituaries."
 
-[Offset Earth](https://offset.earth) - "We plant trees & fund the world’s best climate crisis solutions. Become climate positive for less than $1.50 per week"
+[Offset Earth](https://offset.earth/) - "We plant trees & fund the world’s best climate crisis solutions. Become climate positive for less than $1.50 per week"
 
 [The Rules that Govern Life on Earth - with Sean B Carroll](https://www.youtube.com/watch?v=yzDISuJdfZk\&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz\&index=2) #video - "Evolutionary biologist Sean B Carroll reveals how a few simple rules govern all life on earth, from the cells in our bodies to populations of animals on the Serengeti."
 
 [Scientists really aren’t the best champions of climate science](https://www.youtube.com/watch?v=-qfI3DZmmQw\&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz\&index=2) #video - "Facts and data alone won’t inspire people to take action in the fight against global warming. So what will?"
 
-[Trees.org](https://trees.org) - "We aren’t just planting trees.&#x20;We’re changing lives through regenerative agriculture."
+[Trees.org](https://trees.org/) - "We aren’t just planting trees.&#x20;We’re changing lives through regenerative agriculture."
 
 [Why the ocean is getting louder](https://www.youtube.com/watch?v=CrpkZkwTvu0\&list=PLIilwIraDV2LQHeTYrboyJ7VGzGImXjoz\&index=2) #video - "What the world sounds like underwater."
 

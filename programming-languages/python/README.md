@@ -69,9 +69,9 @@ d.tzinfo is not None and d.tzinfo.utcoffset(d) is not None
 
 [Python File I/O](https://www.programiz.com/python-programming/file-operation) #article - "In this article, you'll learn about Python file operations. More specifically, opening a file, reading from it, writing into it, closing it and various file methods you should be aware of."
 
-[Python's `strftime` directives](http://strftime.org) - "I need to use Python’s `strftime` rarely enough that I can’t remember it off the top of my head and never bookmark it but often enough to be annoyed with having to Google “python strftime” and then find the table above in the Python documentation. So I decided to put this reference page up."
+[Python's `strftime` directives](http://strftime.org/) - "I need to use Python’s `strftime` rarely enough that I can’t remember it off the top of my head and never bookmark it but often enough to be annoyed with having to Google “python strftime” and then find the table above in the Python documentation. So I decided to put this reference page up."
 
-[SnakeViz](https://jiffyclub.github.io/snakeviz/) #software - "SnakeViz is a browser based graphical viewer for the output of Python’s [cProfile](https://docs.python.org/3/library/profile.html#module-cProfile) module and an alternative to using the standard library [pstats module](https://docs.python.org/3/library/profile.html#module-pstats). It was originally inspired by [RunSnakeRun](http://www.vrplumber.com/programming/runsnakerun/). SnakeViz works on Python 2.7 and Python 3. SnakeViz itself is still likely to work on Python 2.6, but official support has been dropped now that [Tornado](http://www.tornadoweb.org) no longer supports Python 2.6."
+[SnakeViz](https://jiffyclub.github.io/snakeviz/) #software - "SnakeViz is a browser based graphical viewer for the output of Python’s [cProfile](https://docs.python.org/3/library/profile.html#module-cProfile) module and an alternative to using the standard library [pstats module](https://docs.python.org/3/library/profile.html#module-pstats). It was originally inspired by [RunSnakeRun](http://www.vrplumber.com/programming/runsnakerun/). SnakeViz works on Python 2.7 and Python 3. SnakeViz itself is still likely to work on Python 2.6, but official support has been dropped now that [Tornado](http://www.tornadoweb.org/) no longer supports Python 2.6."
 
 [Traps for the Unwary in Python’s Import System](http://python-notes.curiousefficiency.org/en/latest/python\_concepts/import\_traps.html) #article - "Python’s import system is powerful, but also quite complicated. Until the release of Python 3.3, there was no comprehensive explanation of the expected import semantics, and even following the release of 3.3, the details of how `sys.path` is initialised are still somewhat challenging to figure out."
 
@@ -79,15 +79,15 @@ d.tzinfo is not None and d.tzinfo.utcoffset(d) is not None
 
 __[_Elegant SciPy_](https://github.com/elegant-scipy/elegant-scipy) by Juan Nunez-Iglesias, Stefan van der Walt & Harriet Dashnow
 
-__[_Flask Web Development_](https://doc.lagout.org/programmation/python/Flask%20Web%20Development\_%20Developing%20Web%20Applications%20with%20Python%20\[Grinberg%202014-05-18].pdf)_ _by Miguel Grinberg
+__[_Flask Web Development_](https://doc.lagout.org/programmation/python/Flask%20Web%20Development\_%20Developing%20Web%20Applications%20with%20Python%20\[Grinberg%202014-05-18].pdf) __ by Miguel Grinberg
 
 _Fluent Python_ by Luciano Ramalho
 
-__[_The Hitchhiker's Guide to Python_](https://docs.python-guide.org) by Kenneth Reitz & Tanya Schlusser
+__[_The Hitchhiker's Guide to Python_](https://docs.python-guide.org/) by Kenneth Reitz & Tanya Schlusser
 
 _Introducing Python_ by Bill Lubanovic
 
-__[_Natural Language Processing with Python_](https://www.amazon.com/Natural-Language-Processing-Python-Analyzing/dp/0596516495)_ _by Steven Bird, Ewan Klein, Edward Loper - "This book offers a highly accessible introduction to natural language processing, the field that supports a variety of language technologies, from predictive text and email filtering to automatic summarization and translation. With it, you'll learn how to write Python programs that work with large collections of unstructured text. You'll access richly annotated datasets using a comprehensive range of linguistic data structures, and you'll understand the main algorithms for analyzing the content and structure of written communication."
+__[_Natural Language Processing with Python_](https://www.amazon.com/Natural-Language-Processing-Python-Analyzing/dp/0596516495) __ by Steven Bird, Ewan Klein, Edward Loper - "This book offers a highly accessible introduction to natural language processing, the field that supports a variety of language technologies, from predictive text and email filtering to automatic summarization and translation. With it, you'll learn how to write Python programs that work with large collections of unstructured text. You'll access richly annotated datasets using a comprehensive range of linguistic data structures, and you'll understand the main algorithms for analyzing the content and structure of written communication."
 
 __[_Python Data Science Handbook_](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 
@@ -97,7 +97,7 @@ __[_Think Bayes_](https://greenteapress.com/wp/think-bayes/) by Allen B. Downey
 
 __[_Think Python, 2nd Edition_](https://greenteapress.com/wp/think-python-2e/) by Allen B. Downey
 
-__[_Thoughtful Machine Learning with Python_](https://www.oreilly.com/library/view/thoughtful-machine-learning/9781491924129/)_ _by Matthew Kirk
+__[_Thoughtful Machine Learning with Python_](https://www.oreilly.com/library/view/thoughtful-machine-learning/9781491924129/) __ by Matthew Kirk
 
 _Twisted Network Programming Essentials_ by Jessica McKellar & Abe Fettig
 

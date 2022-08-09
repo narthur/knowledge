@@ -32,7 +32,7 @@
 
 [Why College is so Expensive](https://www.youtube.com/watch?v=7PsmkAxVHdM\&list=PLIilwIraDV2JwXZ5bQ500pxPe0PyL3m7L\&index=2\&t=0s) #video - "College is expensive. Here's why."
 
-[Worldometer](https://www.worldometers.info) - "Worldometer is run by an international team of developers, researchers, and volunteers with the goal of making world statistics available in a thought-provoking and time relevant format to a wide audience around the world. Worldometer is owned by Dadax, an independent company. We have no political, governmental, or corporate affiliation."
+[Worldometer](https://www.worldometers.info/) - "Worldometer is run by an international team of developers, researchers, and volunteers with the goal of making world statistics available in a thought-provoking and time relevant format to a wide audience around the world. Worldometer is owned by Dadax, an independent company. We have no political, governmental, or corporate affiliation."
 
 ## Automation
 

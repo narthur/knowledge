@@ -36,13 +36,13 @@
 
 [Mercedes-Benz Smart Vision EQ concept first ride](https://www.youtube.com/watch?v=5SuDuzAtUwA) #video - “Mercedes-Benz shut down part of the Las Vegas Strip to show off the Smart Vision EQ Concept car. It's a futuristic self-driving car prototype that's so new it had to be controlled remotely. It has no steering wheel, no pedals, and is supposed to represent what Mercedes-Benz thinks cars will be like in 2030.”
 
-[Nuro](https://nuro.ai) - “Delivering the future of local commerce, autonomously”
+[Nuro](https://nuro.ai/) - “Delivering the future of local commerce, autonomously”
 
-[two ex-google engineers built nuro, a self-driving delivery car bringing you pizza, groceries and more](https://www.designboom.com/technology/nuro-self-driving-delivery-last-mile-ex-google-engineers-01-31-2018/) #article - “here with another driverless delivery concept, nuro is the product of two ex-google engineers and an electric self-driving delivery car bringing you pizza, groceries and more. the silicon valley startup which developed its own self-driving system has come out of stealth mode and raised $92 million, planning to infiltrate the commercial delivery sector.”
+[two ex-google engineers built nuro, a self-driving delivery car bringing you pizza, groceries and more](https://www.designboom.com/technology/nuro-self-driving-delivery-last-mile-ex-google-engineers-01-31-2018/?utm\_source=designboom+daily\&utm\_medium=email\&utm\_campaign=two+ex-google+engineers) #article - “here with another driverless delivery concept, nuro is the product of two ex-google engineers and an electric self-driving delivery car bringing you pizza, groceries and more. the silicon valley startup which developed its own self-driving system has come out of stealth mode and raised $92 million, planning to infiltrate the commercial delivery sector.”
 
 [The Simple Solution to Traffic](https://www.youtube.com/watch?v=iHzzSao6ypE\&list=PLIilwIraDV2L3QailjC91OkRaIioM0DYv\&index=2) #video - “The way we can make traffic disappear.”
 
-[Xkcd: Self-Driving Issues](https://www.xkcd.com) #comic
+[Xkcd: Self-Driving Issues](https://www.xkcd.com/) #comic
 
 ![https://xkcd.com/1925/](<../.gitbook/assets/image (20).png>)
 
@@ -56,7 +56,7 @@
 
 [Let's Talk About Google Duplex!](https://www.youtube.com/watch?v=USXoINPEhoA) #video - “Google Assistant making real phone calls?! Artificial intelligence is taking crazy steps forward. How far will it go?”
 
-[Rasa](https://rasa.com) - "Build contextual assistants that really help customers. Rasa is the only serious choice for building mission-critical AI assistants."
+[Rasa](https://rasa.com/) - "Build contextual assistants that really help customers. Rasa is the only serious choice for building mission-critical AI assistants."
 
 ## Dangers
 
@@ -84,7 +84,7 @@
 
 [The computer that mastered Go](https://www.youtube.com/watch?v=g-dKXOlsf98\&list=PLIilwIraDV2L3QailjC91OkRaIioM0DYv\&index=1) #video - “Go is an ancient Chinese board game, often viewed as the game computers could never play. Now researchers from Google-owned company DeepMind have proven the naysayers wrong, creating an artificial intelligence - called AlphaGo – which has beaten a professional Go player for the first time. In this Nature Video, we go behind the scenes to learn about the game, the programme and what this means for the future of AI.”
 
-[DeepMind](https://deepmind.com) #website
+[DeepMind](https://deepmind.com/) #website
 
 [DeepMind - From Generative Models to Generative Agents - Koray Kavukcuoglu](https://www.youtube.com/watch?v=N5oZIO8pE40\&index=6\&list=WL\&t=0s) #video - “Recorded May 2nd, 2018 at ICLR2018. Koray Kavukcuoglu is the Director of Research at DeepMind, where previously he was a research scientist and led the deep learning team. Before joining DeepMind, he was a research staff member at NEC Labs America in the machine learning department.”
 
@@ -102,7 +102,7 @@
 
 [The Coding Train: revisiting ml5.js!](https://www.youtube.com/watch?v=yzOW08JHL1U) #video - "Revisiting ml5.js!"
 
-[ml5.js](https://ml5js.org) - "Friendly Machine Learning for the Web. A neighborly approach to creating and exploring artificial intelligence in the browser."
+[ml5.js](https://ml5js.org/) - "Friendly Machine Learning for the Web. A neighborly approach to creating and exploring artificial intelligence in the browser."
 
 ## Neural Networks
 
@@ -140,7 +140,7 @@ Main video: [How Machines Learn](https://www.youtube.com/watch?v=R9OHn5ZF4Uo) #v
 
 ## OpenAI
 
-[OpenAI](https://openai.com) - "Discovering and enacting the path to safe artificial general intelligence."
+[OpenAI](https://openai.com/) - "Discovering and enacting the path to safe artificial general intelligence."
 
 [OpenAI](https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A/featured) #channel - "OpenAI is a non-profit AI research company, discovering and enacting the path to safe artificial general intelligence."
 

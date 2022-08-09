@@ -4,9 +4,9 @@
 
 [The Beautifully Strange World of Outsider Music](https://www.youtube.com/watch?v=CVks07UgVQQ) #video - "Whether we're talking about The Shaggs, Wesley Willis, B.J. Snowden, Eilert Pilarm, Shooby Taylor, Gary Wilson, R. Stevie Moore, Tiny Tim, Luie Luie, Daniel Johnston, or whoever else -- this category of music is all about originality/authenticity. These musicians and artists aren't the most polished in the world, but they make up for it with passion and creativity. Open your mind up, go down the rabbit hole of outsider music, and have a good time!"‌
 
-[Copying](https://matthewstrom.com/writing/copying/?ref=sidebar) #book - by [Matthew Ström](https://matthewstrom.com). "(is the way design works.) This is a very short book about copying. Its contents, unless otherwise noted, are licensed under [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (more on that in a bit). You can download, copy, remix, excerpt, change, and repost it however you see fit."
+[Copying](https://matthewstrom.com/writing/copying/?ref=sidebar) #book - by [Matthew Ström](https://matthewstrom.com/). "(is the way design works.) This is a very short book about copying. Its contents, unless otherwise noted, are licensed under [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (more on that in a bit). You can download, copy, remix, excerpt, change, and repost it however you see fit."
 
-[Descript](https://www.descript.com) - "Descript is a collaborative audio/video editor that works like a doc. It includes transcription, a screen recorder, publishing, full multitrack editing, and some mind-bendingly useful AI tools." [Promo](https://www.youtube.com/watch?v=Bl9wqNe5J8U\&feature=emb\_logo\&hss\_channel=tw-14260608).
+[Descript](https://www.descript.com/) - "Descript is a collaborative audio/video editor that works like a doc. It includes transcription, a screen recorder, publishing, full multitrack editing, and some mind-bendingly useful AI tools." [Promo](https://www.youtube.com/watch?v=Bl9wqNe5J8U\&feature=emb\_logo\&utm\_content=143586584\&utm\_medium=social\&utm\_source=twitter\&hss\_channel=tw-14260608).
 
 [Gravity is just a habit](https://www.youtube.com/watch?v=YwyXLBQUEC0) #video
 
@@ -14,21 +14,21 @@
 
 ## Business of Creativity
 
-[Cinnamon](https://www.cinnamon.video) - "With groundbreaking technologies we are able to pay creators fairly while you watch their content... without ads!"
+[Cinnamon](https://www.cinnamon.video/) - "With groundbreaking technologies we are able to pay creators fairly while you watch their content... without ads!"
 
-[Coil](https://coil.com) - "Experience web monetized content in your browser while supporting sites you love in real time."
+[Coil](https://coil.com/) - "Experience web monetized content in your browser while supporting sites you love in real time."
 
 [The dark side of crowdfunding](https://www.youtube.com/watch?v=HJhQTxTUIH0) #video - "Crowdfunding gives gadget makers the power to launch their own companies, but sometimes their dream dies not long after launch. In this episode of In the Making, reporter Ashley Carman looks at how crowdfunding platforms Kickstarter and Indiegogo are changing their business to prevent creators from never shipping their product."
 
-[Gumroad](https://gumroad.com) - "Gumroad helps creators do more of what they love. We have sent over $195M to artists, designers, educators, writers, influencers and more."
+[Gumroad](https://gumroad.com/) - "Gumroad helps creators do more of what they love. We have sent over $195M to artists, designers, educators, writers, influencers and more."
 
-[Liberapay](https://liberapay.com) - "Liberapay is a recurrent donations platform. We help you fund the creators and projects you appreciate."
+[Liberapay](https://liberapay.com/) - "Liberapay is a recurrent donations platform. We help you fund the creators and projects you appreciate."
 
-[Open Collective](https://opencollective.com) - "**Collect and spend money transparently. **Community is about trust and sharing. Open Collective lets you manage your finances so everyone can see where money comes from and where it goes."
+[Open Collective](https://opencollective.com/) - "**Collect and spend money transparently.** Community is about trust and sharing. Open Collective lets you manage your finances so everyone can see where money comes from and where it goes."
 
-[Patreon](https://www.patreon.com) - "CREATE ON YOUR OWN TERMS. Start a membership business to develop a direct relationship with your biggest fans and generate predictable, recurring revenue from your creative work."
+[Patreon](https://www.patreon.com/) - "CREATE ON YOUR OWN TERMS. Start a membership business to develop a direct relationship with your biggest fans and generate predictable, recurring revenue from your creative work."
 
-[Substack ](https://substack.com/about)- "Earn money publishing on Substack"
+[Substack ](https://substack.com/about?utm\_source=menu)- "Earn money publishing on Substack"
 
 [Thankful](https://getthankful.io) - "Support the creators that you love using cryptocurrency"
 
@@ -40,7 +40,7 @@
 
 ## Publishing
 
-[Anchor](https://anchor.fm) - "Anchor is an all-in-one platform where you can create, distribute, and monetize your podcast from any device, for free."
+[Anchor](https://anchor.fm/) - "Anchor is an all-in-one platform where you can create, distribute, and monetize your podcast from any device, for free."
 
 [How to use emoji, accents, and symbols on your Mac](https://support.apple.com/en-us/HT201586) #article - "macOS includes features that make it easy to find and type special characters like emoji and currency symbols."
 

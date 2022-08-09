@@ -52,7 +52,8 @@
   * [Task Management](productivity/task-management.md)
   * [Time Management](productivity/time-management.md)
 * [Programming Languages](programming-languages/README.md)
-  * [JavaScript](programming-languages/javascript.md)
+  * [JavaScript](programming-languages/javascript/README.md)
+    * [Snippets](programming-languages/javascript/snippets.md)
   * [PHP](programming-languages/php.md)
   * [Python](programming-languages/python/README.md)
     * [Development Environments](programming-languages/python/development-environments.md)
@@ -121,4 +122,3 @@
   * [Testing](web-development-and-design/testing.md)
   * [Twig](web-development-and-design/twig.md)
   * [Type](web-development-and-design/type.md)
-

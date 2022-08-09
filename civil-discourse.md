@@ -14,7 +14,7 @@
 
 [A conservative's plea: Let's work together | Arthur Brooks](https://youtu.be/87AEeLpodnE) #video - “Conservatives and liberals both believe that they alone are motivated by love while their opponents are motivated by hate. How can we solve problems with so much polarization? In this talk, social scientist Arthur Brooks shares ideas for what we can each do as individuals to break the gridlock. "We might just be able to take the ghastly holy war of ideology that we're suffering under and turn it into a competition of ideas," he says.”
 
-[Consider.it](https://consider.it) - "Consider.it creates CIVIL AND ORGANIZED ONLINE DIALOGUE by visually summarizing what your community thinks and why"
+[Consider.it](https://consider.it/) - "Consider.it creates CIVIL AND ORGANIZED ONLINE DIALOGUE by visually summarizing what your community thinks and why"
 
 [The Doctor's Speech | The Zygon Inversion | Doctor Who](https://www.youtube.com/watch?v=BJP9o4BEziI) #video - "With Kate and Bonnie poised over the big red button, truth or consequences, can the Doctor convince them to sit down and talk instead?"
 
@@ -34,13 +34,13 @@
 
 [How our friendship survives our opposing politics | Caitlin Quattromani and Lauran Arledge](https://www.youtube.com/watch?v=qty0NjF3pdQ\&index=58\&list=PLIilwIraDV2LO0itulEQl76KwCRhCdN8H) #video - “Can you still be friends with someone who doesn't vote the same way as you? For Caitlin Quattromani and Lauran Arledge, two best friends who think very differently about politics, the outcome of the 2016 US presidential election could have resulted in hostility and disrespect. Hear about how they chose to engage in dialogue instead -- and learn some simple tactics they're using to maintain their bipartisan friendship.”
 
-[How To Disagree With The Church w/ Ty Gibson](http://castbox.fm/episode/How-To-Disagree-With-The-Church-w%2F-Ty-Gibson-id1096875-id63165496?country=us) #podcast - Stuff Adventists Should Know
+[How To Disagree With The Church w/ Ty Gibson](http://castbox.fm/episode/How-To-Disagree-With-The-Church-w%2F-Ty-Gibson-id1096875-id63165496?utm\_campaign=a\_share\_ep\&utm\_medium=dlink\&utm\_source=a\_share\&country=us) #podcast - Stuff Adventists Should Know
 
 [How much does a video weigh?](https://www.ted.com/talks/how\_much\_does\_a\_video\_weigh#t-440297) #video - “What color is a mirror? How much does a video weigh? Michael Stevens, creator of the popular educational YouTube channel Vsauce, spends his day asking quirky questions like these. In this talk he shows how asking the right -- seemingly silly -- questions can make incredibly effective lessons.”
 
 {% embed url="https://www.youtube.com/watch?v=ft7gl4qDl3U" %}
 
-[iDramaLab](https://idrama.science) - "The iDRAMA Lab is an international group of researchers interested in a variety of modern computing and socio-technical concerns. Collectively, we have published work ranging from genomic privacy, to cryptography and Web security, to distributed systems, and even video games. More recently, we have worked on understanding and mitigating modern socio-technological issues such as online harassment campaigns, hate speech and political radicalization, and understanding the subtle ways in which web communities influence each other."
+[iDramaLab](https://idrama.science/) - "The iDRAMA Lab is an international group of researchers interested in a variety of modern computing and socio-technical concerns. Collectively, we have published work ranging from genomic privacy, to cryptography and Web security, to distributed systems, and even video games. More recently, we have worked on understanding and mitigating modern socio-technological issues such as online harassment campaigns, hate speech and political radicalization, and understanding the subtle ways in which web communities influence each other."
 
 [I grew up in the Westboro Baptist Church. Here's why I left | Megan Phelps-Roper](https://www.youtube.com/watch?v=bVV2Zk88beY\&list=PLOGi5-fAu8bFBu6hFFeZ1qWJdJUXAOhZG) #video
 
@@ -86,7 +86,7 @@ __[_Why Are We Yelling?_](https://busterbenson.com/whyareweyelling/) #book - "Le
 
 [How to speak so that people want to listen | Julian Treasure](https://youtu.be/eIho2S0ZahI) #video - “Have you ever felt like you're talking, but nobody is listening? Here's Julian Treasure to help you fix that. As the sound expert demonstrates some useful vocal exercises and shares tips on how to speak with empathy, he offers his vision for a sonorous world of listening and understanding.”
 
-[How To Speak Up For Yourself](https://www.ted.com/talks/adam\_galinsky\_how\_to\_speak\_up\_for\_yourself?rid=HhBuVXNNDEzX) #video - “Speaking up is hard to do, even when you know you should. Learn how to assert yourself, navigate tricky social situations and expand your personal power with sage guidance from social psychologist Adam Galinsky.”
+[How To Speak Up For Yourself](https://www.ted.com/talks/adam\_galinsky\_how\_to\_speak\_up\_for\_yourself?rid=HhBuVXNNDEzX\&utm\_source=recommendation\&utm\_medium=email\&utm\_campaign=explore\&utm\_term=watchNow) #video - “Speaking up is hard to do, even when you know you should. Learn how to assert yourself, navigate tricky social situations and expand your personal power with sage guidance from social psychologist Adam Galinsky.”
 
 ![https://www.savagechickens.com/2021/06/totally-listening.html](<.gitbook/assets/image (18).png>)
 
@@ -102,13 +102,13 @@ __[_Why Are We Yelling?_](https://busterbenson.com/whyareweyelling/) #book - "Le
 
 [2019 Adversarial Collaboration Winners](https://slatestarcodex.com/2020/01/13/2019-adversarial-collaboration-winners/)
 
-[Accidental Courtesy](https://accidentalcourtesy.com) #documentary
+[Accidental Courtesy](https://accidentalcourtesy.com/) #documentary
 
 [Dolly Parton's America](https://www.npr.org/podcasts/765024913/dolly-parton-s-america) #podcast - "In this intensely divided moment, one of the few things everyone still seems to agree on is Dolly Parton—but why? That simple question leads to a deeply personal, historical, and musical rethinking of one of America's great icons. Join us for a 9-episode journey into the Dollyverse.Hosted by Jad Abumrad, creator of Radiolab and More Perfect.Dolly Parton's America is co-produced by WNYC Studios, home to great podcasts like Snap Judgement, Death, Sex & Money, and Nancy."
 
 [How Apple CEO Tim Cook Charmed President Donald Trump](https://invidio.us/watch?v=AG8w0TEZunE) #video - "President Donald Trump and Tim Cook's relationship really started after Trump's election win in 2016, when the Apple CEO and several other CEOs visited the president-elect at Trump Tower. Since then, Apple has became the corporate mascot for Trump's trade war against China. And Cook put on the charm offensive to help save the tech giant's bottom line."
 
-[Pairagraph](https://www.pairagraph.com) - "hub of discourse between pairs of notable individuals"
+[Pairagraph](https://www.pairagraph.com/) - "hub of discourse between pairs of notable individuals"
 
 Part way through WWDC 1997, [Steve Jobs handles an incredibly emotionally-charged attack on him personally](https://youtu.be/6iACK-LNnzM?t=3024). Starts at 50:24. #video
 
@@ -126,7 +126,7 @@ Part way through WWDC 1997, [Steve Jobs handles an incredibly emotionally-charge
 
 [How Trolls on Reddit Try to Manipulate You (Disinformation & How We Beat It)](https://www.youtube.com/watch?v=soYkEqDp760\&feature=youtu.be) #video - "This series is my attempt to shore up society's defenses against the massive disinformation war currently being waged against us. We're on the battlefield whether we like it or not." [Playlist](https://www.youtube.com/playlist?list=PLjHf9jaFs8XVAQpJLdNNyA8tzhXzhpZHu).
 
-[Renee DiResta](http://www.reneediresta.com) - "Renée DiResta is the technical research manager at [Stanford Internet Observatory](https://cyber.fsi.stanford.edu/io/content/io-landing-page-2), a cross-disciplinary program of research, teaching and policy engagement for the study of abuse in current information technologies. Renee investigates the spread of malign narratives across social networks, and assists policymakers in devising responses to the problem. Renee has studied influence operations and computational propaganda in the context of pseudoscience conspiracies, terrorist activity, and state-sponsored information warfare, and has [advised Congress](https://www.c-span.org/video/?449088-1/senate-intelligence-committee-holds-hearing-social-media-foreign-influence), the State Department, and other academic, civil society, and business organizations on the topic. At the behest of SSCI, she led one of the two research teams that produced comprehensive assessments of the [Internet Research Agency’s](http://www.reneediresta.com/ira-report-4e8d0ff684.pdf) and [GRU’s](https://cyber.fsi.stanford.edu/io/news/potemkin-pages-personas-blog) influence operations targeting the U.S. from 2014-2018."
+[Renee DiResta](http://www.reneediresta.com/) - "Renée DiResta is the technical research manager at [Stanford Internet Observatory](https://cyber.fsi.stanford.edu/io/content/io-landing-page-2), a cross-disciplinary program of research, teaching and policy engagement for the study of abuse in current information technologies. Renee investigates the spread of malign narratives across social networks, and assists policymakers in devising responses to the problem. Renee has studied influence operations and computational propaganda in the context of pseudoscience conspiracies, terrorist activity, and state-sponsored information warfare, and has [advised Congress](https://www.c-span.org/video/?449088-1/senate-intelligence-committee-holds-hearing-social-media-foreign-influence), the State Department, and other academic, civil society, and business organizations on the topic. At the behest of SSCI, she led one of the two research teams that produced comprehensive assessments of the [Internet Research Agency’s](http://www.reneediresta.com/ira-report-4e8d0ff684.pdf) and [GRU’s](https://cyber.fsi.stanford.edu/io/news/potemkin-pages-personas-blog) influence operations targeting the U.S. from 2014-2018."
 
 [Robotrolling 2019/3](https://www.stratcomcoe.org/robotrolling-20193) #paper
 

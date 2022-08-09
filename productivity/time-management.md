@@ -6,9 +6,9 @@
 
 [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) #article - "There are two types of schedule, which I'll call the manager's schedule and the maker's schedule."
 
-[Overcommitters Club](https://overcommitters.club) - "OVERCOMMITTERS CLUB is a monthly "event" for folks like us, who sign up for too many things, and need to reclaim that time every once in awhile. We like to think we're the only recurring event that's happy when you're a no-show."
+[Overcommitters Club](https://overcommitters.club/) - "OVERCOMMITTERS CLUB is a monthly "event" for folks like us, who sign up for too many things, and need to reclaim that time every once in awhile. We like to think we're the only recurring event that's happy when you're a no-show."
 
-[Procrastination Research Group](https://www.procrastination.ca) - "Over the past 20 years, our exclusive focus has been on researching the breakdown in volitional action we commonly call procrastination. We seek to understand why we become our own worst enemy at times with needless, voluntary delay. Although our research and site originates at Carleton University (Ottawa, Canada), it represents a compilation of information and research on procrastination from all over the world." Creators of the iProcrastinate podcast.
+[Procrastination Research Group](https://www.procrastination.ca/) - "Over the past 20 years, our exclusive focus has been on researching the breakdown in volitional action we commonly call procrastination. We seek to understand why we become our own worst enemy at times with needless, voluntary delay. Although our research and site originates at Carleton University (Ottawa, Canada), it represents a compilation of information and research on procrastination from all over the world." Creators of the iProcrastinate podcast.
 
 [Timeboxing: Elon Musk's Time Management Method](https://www.youtube.com/watch?v=fbAYK4KQrso) #video
 
@@ -18,7 +18,7 @@
 
 [devon/eggscellent](https://github.com/devon/eggscellent) - "Pomodoro app for mac"
 
-[Focus Booster](https://www.focusboosterapp.com) #software - "Simple pomodoro timer. Powerful productivity boost. Stop procrastinating, focus consistently and track your time. Using focus booster you will achieve more, understand how you use your time and feel satisfied knowing you are productive."
+[Focus Booster](https://www.focusboosterapp.com/) #software - "Simple pomodoro timer. Powerful productivity boost. Stop procrastinating, focus consistently and track your time. Using focus booster you will achieve more, understand how you use your time and feel satisfied knowing you are productive."
 
 [Focus Time Manager](https://masterbuilders.io/focus) #software - "The best pomodoro time manager for professionals"
 
@@ -26,17 +26,17 @@
 
 [Toggl - Pomodoro Time Tracking](https://toggl.com/pomodoro-timer-toggl/) - "Do you want a free Pomodoro timer? Would you like it to include powerful time-tracking and reporting tools? Well, you've come to the right place! With the Toggl Button browser extension or Toggl Desktop app, you can use the Pomodoro technique and take advantage of Toggl's powerful suite of features."
 
-[TomatoTimer](https://tomato-timer.com)
+[TomatoTimer](https://tomato-timer.com/)
 
-[Tomighty](https://tomighty.github.io) #software - "A free desktop timer for the Pomodoro Technique®" 👍
+[Tomighty](https://tomighty.github.io/) #software - "A free desktop timer for the Pomodoro Technique®" 👍
 
 ## Tracking
 
-[New Tag Time](https://newtagtime.com) - "Tagtime is a stochastic time tracker. It uses math and statistics to build up a very accurate picture of your days by simply asking you occasionally what you are doing during the day."
+[New Tag Time](https://newtagtime.com/) - "Tagtime is a stochastic time tracker. It uses math and statistics to build up a very accurate picture of your days by simply asking you occasionally what you are doing during the day."
 
 [Qbserve](https://qotoqot.com/qbserve/) #software - "It keeps track of what you do on your Mac and provides constant feedback on your productivity. This way you can stay focused and develop better habits."
 
-[RescueTime](https://www.rescuetime.com) #webapp #software #app - "RescueTime helps you understand your daily habits so you can focus and be more productive."
+[RescueTime](https://www.rescuetime.com/) #webapp #software #app - "RescueTime helps you understand your daily habits so you can focus and be more productive."
 
 [Timeular](https://timeular.com/?ref=producthunt) - "Track, understand and improve how you work. Timeular helps you visualize your time and become more productive." Physical device for time tracking.
 

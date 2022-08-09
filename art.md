@@ -4,7 +4,7 @@
 
 [The Beautifully Strange World of Outsider Music](https://www.youtube.com/watch?v=CVks07UgVQQ) #video - "Whether we're talking about The Shaggs, Wesley Willis, B.J. Snowden, Eilert Pilarm, Shooby Taylor, Gary Wilson, R. Stevie Moore, Tiny Tim, Luie Luie, Daniel Johnston, or whoever else -- this category of music is all about originality/authenticity. These musicians and artists aren't the most polished in the world, but they make up for it with passion and creativity. Open your mind up, go down the rabbit hole of outsider music, and have a good time!"
 
-[eBoy](http://hello.eboy.com/eboy/) - "**eBoy is Kai Vermehr, Steffen Sauerteig and Svend Smital. **We create re-usable pixel objects and take them to build complex and extensible artwork. And we make toys."
+[eBoy](http://hello.eboy.com/eboy/) - "**eBoy is Kai Vermehr, Steffen Sauerteig and Svend Smital.** We create re-usable pixel objects and take them to build complex and extensible artwork. And we make toys."
 
 [Engineering the Perfect Pop](https://www.youtube.com/watch?v=O6JFYMJMQZ0) #video - "Using scissors, tape, and reams of creativity, Matthew Reinhart engineers paper to bend, fold, and transform into fantastic creatures, structures and locales. By adjusting the angles of folds and the depth of layers, Reinhart animates his subjects to tell dramatic stories that literally pop off the page"
 

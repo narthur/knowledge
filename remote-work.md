@@ -2,13 +2,13 @@
 
 {% embed url="https://www.youtube.com/watch?v=x6fIseKzzH0&feature=youtu.be" %}
 
-[The #1 Office Perk? Natural Light](https://hbr.org/2018/09/the-1-office-perk-natural-light) #article - "The news headlines about what perks or elements of office design make for a great employee experience seem to be dominated by fads — think treadmill desks, nap pods, and “bring your dog to work day” for starters."
+[The #1 Office Perk? Natural Light](https://hbr.org/2018/09/the-1-office-perk-natural-light?utm\_medium=social\&utm\_campaign=hbr\&utm\_source=twitter) #article - "The news headlines about what perks or elements of office design make for a great employee experience seem to be dominated by fads — think treadmill desks, nap pods, and “bring your dog to work day” for starters."
 
-[Nomad List](https://nomadlist.com) - "[Nomad List](https://nomadlist.com/help) is a database of 2,327+ cities in the world analyzing 1,889,930+ data points every second to help you choose where to go next — and when you arrive, it connects you to 100,000+ 🌍 nomads there."
+[Nomad List](https://nomadlist.com/) - "[Nomad List](https://nomadlist.com/help) is a database of 2,327+ cities in the world analyzing 1,889,930+ data points every second to help you choose where to go next — and when you arrive, it connects you to 100,000+ 🌍 nomads there."
 
 [The Fullstack Shack - Office Tour](https://www.youtube.com/watch?v=HPOq3QJz\_7s) #video - Tool shed turned into office space.
 
-[We Work Remotely](https://weworkremotely.com) - "We Work Remotely is the **largest remote work community in the world.** With over 2.5M monthly visitors, WWR is the #1 destination to find and list incredible remote jobs."
+[We Work Remotely](https://weworkremotely.com/) - "We Work Remotely is the **largest remote work community in the world.** With over 2.5M monthly visitors, WWR is the #1 destination to find and list incredible remote jobs."
 
 ## Communication
 
@@ -16,19 +16,19 @@
 
 [Getting Remote Critique Right](https://medium.com/building-creative-market/getting-remote-critique-right-fc458577a8f4) #article - “Remote work brings with it some challenges that need careful pruning to create a successful and happy team. One of the first things that comes to mind is critique, a daunting task when in the same room as people, let alone hundreds or thousands of miles away from one another.”
 
-[How to Collaborate Effectively If Your Team Is Remote](https://hbr.org/2018/02/how-to-collaborate-effectively-if-your-team-is-remote?tpcc=orgsocial\_edit) #article - HBR. "When it’s possible to be set off by a phone’s mute button, it’s safe to say that we’re living in challenging times. The digital era has ushered in a revolution in communication that’s equivalent to the one surrounding the invention of the [printing press](https://prezi.com/tzwe8klf3anb/from-gutenberg-to-the-internet-a-comparison-of-the-impact-of-gutenberg-printing-press-and-the-internet-as-media-technologies/). It’s changing how we speak — often in bullet points. And it’s affecting what we hear, as the jumble of information coming at us can lead to frequent [misunderstandings and confusion](https://hbr.org/2013/04/how-to-avoid-virtual-miscommun)."
+[How to Collaborate Effectively If Your Team Is Remote](https://hbr.org/2018/02/how-to-collaborate-effectively-if-your-team-is-remote?utm\_medium=social\&utm\_campaign=hbr\&utm\_source=twitter\&tpcc=orgsocial\_edit) #article - HBR. "When it’s possible to be set off by a phone’s mute button, it’s safe to say that we’re living in challenging times. The digital era has ushered in a revolution in communication that’s equivalent to the one surrounding the invention of the [printing press](https://prezi.com/tzwe8klf3anb/from-gutenberg-to-the-internet-a-comparison-of-the-impact-of-gutenberg-printing-press-and-the-internet-as-media-technologies/). It’s changing how we speak — often in bullet points. And it’s affecting what we hear, as the jumble of information coming at us can lead to frequent [misunderstandings and confusion](https://hbr.org/2013/04/how-to-avoid-virtual-miscommun)."
 
 ## Co-Working
 
-[Coworker](https://www.coworker.com) - "Find Your Perfect Coworking Space. Desks, offices & meeting rooms in 10,000+ coworking spaces with friendly communities in 164 countries"
+[Coworker](https://www.coworker.com/) - "Find Your Perfect Coworking Space. Desks, offices & meeting rooms in 10,000+ coworking spaces with friendly communities in 164 countries"
 
-[WeWork](https://www.wework.com) - "Space to Elevate Work. From desks to offices and entire headquarters, we create environments for productivity, innovation, and connection."
+[WeWork](https://www.wework.com/) - "Space to Elevate Work. From desks to offices and entire headquarters, we create environments for productivity, innovation, and connection."
 
 ### Virtual Co-Working
 
 [Complice Rooms](https://complice.co/rooms)
 
-[Focusmate](https://www.focusmate.com)
+[Focusmate](https://www.focusmate.com/)
 
 [How I setup my "virtual co-working" (one of my productivity secrets!)](https://www.youtube.com/watch?v=bs3KT2-FSds\&list=PLIilwIraDV2J8hueIWIwvkT3NvfuSChe7\&index=12\&t=0s) #video
 

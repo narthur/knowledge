@@ -1,34 +1,34 @@
 # Audio for Focus
 
-[10 Most Popular Soundscapes + 2 Bonus Tracks](https://gumroad.com/l/mostpopularsoundscapecollection) - "I have brought together the 12 most popular soundscapes from my youtube channel [**johnnielawson**](http://www.youtube.com/johnnielawson) into one great package** **for only **$49.99**."
+[10 Most Popular Soundscapes + 2 Bonus Tracks](https://gumroad.com/l/mostpopularsoundscapecollection) - "I have brought together the 12 most popular soundscapes from my youtube channel [**johnnielawson**](http://www.youtube.com/johnnielawson) into one great package **** for only **$49.99**."
 
-[Ambient Mixer](https://www.ambient-mixer.com) - "Listen to relaxing music, ambient atmospheres and astonishing sound effects. Just click on an image below to start chilling. If you want, you can even [create your own atmospheric sound mix](https://blog.ambient-mixer.com/audio-mixer/), online and for free. Every audio template can be easily edited for your own needs. Here is a [short video](https://www.youtube.com/watch?v=3pSBfBVu7PE) explaining some of our features."
+[Ambient Mixer](https://www.ambient-mixer.com/) - "Listen to relaxing music, ambient atmospheres and astonishing sound effects. Just click on an image below to start chilling. If you want, you can even [create your own atmospheric sound mix](https://blog.ambient-mixer.com/audio-mixer/), online and for free. Every audio template can be easily edited for your own needs. Here is a [short video](https://www.youtube.com/watch?v=3pSBfBVu7PE) explaining some of our features."
 
 [Birds in the Forest](https://open.spotify.com/playlist/37i9dQZF1DWVEt8B7a1H1M?si=x75VRnFDTwKrtRh2iKTynQ) #audio #playlist - Spotify. "Relax to the sounds of birds chirping in vast, echoing forests."
 
-[Brain.fm](https://www.brain.fm) - "Functional Music On Demand. We use our patented AI music engine and scientific research to create music to help you improve the activities you already do in 15 minutes or less."
+[Brain.fm](https://www.brain.fm/) - "Functional Music On Demand. We use our patented AI music engine and scientific research to create music to help you improve the activities you already do in 15 minutes or less."
 
 [Calm Radio](https://calmradio.com/en/) - "Music that helps you get through the day"
 
-[Coffitivity](https://coffitivity.com) - "Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better. Proven and peer reviewed, see the research to learn more."
+[Coffitivity](https://coffitivity.com/) - "Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better. Proven and peer reviewed, see the research to learn more."
 
 [Elpy](https://vanejung.com/elpy/) #software - "Ambient sound mixer"
 
-[Endel](https://endel.io) - "Personalized sounds to help you focus, relax, and sleep"
+[Endel](https://endel.io/) - "Personalized sounds to help you focus, relax, and sleep"
 
-[Focus@Will](https://www.focusatwill.com) #webapp - "Scientifically optimized music to help you focus"
+[Focus@Will](https://www.focusatwill.com/) #webapp - "Scientifically optimized music to help you focus"
 
-[Generative.fm](https://generative.fm) #webapp - "Endlessly unique ambient music"
+[Generative.fm](https://generative.fm/) #webapp - "Endlessly unique ambient music"
 
-[GitHub Audio](https://github.audio) #webapp - "Project Audio for GitHub" 👍
+[GitHub Audio](https://github.audio/) #webapp - "Project Audio for GitHub" 👍
 
-[Moszen](https://www.moszen.com) #webapp - Clean, simple page with a selection of nature ambience tracks. 👍
+[Moszen](https://www.moszen.com/) #webapp - Clean, simple page with a selection of nature ambience tracks. 👍
 
-[Noisli](https://www.noisli.com) #webapp - "Improve focus and boost your productivity. Mix different sounds and create your perfect environment."
+[Noisli](https://www.noisli.com/) #webapp - "Improve focus and boost your productivity. Mix different sounds and create your perfect environment."
 
-[Rainy Mood](https://www.rainymood.com) #webapp #app - "Welcome to Rainy Mood, the internet's most popular rain experience. Millions of people use Rainy Mood while sleeping, studying, and relaxing. Enjoy the free web version, or try the iOS/Android app with additional features."
+[Rainy Mood](https://www.rainymood.com/) #webapp #app - "Welcome to Rainy Mood, the internet's most popular rain experience. Millions of people use Rainy Mood while sleeping, studying, and relaxing. Enjoy the free web version, or try the iOS/Android app with additional features."
 
-[A Soft Murmur](https://asoftmurmur.com) #webapp - "Ambient sounds to wash away distraction."
+[A Soft Murmur](https://asoftmurmur.com/) #webapp - "Ambient sounds to wash away distraction."
 
 ## Videos
 

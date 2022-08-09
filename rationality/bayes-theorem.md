@@ -2,7 +2,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=NEqHML98RgU" %}
 
-[Bayes.com](https://bayes.com) - "We’re excited to bring you BAYES — a creative, no-code tool for thinking and speaking with data."
+[Bayes.com](https://bayes.com/) - "We’re excited to bring you BAYES — a creative, no-code tool for thinking and speaking with data."
 
 [Bayesian Inference](https://seeing-theory.brown.edu/bayesian-inference/index.html)
 

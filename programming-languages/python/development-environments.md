@@ -6,7 +6,7 @@
 
 ## Pipenv
 
-[Pipenv](https://docs.pipenv.org/en/latest/#pipenv-python-dev-workflow-for-humans) #software - "**Pipenv** is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world. _... _It automatically creates and manages a virtualenv for your projects, as well as adds/removes packages from your `Pipfile` as you install/uninstall packages. It also generates the ever-important `Pipfile.lock`, which is used to produce deterministic builds."
+[Pipenv](https://docs.pipenv.org/en/latest/#pipenv-python-dev-workflow-for-humans) #software - "**Pipenv** is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world. _..._ It automatically creates and manages a virtualenv for your projects, as well as adds/removes packages from your `Pipfile` as you install/uninstall packages. It also generates the ever-important `Pipfile.lock`, which is used to produce deterministic builds."
 
 [Pipenv: A Guide to the New Python Packaging Tool](https://realpython.com/pipenv-guide/) #article - "Pipenv is a packaging tool for Python that solves some common problems associated with the typical workflow using `pip`, `virtualenv`, and the good old `requirements.txt`."
 

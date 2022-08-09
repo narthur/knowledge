@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=o7f4VIJs5F4
 
 [Avoiding burnout as an ambitious developer](https://stackoverflow.blog/2020/01/13/avoiding-burnout-as-an-ambitious-developer/) #article - [Cassidy Williams](https://stackoverflow.blog/author/cwilliams/). "Burnout is difficult to describe to people who haven’t felt it. But it was also a valuable lesson. Here's a few tips on how to take care of your ambitious self and avoid burning out."
 
-[Care Cards](https://carecards.io) - “A set of tips to keep you afloat. Care Cards are a set of kind thoughts and helpful little activities to keep you on top of your mental wellbeing.”
+[Care Cards](https://carecards.io/) - “A set of tips to keep you afloat. Care Cards are a set of kind thoughts and helpful little activities to keep you on top of your mental wellbeing.”
 
 [How Sitting All Day Is Damaging Your Body and How You Can Counteract It](https://lifehacker.com/5879536/how-sitting-all-day-is-damaging-your-body-and-how-you-can-counteract-it) #article - “Do you sit in an office chair or on your couch for more than six hours a day? Then here are some disturbing facts: Your risk of heart disease has increased by up to 64 percent. You're shaving off seven years of quality life. You're also more at risk for certain types of cancer. Simply put, sitting is killing you. That's the bad news. The good news: It's easy to counteract no matter how lazy you are.” Get up and walk around once an hour.
 
@@ -16,13 +16,13 @@ https://www.youtube.com/watch?v=o7f4VIJs5F4
 
 [Measuring Programmer Job Satisfaction](http://www.grokcode.com/20/measuring-programmer-job-satisfaction/) #article - “Are you satisfied with your job? Are you satisfied with where your career path is taking you? These are important questions, and I try to take time to think about this every 6 months or so. Its usually trivial to make a general statement rating job satisfaction: “Yeah I like my job.” or “My career is going nowhere.” But what factors influence programmer job satisfaction? How can hackers become more satisfied with what they do?”
 
-[RemoteHabits](https://remotehabits.com)
+[RemoteHabits](https://remotehabits.com/)
 
 [https://blog.trello.com/hermit-habits-remote-work](https://blog.trello.com/hermit-habits-remote-work)&#x20;
 
 ## Alternative Programming Techniques
 
-[An Autobiography of a Blind Programmer](https://www.parhamdoustdar.com/2016/03/27/autobiography-blind-programmer/)** **#article - "A question I get asked a lot is, being completely blind, how do I program? I have provided an answer to this question in some places. For example, I have answered [How does a visually impaired computer programmer program?](http://qr.ae/RzO7cb) on Quora. I have also talked about this in [part one](https://www.livecoding.tv/parham90/videos/z8MoB-how-do-blind-engineers-write-and-debug-code) and [part two](https://www.livecoding.tv/parham90/videos/nD1Er-how-do-blind-engineers-write-and-debug-code-2) of my interview on LiveCoding.tv. However, this is a more in-depth look at my life, and the events that have shaped my current career and choices. More of an autobiography, if you will. So, if you are curious, give me your hand, and allow the blind to guide the sighted."
+[An Autobiography of a Blind Programmer](https://www.parhamdoustdar.com/2016/03/27/autobiography-blind-programmer/) **** #article - "A question I get asked a lot is, being completely blind, how do I program? I have provided an answer to this question in some places. For example, I have answered [How does a visually impaired computer programmer program?](http://qr.ae/RzO7cb) on Quora. I have also talked about this in [part one](https://www.livecoding.tv/parham90/videos/z8MoB-how-do-blind-engineers-write-and-debug-code) and [part two](https://www.livecoding.tv/parham90/videos/nD1Er-how-do-blind-engineers-write-and-debug-code-2) of my interview on LiveCoding.tv. However, this is a more in-depth look at my life, and the events that have shaped my current career and choices. More of an autobiography, if you will. So, if you are curious, give me your hand, and allow the blind to guide the sighted."
 
 [Hands-Free Coding](https://joshwcomeau.com/accessibility/hands-free-coding/) #article - "After many failed attempts at solving the problem with physiotherapy, ergonomics, and prescription medications, I've found a solution that allows me to be productive without risking further nerve damage. I now work almost exclusively using a microphone and an eye-tracker."
 
@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=o7f4VIJs5F4
 
 [Time Out](http://www.dejal.com/timeout/) #software - People often recommend this app for setting up 20-20-20 breaks to prevent eyestrain. “It is very easy to fall into bad habits when using a computer for hours on end. You care about what you are doing, so can sometimes push yourself too far, or over-strain yourself. The human body isn't built to sit in one position for endless hours, gripping a mouse or typing on the keyboard. Dejal Time Out is here to help. It will gently remind you to take a break on a regular basis.”
 
-[Tomighty](http://tomighty.org) #software Website down as of July 16, 2018. Too bad, because I love this Mac osX pomodoro app. 👍
+[Tomighty](http://tomighty.org/) #software Website down as of July 16, 2018. Too bad, because I love this Mac osX pomodoro app. 👍
 
 ## **Eyestrain**
 
@@ -68,7 +68,7 @@ https://www.youtube.com/watch?v=o7f4VIJs5F4
 
 [How to Safely Instill Eye Drops - Mayo Clinic](https://www.youtube.com/watch?v=SnAfc6h4ax4) #video - "Brigitte Keener, O.D., optometrist at [#MayoClinicFL](https://www.youtube.com/results?search\_query=%23MayoClinicFL), demonstrates how to safely and effectively instill eye drops for patients who have prescribed drops for treatment of ocular conditions."
 
-[Intermission](https://tryintermission.com) #app - "Take Direction Over Your Screen Time. Intermission helps you look away from your devices, preventing sore eyes, burnout, and Computer Vision Syndrome." I think it's $8 for lifetime.
+[Intermission](https://tryintermission.com/) #app - "Take Direction Over Your Screen Time. Intermission helps you look away from your devices, preventing sore eyes, burnout, and Computer Vision Syndrome." I think it's $8 for lifetime.
 
 [Pomy](https://vanejung.com/pomy?ref=producthunt) #app - “Focus timer for your eye health.” Better than Time Out.
 
